@@ -18542,6 +18542,27 @@
     }
   },
   {
+    "service_request": "2021-825827",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-09-25T10:45:23.000",
+    "date_modified": "2021-09-25T10:45:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N VILLERE ST & ELYSIAN FIELDS AVE",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "825827",
+    "final_x": "3684872.6",
+    "final_y": "537403.88",
+    "longitude": "-90.05721396817174",
+    "latitude": "29.97157149165664",
+    "geocoded_column": {
+      "latitude": "29.97157149165664",
+      "longitude": "-90.05721396817174"
+    }
+  },
+  {
     "service_request": "2020-676079",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21130,26 +21151,6 @@
     "geocoded_column": {
       "latitude": "29.9822995649",
       "longitude": "-90.1058555734"
-    }
-  },
-  {
-    "service_request": "2021-778267",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-20T13:16:09.000",
-    "date_modified": "2021-05-20T13:16:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1229 Louisa St",
-    "address_councildis": "C",
-    "rowid": "778267",
-    "final_x": "3689744.72675",
-    "final_y": "536446.870151",
-    "longitude": "-90.0418611824",
-    "latitude": "29.9687899534",
-    "geocoded_column": {
-      "latitude": "29.9687899534",
-      "longitude": "-90.0418611824"
     }
   }
 ]
