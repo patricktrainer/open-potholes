@@ -16,8 +16,8 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl https://data.nola.gov/api/id/2jgv-pqrq.json?$order=:id+DESC | jq . > 311calls.json
-        curl https://data.nola.gov/api/id/2jgv-pqrq.json?request_reason=Pothole&$order=:id+DESC | jq . > potholes.json
+        curl https://data.nola.gov/api/id/2jgv-pqrq.json | jq . > 311calls.json
+        curl https://data.nola.gov/api/id/2jgv-pqrq.json?request_reason=Pothole | jq . > potholes.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
