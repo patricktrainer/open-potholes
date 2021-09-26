@@ -1,5 +1,5 @@
 ## New Orleans has a whole lot of potholes.
 
-This project logs open 311 requests to fix open potholes.
+This project logs 311 requests to fix open potholes.
 
-Data comes from open-sourced datasets at data.nola.gov. 
+Data comes from [New Orleans open data catalog](https://data.nola.gov/browse). 
