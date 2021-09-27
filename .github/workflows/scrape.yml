@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '6 12 * * *'
+    - cron:  '06 0/6 * * *'
 
 jobs:
   scheduled:
@@ -16,7 +16,7 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl https://data.nola.gov/api/id/2jgv-pqrq.json | jq . > 311calls.json
+        curl "https://data.nola.gov/api/id/2jgv-pqrq.json?\$order=:id+DESC" | jq . > 311calls.json
         curl "https://data.nola.gov/api/id/2jgv-pqrq.json?request_reason=Pothole&\$order=:id+DESC" | jq . > potholes.json
     - name: Commit and push if it changed
       run: |-
