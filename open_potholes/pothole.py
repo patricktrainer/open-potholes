@@ -31,5 +31,3 @@ if __name__ == "__main__":
     filt = {"request_reason": "Pothole"}
     pothole = nola.fetch(filter_clause=filt)
     pothole.json()
-
-
