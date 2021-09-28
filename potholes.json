@@ -1,5 +1,65 @@
 [
   {
+    "service_request": "2021-826608",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-09-27T18:36:31.000",
+    "date_modified": "2021-09-27T18:36:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8224 Maple St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "826608",
+    "final_x": "3660567.56826",
+    "final_y": "527695.003135",
+    "longitude": "-90.13429415904064",
+    "latitude": "29.945597124957125",
+    "geocoded_column": {
+      "latitude": "29.945597124957125",
+      "longitude": "-90.13429415904064"
+    }
+  },
+  {
+    "service_request": "2021-826271",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-09-27T10:51:37.000",
+    "date_modified": "2021-09-27T10:51:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5411 Saint Charles Ave, New Orleans, Louisiana, 70115",
+    "status": "Pending",
+    "rowid": "826271",
+    "longitude": "0.0",
+    "latitude": "0.0",
+    "geocoded_column": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    }
+  },
+  {
+    "service_request": "2021-826250",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-09-27T10:30:09.000",
+    "date_modified": "2021-09-27T10:30:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1025 Richard St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "826250",
+    "final_x": "3680194.48725",
+    "final_y": "523114.910523",
+    "longitude": "-90.07248470048943",
+    "latitude": "29.932424065033068",
+    "geocoded_column": {
+      "latitude": "29.932424065033068",
+      "longitude": "-90.07248470048943"
+    }
+  },
+  {
     "service_request": "2021-825827",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -25,12 +85,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-09-24T18:15:18.000",
-    "date_modified": "2021-09-24T18:15:18.000",
-    "request_status": "Pending",
+    "date_modified": "2021-09-27T10:01:58.000",
+    "case_close_date": "2021-09-27T05:01:58.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "4944 Feliciana Dr",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "825708",
     "final_x": "3689926.52451",
     "final_y": "551728.098901",
@@ -39,27 +100,6 @@
     "geocoded_column": {
       "latitude": "30.010802197191765",
       "longitude": "-90.04074265974688"
-    }
-  },
-  {
-    "service_request": "2021-825676",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-24T16:34:38.000",
-    "date_modified": "2021-09-24T16:34:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1965 Abundance St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "825676",
-    "final_x": "3682789.91317",
-    "final_y": "543575.232846",
-    "longitude": "-90.06357541742634",
-    "latitude": "29.98860416625433",
-    "geocoded_column": {
-      "latitude": "29.98860416625433",
-      "longitude": "-90.06357541742634"
     }
   },
   {
@@ -84,37 +124,16 @@
     }
   },
   {
-    "service_request": "2021-825553",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-24T12:50:48.000",
-    "date_modified": "2021-09-24T12:50:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2421 Columbus St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "825553",
-    "final_x": "3679358.67951",
-    "final_y": "539072.414218",
-    "longitude": "-90.07456985994588",
-    "latitude": "29.976327085713226",
-    "geocoded_column": {
-      "latitude": "29.976327085713226",
-      "longitude": "-90.07456985994588"
-    }
-  },
-  {
     "service_request": "2021-825509",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-09-24T11:58:43.000",
-    "date_modified": "2021-09-24T11:58:43.000",
+    "date_modified": "2021-09-27T09:59:06.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2313 Caffin Ave",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "825509",
     "final_x": "3699323.96375",
     "final_y": "538370.256073",
@@ -21015,26 +21034,6 @@
     "geocoded_column": {
       "latitude": "30.0047559574",
       "longitude": "-90.0643660309"
-    }
-  },
-  {
-    "service_request": "2021-770460",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-04-23T09:03:29.000",
-    "date_modified": "2021-04-26T08:01:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4700 Mandeville St",
-    "address_councildis": "D",
-    "rowid": "770460",
-    "final_x": "3684632.44796",
-    "final_y": "550168.91074",
-    "longitude": "-90.0575235375",
-    "latitude": "30.006678145",
-    "geocoded_column": {
-      "latitude": "30.006678145",
-      "longitude": "-90.0575235375"
     }
   }
 ]
