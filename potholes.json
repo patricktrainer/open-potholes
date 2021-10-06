@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2021-829889",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-05T15:27:11.000",
+    "date_modified": "2021-10-05T15:27:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4720 Painters St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "829889",
+    "final_x": "3686067.82652",
+    "final_y": "550561.422676",
+    "longitude": "-90.05297495639581",
+    "latitude": "30.0077133874292",
+    "geocoded_column": {
+      "latitude": "30.0077133874292",
+      "longitude": "-90.05297495639581"
+    }
+  },
+  {
+    "service_request": "2021-829857",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-05T14:23:33.000",
+    "date_modified": "2021-10-05T14:23:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3222 Dearmas St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "829857",
+    "final_x": "3696223.77936",
+    "final_y": "527063.60883",
+    "longitude": "-90.02173924296885",
+    "latitude": "29.942786900652457",
+    "geocoded_column": {
+      "latitude": "29.942786900652457",
+      "longitude": "-90.02173924296885"
+    }
+  },
+  {
+    "service_request": "2021-829510",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-05T06:57:17.000",
+    "date_modified": "2021-10-05T06:57:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5232 St Bernard Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "829510",
+    "final_x": "3676625.16533",
+    "final_y": "551366.516629",
+    "longitude": "-90.08277935356156",
+    "latitude": "30.010213848781504",
+    "geocoded_column": {
+      "latitude": "30.010213848781504",
+      "longitude": "-90.08277935356156"
+    }
+  },
+  {
     "service_request": "2021-829499",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -533,12 +596,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-10-01T09:10:08.000",
-    "date_modified": "2021-10-01T09:10:08.000",
+    "date_modified": "2021-10-05T14:05:05.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5600 Oxford Pl",
     "address_councildis": "C",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "828199",
     "final_x": "3704249.11601",
     "final_y": "520185.829304",
@@ -828,37 +891,17 @@
     }
   },
   {
-    "service_request": "2021-827531",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-29T14:12:41.000",
-    "date_modified": "2021-09-29T14:12:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3611 Bruxelles St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "827531",
-    "final_x": "3680128.1764",
-    "final_y": "545632.771088",
-    "longitude": "-90.07191146369821",
-    "latitude": "29.994342506487033",
-    "geocoded_column": {
-      "latitude": "29.994342506487033",
-      "longitude": "-90.07191146369821"
-    }
-  },
-  {
     "service_request": "2021-827409",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-09-29T10:56:38.000",
-    "date_modified": "2021-09-29T10:56:42.000",
-    "request_status": "Pending",
+    "date_modified": "2021-10-05T12:38:12.000",
+    "case_close_date": "2021-10-05T07:38:12.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "HAYNE BLVD & PRESS DR",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "827409",
     "final_x": "3688842.8",
     "final_y": "557721.28",
@@ -12988,12 +13031,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-06-25T14:27:32.000",
-    "date_modified": "2021-06-25T14:27:32.000",
-    "request_status": "Pending",
+    "date_modified": "2021-10-05T13:23:01.000",
+    "case_close_date": "2021-10-05T08:23:01.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "8510 Cohn St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "790997",
     "final_x": "3662452.18515",
     "final_y": "531200.590338",
@@ -21052,48 +21096,6 @@
     "geocoded_column": {
       "latitude": "29.9345460353",
       "longitude": "-90.1331775289"
-    }
-  },
-  {
-    "service_request": "2021-773207",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-03T17:41:56.000",
-    "date_modified": "2021-05-04T09:55:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7534 Vanderkloot Ave",
-    "address_councildis": "E",
-    "rowid": "773207",
-    "final_x": "3705909.10692",
-    "final_y": "562971.621408",
-    "longitude": "-89.9898313543",
-    "latitude": "30.0412120794",
-    "geocoded_column": {
-      "latitude": "30.0412120794",
-      "longitude": "-89.9898313543"
-    }
-  },
-  {
-    "service_request": "2021-773206",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-03T17:40:05.000",
-    "date_modified": "2021-07-07T07:27:12.000",
-    "case_close_date": "2021-07-07T02:27:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7723 Burke Ave",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "773206",
-    "final_x": "3705354.18103",
-    "final_y": "563222.58768",
-    "longitude": "-89.99157581494993",
-    "latitude": "30.04192001612186",
-    "geocoded_column": {
-      "latitude": "30.04192001612186",
-      "longitude": "-89.99157581494993"
     }
   }
 ]
