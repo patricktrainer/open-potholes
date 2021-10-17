@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2021-833988",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-16T23:21:02.000",
+    "date_modified": "2021-10-16T23:21:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3923 Eagle St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "833988",
+    "final_x": "3666779.01908",
+    "final_y": "537283.501832",
+    "longitude": "-90.1143604444419",
+    "latitude": "29.97178216370725",
+    "geocoded_column": {
+      "latitude": "29.97178216370725",
+      "longitude": "-90.1143604444419"
+    }
+  },
+  {
+    "service_request": "2021-833954",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-16T15:15:55.000",
+    "date_modified": "2021-10-16T15:15:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1411 Hillary St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "833954",
+    "final_x": "3663901.51175",
+    "final_y": "527696.801407",
+    "longitude": "-90.12376770239172",
+    "latitude": "29.94550571992468",
+    "geocoded_column": {
+      "latitude": "29.94550571992468",
+      "longitude": "-90.12376770239172"
+    }
+  },
+  {
+    "service_request": "2021-833953",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-16T15:13:44.000",
+    "date_modified": "2021-10-16T15:13:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7537 Plum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "833953",
+    "final_x": "3663721.12416",
+    "final_y": "527388.958399",
+    "longitude": "-90.12434750229382",
+    "latitude": "29.944664485028294",
+    "geocoded_column": {
+      "latitude": "29.944664485028294",
+      "longitude": "-90.12434750229382"
+    }
+  },
+  {
+    "service_request": "2021-833907",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-16T10:59:26.000",
+    "date_modified": "2021-10-16T10:59:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3500 BLK First St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "833907",
+    "final_x": "3673147.88529",
+    "final_y": "528971.088171",
+    "longitude": "-90.09453035595374",
+    "latitude": "29.948737966155633",
+    "geocoded_column": {
+      "latitude": "29.948737966155633",
+      "longitude": "-90.09453035595374"
+    }
+  },
+  {
     "service_request": "2021-833790",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -1765,6 +1849,26 @@
     }
   },
   {
+    "service_request": "2021-829051",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-10-04T10:10:43.000",
+    "date_modified": "2021-10-16T12:39:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "A",
+    "rowid": "829051",
+    "final_x": "3664297.78784",
+    "final_y": "518991.241989",
+    "longitude": "-90.12280690478909",
+    "latitude": "29.921556681266853",
+    "geocoded_column": {
+      "latitude": "29.921556681266853",
+      "longitude": "-90.12280690478909"
+    }
+  },
+  {
     "service_request": "2021-828978",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -2482,6 +2586,26 @@
     "address_councildis": "E",
     "status": "Inspected",
     "rowid": "827311",
+    "final_x": "3713030.3",
+    "final_y": "553266.38",
+    "longitude": "-89.96769165532007",
+    "latitude": "30.014295007062245",
+    "geocoded_column": {
+      "latitude": "30.014295007062245",
+      "longitude": "-89.96769165532007"
+    }
+  },
+  {
+    "service_request": "2021-827309",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-09-29T09:16:08.000",
+    "date_modified": "2021-10-16T09:25:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "READ BLVD & OLD GENTILLY RD",
+    "address_councildis": "E",
+    "rowid": "827309",
     "final_x": "3713030.3",
     "final_y": "553266.38",
     "longitude": "-89.96769165532007",
@@ -21043,128 +21167,6 @@
     "geocoded_column": {
       "latitude": "29.9612688579",
       "longitude": "-90.1096717453"
-    }
-  },
-  {
-    "service_request": "2021-776229",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-13T14:57:05.000",
-    "date_modified": "2021-05-14T11:48:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FLITE CT & ALOST ST",
-    "address_councildis": "D",
-    "rowid": "776229",
-    "final_x": "3696369.0",
-    "final_y": "552638.58",
-    "longitude": "-90.0203555083",
-    "latitude": "30.0131042737",
-    "geocoded_column": {
-      "latitude": "30.0131042737",
-      "longitude": "-90.0203555083"
-    }
-  },
-  {
-    "service_request": "2021-776217",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-13T14:43:12.000",
-    "date_modified": "2021-05-14T09:53:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9214 Stroelitz St",
-    "address_councildis": "A",
-    "rowid": "776217",
-    "final_x": "3664909.5449",
-    "final_y": "537588.452424",
-    "longitude": "-90.1202543634",
-    "latitude": "29.9726752292",
-    "geocoded_column": {
-      "latitude": "29.9726752292",
-      "longitude": "-90.1202543634"
-    }
-  },
-  {
-    "service_request": "2021-776158",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-13T13:14:43.000",
-    "date_modified": "2021-05-14T07:37:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2265 N Claiborne Ave",
-    "address_councildis": "D",
-    "rowid": "776158",
-    "final_x": "3685520.09833",
-    "final_y": "538234.139657",
-    "longitude": "-90.0551398266",
-    "latitude": "29.9738345717",
-    "geocoded_column": {
-      "latitude": "29.9738345717",
-      "longitude": "-90.0551398266"
-    }
-  },
-  {
-    "service_request": "2021-775991",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-13T09:30:19.000",
-    "date_modified": "2021-05-14T08:40:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "945 Chartres St",
-    "address_councildis": "C",
-    "rowid": "775991",
-    "final_x": "3683471.84489",
-    "final_y": "533113.92666",
-    "longitude": "-90.0617881016",
-    "latitude": "29.9598184195",
-    "geocoded_column": {
-      "latitude": "29.9598184195",
-      "longitude": "-90.0617881016"
-    }
-  },
-  {
-    "service_request": "2021-775950",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-13T07:01:22.000",
-    "date_modified": "2021-05-14T09:49:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9214 Stroelitz St",
-    "address_councildis": "A",
-    "rowid": "775950",
-    "final_x": "3664909.5449",
-    "final_y": "537588.452424",
-    "longitude": "-90.1202543634",
-    "latitude": "29.9726752292",
-    "geocoded_column": {
-      "latitude": "29.9726752292",
-      "longitude": "-90.1202543634"
-    }
-  },
-  {
-    "service_request": "2021-775874",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-05-12T16:38:40.000",
-    "date_modified": "2021-06-23T17:57:40.000",
-    "case_close_date": "2021-06-23T12:57:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9100 BLK Oleander St",
-    "address_councildis": "A",
-    "status": "Duplicate Case",
-    "rowid": "775874",
-    "final_x": "3664035.03771",
-    "final_y": "536150.147304",
-    "longitude": "-90.12306420858087",
-    "latitude": "29.968745793787132",
-    "geocoded_column": {
-      "latitude": "29.968745793787132",
-      "longitude": "-90.12306420858087"
     }
   }
 ]
