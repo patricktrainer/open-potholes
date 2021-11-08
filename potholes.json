@@ -1,5 +1,25 @@
 [
   {
+    "service_request": "2021-840244",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-06T12:16:38.000",
+    "date_modified": "2021-11-07T21:44:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "C",
+    "rowid": "840244",
+    "final_x": "3706613.75281",
+    "final_y": "520470.194744",
+    "longitude": "-89.98918010316903",
+    "latitude": "29.92432623069721",
+    "geocoded_column": {
+      "latitude": "29.92432623069721",
+      "longitude": "-89.98918010316903"
+    }
+  },
+  {
     "service_request": "2021-840173",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21286,28 +21306,6 @@
     "geocoded_column": {
       "latitude": "29.9387927515",
       "longitude": "-90.1314925067"
-    }
-  },
-  {
-    "service_request": "2021-782482",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-03T14:45:19.000",
-    "date_modified": "2021-07-08T10:29:13.000",
-    "case_close_date": "2021-07-08T05:29:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3700 General Meyer Ave",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "782482",
-    "final_x": "3697506.88496",
-    "final_y": "525566.660541",
-    "longitude": "-90.0177424601155",
-    "latitude": "29.938630365444574",
-    "geocoded_column": {
-      "latitude": "29.938630365444574",
-      "longitude": "-90.0177424601155"
     }
   }
 ]
