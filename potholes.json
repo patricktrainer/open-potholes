@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2021-841967",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-13T15:53:46.000",
+    "date_modified": "2021-11-13T15:53:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3137 Orleans Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "841967",
+    "final_x": "3675086.00885",
+    "final_y": "538360.268233",
+    "longitude": "-90.08808869185481",
+    "latitude": "29.974497297491975",
+    "geocoded_column": {
+      "latitude": "29.974497297491975",
+      "longitude": "-90.08808869185481"
+    }
+  },
+  {
+    "service_request": "2021-841966",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-13T15:52:24.000",
+    "date_modified": "2021-11-13T15:52:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3001 Orleans Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "841966",
+    "final_x": "3675794.24878",
+    "final_y": "537825.322312",
+    "longitude": "-90.08587029025682",
+    "latitude": "29.973005196278613",
+    "geocoded_column": {
+      "latitude": "29.973005196278613",
+      "longitude": "-90.08587029025682"
+    }
+  },
+  {
+    "service_request": "2021-841932",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-13T11:34:38.000",
+    "date_modified": "2021-11-13T11:34:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1140 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "841932",
+    "final_x": "3661931.25363",
+    "final_y": "528357.142144",
+    "longitude": "-90.12996658126697",
+    "latitude": "29.94737848734797",
+    "geocoded_column": {
+      "latitude": "29.94737848734797",
+      "longitude": "-90.12996658126697"
+    }
+  },
+  {
+    "service_request": "2021-841920",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-13T09:46:18.000",
+    "date_modified": "2021-11-13T09:46:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5156 Wilton Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "841920",
+    "final_x": "3681863.15029",
+    "final_y": "551446.298325",
+    "longitude": "-90.06622783544061",
+    "latitude": "30.010274991880664",
+    "geocoded_column": {
+      "latitude": "30.010274991880664",
+      "longitude": "-90.06622783544061"
+    }
+  },
+  {
     "service_request": "2021-841843",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -1505,12 +1589,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-10-31T12:02:23.000",
-    "date_modified": "2021-10-31T12:02:23.000",
-    "request_status": "Pending",
+    "date_modified": "2021-11-13T09:22:06.000",
+    "case_close_date": "2021-11-13T03:22:06.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "1000 Race St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "838472",
     "final_x": "3680508.50728",
     "final_y": "523719.305275",
@@ -2390,12 +2475,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-10-25T13:32:09.000",
-    "date_modified": "2021-10-25T13:32:09.000",
+    "date_modified": "2021-11-13T09:48:36.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1461 Annunciation St Unit B",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "836855",
     "final_x": "3680958.85115",
     "final_y": "523842.661435",
@@ -21227,92 +21312,6 @@
     "geocoded_column": {
       "latitude": "29.92017372275242",
       "longitude": "-89.97207320912692"
-    }
-  },
-  {
-    "service_request": "2021-783727",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-07T16:43:21.000",
-    "date_modified": "2021-10-19T16:58:33.000",
-    "case_close_date": "2021-06-08T06:34:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4334 Stemway Dr",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "783727",
-    "final_x": "3697153.73565",
-    "final_y": "551880.561686",
-    "longitude": "-90.01790367207157",
-    "latitude": "30.01099525991169",
-    "geocoded_column": {
-      "latitude": "30.01099525991169",
-      "longitude": "-90.01790367207157"
-    }
-  },
-  {
-    "service_request": "2021-783717",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-07T16:25:44.000",
-    "date_modified": "2021-06-08T08:11:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2354 Prentiss Ave",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "783717",
-    "final_x": "3684870.80636",
-    "final_y": "553842.056983",
-    "longitude": "-90.05664120650005",
-    "latitude": "30.016770657638855",
-    "geocoded_column": {
-      "latitude": "30.016770657638855",
-      "longitude": "-90.05664120650005"
-    }
-  },
-  {
-    "service_request": "2021-783684",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-07T15:35:45.000",
-    "date_modified": "2021-06-07T15:35:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1930 Martin Luther King, Jr. Blvd",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "783684",
-    "final_x": "3677760.93038",
-    "final_y": "526357.009982",
-    "longitude": "-90.08005527707577",
-    "latitude": "29.941412178607553",
-    "geocoded_column": {
-      "latitude": "29.941412178607553",
-      "longitude": "-90.08005527707577"
-    }
-  },
-  {
-    "service_request": "2021-783672",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-07T15:13:45.000",
-    "date_modified": "2021-06-08T08:49:48.000",
-    "case_close_date": "2021-06-08T03:49:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4495 Franklin Ave",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "783672",
-    "final_x": "3686976.09148",
-    "final_y": "549602.089811",
-    "longitude": "-90.05013942926406",
-    "latitude": "30.005047634368562",
-    "geocoded_column": {
-      "latitude": "30.005047634368562",
-      "longitude": "-90.05013942926406"
     }
   }
 ]
