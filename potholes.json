@@ -1,5 +1,110 @@
 [
   {
+    "service_request": "2021-843321",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-19T16:02:12.000",
+    "date_modified": "2021-11-19T16:02:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2200 BLK Allen St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "843321",
+    "final_x": "3682437.36081",
+    "final_y": "540360.426941",
+    "longitude": "-90.06480143790013",
+    "latitude": "29.97977531670225",
+    "geocoded_column": {
+      "latitude": "29.97977531670225",
+      "longitude": "-90.06480143790013"
+    }
+  },
+  {
+    "service_request": "2021-843237",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-19T12:00:34.000",
+    "date_modified": "2021-11-19T12:02:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3329 Pine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "843237",
+    "final_x": "3668288.39559",
+    "final_y": "533082.502596",
+    "longitude": "-90.10973526100521",
+    "latitude": "29.96018657373987",
+    "geocoded_column": {
+      "latitude": "29.96018657373987",
+      "longitude": "-90.10973526100521"
+    }
+  },
+  {
+    "service_request": "2021-843229",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-19T11:29:25.000",
+    "date_modified": "2021-11-19T11:29:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3800 BLK Mistletoe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "843229",
+    "final_x": "3665441.80983",
+    "final_y": "537953.878932",
+    "longitude": "-90.11856113099037",
+    "latitude": "29.973664525422063",
+    "geocoded_column": {
+      "latitude": "29.973664525422063",
+      "longitude": "-90.11856113099037"
+    }
+  },
+  {
+    "service_request": "2021-843227",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-19T11:29:17.000",
+    "date_modified": "2021-11-19T12:03:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8012 Freret St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "843227",
+    "final_x": "3661698.71757",
+    "final_y": "527614.389759",
+    "longitude": "-90.13072540391556",
+    "latitude": "29.945342868502145",
+    "geocoded_column": {
+      "latitude": "29.945342868502145",
+      "longitude": "-90.13072540391556"
+    }
+  },
+  {
+    "service_request": "2021-843193",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-19T09:25:44.000",
+    "date_modified": "2021-11-19T10:02:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "DOWNMAN RD & HAYNE BLVD",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "843193",
+    "final_x": "3694194.8",
+    "final_y": "559738.38",
+    "longitude": "-90.02696904225085",
+    "latitude": "30.032694365951052",
+    "geocoded_column": {
+      "latitude": "30.032694365951052",
+      "longitude": "-90.02696904225085"
+    }
+  },
+  {
     "service_request": "2021-843111",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -46,12 +151,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-11-18T12:14:48.000",
-    "date_modified": "2021-11-18T12:14:48.000",
+    "date_modified": "2021-11-19T14:50:52.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3318 Fern St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "843035",
     "final_x": "3667663.39233",
     "final_y": "533537.551301",
@@ -60,27 +165,6 @@
     "geocoded_column": {
       "latitude": "29.961456144532686",
       "longitude": "-90.11169357574082"
-    }
-  },
-  {
-    "service_request": "2021-843020",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-18T11:39:53.000",
-    "date_modified": "2021-11-18T12:02:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2300 BLK Frenchmen St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "843020",
-    "final_x": "3684220.51013",
-    "final_y": "540876.332405",
-    "longitude": "-90.05915141338691",
-    "latitude": "29.98113947469722",
-    "geocoded_column": {
-      "latitude": "29.98113947469722",
-      "longitude": "-90.05915141338691"
     }
   },
   {
@@ -21221,93 +21305,6 @@
     "geocoded_column": {
       "latitude": "29.913565883472568",
       "longitude": "-90.00303069016744"
-    }
-  },
-  {
-    "service_request": "2021-785413",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-11T12:46:38.000",
-    "date_modified": "2021-06-18T08:54:37.000",
-    "case_close_date": "2021-06-18T03:54:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "GENERAL DE GAULLE DR & SOMMERSET DR",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "785413",
-    "final_x": "3702272.0",
-    "final_y": "516506.18",
-    "longitude": "-90.00303069016744",
-    "latitude": "29.913565883472568",
-    "geocoded_column": {
-      "latitude": "29.913565883472568",
-      "longitude": "-90.00303069016744"
-    }
-  },
-  {
-    "service_request": "2021-785411",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-11T12:45:43.000",
-    "date_modified": "2021-06-18T08:53:21.000",
-    "case_close_date": "2021-06-18T03:53:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "GENERAL DE GAULLE DR & CARLISLE CT",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "785411",
-    "final_x": "3702888.4",
-    "final_y": "516307.48",
-    "longitude": "-90.00109244452409",
-    "latitude": "29.91299983454985",
-    "geocoded_column": {
-      "latitude": "29.91299983454985",
-      "longitude": "-90.00109244452409"
-    }
-  },
-  {
-    "service_request": "2021-785402",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-11T12:35:16.000",
-    "date_modified": "2021-10-19T18:27:16.000",
-    "case_close_date": "2021-06-14T01:54:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "I 10 W ONRAMP & SUPERDOME EXIT & W PONTCHARTRAIN EXPRESSWAY",
-    "address_councildis": "B",
-    "status": "Duplicate Case",
-    "rowid": "785402",
-    "final_x": "3676152.5",
-    "final_y": "529600.98",
-    "longitude": "-90.08502183137841",
-    "latitude": "29.95038029769489",
-    "geocoded_column": {
-      "latitude": "29.95038029769489",
-      "longitude": "-90.08502183137841"
-    }
-  },
-  {
-    "service_request": "2021-785380",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-11T12:09:21.000",
-    "date_modified": "2021-10-19T16:27:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7800 Chef Menteur Hwy",
-    "address_councildis": "E",
-    "status": "Reviewed",
-    "rowid": "785380",
-    "final_x": "3704221.34007",
-    "final_y": "552575.31919",
-    "longitude": "-89.9955488515909",
-    "latitude": "30.012680589053282",
-    "geocoded_column": {
-      "latitude": "30.012680589053282",
-      "longitude": "-89.9955488515909"
     }
   }
 ]
