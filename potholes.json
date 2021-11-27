@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2021-844259",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-11-26T14:38:46.000",
+    "date_modified": "2021-11-26T14:38:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5400 BLK Story St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "844259",
+    "final_x": "3668177.43854",
+    "final_y": "525993.416961",
+    "longitude": "-90.11032457569081",
+    "latitude": "29.940697158276553",
+    "geocoded_column": {
+      "latitude": "29.940697158276553",
+      "longitude": "-90.11032457569081"
+    }
+  },
+  {
     "service_request": "2021-844059",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21280,28 +21301,6 @@
     "geocoded_column": {
       "latitude": "29.954875687225588",
       "longitude": "-90.13259598942751"
-    }
-  },
-  {
-    "service_request": "2021-787331",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-16T12:42:39.000",
-    "date_modified": "2021-10-20T04:28:40.000",
-    "case_close_date": "2021-06-17T02:55:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3300 BLK W Saint Roch Ave",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "787331",
-    "final_x": "3685624.59492",
-    "final_y": "545063.488401",
-    "longitude": "-90.05456909757316",
-    "latitude": "29.992609660869903",
-    "geocoded_column": {
-      "latitude": "29.992609660869903",
-      "longitude": "-90.05456909757316"
     }
   }
 ]
