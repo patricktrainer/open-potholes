@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2021-845971",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-05T13:23:27.000",
+    "date_modified": "2021-12-05T14:00:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8640 Oak St, New Orleans, Louisiana, 70118",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "845971",
+    "final_x": "3660396.07706",
+    "final_y": "529738.489025",
+    "longitude": "-90.13476812734157",
+    "latitude": "29.951220992138218",
+    "geocoded_column": {
+      "latitude": "29.951220992138218",
+      "longitude": "-90.13476812734157"
+    }
+  },
+  {
     "service_request": "2021-845879",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21275,28 +21296,6 @@
     "geocoded_column": {
       "latitude": "29.91767513167149",
       "longitude": "-89.97241337726622"
-    }
-  },
-  {
-    "service_request": "2021-788286",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-18T18:19:40.000",
-    "date_modified": "2021-06-21T08:12:12.000",
-    "case_close_date": "2021-06-21T03:12:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "600 Seguin St",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "788286",
-    "final_x": "3686736.8319",
-    "final_y": "529622.623937",
-    "longitude": "-90.05160134763385",
-    "latitude": "29.95011850662509",
-    "geocoded_column": {
-      "latitude": "29.95011850662509",
-      "longitude": "-90.05160134763385"
     }
   }
 ]
