@@ -1,23 +1,107 @@
 [
   {
-    "service_request": "2021-847892",
+    "service_request": "2021-848055",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
-    "date_created": "2021-12-13T21:16:20.000",
-    "date_modified": "2021-12-13T21:16:20.000",
+    "date_created": "2021-12-14T13:59:08.000",
+    "date_modified": "2021-12-14T14:00:35.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "750 S Gayoso St",
+    "final_address": "3512 Camp St",
     "address_councildis": "B",
     "status": "Pending",
-    "rowid": "847892",
-    "final_x": "3672616.32539",
-    "final_y": "533533.140677",
-    "longitude": "-90.0960531819401",
-    "latitude": "29.96129788920848",
+    "rowid": "848055",
+    "final_x": "3674230.34625",
+    "final_y": "519658.131704",
+    "longitude": "-90.09143126180994",
+    "latitude": "29.923098146159575",
     "geocoded_column": {
-      "latitude": "29.96129788920848",
-      "longitude": "-90.0960531819401"
+      "latitude": "29.923098146159575",
+      "longitude": "-90.09143126180994"
+    }
+  },
+  {
+    "service_request": "2021-848046",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-14T13:31:56.000",
+    "date_modified": "2021-12-14T14:22:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7649 Townsend Pl",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "848046",
+    "final_x": "3693981.18665",
+    "final_y": "558538.92438",
+    "longitude": "-90.02768726543678",
+    "latitude": "30.02940301474796",
+    "geocoded_column": {
+      "latitude": "30.02940301474796",
+      "longitude": "-90.02768726543678"
+    }
+  },
+  {
+    "service_request": "2021-847997",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-14T11:36:17.000",
+    "date_modified": "2021-12-14T11:36:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2300 Audubon St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "847997",
+    "final_x": "3666560.40737",
+    "final_y": "529582.202049",
+    "longitude": "-90.11530939797476",
+    "latitude": "29.950612516164938",
+    "geocoded_column": {
+      "latitude": "29.950612516164938",
+      "longitude": "-90.11530939797476"
+    }
+  },
+  {
+    "service_request": "2021-847957",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-14T10:29:25.000",
+    "date_modified": "2021-12-14T11:01:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1322 Dublin St, New Orleans, Louisiana, 70118",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "847957",
+    "final_x": "3662036.14842",
+    "final_y": "529038.165248",
+    "longitude": "-90.129612797842",
+    "latitude": "29.949248053161902",
+    "geocoded_column": {
+      "latitude": "29.949248053161902",
+      "longitude": "-90.129612797842"
+    }
+  },
+  {
+    "service_request": "2021-847956",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-14T10:28:54.000",
+    "date_modified": "2021-12-14T11:01:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1326 Dublin St, New Orleans, Louisiana, 70118",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "847956",
+    "final_x": "3662069.35002",
+    "final_y": "529069.504128",
+    "longitude": "-90.12950692559285",
+    "latitude": "29.949333265935238",
+    "geocoded_column": {
+      "latitude": "29.949333265935238",
+      "longitude": "-90.12950692559285"
     }
   },
   {
@@ -25,12 +109,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-13T15:51:42.000",
-    "date_modified": "2021-12-13T15:51:42.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-14T08:09:25.000",
+    "case_close_date": "2021-12-13T18:00:00.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "2001 Elysian Fields Ave",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "847833",
     "final_x": "3684853.99407",
     "final_y": "539663.065098",
@@ -84,48 +169,6 @@
     }
   },
   {
-    "service_request": "2021-847631",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-13T08:47:09.000",
-    "date_modified": "2021-12-13T08:47:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1443 Euterpe St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "847631",
-    "final_x": "3679459.35055",
-    "final_y": "524682.18886",
-    "longitude": "-90.07475111497132",
-    "latitude": "29.936755786192712",
-    "geocoded_column": {
-      "latitude": "29.936755786192712",
-      "longitude": "-90.07475111497132"
-    }
-  },
-  {
-    "service_request": "2021-847611",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-13T08:05:36.000",
-    "date_modified": "2021-12-13T08:05:36.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "610 Girod St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "847611",
-    "final_x": "3680766.96354",
-    "final_y": "528455.326848",
-    "longitude": "-90.07049163824882",
-    "latitude": "29.947091100417584",
-    "geocoded_column": {
-      "latitude": "29.947091100417584",
-      "longitude": "-90.07049163824882"
-    }
-  },
-  {
     "service_request": "2021-847602",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -144,48 +187,6 @@
     "geocoded_column": {
       "latitude": "30.011744636259216",
       "longitude": "-90.101945700507"
-    }
-  },
-  {
-    "service_request": "2021-847395",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-10T17:29:13.000",
-    "date_modified": "2021-12-10T17:29:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3001 Perdido St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "847395",
-    "final_x": "3672582.61275",
-    "final_y": "533613.706437",
-    "longitude": "-90.09615689379773",
-    "latitude": "29.961520419056246",
-    "geocoded_column": {
-      "latitude": "29.961520419056246",
-      "longitude": "-90.09615689379773"
-    }
-  },
-  {
-    "service_request": "2021-847366",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-10T14:48:45.000",
-    "date_modified": "2021-12-10T15:00:39.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "TULANE AVE & S NORMAN C FRANCIS PKWY",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "847366",
-    "final_x": "3671783.6",
-    "final_y": "535005.68",
-    "longitude": "-90.09863268125413",
-    "latitude": "29.965371578483712",
-    "geocoded_column": {
-      "latitude": "29.965371578483712",
-      "longitude": "-90.09863268125413"
     }
   },
   {
