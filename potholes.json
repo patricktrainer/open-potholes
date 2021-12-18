@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2021-848912",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-17T15:16:49.000",
+    "date_modified": "2021-12-17T16:00:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2214 Second St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "848912",
+    "final_x": "3675418.66529",
+    "final_y": "524911.201084",
+    "longitude": "-90.08749990209384",
+    "latitude": "29.937506913853465",
+    "geocoded_column": {
+      "latitude": "29.937506913853465",
+      "longitude": "-90.08749990209384"
+    }
+  },
+  {
+    "service_request": "2021-848884",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-17T14:26:57.000",
+    "date_modified": "2021-12-17T14:26:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3337 Dearmas St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "848884",
+    "final_x": "3696677.8344",
+    "final_y": "526952.17651",
+    "longitude": "-90.02030972245538",
+    "latitude": "29.942466201626925",
+    "geocoded_column": {
+      "latitude": "29.942466201626925",
+      "longitude": "-90.02030972245538"
+    }
+  },
+  {
     "service_request": "2021-848724",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -67,12 +109,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-16T14:17:05.000",
-    "date_modified": "2021-12-16T14:17:05.000",
+    "date_modified": "2021-12-17T09:18:39.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3108 Touro St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "848640",
     "final_x": "3683543.75759",
     "final_y": "544060.714702",
@@ -88,12 +130,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-16T13:00:03.000",
-    "date_modified": "2021-12-16T13:01:28.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-17T11:42:59.000",
+    "case_close_date": "2021-12-17T05:42:59.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "4800 Pauline Dr",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "848610",
     "final_x": "3692755.95901",
     "final_y": "551776.004821",
@@ -595,48 +638,6 @@
     }
   },
   {
-    "service_request": "2021-846715",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T12:30:21.000",
-    "date_modified": "2021-12-08T12:30:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "EDINBURGH ST & SHORT ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "846715",
-    "final_x": "3667810.5",
-    "final_y": "534126.98",
-    "longitude": "-90.11120918103879",
-    "latitude": "29.963072565320736",
-    "geocoded_column": {
-      "latitude": "29.963072565320736",
-      "longitude": "-90.11120918103879"
-    }
-  },
-  {
-    "service_request": "2021-846712",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T12:24:44.000",
-    "date_modified": "2021-12-08T12:24:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8000 BLK Edinburgh St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "846712",
-    "final_x": "3667688.26334",
-    "final_y": "534244.1229",
-    "longitude": "-90.1115912467498",
-    "latitude": "29.963398253848233",
-    "geocoded_column": {
-      "latitude": "29.963398253848233",
-      "longitude": "-90.1115912467498"
-    }
-  },
-  {
     "service_request": "2021-846710",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -655,27 +656,6 @@
     "geocoded_column": {
       "latitude": "29.961951099447",
       "longitude": "-90.11215125808232"
-    }
-  },
-  {
-    "service_request": "2021-846707",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T12:22:38.000",
-    "date_modified": "2021-12-08T12:22:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7906 Forshey St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "846707",
-    "final_x": "3667509.37857",
-    "final_y": "533418.650628",
-    "longitude": "-90.1121839279347",
-    "latitude": "29.961133721002085",
-    "geocoded_column": {
-      "latitude": "29.961133721002085",
-      "longitude": "-90.1121839279347"
     }
   },
   {
@@ -726,12 +706,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-08T12:18:31.000",
-    "date_modified": "2021-12-08T12:18:31.000",
+    "date_modified": "2021-12-17T09:39:33.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "8000 BLK Forshey St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "846702",
     "final_x": "3667216.17111",
     "final_y": "533727.49106",
@@ -2417,27 +2397,6 @@
     "geocoded_column": {
       "latitude": "29.9360002759611",
       "longitude": "-90.02460940784043"
-    }
-  },
-  {
-    "service_request": "2021-842881",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-17T17:50:01.000",
-    "date_modified": "2021-11-17T18:01:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8025 Edinburgh St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "842881",
-    "final_x": "3667685.23655",
-    "final_y": "534296.855109",
-    "longitude": "-90.11159902953037",
-    "latitude": "29.963543338718242",
-    "geocoded_column": {
-      "latitude": "29.963543338718242",
-      "longitude": "-90.11159902953037"
     }
   },
   {
@@ -7646,12 +7605,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-10-11T13:25:29.000",
-    "date_modified": "2021-10-11T13:26:43.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-17T13:36:08.000",
+    "case_close_date": "2021-12-17T07:36:08.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "ANNUNCIATION ST & FOUCHER ST",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "832100",
     "final_x": "3674523.2",
     "final_y": "518271.68",
@@ -8038,27 +7998,6 @@
     "geocoded_column": {
       "latitude": "29.97815348895913",
       "longitude": "-90.08146207706378"
-    }
-  },
-  {
-    "service_request": "2021-830842",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-10-07T12:54:10.000",
-    "date_modified": "2021-10-07T12:54:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "EDINBURGH ST & SHORT ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "830842",
-    "final_x": "3667810.5",
-    "final_y": "534126.98",
-    "longitude": "-90.11120918103879",
-    "latitude": "29.963072565320736",
-    "geocoded_column": {
-      "latitude": "29.963072565320736",
-      "longitude": "-90.11120918103879"
     }
   },
   {
@@ -17966,12 +17905,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-07-15T09:42:31.000",
-    "date_modified": "2021-07-15T09:42:31.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-17T13:35:09.000",
+    "case_close_date": "2021-12-17T07:35:09.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "800 BLK Foucher St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "799745",
     "final_x": "3674461.17466",
     "final_y": "518432.091204",
@@ -21302,6 +21242,70 @@
     "geocoded_column": {
       "latitude": "29.965520119602687",
       "longitude": "-90.06806384133719"
+    }
+  },
+  {
+    "service_request": "2021-791133",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-06-25T19:45:55.000",
+    "date_modified": "2021-06-25T19:45:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "URSULINES AVE & TREME ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "791133",
+    "final_x": "3681706.9",
+    "final_y": "534978.08",
+    "longitude": "-90.06729635845483",
+    "latitude": "29.964997939692445",
+    "geocoded_column": {
+      "latitude": "29.964997939692445",
+      "longitude": "-90.06729635845483"
+    }
+  },
+  {
+    "service_request": "2021-791039",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-06-25T15:44:19.000",
+    "date_modified": "2021-10-19T17:01:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "FRANKLIN AVE & ROBERT E LEE BLVD",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "791039",
+    "final_x": "3686324.6",
+    "final_y": "555939.08",
+    "longitude": "-90.05197374601998",
+    "latitude": "30.022492077114148",
+    "geocoded_column": {
+      "latitude": "30.022492077114148",
+      "longitude": "-90.05197374601998"
+    }
+  },
+  {
+    "service_request": "2021-791038",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-06-25T15:42:18.000",
+    "date_modified": "2021-07-14T08:27:11.000",
+    "case_close_date": "2021-07-14T03:27:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4001 Piedmont Dr",
+    "address_councildis": "D",
+    "status": "Duplicate Case",
+    "rowid": "791038",
+    "final_x": "3685362.96405",
+    "final_y": "547288.824657",
+    "longitude": "-90.05531713661561",
+    "latitude": "29.998736563850876",
+    "geocoded_column": {
+      "latitude": "29.998736563850876",
+      "longitude": "-90.05531713661561"
     }
   }
 ]
