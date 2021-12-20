@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2021-849065",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-19T12:25:21.000",
+    "date_modified": "2021-12-19T12:25:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1523 Basin St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "849065",
+    "final_x": "3680285.38235",
+    "final_y": "534456.978181",
+    "longitude": "-90.07180354284961",
+    "latitude": "29.96360819809567",
+    "geocoded_column": {
+      "latitude": "29.96360819809567",
+      "longitude": "-90.07180354284961"
+    }
+  },
+  {
+    "service_request": "2021-849055",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-19T10:58:57.000",
+    "date_modified": "2021-12-19T11:00:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1511 Basin St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "849055",
+    "final_x": "3680353.94146",
+    "final_y": "534411.023621",
+    "longitude": "-90.07158863833286",
+    "latitude": "29.963479763084237",
+    "geocoded_column": {
+      "latitude": "29.963479763084237",
+      "longitude": "-90.07158863833286"
+    }
+  },
+  {
     "service_request": "2021-848912",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21263,49 +21305,6 @@
     "geocoded_column": {
       "latitude": "29.964997939692445",
       "longitude": "-90.06729635845483"
-    }
-  },
-  {
-    "service_request": "2021-791039",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-25T15:44:19.000",
-    "date_modified": "2021-10-19T17:01:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FRANKLIN AVE & ROBERT E LEE BLVD",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "791039",
-    "final_x": "3686324.6",
-    "final_y": "555939.08",
-    "longitude": "-90.05197374601998",
-    "latitude": "30.022492077114148",
-    "geocoded_column": {
-      "latitude": "30.022492077114148",
-      "longitude": "-90.05197374601998"
-    }
-  },
-  {
-    "service_request": "2021-791038",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-25T15:42:18.000",
-    "date_modified": "2021-07-14T08:27:11.000",
-    "case_close_date": "2021-07-14T03:27:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4001 Piedmont Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "791038",
-    "final_x": "3685362.96405",
-    "final_y": "547288.824657",
-    "longitude": "-90.05531713661561",
-    "latitude": "29.998736563850876",
-    "geocoded_column": {
-      "latitude": "29.998736563850876",
-      "longitude": "-90.05531713661561"
     }
   }
 ]
