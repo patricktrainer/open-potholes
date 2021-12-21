@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2021-849260",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-20T19:07:52.000",
+    "date_modified": "2021-12-20T19:07:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "102 Fontainebleau Dr",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "849260",
+    "final_x": "3667190.98964",
+    "final_y": "530345.428866",
+    "longitude": "-90.11329267719117",
+    "latitude": "29.95269269494452",
+    "geocoded_column": {
+      "latitude": "29.95269269494452",
+      "longitude": "-90.11329267719117"
+    }
+  },
+  {
+    "service_request": "2021-849191",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-20T13:04:47.000",
+    "date_modified": "2021-12-20T14:01:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6031 Camp St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "849191",
+    "final_x": "3664620.84058",
+    "final_y": "519706.527864",
+    "longitude": "-90.12176328926122",
+    "latitude": "29.923514105143155",
+    "geocoded_column": {
+      "latitude": "29.923514105143155",
+      "longitude": "-90.12176328926122"
+    }
+  },
+  {
+    "service_request": "2021-849166",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-20T10:27:05.000",
+    "date_modified": "2021-12-20T12:29:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "HARRISON AVE & PARIS AVE",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "849166",
+    "final_x": "3679461.5",
+    "final_y": "547713.28",
+    "longitude": "-90.0739451741157",
+    "latitude": "30.000083332762863",
+    "geocoded_column": {
+      "latitude": "30.000083332762863",
+      "longitude": "-90.0739451741157"
+    }
+  },
+  {
     "service_request": "2021-849065",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -46,12 +109,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-17T15:16:49.000",
-    "date_modified": "2021-12-17T16:00:44.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-20T15:27:37.000",
+    "case_close_date": "2021-12-20T09:27:37.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "2214 Second St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "848912",
     "final_x": "3675418.66529",
     "final_y": "524911.201084",
@@ -88,12 +152,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-16T17:03:11.000",
-    "date_modified": "2021-12-16T18:00:53.000",
+    "date_modified": "2021-12-20T09:21:41.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "500 BLK Milan St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "848724",
     "final_x": "3671920.79949",
     "final_y": "517680.281684",
@@ -190,27 +254,6 @@
     }
   },
   {
-    "service_request": "2021-848361",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-15T14:19:31.000",
-    "date_modified": "2021-12-15T14:19:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1126 Euterpe St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "848361",
-    "final_x": "3680064.51663",
-    "final_y": "524228.904828",
-    "longitude": "-90.0728563197537",
-    "latitude": "29.935491113772937",
-    "geocoded_column": {
-      "latitude": "29.935491113772937",
-      "longitude": "-90.0728563197537"
-    }
-  },
-  {
     "service_request": "2021-848216",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -259,12 +302,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-14T13:59:08.000",
-    "date_modified": "2021-12-14T14:00:35.000",
+    "date_modified": "2021-12-20T09:53:43.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3512 Camp St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "848055",
     "final_x": "3674230.34625",
     "final_y": "519658.131704",
@@ -21263,48 +21306,6 @@
     "geocoded_column": {
       "latitude": "29.940308709829722",
       "longitude": "-90.12986916171612"
-    }
-  },
-  {
-    "service_request": "2021-791136",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-25T19:48:30.000",
-    "date_modified": "2021-06-25T19:48:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MARAIS ST & URSULINES AVE",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "791136",
-    "final_x": "3681461.8",
-    "final_y": "535165.28",
-    "longitude": "-90.06806384133719",
-    "latitude": "29.965520119602687",
-    "geocoded_column": {
-      "latitude": "29.965520119602687",
-      "longitude": "-90.06806384133719"
-    }
-  },
-  {
-    "service_request": "2021-791133",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-25T19:45:55.000",
-    "date_modified": "2021-06-25T19:45:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "URSULINES AVE & TREME ST",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "791133",
-    "final_x": "3681706.9",
-    "final_y": "534978.08",
-    "longitude": "-90.06729635845483",
-    "latitude": "29.964997939692445",
-    "geocoded_column": {
-      "latitude": "29.964997939692445",
-      "longitude": "-90.06729635845483"
     }
   }
 ]
