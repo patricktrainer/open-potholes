@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2021-849405",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-21T15:59:50.000",
+    "date_modified": "2021-12-21T16:01:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3339 Bienville Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "849405",
+    "final_x": "3673892.33371",
+    "final_y": "537385.839944",
+    "longitude": "-90.0918919544024",
+    "latitude": "29.97185356605186",
+    "geocoded_column": {
+      "latitude": "29.97185356605186",
+      "longitude": "-90.0918919544024"
+    }
+  },
+  {
     "service_request": "2021-849260",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -680,27 +701,6 @@
     }
   },
   {
-    "service_request": "2021-846755",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T13:45:02.000",
-    "date_modified": "2021-12-08T13:45:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2415 Milan St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "846755",
-    "final_x": "3671342.49793",
-    "final_y": "523913.802108",
-    "longitude": "-90.10040256341955",
-    "latitude": "29.93488562199893",
-    "geocoded_column": {
-      "latitude": "29.93488562199893",
-      "longitude": "-90.10040256341955"
-    }
-  },
-  {
     "service_request": "2021-846718",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -723,37 +723,17 @@
     }
   },
   {
-    "service_request": "2021-846710",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T12:23:48.000",
-    "date_modified": "2021-12-08T12:23:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3323 Short St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "846710",
-    "final_x": "3667516.55533",
-    "final_y": "533715.991301",
-    "longitude": "-90.11215125808232",
-    "latitude": "29.961951099447",
-    "geocoded_column": {
-      "latitude": "29.961951099447",
-      "longitude": "-90.11215125808232"
-    }
-  },
-  {
     "service_request": "2021-846704",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-08T12:20:47.000",
-    "date_modified": "2021-12-08T12:20:47.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-21T07:58:36.000",
+    "case_close_date": "2021-12-21T01:58:36.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "3331 Pine St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "846704",
     "final_x": "3668294.93268",
     "final_y": "533091.761924",
@@ -1131,12 +1111,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-06T08:30:33.000",
-    "date_modified": "2021-12-06T08:30:33.000",
+    "date_modified": "2021-12-21T15:57:52.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1820 Sophie Wright Pl",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "846041",
     "final_x": "3679667.25282",
     "final_y": "523207.660987",
@@ -1189,27 +1169,6 @@
     "geocoded_column": {
       "latitude": "29.96362758974944",
       "longitude": "-90.06418082868214"
-    }
-  },
-  {
-    "service_request": "2021-845862",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-03T19:05:40.000",
-    "date_modified": "2021-12-03T19:05:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MAGNOLIA ST & W PONTCHARTRAIN EXPRESSWAY & EARHART BLVD & HOV",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "845862",
-    "final_x": "3676646.2",
-    "final_y": "528849.88",
-    "longitude": "-90.08348885168432",
-    "latitude": "29.948300224248815",
-    "geocoded_column": {
-      "latitude": "29.948300224248815",
-      "longitude": "-90.08348885168432"
     }
   },
   {
@@ -2299,12 +2258,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-11-19T12:00:34.000",
-    "date_modified": "2021-11-19T12:02:53.000",
+    "date_modified": "2021-12-21T07:54:15.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3329 Pine St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "843237",
     "final_x": "3668288.39559",
     "final_y": "533082.502596",
@@ -7078,12 +7037,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-10-14T10:59:40.000",
-    "date_modified": "2021-10-19T17:19:38.000",
-    "request_status": "Pending",
+    "date_modified": "2021-12-21T07:59:56.000",
+    "case_close_date": "2021-12-21T01:59:56.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "3325 Pine St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "833256",
     "final_x": "3668272.05293",
     "final_y": "533065.615364",
@@ -21306,6 +21266,48 @@
     "geocoded_column": {
       "latitude": "29.940308709829722",
       "longitude": "-90.12986916171612"
+    }
+  },
+  {
+    "service_request": "2021-791136",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-06-25T19:48:30.000",
+    "date_modified": "2021-06-25T19:48:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "MARAIS ST & URSULINES AVE",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "791136",
+    "final_x": "3681461.8",
+    "final_y": "535165.28",
+    "longitude": "-90.06806384133719",
+    "latitude": "29.965520119602687",
+    "geocoded_column": {
+      "latitude": "29.965520119602687",
+      "longitude": "-90.06806384133719"
+    }
+  },
+  {
+    "service_request": "2021-791133",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-06-25T19:45:55.000",
+    "date_modified": "2021-06-25T19:45:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "URSULINES AVE & TREME ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "791133",
+    "final_x": "3681706.9",
+    "final_y": "534978.08",
+    "longitude": "-90.06729635845483",
+    "latitude": "29.964997939692445",
+    "geocoded_column": {
+      "latitude": "29.964997939692445",
+      "longitude": "-90.06729635845483"
     }
   }
 ]
