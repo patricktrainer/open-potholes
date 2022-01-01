@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2021-851076",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-31T13:34:35.000",
+    "date_modified": "2021-12-31T13:34:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2754 Mithra St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "851076",
+    "final_x": "3687811.16963",
+    "final_y": "552951.621847",
+    "longitude": "-90.04738249236485",
+    "latitude": "30.01423187970382",
+    "geocoded_column": {
+      "latitude": "30.01423187970382",
+      "longitude": "-90.04738249236485"
+    }
+  },
+  {
+    "service_request": "2021-851075",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2021-12-31T13:32:02.000",
+    "date_modified": "2021-12-31T13:32:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4527 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "851075",
+    "final_x": "3670425.97742",
+    "final_y": "518766.249143",
+    "longitude": "-90.10347043940386",
+    "latitude": "29.920758581833628",
+    "geocoded_column": {
+      "latitude": "29.920758581833628",
+      "longitude": "-90.10347043940386"
+    }
+  },
+  {
     "service_request": "2021-850909",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21269,49 +21311,6 @@
     "geocoded_column": {
       "latitude": "29.919787272668184",
       "longitude": "-90.12923046912573"
-    }
-  },
-  {
-    "service_request": "2021-791431",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-27T07:29:22.000",
-    "date_modified": "2021-07-16T09:17:36.000",
-    "case_close_date": "2021-07-16T04:17:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1429 Fern St",
-    "address_councildis": "A",
-    "status": "Duplicate Case",
-    "rowid": "791431",
-    "final_x": "3663166.97459",
-    "final_y": "528488.43904",
-    "longitude": "-90.12606055045144",
-    "latitude": "29.94770376969489",
-    "geocoded_column": {
-      "latitude": "29.94770376969489",
-      "longitude": "-90.12606055045144"
-    }
-  },
-  {
-    "service_request": "2021-791424",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-26T23:24:42.000",
-    "date_modified": "2021-06-28T09:05:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5100 Eastern St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "791424",
-    "final_x": "3687885.94812",
-    "final_y": "551727.293781",
-    "longitude": "-90.04718964951593",
-    "latitude": "30.010863119949754",
-    "geocoded_column": {
-      "latitude": "30.010863119949754",
-      "longitude": "-90.04718964951593"
     }
   }
 ]
