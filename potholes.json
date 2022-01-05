@@ -1,15 +1,100 @@
 [
   {
+    "service_request": "2022-851855",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-04T14:24:31.000",
+    "date_modified": "2022-01-04T14:24:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "PALMETTO ST & CHERRY ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "851855",
+    "final_x": "3664991.7",
+    "final_y": "537977.18",
+    "longitude": "-90.1199819013071",
+    "latitude": "29.973741708965985",
+    "geocoded_column": {
+      "latitude": "29.973741708965985",
+      "longitude": "-90.1199819013071"
+    }
+  },
+  {
+    "service_request": "2022-851835",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-04T13:43:58.000",
+    "date_modified": "2022-01-04T13:43:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "811 Moss St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "851835",
+    "final_x": "3674259.23873",
+    "final_y": "539339.521738",
+    "longitude": "-90.09066629459298",
+    "latitude": "29.977214590253784",
+    "geocoded_column": {
+      "latitude": "29.977214590253784",
+      "longitude": "-90.09066629459298"
+    }
+  },
+  {
+    "service_request": "2022-851815",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-04T12:59:22.000",
+    "date_modified": "2022-01-04T14:18:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5100 BLK N Derbigny St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "851815",
+    "final_x": "3697016.70501",
+    "final_y": "536394.244913",
+    "longitude": "-90.01889786723147",
+    "latitude": "29.968417881469808",
+    "geocoded_column": {
+      "latitude": "29.968417881469808",
+      "longitude": "-90.01889786723147"
+    }
+  },
+  {
+    "service_request": "2022-851737",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-04T10:03:40.000",
+    "date_modified": "2022-01-04T10:03:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "VERRET ST & SLIDELL ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "851737",
+    "final_x": "3687122.3",
+    "final_y": "528725.08",
+    "longitude": "-90.05041597662928",
+    "latitude": "29.947638705425014",
+    "geocoded_column": {
+      "latitude": "29.947638705425014",
+      "longitude": "-90.05041597662928"
+    }
+  },
+  {
     "service_request": "2021-851076",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-31T13:34:35.000",
-    "date_modified": "2021-12-31T13:34:35.000",
-    "request_status": "Pending",
+    "date_modified": "2022-01-04T10:44:54.000",
+    "case_close_date": "2022-01-04T04:44:54.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "2754 Mithra St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Captured by Project",
     "rowid": "851076",
     "final_x": "3687811.16963",
     "final_y": "552951.621847",
@@ -18,27 +103,6 @@
     "geocoded_column": {
       "latitude": "30.01423187970382",
       "longitude": "-90.04738249236485"
-    }
-  },
-  {
-    "service_request": "2021-851075",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-31T13:32:02.000",
-    "date_modified": "2021-12-31T13:32:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4527 Magazine St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "851075",
-    "final_x": "3670425.97742",
-    "final_y": "518766.249143",
-    "longitude": "-90.10347043940386",
-    "latitude": "29.920758581833628",
-    "geocoded_column": {
-      "latitude": "29.920758581833628",
-      "longitude": "-90.10347043940386"
     }
   },
   {
@@ -193,12 +257,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-27T12:28:18.000",
-    "date_modified": "2021-12-27T12:28:18.000",
-    "request_status": "Pending",
+    "date_modified": "2022-01-04T08:21:56.000",
+    "case_close_date": "2022-01-04T02:21:56.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "4202 Paris Ave",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "849989",
     "final_x": "3679411.23387",
     "final_y": "547758.409106",
@@ -2386,12 +2451,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-11-22T09:56:30.000",
-    "date_modified": "2021-11-22T09:56:30.000",
+    "date_modified": "2022-01-04T14:43:52.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1600 BLK Soniat St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "843585",
     "final_x": "3668426.04172",
     "final_y": "521247.442529",
@@ -2828,27 +2893,6 @@
     }
   },
   {
-    "service_request": "2021-842787",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-17T12:34:08.000",
-    "date_modified": "2021-11-17T13:02:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "115 N Genois St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "842787",
-    "final_x": "3672686.2756",
-    "final_y": "537394.124936",
-    "longitude": "-90.09570060079082",
-    "latitude": "29.971912221179128",
-    "geocoded_column": {
-      "latitude": "29.971912221179128",
-      "longitude": "-90.09570060079082"
-    }
-  },
-  {
     "service_request": "2021-842783",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -2937,12 +2981,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-11-17T02:45:10.000",
-    "date_modified": "2021-11-17T02:45:10.000",
-    "request_status": "Pending",
+    "date_modified": "2022-01-04T14:46:15.000",
+    "case_close_date": "2022-01-04T08:46:15.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "2900 S Claiborne Ave",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "842661",
     "final_x": "3672768.75572",
     "final_y": "526286.092734",
@@ -21273,49 +21318,6 @@
     "geocoded_column": {
       "latitude": "29.934798031534296",
       "longitude": "-90.04065728599984"
-    }
-  },
-  {
-    "service_request": "2021-791593",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-28T07:20:13.000",
-    "date_modified": "2021-10-07T17:50:22.000",
-    "case_close_date": "2021-10-07T12:50:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2418 St Thomas St",
-    "address_councildis": "B",
-    "status": "Duplicate Case",
-    "rowid": "791593",
-    "final_x": "3678956.45826",
-    "final_y": "519847.735736",
-    "longitude": "-90.07650617913296",
-    "latitude": "29.923477802307797",
-    "geocoded_column": {
-      "latitude": "29.923477802307797",
-      "longitude": "-90.07650617913296"
-    }
-  },
-  {
-    "service_request": "2021-791583",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-06-28T06:24:21.000",
-    "date_modified": "2021-06-29T08:26:32.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "EAST DR & TCHOUPITOULAS ST",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "791583",
-    "final_x": "3662269.8",
-    "final_y": "518326.38",
-    "longitude": "-90.12923046912573",
-    "latitude": "29.919787272668184",
-    "geocoded_column": {
-      "latitude": "29.919787272668184",
-      "longitude": "-90.12923046912573"
     }
   }
 ]
