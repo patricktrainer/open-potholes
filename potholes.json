@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-854386",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-15T17:28:58.000",
+    "date_modified": "2022-01-15T17:28:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3008 Monroe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "854386",
+    "final_x": "3664768.08807",
+    "final_y": "534674.577862",
+    "longitude": "-90.12079849397307",
+    "latitude": "29.964667154212336",
+    "geocoded_column": {
+      "latitude": "29.964667154212336",
+      "longitude": "-90.12079849397307"
+    }
+  },
+  {
+    "service_request": "2022-854376",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-15T15:52:26.000",
+    "date_modified": "2022-01-15T15:52:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7535 Hampson St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "854376",
+    "final_x": "3662198.31757",
+    "final_y": "525877.183613",
+    "longitude": "-90.12920563887415",
+    "latitude": "29.940551677644386",
+    "geocoded_column": {
+      "latitude": "29.940551677644386",
+      "longitude": "-90.12920563887415"
+    }
+  },
+  {
+    "service_request": "2022-854325",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-15T10:03:58.000",
+    "date_modified": "2022-01-15T10:03:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Harrison Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "854325",
+    "final_x": "3670039.5449",
+    "final_y": "548995.858259",
+    "longitude": "-90.10366621438051",
+    "latitude": "30.00389135444685",
+    "geocoded_column": {
+      "latitude": "30.00389135444685",
+      "longitude": "-90.10366621438051"
+    }
+  },
+  {
     "service_request": "2022-854228",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21257,71 +21320,6 @@
     "geocoded_column": {
       "latitude": "30.016804998473273",
       "longitude": "-90.11509917657878"
-    }
-  },
-  {
-    "service_request": "2021-793966",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-01T13:03:09.000",
-    "date_modified": "2021-07-02T14:35:39.000",
-    "case_close_date": "2021-07-02T09:35:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2900 BLK Fourth St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "793966",
-    "final_x": "3673554.96978",
-    "final_y": "526680.108501",
-    "longitude": "-90.09332329545457",
-    "latitude": "29.94242641732667",
-    "geocoded_column": {
-      "latitude": "29.94242641732667",
-      "longitude": "-90.09332329545457"
-    }
-  },
-  {
-    "service_request": "2021-793953",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-01T12:51:10.000",
-    "date_modified": "2021-10-19T17:11:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7919 Jeannette St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "793953",
-    "final_x": "3663158.81843",
-    "final_y": "528766.001216",
-    "longitude": "-90.12607706930883",
-    "latitude": "29.948467212795027",
-    "geocoded_column": {
-      "latitude": "29.948467212795027",
-      "longitude": "-90.12607706930883"
-    }
-  },
-  {
-    "service_request": "2021-793827",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-01T11:09:31.000",
-    "date_modified": "2021-07-19T08:50:36.000",
-    "case_close_date": "2021-07-19T03:50:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "ALBERT ST & PATTERSON DR",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "793827",
-    "final_x": "3712050.3",
-    "final_y": "519024.18",
-    "longitude": "-89.97207320912692",
-    "latitude": "29.92017372275242",
-    "geocoded_column": {
-      "latitude": "29.92017372275242",
-      "longitude": "-89.97207320912692"
     }
   }
 ]
