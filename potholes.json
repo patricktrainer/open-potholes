@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-854461",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-16T16:11:27.000",
+    "date_modified": "2022-01-16T16:11:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6500 Argonne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "854461",
+    "final_x": "3670406.68858",
+    "final_y": "550615.8189",
+    "longitude": "-90.10245136566657",
+    "latitude": "30.008334839791388",
+    "geocoded_column": {
+      "latitude": "30.008334839791388",
+      "longitude": "-90.10245136566657"
+    }
+  },
+  {
+    "service_request": "2022-854455",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-16T15:17:01.000",
+    "date_modified": "2022-01-16T15:17:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1635 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "854455",
+    "final_x": "3665180.59866",
+    "final_y": "527891.692415",
+    "longitude": "-90.11972267668133",
+    "latitude": "29.946004418790537",
+    "geocoded_column": {
+      "latitude": "29.946004418790537",
+      "longitude": "-90.11972267668133"
+    }
+  },
+  {
+    "service_request": "2022-854405",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-16T05:01:43.000",
+    "date_modified": "2022-01-16T05:01:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 BLK Royal St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "854405",
+    "final_x": "3681331.2705",
+    "final_y": "530858.701522",
+    "longitude": "-90.06862615581144",
+    "latitude": "29.953682457848835",
+    "geocoded_column": {
+      "latitude": "29.953682457848835",
+      "longitude": "-90.06862615581144"
+    }
+  },
+  {
     "service_request": "2022-854386",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21256,70 +21319,6 @@
     "geocoded_column": {
       "latitude": "29.939511822478256",
       "longitude": "-90.020277342143"
-    }
-  },
-  {
-    "service_request": "2021-794474",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-02T10:30:20.000",
-    "date_modified": "2021-10-19T16:16:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "211 Rhodes Ave",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "794474",
-    "final_x": "3706509.12215",
-    "final_y": "519309.045879",
-    "longitude": "-89.98955336820886",
-    "latitude": "29.921136850535685",
-    "geocoded_column": {
-      "latitude": "29.921136850535685",
-      "longitude": "-89.98955336820886"
-    }
-  },
-  {
-    "service_request": "2021-794432",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-02T09:43:45.000",
-    "date_modified": "2021-10-19T16:31:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "600 BLK Royal St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "794432",
-    "final_x": "3682427.70105",
-    "final_y": "532299.837747",
-    "longitude": "-90.06511372414272",
-    "latitude": "29.957611771426947",
-    "geocoded_column": {
-      "latitude": "29.957611771426947",
-      "longitude": "-90.06511372414272"
-    }
-  },
-  {
-    "service_request": "2021-794200",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-01T17:00:09.000",
-    "date_modified": "2021-10-20T03:12:50.000",
-    "case_close_date": "2021-07-19T04:08:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "New Orleans,LA",
-    "address_councildis": "A",
-    "status": "Duplicate Case",
-    "rowid": "794200",
-    "final_x": "3666371.06919",
-    "final_y": "553653.141847",
-    "longitude": "-90.11509917657878",
-    "latitude": "30.016804998473273",
-    "geocoded_column": {
-      "latitude": "30.016804998473273",
-      "longitude": "-90.11509917657878"
     }
   }
 ]
