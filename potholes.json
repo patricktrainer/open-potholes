@@ -1,23 +1,86 @@
 [
   {
-    "service_request": "2022-854915",
+    "service_request": "2022-855243",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
-    "date_created": "2022-01-18T15:15:25.000",
-    "date_modified": "2022-01-18T15:15:25.000",
+    "date_created": "2022-01-19T16:40:32.000",
+    "date_modified": "2022-01-19T20:43:58.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "HAYNE BLVD & BURKE RD",
-    "address_councildis": "E",
+    "final_address": "green street",
+    "address_councildis": "A",
     "status": "Pending",
-    "rowid": "854915",
-    "final_x": "3704699.0",
-    "final_y": "564276.08",
-    "longitude": "-89.99360748949708",
-    "latitude": "30.04483778171941",
+    "rowid": "855243",
+    "final_x": "3665602.57709",
+    "final_y": "527799.287679",
+    "longitude": "-90.11839343555381",
+    "latitude": "29.94573803954166",
     "geocoded_column": {
-      "latitude": "30.04483778171941",
-      "longitude": "-89.99360748949708"
+      "latitude": "29.94573803954166",
+      "longitude": "-90.11839343555381"
+    }
+  },
+  {
+    "service_request": "2022-855195",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-19T15:02:01.000",
+    "date_modified": "2022-01-19T15:02:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3624 Cambronne St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "855195",
+    "final_x": "3667099.01313",
+    "final_y": "535665.570758",
+    "longitude": "-90.11340425057828",
+    "latitude": "29.967324027359687",
+    "geocoded_column": {
+      "latitude": "29.967324027359687",
+      "longitude": "-90.11340425057828"
+    }
+  },
+  {
+    "service_request": "2022-855138",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-19T12:23:12.000",
+    "date_modified": "2022-01-19T12:23:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3519 Lancaster St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "855138",
+    "final_x": "3709806.08408",
+    "final_y": "517724.33407",
+    "longitude": "-89.97920554760717",
+    "latitude": "29.916672720337868",
+    "geocoded_column": {
+      "latitude": "29.916672720337868",
+      "longitude": "-89.97920554760717"
+    }
+  },
+  {
+    "service_request": "2022-855047",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-19T09:05:05.000",
+    "date_modified": "2022-01-19T09:05:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4025 S Saratoga St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "855047",
+    "final_x": "3671971.55585",
+    "final_y": "522829.760251",
+    "longitude": "-90.09845351331239",
+    "latitude": "29.931886230273975",
+    "geocoded_column": {
+      "latitude": "29.931886230273975",
+      "longitude": "-90.09845351331239"
     }
   },
   {
@@ -235,12 +298,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-01-14T14:17:03.000",
-    "date_modified": "2022-01-14T14:17:03.000",
-    "request_status": "Pending",
+    "date_modified": "2022-01-19T08:22:41.000",
+    "case_close_date": "2022-01-19T02:22:41.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "1469 Annunciation St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Duplicate Case",
     "rowid": "854208",
     "final_x": "3680974.37128",
     "final_y": "523765.265659",
@@ -488,20 +552,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-01-12T16:18:56.000",
-    "date_modified": "2022-01-12T16:18:56.000",
+    "date_modified": "2022-01-19T07:39:02.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "EDINBURGH ST & S CARROLLTON AVE",
+    "final_address": "8000 BLK Edinburgh St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "853685",
-    "final_x": "3667572.2",
-    "final_y": "534360.28",
-    "longitude": "-90.11195385334143",
-    "latitude": "29.963721049693252",
+    "final_x": "3667688.26334",
+    "final_y": "534244.1229",
+    "longitude": "-90.1115912467498",
+    "latitude": "29.963398253848233",
     "geocoded_column": {
-      "latitude": "29.963721049693252",
-      "longitude": "-90.11195385334143"
+      "latitude": "29.963398253848233",
+      "longitude": "-90.1115912467498"
     }
   },
   {
@@ -776,27 +840,6 @@
     "geocoded_column": {
       "latitude": "29.95203111619384",
       "longitude": "-90.12503325145126"
-    }
-  },
-  {
-    "service_request": "2022-852999",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-01-10T13:23:54.000",
-    "date_modified": "2022-01-10T13:23:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2537 General Taylor St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "852999",
-    "final_x": "3671878.54465",
-    "final_y": "524475.092796",
-    "longitude": "-90.09869117352308",
-    "latitude": "29.936413119007284",
-    "geocoded_column": {
-      "latitude": "29.936413119007284",
-      "longitude": "-90.09869117352308"
     }
   },
   {
@@ -21277,48 +21320,6 @@
     "geocoded_column": {
       "latitude": "29.975075563074302",
       "longitude": "-90.0433683029244"
-    }
-  },
-  {
-    "service_request": "2021-795486",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-05T13:42:34.000",
-    "date_modified": "2021-10-19T17:47:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8300 BLK Belfast St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "795486",
-    "final_x": "3664926.96637",
-    "final_y": "532967.736674",
-    "longitude": "-90.12035382445559",
-    "latitude": "29.959969277162656",
-    "geocoded_column": {
-      "latitude": "29.959969277162656",
-      "longitude": "-90.12035382445559"
-    }
-  },
-  {
-    "service_request": "2021-795473",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-05T13:24:09.000",
-    "date_modified": "2021-10-20T02:56:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "GENERAL MEYER AVE & HOLIDAY DR",
-    "address_councildis": "C",
-    "status": "Wrong Agency",
-    "rowid": "795473",
-    "final_x": "3699023.1",
-    "final_y": "524730.48",
-    "longitude": "-90.01298605689196",
-    "latitude": "29.93628320516194",
-    "geocoded_column": {
-      "latitude": "29.93628320516194",
-      "longitude": "-90.01298605689196"
     }
   }
 ]
