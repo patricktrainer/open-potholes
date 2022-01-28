@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-857130",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-27T16:30:49.000",
+    "date_modified": "2022-01-27T16:30:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "714 Union St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857130",
+    "final_x": "3680641.27579",
+    "final_y": "529855.791809",
+    "longitude": "-90.07083976176212",
+    "latitude": "29.950945716928082",
+    "geocoded_column": {
+      "latitude": "29.950945716928082",
+      "longitude": "-90.07083976176212"
+    }
+  },
+  {
+    "service_request": "2022-856961",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-27T10:12:49.000",
+    "date_modified": "2022-01-27T10:14:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2532 Dante St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "856961",
+    "final_x": "3664709.78253",
+    "final_y": "532518.949444",
+    "longitude": "-90.12105463996024",
+    "latitude": "29.958741578901577",
+    "geocoded_column": {
+      "latitude": "29.958741578901577",
+      "longitude": "-90.12105463996024"
+    }
+  },
+  {
+    "service_request": "2022-856921",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-27T08:34:23.000",
+    "date_modified": "2022-01-27T08:34:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1950 Canal St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "856921",
+    "final_x": "3677524.19112",
+    "final_y": "533248.291396",
+    "longitude": "-90.08056483471171",
+    "latitude": "29.960368018384877",
+    "geocoded_column": {
+      "latitude": "29.960368018384877",
+      "longitude": "-90.08056483471171"
+    }
+  },
+  {
     "service_request": "2022-856896",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -1718,12 +1781,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-01-07T11:12:24.000",
-    "date_modified": "2022-01-07T11:12:24.000",
+    "date_modified": "2022-01-27T10:34:43.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "530 Natchez St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "852543",
     "final_x": "3681314.0454",
     "final_y": "529450.096385",
@@ -21256,71 +21319,6 @@
     "geocoded_column": {
       "latitude": "29.951858004010987",
       "longitude": "-90.04912464537188"
-    }
-  },
-  {
-    "service_request": "2021-797370",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T15:37:07.000",
-    "date_modified": "2021-10-20T02:33:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "500 BLK Huntlee Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "797370",
-    "final_x": "3701836.54248",
-    "final_y": "521503.213999",
-    "longitude": "-90.00422217264506",
-    "latitude": "29.92731990397485",
-    "geocoded_column": {
-      "latitude": "29.92731990397485",
-      "longitude": "-90.00422217264506"
-    }
-  },
-  {
-    "service_request": "2021-797366",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T15:35:08.000",
-    "date_modified": "2021-10-19T17:12:15.000",
-    "case_close_date": "2021-07-27T08:48:16.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "533 Huntlee Dr",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "797366",
-    "final_x": "3701778.06372",
-    "final_y": "521138.343801",
-    "longitude": "-90.00442013235366",
-    "latitude": "29.926318502139093",
-    "geocoded_column": {
-      "latitude": "29.926318502139093",
-      "longitude": "-90.00442013235366"
-    }
-  },
-  {
-    "service_request": "2021-797331",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T14:39:48.000",
-    "date_modified": "2021-10-19T16:24:59.000",
-    "case_close_date": "2021-07-14T02:11:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3132 Law St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "797331",
-    "final_x": "3690716.72886",
-    "final_y": "541541.143692",
-    "longitude": "-90.03860976797687",
-    "latitude": "29.98276723869539",
-    "geocoded_column": {
-      "latitude": "29.98276723869539",
-      "longitude": "-90.03860976797687"
     }
   }
 ]
