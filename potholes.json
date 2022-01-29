@@ -1,5 +1,258 @@
 [
   {
+    "service_request": "2022-857394",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T15:22:44.000",
+    "date_modified": "2022-01-28T15:22:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5801 Chamberlain Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "857394",
+    "final_x": "3679434.89647",
+    "final_y": "553878.261527",
+    "longitude": "-90.07381513964442",
+    "latitude": "30.017035623392555",
+    "geocoded_column": {
+      "latitude": "30.017035623392555",
+      "longitude": "-90.07381513964442"
+    }
+  },
+  {
+    "service_request": "2022-857314",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:53:48.000",
+    "date_modified": "2022-01-28T12:53:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1200 S Derbigny St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857314",
+    "final_x": "3675246.32296",
+    "final_y": "529013.051392",
+    "longitude": "-90.08790324608238",
+    "latitude": "29.94879080301714",
+    "geocoded_column": {
+      "latitude": "29.94879080301714",
+      "longitude": "-90.08790324608238"
+    }
+  },
+  {
+    "service_request": "2022-857313",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:52:11.000",
+    "date_modified": "2022-01-28T12:52:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1200 BLK S Roman St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857313",
+    "final_x": "3674889.48483",
+    "final_y": "529190.996524",
+    "longitude": "-90.08902383684192",
+    "latitude": "29.94929075302783",
+    "geocoded_column": {
+      "latitude": "29.94929075302783",
+      "longitude": "-90.08902383684192"
+    }
+  },
+  {
+    "service_request": "2022-857312",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:50:05.000",
+    "date_modified": "2022-01-28T12:50:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1100 BLK S Roman St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857312",
+    "final_x": "3675067.6869",
+    "final_y": "529474.171154",
+    "longitude": "-90.08845145924876",
+    "latitude": "29.95006406713163",
+    "geocoded_column": {
+      "latitude": "29.95006406713163",
+      "longitude": "-90.08845145924876"
+    }
+  },
+  {
+    "service_request": "2022-857311",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:48:39.000",
+    "date_modified": "2022-01-28T12:48:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3100 BLK Erato St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857311",
+    "final_x": "3674939.6327",
+    "final_y": "528944.751609",
+    "longitude": "-90.08887394178991",
+    "latitude": "29.948612163563336",
+    "geocoded_column": {
+      "latitude": "29.948612163563336",
+      "longitude": "-90.08887394178991"
+    }
+  },
+  {
+    "service_request": "2022-857305",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:43:50.000",
+    "date_modified": "2022-01-28T12:43:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3000 BLK Erato St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857305",
+    "final_x": "3675213.78077",
+    "final_y": "528767.854654",
+    "longitude": "-90.08801440986292",
+    "latitude": "29.94811756572566",
+    "geocoded_column": {
+      "latitude": "29.94811756572566",
+      "longitude": "-90.08801440986292"
+    }
+  },
+  {
+    "service_request": "2022-857303",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:42:52.000",
+    "date_modified": "2022-01-28T12:42:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3000 BLK Clio St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857303",
+    "final_x": "3675132.38133",
+    "final_y": "529249.815632",
+    "longitude": "-90.08825488588064",
+    "latitude": "29.949445231046575",
+    "geocoded_column": {
+      "latitude": "29.949445231046575",
+      "longitude": "-90.08825488588064"
+    }
+  },
+  {
+    "service_request": "2022-857301",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T12:41:46.000",
+    "date_modified": "2022-01-28T12:41:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2900 BLK Clio St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857301",
+    "final_x": "3675405.20722",
+    "final_y": "529076.901936",
+    "longitude": "-90.08739938779057",
+    "latitude": "29.948961621394137",
+    "geocoded_column": {
+      "latitude": "29.948961621394137",
+      "longitude": "-90.08739938779057"
+    }
+  },
+  {
+    "service_request": "2022-857229",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T09:53:12.000",
+    "date_modified": "2022-01-28T09:53:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "600 Josephine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "857229",
+    "final_x": "3680192.27682",
+    "final_y": "520875.777529",
+    "longitude": "-90.07256945569856",
+    "latitude": "29.92626725118973",
+    "geocoded_column": {
+      "latitude": "29.92626725118973",
+      "longitude": "-90.07256945569856"
+    }
+  },
+  {
+    "service_request": "2022-857222",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T09:29:59.000",
+    "date_modified": "2022-01-28T09:29:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4700 BLK Mandeville St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "857222",
+    "final_x": "3684699.06331",
+    "final_y": "550448.686948",
+    "longitude": "-90.05730323950169",
+    "latitude": "30.007445388480637",
+    "geocoded_column": {
+      "latitude": "30.007445388480637",
+      "longitude": "-90.05730323950169"
+    }
+  },
+  {
+    "service_request": "2022-857221",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T09:29:19.000",
+    "date_modified": "2022-01-28T09:29:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4600 BLK Mandeville St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "857221",
+    "final_x": "3684750.51891",
+    "final_y": "549807.986458",
+    "longitude": "-90.05716322074072",
+    "latitude": "30.00568211867875",
+    "geocoded_column": {
+      "latitude": "30.00568211867875",
+      "longitude": "-90.05716322074072"
+    }
+  },
+  {
+    "service_request": "2022-857204",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-01-28T08:26:15.000",
+    "date_modified": "2022-01-28T10:03:16.000",
+    "case_close_date": "2022-01-28T04:03:16.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "canal street",
+    "address_councildis": "B",
+    "status": "Invalid Case",
+    "rowid": "857204",
+    "final_x": "3672648.43617",
+    "final_y": "537045.873992",
+    "longitude": "-90.09583198211119",
+    "latitude": "29.97095577253195",
+    "geocoded_column": {
+      "latitude": "29.97095577253195",
+      "longitude": "-90.09583198211119"
+    }
+  },
+  {
     "service_request": "2022-857130",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21062,263 +21315,6 @@
     "geocoded_column": {
       "latitude": "29.94286243422767",
       "longitude": "-90.05080889213073"
-    }
-  },
-  {
-    "service_request": "2021-797708",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T12:14:43.000",
-    "date_modified": "2021-10-20T02:30:25.000",
-    "case_close_date": "2021-07-27T08:52:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "517 Huntlee Dr",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "797708",
-    "final_x": "3701786.64919",
-    "final_y": "521358.755961",
-    "longitude": "-90.00438496100584",
-    "latitude": "29.926924285576884",
-    "geocoded_column": {
-      "latitude": "29.926924285576884",
-      "longitude": "-90.00438496100584"
-    }
-  },
-  {
-    "service_request": "2021-797676",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T11:14:58.000",
-    "date_modified": "2021-07-15T07:30:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "700 BLK General Taylor St",
-    "address_councildis": "B",
-    "status": "Reviewed",
-    "rowid": "797676",
-    "final_x": "3673242.35722",
-    "final_y": "518444.862176",
-    "longitude": "-90.09459137192229",
-    "latitude": "29.919791449863187",
-    "geocoded_column": {
-      "latitude": "29.919791449863187",
-      "longitude": "-90.09459137192229"
-    }
-  },
-  {
-    "service_request": "2021-797648",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T10:33:04.000",
-    "date_modified": "2021-11-10T11:27:39.000",
-    "case_close_date": "2021-11-10T05:27:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1200 BLK Robert St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "797648",
-    "final_x": "3668681.16359",
-    "final_y": "519765.911699",
-    "longitude": "-90.1089443154575",
-    "latitude": "29.923558717247985",
-    "geocoded_column": {
-      "latitude": "29.923558717247985",
-      "longitude": "-90.1089443154575"
-    }
-  },
-  {
-    "service_request": "2021-797647",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T10:32:30.000",
-    "date_modified": "2021-07-09T10:32:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1100 BLK Robert St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "797647",
-    "final_x": "3668671.7745",
-    "final_y": "519486.575972",
-    "longitude": "-90.1089833751899",
-    "latitude": "29.922790908294584",
-    "geocoded_column": {
-      "latitude": "29.922790908294584",
-      "longitude": "-90.1089833751899"
-    }
-  },
-  {
-    "service_request": "2021-797646",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T10:32:11.000",
-    "date_modified": "2021-10-19T17:59:49.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1000 BLK Robert St",
-    "address_councildis": "B",
-    "status": "Reviewed",
-    "rowid": "797646",
-    "final_x": "3668659.50024",
-    "final_y": "519143.371278",
-    "longitude": "-90.10903369574804",
-    "latitude": "29.92184756455106",
-    "geocoded_column": {
-      "latitude": "29.92184756455106",
-      "longitude": "-90.10903369574804"
-    }
-  },
-  {
-    "service_request": "2021-797644",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T10:31:44.000",
-    "date_modified": "2021-10-20T02:31:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 BLK Robert St",
-    "address_councildis": "B",
-    "status": "Reviewed",
-    "rowid": "797644",
-    "final_x": "3668646.89561",
-    "final_y": "518773.022937",
-    "longitude": "-90.10908597361767",
-    "latitude": "29.920829593921304",
-    "geocoded_column": {
-      "latitude": "29.920829593921304",
-      "longitude": "-90.10908597361767"
-    }
-  },
-  {
-    "service_request": "2021-797594",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T09:22:10.000",
-    "date_modified": "2021-07-09T09:22:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7919 Jeannette St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "797594",
-    "final_x": "3663158.81843",
-    "final_y": "528766.001216",
-    "longitude": "-90.12607706930883",
-    "latitude": "29.948467212795027",
-    "geocoded_column": {
-      "latitude": "29.948467212795027",
-      "longitude": "-90.12607706930883"
-    }
-  },
-  {
-    "service_request": "2021-797560",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-09T08:42:18.000",
-    "date_modified": "2021-10-19T16:54:11.000",
-    "case_close_date": "2021-07-12T04:08:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2809 Pocahontas St",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "797560",
-    "final_x": "3688652.45878",
-    "final_y": "548373.802002",
-    "longitude": "-90.04488708415438",
-    "latitude": "30.001618564541257",
-    "geocoded_column": {
-      "latitude": "30.001618564541257",
-      "longitude": "-90.04488708415438"
-    }
-  },
-  {
-    "service_request": "2021-797495",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T20:27:21.000",
-    "date_modified": "2021-07-08T20:27:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "123 Maryland Dr",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "797495",
-    "final_x": "3663784.87399",
-    "final_y": "542394.361869",
-    "longitude": "-90.12364605984989",
-    "latitude": "29.985922566572015",
-    "geocoded_column": {
-      "latitude": "29.985922566572015",
-      "longitude": "-90.12364605984989"
-    }
-  },
-  {
-    "service_request": "2021-797437",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T17:36:12.000",
-    "date_modified": "2021-07-08T17:36:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5101 Canal Blvd",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "797437",
-    "final_x": "3668047.66221",
-    "final_y": "541296.987276",
-    "longitude": "-90.11021855882808",
-    "latitude": "29.982780727159295",
-    "geocoded_column": {
-      "latitude": "29.982780727159295",
-      "longitude": "-90.11021855882808"
-    }
-  },
-  {
-    "service_request": "2021-797435",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T17:35:07.000",
-    "date_modified": "2022-01-03T10:39:46.000",
-    "case_close_date": "2022-01-03T04:39:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8735 Apricot St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "797435",
-    "final_x": "3664064.00032",
-    "final_y": "534284.947717",
-    "longitude": "-90.12303496031429",
-    "latitude": "29.96361626729517",
-    "geocoded_column": {
-      "latitude": "29.96361626729517",
-      "longitude": "-90.12303496031429"
-    }
-  },
-  {
-    "service_request": "2021-797401",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-08T16:25:55.000",
-    "date_modified": "2021-11-05T12:17:41.000",
-    "case_close_date": "2021-11-05T07:17:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "409 Vallette St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "797401",
-    "final_x": "3687514.04079",
-    "final_y": "530263.949377",
-    "longitude": "-90.04912464537188",
-    "latitude": "29.951858004010987",
-    "geocoded_column": {
-      "latitude": "29.951858004010987",
-      "longitude": "-90.04912464537188"
     }
   }
 ]
