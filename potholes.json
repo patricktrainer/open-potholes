@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-860698",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-02-13T15:01:13.000",
+    "date_modified": "2022-02-13T15:01:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "420 Delery St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "860698",
+    "final_x": "3699517.16925",
+    "final_y": "530761.234626",
+    "longitude": "-90.01120659014201",
+    "latitude": "29.952850003967722",
+    "geocoded_column": {
+      "latitude": "29.952850003967722",
+      "longitude": "-90.01120659014201"
+    }
+  },
+  {
+    "service_request": "2022-860667",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-02-13T06:32:37.000",
+    "date_modified": "2022-02-13T06:32:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3318 Short St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "860667",
+    "final_x": "3667415.3433",
+    "final_y": "533747.688709",
+    "longitude": "-90.11246980453193",
+    "latitude": "29.96204122244859",
+    "geocoded_column": {
+      "latitude": "29.96204122244859",
+      "longitude": "-90.11246980453193"
+    }
+  },
+  {
     "service_request": "2022-860649",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21263,49 +21305,6 @@
     "geocoded_column": {
       "latitude": "29.957430293032502",
       "longitude": "-90.06537171192599"
-    }
-  },
-  {
-    "service_request": "2021-802076",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-21T13:30:07.000",
-    "date_modified": "2021-10-20T01:47:22.000",
-    "case_close_date": "2021-08-24T03:34:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1803 Murl St",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "802076",
-    "final_x": "3695296.79997",
-    "final_y": "524704.366076",
-    "longitude": "-90.02475098887847",
-    "latitude": "29.9363289399961",
-    "geocoded_column": {
-      "latitude": "29.9363289399961",
-      "longitude": "-90.02475098887847"
-    }
-  },
-  {
-    "service_request": "2021-802074",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-21T13:22:25.000",
-    "date_modified": "2021-07-21T13:22:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "713 Royal St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "802074",
-    "final_x": "3682595.78415",
-    "final_y": "532558.676932",
-    "longitude": "-90.06457391736097",
-    "latitude": "29.958318374536265",
-    "geocoded_column": {
-      "latitude": "29.958318374536265",
-      "longitude": "-90.06457391736097"
     }
   }
 ]
