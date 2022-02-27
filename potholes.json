@@ -1,5 +1,46 @@
 [
   {
+    "service_request": "2022-863585",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-02-26T15:41:29.000",
+    "date_modified": "2022-02-26T16:08:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "C",
+    "rowid": "863585",
+    "final_x": "3698398.08644",
+    "final_y": "520234.064568",
+    "longitude": "-90.01512254025162",
+    "latitude": "29.923939398079646",
+    "geocoded_column": {
+      "latitude": "29.923939398079646",
+      "longitude": "-90.01512254025162"
+    }
+  },
+  {
+    "service_request": "2022-863582",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-02-26T15:34:36.000",
+    "date_modified": "2022-02-26T15:34:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3042 General Collins Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "863582",
+    "final_x": "3698398.08644",
+    "final_y": "520234.064568",
+    "longitude": "-90.01512254025162",
+    "latitude": "29.923939398079646",
+    "geocoded_column": {
+      "latitude": "29.923939398079646",
+      "longitude": "-90.01512254025162"
+    }
+  },
+  {
     "service_request": "2022-863511",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -444,12 +485,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-02-22T16:22:18.000",
-    "date_modified": "2022-02-22T16:22:18.000",
-    "request_status": "Pending",
+    "date_modified": "2022-02-26T13:13:23.000",
+    "case_close_date": "2022-02-26T07:13:23.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "1203 Leboeuf St",
     "address_councildis": "C",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "862815",
     "final_x": "3689678.9007",
     "final_y": "527079.381374",
@@ -11717,12 +11759,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-10-24T14:58:01.000",
-    "date_modified": "2021-10-25T15:05:21.000",
-    "request_status": "Pending",
+    "date_modified": "2022-02-26T13:05:14.000",
+    "case_close_date": "2022-02-26T07:05:14.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "6343 Louisville St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "836500",
     "final_x": "3668040.55898",
     "final_y": "549720.002964",
@@ -21245,48 +21288,6 @@
     "geocoded_column": {
       "latitude": "29.943163926678483",
       "longitude": "-90.03881454158027"
-    }
-  },
-  {
-    "service_request": "2021-804951",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-29T10:04:52.000",
-    "date_modified": "2021-07-29T10:04:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3313 Calhoun St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "804951",
-    "final_x": "3667519.58849",
-    "final_y": "528905.733888",
-    "longitude": "-90.11230354803385",
-    "latitude": "29.948724378191386",
-    "geocoded_column": {
-      "latitude": "29.948724378191386",
-      "longitude": "-90.11230354803385"
-    }
-  },
-  {
-    "service_request": "2021-804829",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-28T19:44:59.000",
-    "date_modified": "2021-07-28T19:44:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "700 BLK Hillary St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "804829",
-    "final_x": "3662240.60462",
-    "final_y": "526000.983219",
-    "longitude": "-90.12906802306006",
-    "latitude": "29.940890865247997",
-    "geocoded_column": {
-      "latitude": "29.940890865247997",
-      "longitude": "-90.12906802306006"
     }
   }
 ]
