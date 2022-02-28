@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-863657",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-02-27T17:50:24.000",
+    "date_modified": "2022-02-27T17:50:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 BLK Conti St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "863657",
+    "final_x": "3681172.64024",
+    "final_y": "532131.409934",
+    "longitude": "-90.06908270396765",
+    "latitude": "29.957186788133153",
+    "geocoded_column": {
+      "latitude": "29.957186788133153",
+      "longitude": "-90.06908270396765"
+    }
+  },
+  {
     "service_request": "2022-863585",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21266,28 +21287,6 @@
     "geocoded_column": {
       "latitude": "29.981335122048066",
       "longitude": "-90.03536374765751"
-    }
-  },
-  {
-    "service_request": "2021-805041",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-29T12:21:01.000",
-    "date_modified": "2021-10-27T07:48:09.000",
-    "case_close_date": "2021-10-27T02:48:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1136 Hendee St",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "805041",
-    "final_x": "3690814.60304",
-    "final_y": "527139.212735",
-    "longitude": "-90.03881454158027",
-    "latitude": "29.943163926678483",
-    "geocoded_column": {
-      "latitude": "29.943163926678483",
-      "longitude": "-90.03881454158027"
     }
   }
 ]
