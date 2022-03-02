@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-863834",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-01T15:12:59.000",
+    "date_modified": "2022-03-01T15:12:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "BENEFIT ST & LOUISA ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "863834",
+    "final_x": "3691625.55",
+    "final_y": "544164.25",
+    "longitude": "-90.0356454344082",
+    "latitude": "29.98995156935855",
+    "geocoded_column": {
+      "latitude": "29.98995156935855",
+      "longitude": "-90.0356454344082"
+    }
+  },
+  {
     "service_request": "2022-863799",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21268,28 +21289,6 @@
     "geocoded_column": {
       "latitude": "29.980392339773204",
       "longitude": "-90.07929238110438"
-    }
-  },
-  {
-    "service_request": "2021-805156",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-29T15:29:00.000",
-    "date_modified": "2021-10-20T01:03:25.000",
-    "case_close_date": "2021-08-23T04:59:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7030 Milne Blvd",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "805156",
-    "final_x": "3667594.20449",
-    "final_y": "554306.671512",
-    "longitude": "-90.11121254469163",
-    "latitude": "30.018566160907106",
-    "geocoded_column": {
-      "latitude": "30.018566160907106",
-      "longitude": "-90.11121254469163"
     }
   }
 ]
