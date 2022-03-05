@@ -1,5 +1,69 @@
 [
   {
+    "service_request": "2022-864506",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-04T12:51:41.000",
+    "date_modified": "2022-03-04T12:51:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6444 General Diaz St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "864506",
+    "final_x": "3669711.34343",
+    "final_y": "550309.011348",
+    "longitude": "-90.10465857840279",
+    "latitude": "30.00751174678421",
+    "geocoded_column": {
+      "latitude": "30.00751174678421",
+      "longitude": "-90.10465857840279"
+    }
+  },
+  {
+    "service_request": "2022-864486",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-04T11:54:16.000",
+    "date_modified": "2022-03-04T11:54:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "318 S Dupre St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "864486",
+    "final_x": "3674073.68507",
+    "final_y": "534841.529158",
+    "longitude": "-90.09140630891052",
+    "latitude": "29.9648521673354",
+    "geocoded_column": {
+      "latitude": "29.9648521673354",
+      "longitude": "-90.09140630891052"
+    }
+  },
+  {
+    "service_request": "2022-864424",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-04T09:52:37.000",
+    "date_modified": "2022-03-04T11:04:42.000",
+    "case_close_date": "2022-03-04T05:04:42.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "RIVIERA AVE & ST BERNARD AVE",
+    "address_councildis": "D",
+    "status": "Duplicate Case",
+    "rowid": "864424",
+    "final_x": "3676674.7",
+    "final_y": "550873.48",
+    "longitude": "-90.08263985724945",
+    "latitude": "30.00885668747848",
+    "geocoded_column": {
+      "latitude": "30.00885668747848",
+      "longitude": "-90.08263985724945"
+    }
+  },
+  {
     "service_request": "2022-864262",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -25,12 +89,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-03-03T14:54:44.000",
-    "date_modified": "2022-03-03T14:54:44.000",
+    "date_modified": "2022-03-04T08:17:23.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5136 De Montluzin St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "864258",
     "final_x": "3686991.00873",
     "final_y": "551850.885782",
@@ -60,27 +124,6 @@
     "geocoded_column": {
       "latitude": "29.933770802028125",
       "longitude": "-90.00447023866258"
-    }
-  },
-  {
-    "service_request": "2022-864164",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-03T11:10:55.000",
-    "date_modified": "2022-03-03T11:10:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PRENTISS AVE & PASTEUR BLVD",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "864164",
-    "final_x": "3682817.6",
-    "final_y": "553774.98",
-    "longitude": "-90.06313081830882",
-    "latitude": "30.016648963412653",
-    "geocoded_column": {
-      "latitude": "30.016648963412653",
-      "longitude": "-90.06313081830882"
     }
   },
   {
@@ -3861,12 +3904,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-01-31T14:17:50.000",
-    "date_modified": "2022-02-22T14:40:34.000",
-    "request_status": "Pending",
+    "date_modified": "2022-03-04T09:43:14.000",
+    "case_close_date": "2022-03-04T03:43:14.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "TCHOUPITOULAS ST & STATE ST",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "857845",
     "final_x": "3664157.6",
     "final_y": "517519.18",
@@ -21247,48 +21291,6 @@
     "geocoded_column": {
       "latitude": "30.013238895899196",
       "longitude": "-90.057830306878"
-    }
-  },
-  {
-    "service_request": "2021-805663",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-31T09:08:31.000",
-    "date_modified": "2021-08-02T10:22:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5217 Arts St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "805663",
-    "final_x": "3685806.92022",
-    "final_y": "552343.088214",
-    "longitude": "-90.05373637555445",
-    "latitude": "30.01262033109664",
-    "geocoded_column": {
-      "latitude": "30.01262033109664",
-      "longitude": "-90.05373637555445"
-    }
-  },
-  {
-    "service_request": "2021-805405",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-30T11:23:03.000",
-    "date_modified": "2021-10-20T00:58:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "ANNUNCIATION ST & RACE ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "805405",
-    "final_x": "3680982.1",
-    "final_y": "523663.18",
-    "longitude": "-90.06997919575852",
-    "latitude": "29.933907771054976",
-    "geocoded_column": {
-      "latitude": "29.933907771054976",
-      "longitude": "-90.06997919575852"
     }
   }
 ]
