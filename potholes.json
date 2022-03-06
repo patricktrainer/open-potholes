@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2022-864717",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-05T12:25:37.000",
+    "date_modified": "2022-03-05T12:25:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2338 Governor Nicholls St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "864717",
+    "final_x": "3678895.19362",
+    "final_y": "537516.957704",
+    "longitude": "-90.07608758947717",
+    "latitude": "29.9720641077998",
+    "geocoded_column": {
+      "latitude": "29.9720641077998",
+      "longitude": "-90.07608758947717"
+    }
+  },
+  {
+    "service_request": "2022-864696",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-05T10:39:38.000",
+    "date_modified": "2022-03-05T10:39:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "S CARROLLTON AVE & ORPHEUS CT",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "864696",
+    "final_x": "3667892.8",
+    "final_y": "534715.78",
+    "longitude": "-90.11092945065096",
+    "latitude": "29.964689156466342",
+    "geocoded_column": {
+      "latitude": "29.964689156466342",
+      "longitude": "-90.11092945065096"
+    }
+  },
+  {
+    "service_request": "2022-864695",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-05T10:39:36.000",
+    "date_modified": "2022-03-05T10:39:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "S CARROLLTON AVE & ORPHEUS CT",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "864695",
+    "final_x": "3667892.8",
+    "final_y": "534715.78",
+    "longitude": "-90.11092945065096",
+    "latitude": "29.964689156466342",
+    "geocoded_column": {
+      "latitude": "29.964689156466342",
+      "longitude": "-90.11092945065096"
+    }
+  },
+  {
+    "service_request": "2022-864668",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-05T08:22:28.000",
+    "date_modified": "2022-03-05T08:22:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3522 Iberville St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "864668",
+    "final_x": "3672924.44481",
+    "final_y": "537429.234376",
+    "longitude": "-90.0949472246691",
+    "latitude": "29.97200168464759",
+    "geocoded_column": {
+      "latitude": "29.97200168464759",
+      "longitude": "-90.0949472246691"
+    }
+  },
+  {
     "service_request": "2022-864506",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21204,93 +21288,6 @@
     "geocoded_column": {
       "latitude": "29.983262083237268",
       "longitude": "-90.11015403591716"
-    }
-  },
-  {
-    "service_request": "2021-805948",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T05:41:06.000",
-    "date_modified": "2021-10-20T00:53:02.000",
-    "case_close_date": "2021-08-15T09:39:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "39 Vivian Ct",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "805948",
-    "final_x": "3702122.30429",
-    "final_y": "521124.602041",
-    "longitude": "-90.0033339735559",
-    "latitude": "29.926269734781897",
-    "geocoded_column": {
-      "latitude": "29.926269734781897",
-      "longitude": "-90.0033339735559"
-    }
-  },
-  {
-    "service_request": "2021-805919",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-01T18:35:05.000",
-    "date_modified": "2021-10-19T22:17:15.000",
-    "case_close_date": "2021-08-02T05:05:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "SUMPTER ST & ST ANTHONY AVE",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "805919",
-    "final_x": "3682421.1",
-    "final_y": "549444.18",
-    "longitude": "-90.06453510735618",
-    "latitude": "30.004752912081678",
-    "geocoded_column": {
-      "latitude": "30.004752912081678",
-      "longitude": "-90.06453510735618"
-    }
-  },
-  {
-    "service_request": "2021-805910",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-01T17:26:20.000",
-    "date_modified": "2021-10-20T00:53:13.000",
-    "case_close_date": "2021-08-15T05:42:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1821 River Oaks Dr",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "805910",
-    "final_x": "3701639.22007",
-    "final_y": "523986.650172",
-    "longitude": "-90.00475416734814",
-    "latitude": "29.934154783444022",
-    "geocoded_column": {
-      "latitude": "29.934154783444022",
-      "longitude": "-90.00475416734814"
-    }
-  },
-  {
-    "service_request": "2021-805667",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-07-31T09:12:00.000",
-    "date_modified": "2021-08-06T10:25:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2303 Filmore Ave",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "805667",
-    "final_x": "3684508.80098",
-    "final_y": "552553.57743",
-    "longitude": "-90.057830306878",
-    "latitude": "30.013238895899196",
-    "geocoded_column": {
-      "latitude": "30.013238895899196",
-      "longitude": "-90.057830306878"
     }
   }
 ]
