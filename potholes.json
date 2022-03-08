@@ -1,44 +1,65 @@
 [
   {
-    "service_request": "2022-864875",
+    "service_request": "2022-865137",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
-    "date_created": "2022-03-06T22:40:20.000",
-    "date_modified": "2022-03-06T22:40:20.000",
+    "date_created": "2022-03-07T15:08:38.000",
+    "date_modified": "2022-03-07T15:08:38.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "2676 Wisteria St",
-    "address_councildis": "D",
+    "final_address": "1018 Desire St",
+    "address_councildis": "C",
     "status": "Pending",
-    "rowid": "864875",
-    "final_x": "3687621.90108",
-    "final_y": "548347.23829",
-    "longitude": "-90.04814365178576",
-    "latitude": "30.00157734700328",
+    "rowid": "865137",
+    "final_x": "3690085.51036",
+    "final_y": "535441.974598",
+    "longitude": "-90.040820768112",
+    "latitude": "29.96601627763169",
     "geocoded_column": {
-      "latitude": "30.00157734700328",
-      "longitude": "-90.04814365178576"
+      "latitude": "29.96601627763169",
+      "longitude": "-90.040820768112"
     }
   },
   {
-    "service_request": "2022-864874",
+    "service_request": "2022-865053",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
-    "date_created": "2022-03-06T22:37:23.000",
-    "date_modified": "2022-03-06T22:37:23.000",
+    "date_created": "2022-03-07T12:12:30.000",
+    "date_modified": "2022-03-07T12:12:30.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "2676 Wisteria St",
-    "address_councildis": "D",
+    "final_address": "626 Ricks Pl",
+    "address_councildis": "C",
     "status": "Pending",
-    "rowid": "864874",
-    "final_x": "3687621.90108",
-    "final_y": "548347.23829",
-    "longitude": "-90.04814365178576",
-    "latitude": "30.00157734700328",
+    "rowid": "865053",
+    "final_x": "3687972.40438",
+    "final_y": "524661.18822",
+    "longitude": "-90.0478758189674",
+    "latitude": "29.936438183810676",
     "geocoded_column": {
-      "latitude": "30.00157734700328",
-      "longitude": "-90.04814365178576"
+      "latitude": "29.936438183810676",
+      "longitude": "-90.0478758189674"
+    }
+  },
+  {
+    "service_request": "2022-865033",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-07T11:34:57.000",
+    "date_modified": "2022-03-07T11:34:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "940 Gravier St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "865033",
+    "final_x": "3679849.51995",
+    "final_y": "530464.291394",
+    "longitude": "-90.07331859930923",
+    "latitude": "29.952642849403674",
+    "geocoded_column": {
+      "latitude": "29.952642849403674",
+      "longitude": "-90.07331859930923"
     }
   },
   {
@@ -46,12 +67,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-03-05T12:25:37.000",
-    "date_modified": "2022-03-05T12:25:37.000",
-    "request_status": "Pending",
+    "date_modified": "2022-03-07T07:53:19.000",
+    "case_close_date": "2022-03-07T01:53:19.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "2338 Governor Nicholls St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Captured by Project",
     "rowid": "864717",
     "final_x": "3678895.19362",
     "final_y": "537516.957704",
@@ -21266,28 +21288,6 @@
     "geocoded_column": {
       "latitude": "30.00603591892956",
       "longitude": "-90.117642049107"
-    }
-  },
-  {
-    "service_request": "2021-806093",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T11:16:37.000",
-    "date_modified": "2021-08-03T10:14:13.000",
-    "case_close_date": "2021-08-03T05:14:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FRANCE ST & POLAND AVE",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "806093",
-    "final_x": "3693528.1",
-    "final_y": "539520.08",
-    "longitude": "-90.02980270305571",
-    "latitude": "29.977122392334156",
-    "geocoded_column": {
-      "latitude": "29.977122392334156",
-      "longitude": "-90.02980270305571"
     }
   }
 ]
