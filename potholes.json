@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2022-865441",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-08T15:32:52.000",
+    "date_modified": "2022-03-08T15:32:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1637 Octavia St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "865441",
+    "final_x": "3667204.73345",
+    "final_y": "522041.466362",
+    "longitude": "-90.11352840768842",
+    "latitude": "29.929859069461468",
+    "geocoded_column": {
+      "latitude": "29.929859069461468",
+      "longitude": "-90.11352840768842"
+    }
+  },
+  {
+    "service_request": "2022-865379",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-08T12:41:59.000",
+    "date_modified": "2022-03-08T14:18:01.000",
+    "case_close_date": "2022-03-08T08:18:01.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7600 BLK Berg Rd",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "865379",
+    "final_x": "3711968.81979",
+    "final_y": "566702.45595",
+    "longitude": "-89.97054048058597",
+    "latitude": "30.051273614181188",
+    "geocoded_column": {
+      "latitude": "30.051273614181188",
+      "longitude": "-89.97054048058597"
+    }
+  },
+  {
+    "service_request": "2022-865295",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-08T10:16:57.000",
+    "date_modified": "2022-03-08T10:16:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5900 Prytania St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "865295",
+    "final_x": "3665543.34912",
+    "final_y": "520685.251193",
+    "longitude": "-90.11881851455738",
+    "latitude": "29.92617843300706",
+    "geocoded_column": {
+      "latitude": "29.92617843300706",
+      "longitude": "-90.11881851455738"
+    }
+  },
+  {
+    "service_request": "2022-865241",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-08T08:00:04.000",
+    "date_modified": "2022-03-08T08:02:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "A",
+    "rowid": "865241",
+    "final_x": "3667073.59617",
+    "final_y": "520838.454585",
+    "longitude": "-90.11398280058988",
+    "latitude": "29.92655500649478",
+    "geocoded_column": {
+      "latitude": "29.92655500649478",
+      "longitude": "-90.11398280058988"
+    }
+  },
+  {
     "service_request": "2022-865137",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -166,27 +250,6 @@
     "geocoded_column": {
       "latitude": "30.00751174678421",
       "longitude": "-90.10465857840279"
-    }
-  },
-  {
-    "service_request": "2022-864486",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-04T11:54:16.000",
-    "date_modified": "2022-03-04T11:54:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "318 S Dupre St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "864486",
-    "final_x": "3674073.68507",
-    "final_y": "534841.529158",
-    "longitude": "-90.09140630891052",
-    "latitude": "29.9648521673354",
-    "geocoded_column": {
-      "latitude": "29.9648521673354",
-      "longitude": "-90.09140630891052"
     }
   },
   {
@@ -21222,72 +21285,6 @@
     "geocoded_column": {
       "latitude": "30.041139250458354",
       "longitude": "-89.99313279089566"
-    }
-  },
-  {
-    "service_request": "2021-806217",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T14:28:32.000",
-    "date_modified": "2021-08-04T10:27:05.000",
-    "case_close_date": "2021-08-04T05:27:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "GENERAL MEYER AVE & RIVER OAKS DR",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "806217",
-    "final_x": "3701621.2",
-    "final_y": "523454.78",
-    "longitude": "-90.00483052329017",
-    "latitude": "29.932692900104435",
-    "geocoded_column": {
-      "latitude": "29.932692900104435",
-      "longitude": "-90.00483052329017"
-    }
-  },
-  {
-    "service_request": "2021-806194",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T14:08:20.000",
-    "date_modified": "2021-08-03T11:23:42.000",
-    "case_close_date": "2021-08-03T06:23:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7118 Foch Rd",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "806194",
-    "final_x": "3696377.5192",
-    "final_y": "556906.82505",
-    "longitude": "-90.02017404722558",
-    "latitude": "30.024840066646735",
-    "geocoded_column": {
-      "latitude": "30.024840066646735",
-      "longitude": "-90.02017404722558"
-    }
-  },
-  {
-    "service_request": "2021-806122",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T11:54:14.000",
-    "date_modified": "2021-08-15T14:49:22.000",
-    "case_close_date": "2021-08-15T09:49:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "225 W Harrison Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Case",
-    "rowid": "806122",
-    "final_x": "3665607.89792",
-    "final_y": "549728.510356",
-    "longitude": "-90.117642049107",
-    "latitude": "30.00603591892956",
-    "geocoded_column": {
-      "latitude": "30.00603591892956",
-      "longitude": "-90.117642049107"
     }
   }
 ]
