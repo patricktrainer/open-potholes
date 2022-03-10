@@ -1,5 +1,90 @@
 [
   {
+    "service_request": "2022-865725",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-09T14:08:00.000",
+    "date_modified": "2022-03-09T14:08:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5734 Cameron Blvd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "865725",
+    "final_x": "3682337.18844",
+    "final_y": "554192.112216",
+    "longitude": "-90.06463412097872",
+    "latitude": "30.017810559238374",
+    "geocoded_column": {
+      "latitude": "30.017810559238374",
+      "longitude": "-90.06463412097872"
+    }
+  },
+  {
+    "service_request": "2022-865633",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-09T10:39:15.000",
+    "date_modified": "2022-03-09T10:39:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "COPERNICUS ST & CASA CALVO ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "865633",
+    "final_x": "3691951.3",
+    "final_y": "523899.68",
+    "longitude": "-90.03534158072613",
+    "latitude": "29.93422095849826",
+    "geocoded_column": {
+      "latitude": "29.93422095849826",
+      "longitude": "-90.03534158072613"
+    }
+  },
+  {
+    "service_request": "2022-865588",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-09T09:29:33.000",
+    "date_modified": "2022-03-09T10:18:26.000",
+    "case_close_date": "2022-03-09T04:18:26.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5000 Stephen Girard Ave",
+    "address_councildis": "D",
+    "status": "Resolved",
+    "rowid": "865588",
+    "final_x": "3692642.58409",
+    "final_y": "551000.918613",
+    "longitude": "-90.03218768983015",
+    "latitude": "30.008718194789598",
+    "geocoded_column": {
+      "latitude": "30.008718194789598",
+      "longitude": "-90.03218768983015"
+    }
+  },
+  {
+    "service_request": "2022-865585",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-09T09:26:12.000",
+    "date_modified": "2022-03-09T11:13:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2421 Columbus St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "865585",
+    "final_x": "3679358.67951",
+    "final_y": "539072.414218",
+    "longitude": "-90.07456985994588",
+    "latitude": "29.976327085713226",
+    "geocoded_column": {
+      "latitude": "29.976327085713226",
+      "longitude": "-90.07456985994588"
+    }
+  },
+  {
     "service_request": "2022-865441",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -6741,12 +6826,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2021-12-27T12:27:38.000",
-    "date_modified": "2021-12-27T12:27:38.000",
-    "request_status": "Pending",
+    "date_modified": "2022-03-09T09:36:59.000",
+    "case_close_date": "2022-03-09T03:36:59.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "6504 General Diaz St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "849988",
     "final_x": "3669729.74855",
     "final_y": "550687.699924",
@@ -21197,94 +21283,6 @@
     "geocoded_column": {
       "latitude": "29.945908084126163",
       "longitude": "-90.09486581875524"
-    }
-  },
-  {
-    "service_request": "2021-806488",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-03T10:00:43.000",
-    "date_modified": "2021-08-04T11:48:21.000",
-    "case_close_date": "2021-08-04T06:48:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "14421 Morrison Rd",
-    "address_councildis": "E",
-    "status": "Duplicate Case",
-    "rowid": "806488",
-    "final_x": "3720343.1701",
-    "final_y": "572332.240361",
-    "longitude": "-89.94385646940712",
-    "latitude": "30.066476652847204",
-    "geocoded_column": {
-      "latitude": "30.066476652847204",
-      "longitude": "-89.94385646940712"
-    }
-  },
-  {
-    "service_request": "2021-806433",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-03T08:23:13.000",
-    "date_modified": "2021-08-04T10:09:35.000",
-    "case_close_date": "2021-08-04T05:09:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3400 BLK Desire Pkwy",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "806433",
-    "final_x": "3692749.83854",
-    "final_y": "544889.94905",
-    "longitude": "-90.03206809256272",
-    "latitude": "29.99191191991924",
-    "geocoded_column": {
-      "latitude": "29.99191191991924",
-      "longitude": "-90.03206809256272"
-    }
-  },
-  {
-    "service_request": "2021-806310",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T16:07:18.000",
-    "date_modified": "2021-08-03T08:58:51.000",
-    "case_close_date": "2021-08-03T03:58:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5331 Bancroft Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "806310",
-    "final_x": "3676481.34344",
-    "final_y": "551778.486357",
-    "longitude": "-90.0832195407086",
-    "latitude": "30.011350933499298",
-    "geocoded_column": {
-      "latitude": "30.011350933499298",
-      "longitude": "-90.0832195407086"
-    }
-  },
-  {
-    "service_request": "2021-806301",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-02T15:47:31.000",
-    "date_modified": "2021-08-03T11:42:28.000",
-    "case_close_date": "2021-08-03T06:42:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8800 BLK Curran Rd",
-    "address_councildis": "E",
-    "status": "Duplicate Case",
-    "rowid": "806301",
-    "final_x": "3704864.91012",
-    "final_y": "562932.906074",
-    "longitude": "-89.99313279089566",
-    "latitude": "30.041139250458354",
-    "geocoded_column": {
-      "latitude": "30.041139250458354",
-      "longitude": "-89.99313279089566"
     }
   }
 ]
