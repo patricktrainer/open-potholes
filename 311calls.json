@@ -9523,23 +9523,6 @@
     }
   },
   {
-    "service_request": "2022-867125",
-    "request_type": "Safety & Permits",
-    "request_reason": "Licenses & Permits",
-    "date_created": "2022-03-15T10:55:11.000",
-    "date_modified": "2022-03-15T10:55:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Safety and Permits",
-    "status": "Pending",
-    "rowid": "867125",
-    "longitude": "0.0",
-    "latitude": "0.0",
-    "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
-    }
-  },
-  {
     "service_request": "2022-867126",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -9558,6 +9541,23 @@
     "geocoded_column": {
       "latitude": "29.93426747439861",
       "longitude": "-90.08484039792874"
+    }
+  },
+  {
+    "service_request": "2022-867125",
+    "request_type": "Safety & Permits",
+    "request_reason": "Licenses & Permits",
+    "date_created": "2022-03-15T10:55:11.000",
+    "date_modified": "2022-03-15T10:55:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Safety and Permits",
+    "status": "Pending",
+    "rowid": "867125",
+    "longitude": "0.0",
+    "latitude": "0.0",
+    "geocoded_column": {
+      "latitude": "0.0",
+      "longitude": "0.0"
     }
   },
   {
