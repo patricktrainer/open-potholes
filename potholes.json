@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-868375",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-21T01:23:16.000",
+    "date_modified": "2022-03-21T01:23:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2304 St Roch Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "868375",
+    "final_x": "3686051.91452",
+    "final_y": "540909.055179",
+    "longitude": "-90.0533658690041",
+    "latitude": "29.981173326105186",
+    "geocoded_column": {
+      "latitude": "29.981173326105186",
+      "longitude": "-90.0533658690041"
+    }
+  },
+  {
+    "service_request": "2022-868302",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-20T10:21:37.000",
+    "date_modified": "2022-03-20T10:21:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1800 Mcshane Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "868302",
+    "final_x": "3683624.0086",
+    "final_y": "536049.758663",
+    "longitude": "-90.06120467860296",
+    "latitude": "29.96788630339646",
+    "geocoded_column": {
+      "latitude": "29.96788630339646",
+      "longitude": "-90.06120467860296"
+    }
+  },
+  {
     "service_request": "2022-868248",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21230,49 +21272,6 @@
     "geocoded_column": {
       "latitude": "29.925779646900356",
       "longitude": "-90.11073408735746"
-    }
-  },
-  {
-    "service_request": "2021-811763",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-18T08:52:48.000",
-    "date_modified": "2021-11-10T11:17:44.000",
-    "case_close_date": "2021-11-10T05:17:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK Dufossat St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "811763",
-    "final_x": "3668096.26777",
-    "final_y": "520288.987753",
-    "longitude": "-90.11077300396295",
-    "latitude": "29.92501418311737",
-    "geocoded_column": {
-      "latitude": "29.92501418311737",
-      "longitude": "-90.11077300396295"
-    }
-  },
-  {
-    "service_request": "2021-811638",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-17T17:11:37.000",
-    "date_modified": "2021-08-17T17:11:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "420 Jackson Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "811638",
-    "final_x": "3680400.61544",
-    "final_y": "519971.765624",
-    "longitude": "-90.07194320504897",
-    "latitude": "29.923775209113735",
-    "geocoded_column": {
-      "latitude": "29.923775209113735",
-      "longitude": "-90.07194320504897"
     }
   }
 ]
