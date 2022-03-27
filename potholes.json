@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-869900",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-26T15:30:32.000",
+    "date_modified": "2022-03-26T15:30:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2600 BLK Monticello Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "869900",
+    "final_x": "3662201.83042",
+    "final_y": "535209.18101",
+    "longitude": "-90.12888485118305",
+    "latitude": "29.966211559062085",
+    "geocoded_column": {
+      "latitude": "29.966211559062085",
+      "longitude": "-90.12888485118305"
+    }
+  },
+  {
+    "service_request": "2022-869890",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-26T14:43:29.000",
+    "date_modified": "2022-03-26T14:43:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5432 Sutton Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "869890",
+    "final_x": "3704176.32458",
+    "final_y": "518600.999031",
+    "longitude": "-89.99694297687832",
+    "latitude": "29.919264985138543",
+    "geocoded_column": {
+      "latitude": "29.919264985138543",
+      "longitude": "-89.99694297687832"
+    }
+  },
+  {
     "service_request": "2022-869750",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21254,49 +21296,6 @@
     "geocoded_column": {
       "latitude": "29.966556789353817",
       "longitude": "-90.04776978451652"
-    }
-  },
-  {
-    "service_request": "2021-812854",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-20T14:53:06.000",
-    "date_modified": "2021-10-19T23:00:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BORDEAUX ST & DANNEEL ST",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "812854",
-    "final_x": "3669244.0",
-    "final_y": "522149.58",
-    "longitude": "-90.1070871204147",
-    "latitude": "29.930096497152498",
-    "geocoded_column": {
-      "latitude": "29.930096497152498",
-      "longitude": "-90.1070871204147"
-    }
-  },
-  {
-    "service_request": "2021-812831",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-20T14:06:11.000",
-    "date_modified": "2021-10-19T23:00:27.000",
-    "case_close_date": "2021-08-24T03:33:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1800 BLK Murl St",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "812831",
-    "final_x": "3695343.0056",
-    "final_y": "524585.364659",
-    "longitude": "-90.02460940784043",
-    "latitude": "29.9360002759611",
-    "geocoded_column": {
-      "latitude": "29.9360002759611",
-      "longitude": "-90.02460940784043"
     }
   }
 ]
