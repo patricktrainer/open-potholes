@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-869960",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-27T12:40:23.000",
+    "date_modified": "2022-03-27T12:40:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1100 BLK Monroe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "869960",
+    "final_x": "3660269.44845",
+    "final_y": "529673.850217",
+    "longitude": "-90.13517009417765",
+    "latitude": "29.951046897584394",
+    "geocoded_column": {
+      "latitude": "29.951046897584394",
+      "longitude": "-90.13517009417765"
+    }
+  },
+  {
+    "service_request": "2022-869935",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-27T09:30:16.000",
+    "date_modified": "2022-03-27T09:30:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5500 Paris Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "869935",
+    "final_x": "3678794.34613",
+    "final_y": "552818.48431",
+    "longitude": "-90.07587576162345",
+    "latitude": "30.01414096363432",
+    "geocoded_column": {
+      "latitude": "30.01414096363432",
+      "longitude": "-90.07587576162345"
+    }
+  },
+  {
+    "service_request": "2022-869933",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-03-27T09:21:17.000",
+    "date_modified": "2022-03-27T09:21:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2013 N Derbigny St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "869933",
+    "final_x": "3684194.3686",
+    "final_y": "538493.396873",
+    "longitude": "-90.05931766295308",
+    "latitude": "29.974588035604548",
+    "geocoded_column": {
+      "latitude": "29.974588035604548",
+      "longitude": "-90.05931766295308"
+    }
+  },
+  {
     "service_request": "2022-869900",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21230,72 +21293,6 @@
     "geocoded_column": {
       "latitude": "29.974505069728085",
       "longitude": "-90.04931177569073"
-    }
-  },
-  {
-    "service_request": "2021-813151",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-21T16:18:56.000",
-    "date_modified": "2021-08-22T07:07:58.000",
-    "case_close_date": "2021-08-22T02:07:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1024 Robert St",
-    "address_councildis": "B",
-    "status": "Duplicate Case",
-    "rowid": "813151",
-    "final_x": "3668621.38689",
-    "final_y": "519165.358839",
-    "longitude": "-90.10915326229221",
-    "latitude": "29.92190914309281",
-    "geocoded_column": {
-      "latitude": "29.92190914309281",
-      "longitude": "-90.10915326229221"
-    }
-  },
-  {
-    "service_request": "2021-813051",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-21T11:50:46.000",
-    "date_modified": "2022-03-21T07:51:37.000",
-    "case_close_date": "2022-03-21T02:51:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "TOLEDANO ST & S CLAIBORNE AVE",
-    "address_councildis": "B",
-    "status": "Duplicate Case",
-    "rowid": "813051",
-    "final_x": "3672631.4",
-    "final_y": "526283.48",
-    "longitude": "-90.09625273972583",
-    "latitude": "29.94136326836494",
-    "geocoded_column": {
-      "latitude": "29.94136326836494",
-      "longitude": "-90.09625273972583"
-    }
-  },
-  {
-    "service_request": "2021-812961",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-08-20T23:04:50.000",
-    "date_modified": "2021-08-24T08:38:40.000",
-    "case_close_date": "2021-08-24T03:38:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Homer Plessy Way",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "812961",
-    "final_x": "3687883.10959",
-    "final_y": "535613.77287",
-    "longitude": "-90.04776978451652",
-    "latitude": "29.966556789353817",
-    "geocoded_column": {
-      "latitude": "29.966556789353817",
-      "longitude": "-90.04776978451652"
     }
   }
 ]
