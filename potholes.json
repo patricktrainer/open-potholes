@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-873704",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-10T21:51:26.000",
+    "date_modified": "2022-04-10T21:51:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "129 Royal St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "873704",
+    "final_x": "3681347.5156",
+    "final_y": "530929.742402",
+    "longitude": "-90.06857238462023",
+    "latitude": "29.953877303202322",
+    "geocoded_column": {
+      "latitude": "29.953877303202322",
+      "longitude": "-90.06857238462023"
+    }
+  },
+  {
     "service_request": "2022-873576",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21268,27 +21289,6 @@
     "geocoded_column": {
       "latitude": "30.0125242707525",
       "longitude": "-90.07826248107278"
-    }
-  },
-  {
-    "service_request": "2021-824718",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-22T15:02:19.000",
-    "date_modified": "2021-10-19T20:07:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "DE ARMAS ST & FLANDERS ST",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "824718",
-    "final_x": "3696748.7",
-    "final_y": "526991.58",
-    "longitude": "-90.02008455902117",
-    "latitude": "29.942572314484977",
-    "geocoded_column": {
-      "latitude": "29.942572314484977",
-      "longitude": "-90.02008455902117"
     }
   }
 ]
