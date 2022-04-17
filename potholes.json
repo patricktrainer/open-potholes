@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-875291",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-16T15:40:20.000",
+    "date_modified": "2022-04-16T15:40:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "560 Audubon St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "875291",
+    "final_x": "3662894.87783",
+    "final_y": "524209.972348",
+    "longitude": "-90.12706188384145",
+    "latitude": "29.93594723002522",
+    "geocoded_column": {
+      "latitude": "29.93594723002522",
+      "longitude": "-90.12706188384145"
+    }
+  },
+  {
+    "service_request": "2022-875250",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-16T10:20:31.000",
+    "date_modified": "2022-04-16T10:20:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "935 Gravier St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "875250",
+    "final_x": "3679898.29691",
+    "final_y": "530533.113026",
+    "longitude": "-90.07316219376503",
+    "latitude": "29.952830610787032",
+    "geocoded_column": {
+      "latitude": "29.952830610787032",
+      "longitude": "-90.07316219376503"
+    }
+  },
+  {
     "service_request": "2022-875208",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21239,49 +21281,6 @@
     "geocoded_column": {
       "latitude": "29.974267539018825",
       "longitude": "-90.01133174596667"
-    }
-  },
-  {
-    "service_request": "2021-827607",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-29T16:31:51.000",
-    "date_modified": "2021-09-29T16:31:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3231 Derby Pl",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "827607",
-    "final_x": "3677736.466",
-    "final_y": "542966.535501",
-    "longitude": "-90.07955872467683",
-    "latitude": "29.987083472151852",
-    "geocoded_column": {
-      "latitude": "29.987083472151852",
-      "longitude": "-90.07955872467683"
-    }
-  },
-  {
-    "service_request": "2021-827409",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-29T10:56:38.000",
-    "date_modified": "2021-10-19T18:35:32.000",
-    "case_close_date": "2021-10-05T07:38:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "HAYNE BLVD & PRESS DR",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "827409",
-    "final_x": "3688842.8",
-    "final_y": "557721.28",
-    "longitude": "-90.04395349141949",
-    "latitude": "30.02731478987773",
-    "geocoded_column": {
-      "latitude": "30.02731478987773",
-      "longitude": "-90.04395349141949"
     }
   }
 ]
