@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-875413",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-17T21:18:03.000",
+    "date_modified": "2022-04-17T21:18:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1738 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "875413",
+    "final_x": "3663333.21933",
+    "final_y": "529902.978561",
+    "longitude": "-90.12548856848827",
+    "latitude": "29.951588480592996",
+    "geocoded_column": {
+      "latitude": "29.951588480592996",
+      "longitude": "-90.12548856848827"
+    }
+  },
+  {
+    "service_request": "2022-875412",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-17T21:15:51.000",
+    "date_modified": "2022-04-17T21:15:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1703 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "875412",
+    "final_x": "3663293.84384",
+    "final_y": "529598.738113",
+    "longitude": "-90.1256230229845",
+    "latitude": "29.95075305871633",
+    "geocoded_column": {
+      "latitude": "29.95075305871633",
+      "longitude": "-90.1256230229845"
+    }
+  },
+  {
+    "service_request": "2022-875363",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-17T13:43:41.000",
+    "date_modified": "2022-04-17T13:43:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "830 Julia St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "875363",
+    "final_x": "3679742.20469",
+    "final_y": "528146.135743",
+    "longitude": "-90.07373791615615",
+    "latitude": "29.946271943078706",
+    "geocoded_column": {
+      "latitude": "29.946271943078706",
+      "longitude": "-90.07373791615615"
+    }
+  },
+  {
     "service_request": "2022-875291",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21216,71 +21279,6 @@
     "geocoded_column": {
       "latitude": "29.95102240607695",
       "longitude": "-90.13505267086491"
-    }
-  },
-  {
-    "service_request": "2021-827839",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-30T11:15:04.000",
-    "date_modified": "2021-10-04T14:08:22.000",
-    "case_close_date": "2021-10-04T09:08:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "DREUX AVE & DOWNMAN RD",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "827839",
-    "final_x": "3695997.2",
-    "final_y": "553769.58",
-    "longitude": "-90.02148928044049",
-    "latitude": "30.016225808033237",
-    "geocoded_column": {
-      "latitude": "30.016225808033237",
-      "longitude": "-90.02148928044049"
-    }
-  },
-  {
-    "service_request": "2021-827781",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-30T09:55:54.000",
-    "date_modified": "2021-10-19T19:18:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1725 Henriette Delille St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "827781",
-    "final_x": "3683353.77365",
-    "final_y": "536197.328327",
-    "longitude": "-90.06205291766868",
-    "latitude": "29.968300315701274",
-    "geocoded_column": {
-      "latitude": "29.968300315701274",
-      "longitude": "-90.06205291766868"
-    }
-  },
-  {
-    "service_request": "2021-827621",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-09-29T17:05:02.000",
-    "date_modified": "2021-10-19T16:54:44.000",
-    "case_close_date": "2021-10-04T08:56:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2339 Caffin Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Case",
-    "rowid": "827621",
-    "final_x": "3699387.68176",
-    "final_y": "538548.947977",
-    "longitude": "-90.01133174596667",
-    "latitude": "29.974267539018825",
-    "geocoded_column": {
-      "latitude": "29.974267539018825",
-      "longitude": "-90.01133174596667"
     }
   }
 ]
