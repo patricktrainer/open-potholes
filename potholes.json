@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-877169",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-24T16:28:01.000",
+    "date_modified": "2022-04-24T16:28:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8920 Heaton St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "877169",
+    "final_x": "3667109.70471",
+    "final_y": "538506.405257",
+    "longitude": "-90.11327496130778",
+    "latitude": "29.97513506213522",
+    "geocoded_column": {
+      "latitude": "29.97513506213522",
+      "longitude": "-90.11327496130778"
+    }
+  },
+  {
     "service_request": "2022-877100",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -1337,26 +1358,6 @@
     }
   },
   {
-    "service_request": "2022-874391",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:36:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874391",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874392",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -1367,6 +1368,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874392",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874391",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:36:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874391",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21264,27 +21285,6 @@
     "geocoded_column": {
       "latitude": "30.034711303552157",
       "longitude": "-90.01467368875949"
-    }
-  },
-  {
-    "service_request": "2021-829429",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-10-04T16:41:57.000",
-    "date_modified": "2021-10-19T16:55:27.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "517 S Solomon St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "829429",
-    "final_x": "3669499.22734",
-    "final_y": "537341.169032",
-    "longitude": "-90.10576762823064",
-    "latitude": "29.971860878471258",
-    "geocoded_column": {
-      "latitude": "29.971860878471258",
-      "longitude": "-90.10576762823064"
     }
   }
 ]
