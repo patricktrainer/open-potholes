@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2022-888890",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-04T23:24:40.000",
+    "date_modified": "2022-06-04T23:24:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "741 Navarre St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "888890",
+    "final_x": "3668643.71726",
+    "final_y": "543876.248974",
+    "longitude": "-90.10824881076562",
+    "latitude": "29.98985530986403",
+    "geocoded_column": {
+      "latitude": "29.98985530986403",
+      "longitude": "-90.10824881076562"
+    }
+  },
+  {
+    "service_request": "2022-888882",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-04T21:35:43.000",
+    "date_modified": "2022-06-04T21:35:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1011 Poeyfarre St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "888882",
+    "final_x": "3681167.0013",
+    "final_y": "526683.708798",
+    "longitude": "-90.06929027707527",
+    "latitude": "29.94220761479325",
+    "geocoded_column": {
+      "latitude": "29.94220761479325",
+      "longitude": "-90.06929027707527"
+    }
+  },
+  {
+    "service_request": "2022-888881",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-04T21:32:57.000",
+    "date_modified": "2022-06-04T21:32:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1011 Poeyfarre St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "888881",
+    "final_x": "3681167.0013",
+    "final_y": "526683.708798",
+    "longitude": "-90.06929027707527",
+    "latitude": "29.94220761479325",
+    "geocoded_column": {
+      "latitude": "29.94220761479325",
+      "longitude": "-90.06929027707527"
+    }
+  },
+  {
+    "service_request": "2022-888799",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-04T12:52:20.000",
+    "date_modified": "2022-06-04T12:52:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "523 Iberville St, New Orleans, Louisiana, 70130",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "888799",
+    "final_x": "3676291.25077",
+    "final_y": "535045.816454",
+    "longitude": "-90.08439634053394",
+    "latitude": "29.965347613188097",
+    "geocoded_column": {
+      "latitude": "29.965347613188097",
+      "longitude": "-90.08439634053394"
+    }
+  },
+  {
     "service_request": "2022-888704",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21257,92 +21341,6 @@
     "geocoded_column": {
       "latitude": "29.986001458669477",
       "longitude": "-90.0560509502771"
-    }
-  },
-  {
-    "service_request": "2021-842165",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-15T11:20:06.000",
-    "date_modified": "2021-11-15T13:19:27.000",
-    "case_close_date": "2021-11-15T07:19:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2900 BLK Mandeville St",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "842165",
-    "final_x": "3685199.07543",
-    "final_y": "543547.501931",
-    "longitude": "-90.05596661627355",
-    "latitude": "29.988454288696595",
-    "geocoded_column": {
-      "latitude": "29.988454288696595",
-      "longitude": "-90.05596661627355"
-    }
-  },
-  {
-    "service_request": "2021-842164",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-15T11:19:36.000",
-    "date_modified": "2021-11-15T13:24:07.000",
-    "case_close_date": "2021-11-15T07:24:07.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2800 BLK Mandeville St",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "842164",
-    "final_x": "3685229.12262",
-    "final_y": "543178.649979",
-    "longitude": "-90.05588469594043",
-    "latitude": "29.98743915574579",
-    "geocoded_column": {
-      "latitude": "29.98743915574579",
-      "longitude": "-90.05588469594043"
-    }
-  },
-  {
-    "service_request": "2021-842104",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-15T09:15:55.000",
-    "date_modified": "2021-11-15T09:16:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "TOURO ST & ROYAL ST",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "842104",
-    "final_x": "3684352.0",
-    "final_y": "534809.48",
-    "longitude": "-90.05894922445478",
-    "latitude": "29.964453722190264",
-    "geocoded_column": {
-      "latitude": "29.964453722190264",
-      "longitude": "-90.05894922445478"
-    }
-  },
-  {
-    "service_request": "2021-842059",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-15T07:10:48.000",
-    "date_modified": "2021-11-15T07:10:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "220 Hay Pl",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "842059",
-    "final_x": "3665941.35181",
-    "final_y": "554126.601368",
-    "longitude": "-90.11644102184513",
-    "latitude": "30.018119400853024",
-    "geocoded_column": {
-      "latitude": "30.018119400853024",
-      "longitude": "-90.11644102184513"
     }
   }
 ]
