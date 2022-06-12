@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-890868",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-11T17:31:10.000",
+    "date_modified": "2022-06-11T17:31:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "330 Carondelet St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "890868",
+    "final_x": "3680490.83061",
+    "final_y": "529959.555713",
+    "longitude": "-90.07131118307936",
+    "latitude": "29.95123558976461",
+    "geocoded_column": {
+      "latitude": "29.95123558976461",
+      "longitude": "-90.07131118307936"
+    }
+  },
+  {
+    "service_request": "2022-890831",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-11T12:34:42.000",
+    "date_modified": "2022-06-11T12:34:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "12301 Six Flags Prkwy",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "890831",
+    "final_x": "3723545.58534",
+    "final_y": "567766.645412",
+    "longitude": "-89.93390954575591",
+    "latitude": "30.05381602307878",
+    "geocoded_column": {
+      "latitude": "30.05381602307878",
+      "longitude": "-89.93390954575591"
+    }
+  },
+  {
+    "service_request": "2022-890780",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-11T08:37:46.000",
+    "date_modified": "2022-06-11T08:37:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "WRIGHT RD & DWYER RD",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "890780",
+    "final_x": "3716325.8",
+    "final_y": "558449.78",
+    "longitude": "-89.95708294067948",
+    "latitude": "30.028438893641248",
+    "geocoded_column": {
+      "latitude": "30.028438893641248",
+      "longitude": "-89.95708294067948"
+    }
+  },
+  {
     "service_request": "2022-890744",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21272,71 +21335,6 @@
     "geocoded_column": {
       "latitude": "29.964251473717294",
       "longitude": "-90.04428796940631"
-    }
-  },
-  {
-    "service_request": "2021-843856",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-23T11:51:25.000",
-    "date_modified": "2021-12-23T09:37:57.000",
-    "case_close_date": "2021-12-23T03:37:57.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5033 Constance St",
-    "address_councildis": "B",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "843856",
-    "final_x": "3668383.19073",
-    "final_y": "518261.056182",
-    "longitude": "-90.10993562651284",
-    "latitude": "29.91942959132321",
-    "geocoded_column": {
-      "latitude": "29.91942959132321",
-      "longitude": "-90.10993562651284"
-    }
-  },
-  {
-    "service_request": "2021-843830",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-23T10:11:21.000",
-    "date_modified": "2021-11-23T11:01:41.000",
-    "case_close_date": "2021-11-23T05:01:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2309 Frenchmen St",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "843830",
-    "final_x": "3684257.24041",
-    "final_y": "540795.658507",
-    "longitude": "-90.05903823645077",
-    "latitude": "29.980916526703965",
-    "geocoded_column": {
-      "latitude": "29.980916526703965",
-      "longitude": "-90.05903823645077"
-    }
-  },
-  {
-    "service_request": "2021-843821",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-11-23T09:46:01.000",
-    "date_modified": "2021-11-23T09:46:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5515 Danneel St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "843821",
-    "final_x": "3667076.40205",
-    "final_y": "522452.748218",
-    "longitude": "-90.11391971229378",
-    "latitude": "29.930993719674174",
-    "geocoded_column": {
-      "latitude": "29.930993719674174",
-      "longitude": "-90.11391971229378"
     }
   }
 ]
