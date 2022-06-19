@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-892830",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-18T16:43:19.000",
+    "date_modified": "2022-06-18T16:43:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1400 Governor Nicholls St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "892830",
+    "final_x": "3681649.47573",
+    "final_y": "535486.706694",
+    "longitude": "-90.06745995603487",
+    "latitude": "29.96639823303778",
+    "geocoded_column": {
+      "latitude": "29.96639823303778",
+      "longitude": "-90.06745995603487"
+    }
+  },
+  {
+    "service_request": "2022-892812",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-18T15:17:07.000",
+    "date_modified": "2022-06-18T15:17:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1809 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "892812",
+    "final_x": "3663576.98029",
+    "final_y": "529889.152705",
+    "longitude": "-90.1247193461916",
+    "latitude": "29.951543396388498",
+    "geocoded_column": {
+      "latitude": "29.951543396388498",
+      "longitude": "-90.1247193461916"
+    }
+  },
+  {
+    "service_request": "2022-892799",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-18T14:30:59.000",
+    "date_modified": "2022-06-18T14:30:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "810 Perdido St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "892799",
+    "final_x": "3680195.66063",
+    "final_y": "529716.312705",
+    "longitude": "-90.0722516363771",
+    "latitude": "29.950575689098343",
+    "geocoded_column": {
+      "latitude": "29.950575689098343",
+      "longitude": "-90.0722516363771"
+    }
+  },
+  {
     "service_request": "2022-892718",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -8849,26 +8912,6 @@
     }
   },
   {
-    "service_request": "2022-874391",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:36:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874391",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874392",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -8879,6 +8922,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874392",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874391",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:36:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874391",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21268,70 +21331,6 @@
     "geocoded_column": {
       "latitude": "29.960211841888615",
       "longitude": "-90.10971430595399"
-    }
-  },
-  {
-    "service_request": "2021-846703",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T12:19:30.000",
-    "date_modified": "2021-12-09T15:30:36.000",
-    "case_close_date": "2021-12-09T09:30:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3300 Fern St",
-    "address_councildis": "B",
-    "status": "Duplicate Case",
-    "rowid": "846703",
-    "final_x": "3667578.30394",
-    "final_y": "533442.252548",
-    "longitude": "-90.11196547895194",
-    "latitude": "29.961196598541033",
-    "geocoded_column": {
-      "latitude": "29.961196598541033",
-      "longitude": "-90.11196547895194"
-    }
-  },
-  {
-    "service_request": "2021-846702",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T12:18:31.000",
-    "date_modified": "2021-12-17T09:39:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8000 BLK Forshey St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "846702",
-    "final_x": "3667216.17111",
-    "final_y": "533727.49106",
-    "longitude": "-90.11309944130821",
-    "latitude": "29.96199151921236",
-    "geocoded_column": {
-      "latitude": "29.96199151921236",
-      "longitude": "-90.11309944130821"
-    }
-  },
-  {
-    "service_request": "2021-846620",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T08:55:20.000",
-    "date_modified": "2021-12-08T09:39:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5160 Pauline Dr",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "846620",
-    "final_x": "3692336.44873",
-    "final_y": "553223.985047",
-    "longitude": "-90.0330751681912",
-    "latitude": "30.014840357274768",
-    "geocoded_column": {
-      "latitude": "30.014840357274768",
-      "longitude": "-90.0330751681912"
     }
   }
 ]
