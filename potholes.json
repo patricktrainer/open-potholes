@@ -1,5 +1,152 @@
 [
   {
+    "service_request": "2022-893166",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T15:56:07.000",
+    "date_modified": "2022-06-20T15:56:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2854 Grand Route St John St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "893166",
+    "final_x": "3677842.60526",
+    "final_y": "540231.492235",
+    "longitude": "-90.07931801483132",
+    "latitude": "29.979559858502576",
+    "geocoded_column": {
+      "latitude": "29.979559858502576",
+      "longitude": "-90.07931801483132"
+    }
+  },
+  {
+    "service_request": "2022-893162",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T15:50:02.000",
+    "date_modified": "2022-06-20T16:19:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2000 Canal St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "893162",
+    "final_x": "3677244.2644",
+    "final_y": "533337.961476",
+    "longitude": "-90.0814456925121",
+    "latitude": "29.9606229931878",
+    "geocoded_column": {
+      "latitude": "29.9606229931878",
+      "longitude": "-90.0814456925121"
+    }
+  },
+  {
+    "service_request": "2022-893137",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T14:27:27.000",
+    "date_modified": "2022-06-20T14:27:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1228 Pine St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "893137",
+    "final_x": "3664038.21626",
+    "final_y": "526896.058686",
+    "longitude": "-90.12336277709858",
+    "latitude": "29.9432999654711",
+    "geocoded_column": {
+      "latitude": "29.9432999654711",
+      "longitude": "-90.12336277709858"
+    }
+  },
+  {
+    "service_request": "2022-893034",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T11:05:13.000",
+    "date_modified": "2022-06-20T11:05:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1936 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "893034",
+    "final_x": "3663805.61997",
+    "final_y": "530442.67725",
+    "longitude": "-90.12397896327734",
+    "latitude": "29.953058776656835",
+    "geocoded_column": {
+      "latitude": "29.953058776656835",
+      "longitude": "-90.12397896327734"
+    }
+  },
+  {
+    "service_request": "2022-893032",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T11:02:36.000",
+    "date_modified": "2022-06-20T11:02:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1803 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "893032",
+    "final_x": "3663534.3824",
+    "final_y": "529846.002753",
+    "longitude": "-90.12485528723494",
+    "latitude": "29.951425983352085",
+    "geocoded_column": {
+      "latitude": "29.951425983352085",
+      "longitude": "-90.12485528723494"
+    }
+  },
+  {
+    "service_request": "2022-892996",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T09:46:16.000",
+    "date_modified": "2022-06-20T09:46:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1201 Calhoun St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "892996",
+    "final_x": "3664061.2505",
+    "final_y": "521005.796985",
+    "longitude": "-90.1234864109245",
+    "latitude": "29.92710294545106",
+    "geocoded_column": {
+      "latitude": "29.92710294545106",
+      "longitude": "-90.1234864109245"
+    }
+  },
+  {
+    "service_request": "2022-892994",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-20T09:40:05.000",
+    "date_modified": "2022-06-20T09:40:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6374 Pontchartrain Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "892994",
+    "final_x": "3666195.73722",
+    "final_y": "550417.072404",
+    "longitude": "-90.11576180141755",
+    "latitude": "30.007912063460008",
+    "geocoded_column": {
+      "latitude": "30.007912063460008",
+      "longitude": "-90.11576180141755"
+    }
+  },
+  {
     "service_request": "2022-892937",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -8954,26 +9101,6 @@
     }
   },
   {
-    "service_request": "2022-874392",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:35:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874392",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874391",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -8984,6 +9111,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874391",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874392",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:35:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874392",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -19374,7 +19521,7 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-01-14T12:22:08.000",
-    "date_modified": "2022-01-14T14:06:06.000",
+    "date_modified": "2022-06-20T07:57:44.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2500 BLK Myrtle St",
@@ -21178,157 +21325,6 @@
     "geocoded_column": {
       "latitude": "29.90234016246673",
       "longitude": "-90.00778623277658"
-    }
-  },
-  {
-    "service_request": "2021-847056",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-09T13:40:36.000",
-    "date_modified": "2022-06-06T10:19:36.000",
-    "case_close_date": "2022-01-10T18:00:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5931 St Charles Ave",
-    "address_councildis": "A",
-    "status": "Reopen",
-    "rowid": "847056",
-    "final_x": "3665886.53236",
-    "final_y": "522492.169274",
-    "longitude": "-90.11767466464067",
-    "latitude": "29.93113687975978",
-    "geocoded_column": {
-      "latitude": "29.93113687975978",
-      "longitude": "-90.11767466464067"
-    }
-  },
-  {
-    "service_request": "2021-846947",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-09T10:27:26.000",
-    "date_modified": "2021-12-09T10:28:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6758 Louis Xiv St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "846947",
-    "final_x": "3668455.69966",
-    "final_y": "552517.967318",
-    "longitude": "-90.10855093438978",
-    "latitude": "30.013622562856565",
-    "geocoded_column": {
-      "latitude": "30.013622562856565",
-      "longitude": "-90.10855093438978"
-    }
-  },
-  {
-    "service_request": "2021-846946",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-09T10:24:12.000",
-    "date_modified": "2021-12-09T11:25:31.000",
-    "case_close_date": "2021-12-09T05:25:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2115 Lafreniere St",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "846946",
-    "final_x": "3683684.44873",
-    "final_y": "545560.995536",
-    "longitude": "-90.06068019688053",
-    "latitude": "29.994037021427054",
-    "geocoded_column": {
-      "latitude": "29.994037021427054",
-      "longitude": "-90.06068019688053"
-    }
-  },
-  {
-    "service_request": "2021-846821",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T16:20:40.000",
-    "date_modified": "2021-12-09T11:48:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BARONNE ST & JULIA ST",
-    "address_councildis": "B",
-    "status": "Reviewed",
-    "rowid": "846821",
-    "final_x": "3679611.1",
-    "final_y": "528223.88",
-    "longitude": "-90.07414916178107",
-    "latitude": "29.94648967599105",
-    "geocoded_column": {
-      "latitude": "29.94648967599105",
-      "longitude": "-90.07414916178107"
-    }
-  },
-  {
-    "service_request": "2021-846790",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T15:16:44.000",
-    "date_modified": "2021-12-09T08:21:46.000",
-    "case_close_date": "2021-12-09T02:21:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4020 Clermont Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "846790",
-    "final_x": "3684946.60169",
-    "final_y": "547176.636561",
-    "longitude": "-90.05663637538807",
-    "latitude": "29.99844084941792",
-    "geocoded_column": {
-      "latitude": "29.99844084941792",
-      "longitude": "-90.05663637538807"
-    }
-  },
-  {
-    "service_request": "2021-846784",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T14:55:29.000",
-    "date_modified": "2021-12-09T14:38:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2724 S Saratoga St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "846784",
-    "final_x": "3675001.1643",
-    "final_y": "524029.814844",
-    "longitude": "-90.08884820547885",
-    "latitude": "29.935095864563046",
-    "geocoded_column": {
-      "latitude": "29.935095864563046",
-      "longitude": "-90.08884820547885"
-    }
-  },
-  {
-    "service_request": "2021-846769",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-08T14:25:34.000",
-    "date_modified": "2021-12-09T08:46:59.000",
-    "case_close_date": "2021-12-09T02:46:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PIETY DR & MIRABEAU AVE",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "846769",
-    "final_x": "3691488.3",
-    "final_y": "551777.58",
-    "longitude": "-90.03580664896427",
-    "latitude": "30.010889716460877",
-    "geocoded_column": {
-      "latitude": "30.010889716460877",
-      "longitude": "-90.03580664896427"
     }
   }
 ]
