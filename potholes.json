@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-894673",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-25T15:07:30.000",
+    "date_modified": "2022-06-25T15:07:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4400 General De Gaulle Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "894673",
+    "final_x": "3699878.24752",
+    "final_y": "518449.277686",
+    "longitude": "-90.01051527285452",
+    "latitude": "29.918984939986817",
+    "geocoded_column": {
+      "latitude": "29.918984939986817",
+      "longitude": "-90.01051527285452"
+    }
+  },
+  {
     "service_request": "2022-894555",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21306,28 +21327,6 @@
     "geocoded_column": {
       "latitude": "29.92792087381342",
       "longitude": "-90.11931621115376"
-    }
-  },
-  {
-    "service_request": "2021-850602",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-29T14:32:53.000",
-    "date_modified": "2022-01-25T09:28:25.000",
-    "case_close_date": "2022-01-25T03:28:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 BLK Conti St",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "850602",
-    "final_x": "3681172.64024",
-    "final_y": "532131.409934",
-    "longitude": "-90.06908270396765",
-    "latitude": "29.957186788133153",
-    "geocoded_column": {
-      "latitude": "29.957186788133153",
-      "longitude": "-90.06908270396765"
     }
   }
 ]
