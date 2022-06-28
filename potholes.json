@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-894953",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-06-27T12:31:47.000",
+    "date_modified": "2022-06-27T12:31:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "511 Philip St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "894953",
+    "final_x": "3679862.66735",
+    "final_y": "520179.191864",
+    "longitude": "-90.07363411299696",
+    "latitude": "29.92436183614097",
+    "geocoded_column": {
+      "latitude": "29.92436183614097",
+      "longitude": "-90.07363411299696"
+    }
+  },
+  {
     "service_request": "2022-894787",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -172,12 +193,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-06-24T14:07:52.000",
-    "date_modified": "2022-06-24T14:07:52.000",
-    "request_status": "Pending",
+    "date_modified": "2022-06-27T08:45:00.000",
+    "case_close_date": "2022-06-27T03:45:00.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "FLORIDA AVE & HOPE ST & ELYSIAN FIELDS AVE",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Captured by Project",
     "rowid": "894513",
     "final_x": "3684474.6",
     "final_y": "542193.88",
@@ -193,12 +215,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-06-24T10:33:32.000",
-    "date_modified": "2022-06-24T10:33:33.000",
+    "date_modified": "2022-06-27T10:46:26.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "8930 Morrison Rd",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "894415",
     "final_x": "3705883.11531",
     "final_y": "561851.057183",
@@ -411,12 +433,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-06-24T07:46:58.000",
-    "date_modified": "2022-06-24T07:46:58.000",
+    "date_modified": "2022-06-27T08:25:28.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5730 Pasteur Blvd",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "894331",
     "final_x": "3682694.98671",
     "final_y": "554171.781272",
@@ -9850,26 +9872,6 @@
     }
   },
   {
-    "service_request": "2022-874391",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:36:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874391",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874392",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -9880,6 +9882,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874392",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874391",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:36:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874391",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21304,28 +21326,6 @@
     "geocoded_column": {
       "latitude": "29.947638705425014",
       "longitude": "-90.05041597662928"
-    }
-  },
-  {
-    "service_request": "2021-851076",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2021-12-31T13:34:35.000",
-    "date_modified": "2022-01-12T08:16:45.000",
-    "case_close_date": "2022-01-03T18:00:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2754 Mithra St",
-    "address_councildis": "D",
-    "status": "Captured by Project",
-    "rowid": "851076",
-    "final_x": "3687811.16963",
-    "final_y": "552951.621847",
-    "longitude": "-90.04738249236485",
-    "latitude": "30.01423187970382",
-    "geocoded_column": {
-      "latitude": "30.01423187970382",
-      "longitude": "-90.04738249236485"
     }
   }
 ]
