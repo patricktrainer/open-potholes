@@ -3864,6 +3864,27 @@
     }
   },
   {
+    "service_request": "2022-899732",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Leaking Hydrant",
+    "date_created": "2022-07-13T13:29:03.000",
+    "date_modified": "2022-07-13T13:29:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1ST ST & CAMP ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "899732",
+    "final_x": "3677874.0",
+    "final_y": "521814.38",
+    "longitude": "-90.07985518635881",
+    "latitude": "29.928918037143628",
+    "geocoded_column": {
+      "latitude": "29.928918037143628",
+      "longitude": "-90.07985518635881"
+    }
+  },
+  {
     "service_request": "2022-899733",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -3883,27 +3904,6 @@
     "geocoded_column": {
       "latitude": "30.010556089200083",
       "longitude": "-90.11347838901612"
-    }
-  },
-  {
-    "service_request": "2022-899732",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Leaking Hydrant",
-    "date_created": "2022-07-13T13:29:03.000",
-    "date_modified": "2022-07-13T13:29:03.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1ST ST & CAMP ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "899732",
-    "final_x": "3677874.0",
-    "final_y": "521814.38",
-    "longitude": "-90.07985518635881",
-    "latitude": "29.928918037143628",
-    "geocoded_column": {
-      "latitude": "29.928918037143628",
-      "longitude": "-90.07985518635881"
     }
   },
   {
