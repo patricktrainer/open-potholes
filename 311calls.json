@@ -11434,28 +11434,6 @@
     }
   },
   {
-    "service_request": "2022-899733",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-07-13T13:29:03.000",
-    "date_modified": "2022-07-13T13:29:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6560 Catina St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "899733",
-    "final_x": "3666908.17607",
-    "final_y": "551386.235669",
-    "longitude": "-90.11347838901612",
-    "latitude": "30.010556089200083",
-    "geocoded_column": {
-      "latitude": "30.010556089200083",
-      "longitude": "-90.11347838901612"
-    }
-  },
-  {
     "service_request": "2022-899732",
     "request_type": "Roads/Drainage",
     "request_reason": "Leaking Hydrant",
@@ -11475,6 +11453,28 @@
     "geocoded_column": {
       "latitude": "29.928918037143628",
       "longitude": "-90.07985518635881"
+    }
+  },
+  {
+    "service_request": "2022-899733",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-07-13T13:29:03.000",
+    "date_modified": "2022-07-13T13:29:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6560 Catina St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "899733",
+    "final_x": "3666908.17607",
+    "final_y": "551386.235669",
+    "longitude": "-90.11347838901612",
+    "latitude": "30.010556089200083",
+    "geocoded_column": {
+      "latitude": "30.010556089200083",
+      "longitude": "-90.11347838901612"
     }
   },
   {
