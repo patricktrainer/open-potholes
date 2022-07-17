@@ -1,5 +1,25 @@
 [
   {
+    "service_request": "2022-900660",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-16T10:40:43.000",
+    "date_modified": "2022-07-16T10:42:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "C",
+    "rowid": "900660",
+    "final_x": "3688174.9",
+    "final_y": "529126.68",
+    "longitude": "-90.04707828172836",
+    "latitude": "29.94871052073164",
+    "geocoded_column": {
+      "latitude": "29.94871052073164",
+      "longitude": "-90.04707828172836"
+    }
+  },
+  {
     "service_request": "2022-900588",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -12212,26 +12232,6 @@
     }
   },
   {
-    "service_request": "2022-874392",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:35:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874392",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874391",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -12242,6 +12242,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874391",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874392",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:35:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874392",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21298,28 +21318,6 @@
     "geocoded_column": {
       "latitude": "29.974350563853957",
       "longitude": "-90.11782230261667"
-    }
-  },
-  {
-    "service_request": "2022-857660",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-01-31T08:13:36.000",
-    "date_modified": "2022-01-31T13:50:59.000",
-    "case_close_date": "2022-01-31T07:50:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2655 Clover St",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "857660",
-    "final_x": "3687572.58441",
-    "final_y": "546762.308753",
-    "longitude": "-90.04835559689974",
-    "latitude": "29.99722088512379",
-    "geocoded_column": {
-      "latitude": "29.99722088512379",
-      "longitude": "-90.04835559689974"
     }
   }
 ]
