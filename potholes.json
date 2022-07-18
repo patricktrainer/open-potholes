@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-900832",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-17T15:55:56.000",
+    "date_modified": "2022-07-17T15:55:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "516 S Tonti St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "900832",
+    "final_x": "3675474.85678",
+    "final_y": "532950.162372",
+    "longitude": "-90.08704645740725",
+    "latitude": "29.959609712795167",
+    "geocoded_column": {
+      "latitude": "29.959609712795167",
+      "longitude": "-90.08704645740725"
+    }
+  },
+  {
+    "service_request": "2022-900809",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-17T12:56:25.000",
+    "date_modified": "2022-07-17T12:56:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "915 Polk St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "900809",
+    "final_x": "3669958.63585",
+    "final_y": "547238.544273",
+    "longitude": "-90.10398138349275",
+    "latitude": "29.99906173986664",
+    "geocoded_column": {
+      "latitude": "29.99906173986664",
+      "longitude": "-90.10398138349275"
+    }
+  },
+  {
+    "service_request": "2022-900798",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-17T11:55:32.000",
+    "date_modified": "2022-07-17T11:55:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3320 Law St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "900798",
+    "final_x": "3691386.2902",
+    "final_y": "541353.490636",
+    "longitude": "-90.03650167240794",
+    "latitude": "29.982230440264917",
+    "geocoded_column": {
+      "latitude": "29.982230440264917",
+      "longitude": "-90.03650167240794"
+    }
+  },
+  {
     "service_request": "2022-900660",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -12232,26 +12295,6 @@
     }
   },
   {
-    "service_request": "2022-874391",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:36:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874391",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874392",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -12262,6 +12305,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874392",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874391",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:36:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874391",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21257,67 +21320,6 @@
     "geocoded_column": {
       "latitude": "29.9175130411578",
       "longitude": "-90.12329848891568"
-    }
-  },
-  {
-    "service_request": "2022-857814",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-01-31T12:44:46.000",
-    "date_modified": "2022-01-31T12:44:47.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5401 Tullis Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "857814",
-    "final_x": "3703936.83601",
-    "final_y": "511803.58232",
-    "longitude": "-89.99794896701714",
-    "latitude": "29.900582090508202",
-    "geocoded_column": {
-      "latitude": "29.900582090508202",
-      "longitude": "-89.99794896701714"
-    }
-  },
-  {
-    "service_request": "2022-857755",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-01-31T11:07:28.000",
-    "date_modified": "2022-05-13T17:41:52.000",
-    "case_close_date": "2022-05-13T12:41:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "300 Block of S Hennessey St, New Orleans, Louisiana, 70119",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "857755",
-    "longitude": "0.0",
-    "latitude": "0.0",
-    "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
-    }
-  },
-  {
-    "service_request": "2022-857685",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-01-31T08:57:23.000",
-    "date_modified": "2022-01-31T08:57:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3900 BLK Mistletoe St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "857685",
-    "final_x": "3665673.07479",
-    "final_y": "538205.8302",
-    "longitude": "-90.11782230261667",
-    "latitude": "29.974350563853957",
-    "geocoded_column": {
-      "latitude": "29.974350563853957",
-      "longitude": "-90.11782230261667"
     }
   }
 ]
