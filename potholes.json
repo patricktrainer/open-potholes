@@ -1,5 +1,67 @@
 [
   {
+    "service_request": "2022-905180",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-31T12:35:17.000",
+    "date_modified": "2022-07-31T12:35:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4516 Mark Twain Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "905180",
+    "final_x": "3691458.21065",
+    "final_y": "550759.554261",
+    "longitude": "-90.03593813020397",
+    "latitude": "30.0080914586232",
+    "geocoded_column": {
+      "latitude": "30.0080914586232",
+      "longitude": "-90.03593813020397"
+    }
+  },
+  {
+    "service_request": "2022-905163",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-31T10:19:32.000",
+    "date_modified": "2022-07-31T10:19:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "JOSEPH ST & S LIBERTY ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "905163",
+    "final_x": "3667124.9",
+    "final_y": "523448.88",
+    "longitude": "-90.11373313943025",
+    "latitude": "29.933731345423737",
+    "geocoded_column": {
+      "latitude": "29.933731345423737",
+      "longitude": "-90.11373313943025"
+    }
+  },
+  {
+    "service_request": "2022-905159",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-07-31T09:41:42.000",
+    "date_modified": "2022-07-31T15:25:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7000 Pontchartrain Blvd, New Orleans, Louisiana, 70124",
+    "address_councildis": "A",
+    "rowid": "905159",
+    "final_x": "3666453.41279",
+    "final_y": "554342.742152",
+    "longitude": "-90.11481583383161",
+    "latitude": "30.018698748974682",
+    "geocoded_column": {
+      "latitude": "30.018698748974682",
+      "longitude": "-90.11481583383161"
+    }
+  },
+  {
     "service_request": "2022-905142",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -14434,26 +14496,6 @@
     }
   },
   {
-    "service_request": "2022-874392",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:35:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874392",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874391",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -14464,6 +14506,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874391",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874392",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:35:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874392",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21237,67 +21299,6 @@
     "geocoded_column": {
       "latitude": "29.931712623369517",
       "longitude": "-90.12006892685164"
-    }
-  },
-  {
-    "service_request": "2022-861343",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-02-16T08:01:40.000",
-    "date_modified": "2022-02-16T08:01:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1450 Calhoun St, New Orleans, Louisiana, 70118",
-    "status": "Pending",
-    "rowid": "861343",
-    "longitude": "0.0",
-    "latitude": "0.0",
-    "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
-    }
-  },
-  {
-    "service_request": "2022-861340",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-02-16T07:37:12.000",
-    "date_modified": "2022-02-16T14:01:08.000",
-    "case_close_date": "2022-02-16T08:01:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "GALLIER ST & N CLAIBORNE AVE",
-    "address_councildis": "D",
-    "status": "Duplicate Case",
-    "rowid": "861340",
-    "final_x": "3690926.8",
-    "final_y": "537508.78",
-    "longitude": "-90.03809022856754",
-    "latitude": "29.9716731440072",
-    "geocoded_column": {
-      "latitude": "29.9716731440072",
-      "longitude": "-90.03809022856754"
-    }
-  },
-  {
-    "service_request": "2022-861101",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-02-15T09:49:15.000",
-    "date_modified": "2022-02-17T12:01:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6500 BLK E Hermes St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "861101",
-    "final_x": "3697794.36979",
-    "final_y": "555912.98409",
-    "longitude": "-90.01573316916335",
-    "latitude": "30.02206265962647",
-    "geocoded_column": {
-      "latitude": "30.02206265962647",
-      "longitude": "-90.01573316916335"
     }
   }
 ]
