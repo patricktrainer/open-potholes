@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-911903",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-20T18:10:37.000",
+    "date_modified": "2022-08-20T18:10:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2003 Joseph St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "911903",
+    "final_x": "3667210.0722",
+    "final_y": "523480.369147",
+    "longitude": "-90.11346319564885",
+    "latitude": "29.9338154375375",
+    "geocoded_column": {
+      "latitude": "29.9338154375375",
+      "longitude": "-90.11346319564885"
+    }
+  },
+  {
+    "service_request": "2022-911878",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-20T14:54:41.000",
+    "date_modified": "2022-08-20T14:54:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7513 Plum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "911878",
+    "final_x": "3663826.99168",
+    "final_y": "527267.613887",
+    "longitude": "-90.12401728898989",
+    "latitude": "29.944327754651958",
+    "geocoded_column": {
+      "latitude": "29.944327754651958",
+      "longitude": "-90.12401728898989"
+    }
+  },
+  {
+    "service_request": "2022-911799",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-20T07:58:47.000",
+    "date_modified": "2022-08-20T07:58:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "264 Audubon St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "911799",
+    "final_x": "3661291.22355",
+    "final_y": "521739.32985",
+    "longitude": "-90.13220644398676",
+    "latitude": "29.929200062486068",
+    "geocoded_column": {
+      "latitude": "29.929200062486068",
+      "longitude": "-90.13220644398676"
+    }
+  },
+  {
     "service_request": "2022-911791",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -18693,26 +18756,6 @@
     }
   },
   {
-    "service_request": "2022-874392",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:35:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874392",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874391",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -18723,6 +18766,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874391",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874392",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:35:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874392",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21184,72 +21247,6 @@
     "geocoded_column": {
       "latitude": "29.933838156137774",
       "longitude": "-90.09016229038991"
-    }
-  },
-  {
-    "service_request": "2022-868779",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-22T10:03:59.000",
-    "date_modified": "2022-03-23T09:12:09.000",
-    "case_close_date": "2022-03-23T04:12:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "815 Dumaine St A",
-    "address_councildis": "C",
-    "status": "Duplicate Case",
-    "rowid": "868779",
-    "final_x": "3682622.33327",
-    "final_y": "533363.234948",
-    "longitude": "-90.06446194890084",
-    "latitude": "29.960529825947773",
-    "geocoded_column": {
-      "latitude": "29.960529825947773",
-      "longitude": "-90.06446194890084"
-    }
-  },
-  {
-    "service_request": "2022-868714",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-22T07:38:09.000",
-    "date_modified": "2022-03-22T15:00:19.000",
-    "case_close_date": "2022-03-22T10:00:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8600 Cohn St",
-    "address_councildis": "A",
-    "status": "Duplicate Case",
-    "rowid": "868714",
-    "final_x": "3662236.0873",
-    "final_y": "531400.853251",
-    "longitude": "-90.12890308405515",
-    "latitude": "29.9557389070252",
-    "geocoded_column": {
-      "latitude": "29.9557389070252",
-      "longitude": "-90.12890308405515"
-    }
-  },
-  {
-    "service_request": "2022-868665",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-21T17:46:51.000",
-    "date_modified": "2022-03-22T10:22:34.000",
-    "case_close_date": "2022-03-22T05:22:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7661 Scottwood Dr",
-    "address_councildis": "E",
-    "status": "Duplicate Case",
-    "rowid": "868665",
-    "final_x": "3717213.67544",
-    "final_y": "570999.026983",
-    "longitude": "-89.95379990911805",
-    "latitude": "30.06291484586504",
-    "geocoded_column": {
-      "latitude": "30.06291484586504",
-      "longitude": "-89.95379990911805"
     }
   }
 ]
