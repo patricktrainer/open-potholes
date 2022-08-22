@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-912010",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-21T15:51:42.000",
+    "date_modified": "2022-08-21T15:51:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5217 Arts St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "912010",
+    "final_x": "3685806.92022",
+    "final_y": "552343.088214",
+    "longitude": "-90.05373637555445",
+    "latitude": "30.01262033109664",
+    "geocoded_column": {
+      "latitude": "30.01262033109664",
+      "longitude": "-90.05373637555445"
+    }
+  },
+  {
+    "service_request": "2022-912003",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-21T14:17:59.000",
+    "date_modified": "2022-08-21T14:17:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2901 Elysian Fields Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "912003",
+    "final_x": "3684584.77871",
+    "final_y": "543373.009038",
+    "longitude": "-90.05791311673171",
+    "latitude": "29.98799331067305",
+    "geocoded_column": {
+      "latitude": "29.98799331067305",
+      "longitude": "-90.05791311673171"
+    }
+  },
+  {
+    "service_request": "2022-911963",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-21T10:43:09.000",
+    "date_modified": "2022-08-21T10:43:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "637 Canal St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "911963",
+    "final_x": "3681272.61999",
+    "final_y": "530728.234434",
+    "longitude": "-90.06881589580188",
+    "latitude": "29.953325497329327",
+    "geocoded_column": {
+      "latitude": "29.953325497329327",
+      "longitude": "-90.06881589580188"
+    }
+  },
+  {
     "service_request": "2022-911903",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21182,71 +21245,6 @@
     "geocoded_column": {
       "latitude": "29.955907051901747",
       "longitude": "-90.13076156623289"
-    }
-  },
-  {
-    "service_request": "2022-869298",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-23T19:03:42.000",
-    "date_modified": "2022-04-03T17:14:41.000",
-    "case_close_date": "2022-04-03T12:14:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1800 Monroe St",
-    "address_councildis": "A",
-    "status": "Duplicate Case",
-    "rowid": "869298",
-    "final_x": "3661793.51027",
-    "final_y": "531612.523587",
-    "longitude": "-90.13029357608676",
-    "latitude": "29.956333716263774",
-    "geocoded_column": {
-      "latitude": "29.956333716263774",
-      "longitude": "-90.13029357608676"
-    }
-  },
-  {
-    "service_request": "2022-869201",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-23T13:44:07.000",
-    "date_modified": "2022-03-24T12:43:02.000",
-    "case_close_date": "2022-03-24T07:43:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3027 Albert St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "869201",
-    "final_x": "3711987.63154",
-    "final_y": "518779.694071",
-    "longitude": "-89.9722801881833",
-    "latitude": "29.919503519591967",
-    "geocoded_column": {
-      "latitude": "29.919503519591967",
-      "longitude": "-89.9722801881833"
-    }
-  },
-  {
-    "service_request": "2022-869116",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-03-23T10:16:34.000",
-    "date_modified": "2022-03-24T10:37:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2016 Sixth St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "869116",
-    "final_x": "3674589.93032",
-    "final_y": "523567.948155",
-    "longitude": "-90.09016229038991",
-    "latitude": "29.933838156137774",
-    "geocoded_column": {
-      "latitude": "29.933838156137774",
-      "longitude": "-90.09016229038991"
     }
   }
 ]
