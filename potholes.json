@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-914096",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-28T15:02:02.000",
+    "date_modified": "2022-08-28T15:02:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "888 Harrison Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "914096",
+    "final_x": "3669932.72058",
+    "final_y": "549019.836627",
+    "longitude": "-90.10400287899766",
+    "latitude": "30.003960438330868",
+    "geocoded_column": {
+      "latitude": "30.003960438330868",
+      "longitude": "-90.10400287899766"
+    }
+  },
+  {
+    "service_request": "2022-914075",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-28T12:23:55.000",
+    "date_modified": "2022-08-28T12:23:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7520 Plum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "914075",
+    "final_x": "3663731.46778",
+    "final_y": "527196.452607",
+    "longitude": "-90.12432125733751",
+    "latitude": "29.944134855675344",
+    "geocoded_column": {
+      "latitude": "29.944134855675344",
+      "longitude": "-90.12432125733751"
+    }
+  },
+  {
     "service_request": "2022-914038",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -20562,26 +20604,6 @@
     }
   },
   {
-    "service_request": "2022-874392",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-12T17:08:55.000",
-    "date_modified": "2022-04-13T08:35:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Perdido St",
-    "address_councildis": "B",
-    "rowid": "874392",
-    "final_x": "3679904.90651",
-    "final_y": "529938.874689",
-    "longitude": "-90.07316195918962",
-    "latitude": "29.951196455396516",
-    "geocoded_column": {
-      "latitude": "29.951196455396516",
-      "longitude": "-90.07316195918962"
-    }
-  },
-  {
     "service_request": "2022-874391",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -20592,6 +20614,26 @@
     "final_address": "900 Perdido St",
     "address_councildis": "B",
     "rowid": "874391",
+    "final_x": "3679904.90651",
+    "final_y": "529938.874689",
+    "longitude": "-90.07316195918962",
+    "latitude": "29.951196455396516",
+    "geocoded_column": {
+      "latitude": "29.951196455396516",
+      "longitude": "-90.07316195918962"
+    }
+  },
+  {
+    "service_request": "2022-874392",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-04-12T17:08:55.000",
+    "date_modified": "2022-04-13T08:35:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 Perdido St",
+    "address_councildis": "B",
+    "rowid": "874392",
     "final_x": "3679904.90651",
     "final_y": "529938.874689",
     "longitude": "-90.07316195918962",
@@ -21193,47 +21235,6 @@
     "geocoded_column": {
       "latitude": "29.96608761154468",
       "longitude": "-90.05804622093298"
-    }
-  },
-  {
-    "service_request": "2022-872797",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-06T16:21:50.000",
-    "date_modified": "2022-04-07T07:42:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4635 Mandeville St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "872797",
-    "final_x": "3684820.95477",
-    "final_y": "549939.43778",
-    "longitude": "-90.05693607211444",
-    "latitude": "30.006041404988384",
-    "geocoded_column": {
-      "latitude": "30.006041404988384",
-      "longitude": "-90.05693607211444"
-    }
-  },
-  {
-    "service_request": "2022-872772",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-04-06T15:12:58.000",
-    "date_modified": "2022-04-07T09:30:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "762 St Charles Ave",
-    "address_councildis": "B",
-    "rowid": "872772",
-    "final_x": "3680443.50741",
-    "final_y": "528059.378239",
-    "longitude": "-90.07152667665403",
-    "latitude": "29.946012172465643",
-    "geocoded_column": {
-      "latitude": "29.946012172465643",
-      "longitude": "-90.07152667665403"
     }
   }
 ]
