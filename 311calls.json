@@ -4533,28 +4533,6 @@
     }
   },
   {
-    "service_request": "2022-919017",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2022-09-13T14:16:39.000",
-    "date_modified": "2022-09-13T14:16:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4532 Orleans Ave, New Orleans, Louisiana, 70119",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "919017",
-    "final_x": "3670847.66292",
-    "final_y": "541384.804748",
-    "longitude": "-90.10137174253286",
-    "latitude": "29.98293971563709",
-    "geocoded_column": {
-      "latitude": "29.98293971563709",
-      "longitude": "-90.10137174253286"
-    }
-  },
-  {
     "service_request": "2022-919016",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -4575,6 +4553,28 @@
     "geocoded_column": {
       "latitude": "29.941972522850715",
       "longitude": "-90.09819576067521"
+    }
+  },
+  {
+    "service_request": "2022-919017",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2022-09-13T14:16:39.000",
+    "date_modified": "2022-09-13T14:16:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4532 Orleans Ave, New Orleans, Louisiana, 70119",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "919017",
+    "final_x": "3670847.66292",
+    "final_y": "541384.804748",
+    "longitude": "-90.10137174253286",
+    "latitude": "29.98293971563709",
+    "geocoded_column": {
+      "latitude": "29.98293971563709",
+      "longitude": "-90.10137174253286"
     }
   },
   {
@@ -4984,6 +4984,26 @@
     }
   },
   {
+    "service_request": "2022-918996",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-13T13:39:17.000",
+    "date_modified": "2022-09-13T14:40:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "A",
+    "rowid": "918996",
+    "final_x": "3669836.20212",
+    "final_y": "544875.108175",
+    "longitude": "-90.1044482276053",
+    "latitude": "29.992566718672194",
+    "geocoded_column": {
+      "latitude": "29.992566718672194",
+      "longitude": "-90.1044482276053"
+    }
+  },
+  {
     "service_request": "2022-918995",
     "request_type": "Trash/Recycling",
     "request_reason": "Dead Animal Pick Up",
@@ -5003,26 +5023,6 @@
     "geocoded_column": {
       "latitude": "29.925218473357685",
       "longitude": "-90.10096476492816"
-    }
-  },
-  {
-    "service_request": "2022-918996",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-13T13:39:17.000",
-    "date_modified": "2022-09-13T14:40:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "New Orleans,LA",
-    "address_councildis": "A",
-    "rowid": "918996",
-    "final_x": "3669836.20212",
-    "final_y": "544875.108175",
-    "longitude": "-90.1044482276053",
-    "latitude": "29.992566718672194",
-    "geocoded_column": {
-      "latitude": "29.992566718672194",
-      "longitude": "-90.1044482276053"
     }
   },
   {
