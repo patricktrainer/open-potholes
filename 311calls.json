@@ -2021,27 +2021,6 @@
     }
   },
   {
-    "service_request": "2022-920143",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-15T16:04:15.000",
-    "date_modified": "2022-09-15T16:04:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "3135 Sullen Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "920143",
-    "final_x": "3707720.68881",
-    "final_y": "519112.882423",
-    "longitude": "-89.9857363100851",
-    "latitude": "29.920558344960202",
-    "geocoded_column": {
-      "latitude": "29.920558344960202",
-      "longitude": "-89.9857363100851"
-    }
-  },
-  {
     "service_request": "2022-920144",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -2061,6 +2040,27 @@
     "geocoded_column": {
       "latitude": "29.937850377934108",
       "longitude": "-90.09006832562157"
+    }
+  },
+  {
+    "service_request": "2022-920143",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-15T16:04:15.000",
+    "date_modified": "2022-09-15T16:04:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "3135 Sullen Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "920143",
+    "final_x": "3707720.68881",
+    "final_y": "519112.882423",
+    "longitude": "-89.9857363100851",
+    "latitude": "29.920558344960202",
+    "geocoded_column": {
+      "latitude": "29.920558344960202",
+      "longitude": "-89.9857363100851"
     }
   },
   {
@@ -4917,28 +4917,6 @@
     }
   },
   {
-    "service_request": "2022-920000",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-15T13:30:42.000",
-    "date_modified": "2022-09-15T13:30:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7906 Gannon Rd, New Orleans, Louisiana, 70128",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "920000",
-    "final_x": "3715735.47999",
-    "final_y": "570631.729895",
-    "longitude": "-89.95848642437443",
-    "latitude": "30.061953782332942",
-    "geocoded_column": {
-      "latitude": "30.061953782332942",
-      "longitude": "-89.95848642437443"
-    }
-  },
-  {
     "service_request": "2022-920001",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -4958,6 +4936,28 @@
     "geocoded_column": {
       "latitude": "30.04611894377092",
       "longitude": "-89.97616419994876"
+    }
+  },
+  {
+    "service_request": "2022-920000",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-15T13:30:42.000",
+    "date_modified": "2022-09-15T13:30:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7906 Gannon Rd, New Orleans, Louisiana, 70128",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "920000",
+    "final_x": "3715735.47999",
+    "final_y": "570631.729895",
+    "longitude": "-89.95848642437443",
+    "latitude": "30.061953782332942",
+    "geocoded_column": {
+      "latitude": "30.061953782332942",
+      "longitude": "-89.95848642437443"
     }
   },
   {
@@ -7112,28 +7112,6 @@
     }
   },
   {
-    "service_request": "2022-919893",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2022-09-15T11:07:33.000",
-    "date_modified": "2022-09-15T11:07:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "9416 Forshey St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "919893",
-    "final_x": "3663491.77587",
-    "final_y": "537072.935048",
-    "longitude": "-90.12474913163538",
-    "latitude": "29.9712989221687",
-    "geocoded_column": {
-      "latitude": "29.9712989221687",
-      "longitude": "-90.12474913163538"
-    }
-  },
-  {
     "service_request": "2022-919894",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Street Light Outage/Malfunction",
@@ -7153,6 +7131,28 @@
     "geocoded_column": {
       "latitude": "29.923797492741553",
       "longitude": "-90.10145917596243"
+    }
+  },
+  {
+    "service_request": "2022-919893",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2022-09-15T11:07:33.000",
+    "date_modified": "2022-09-15T11:07:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "9416 Forshey St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "919893",
+    "final_x": "3663491.77587",
+    "final_y": "537072.935048",
+    "longitude": "-90.12474913163538",
+    "latitude": "29.9712989221687",
+    "geocoded_column": {
+      "latitude": "29.9712989221687",
+      "longitude": "-90.12474913163538"
     }
   },
   {
@@ -11450,28 +11450,6 @@
     }
   },
   {
-    "service_request": "2022-919681",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-14T18:24:50.000",
-    "date_modified": "2022-09-14T18:24:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1118 Euterpe St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "919681",
-    "final_x": "3680125.73659",
-    "final_y": "524214.96742",
-    "longitude": "-90.07266353206109",
-    "latitude": "29.935450938605573",
-    "geocoded_column": {
-      "latitude": "29.935450938605573",
-      "longitude": "-90.07266353206109"
-    }
-  },
-  {
     "service_request": "2022-919682",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -11491,6 +11469,28 @@
     "geocoded_column": {
       "latitude": "30.00937530605506",
       "longitude": "-90.07311354262012"
+    }
+  },
+  {
+    "service_request": "2022-919681",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-14T18:24:50.000",
+    "date_modified": "2022-09-14T18:24:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1118 Euterpe St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "919681",
+    "final_x": "3680125.73659",
+    "final_y": "524214.96742",
+    "longitude": "-90.07266353206109",
+    "latitude": "29.935450938605573",
+    "geocoded_column": {
+      "latitude": "29.935450938605573",
+      "longitude": "-90.07266353206109"
     }
   },
   {
@@ -14804,27 +14804,6 @@
     }
   },
   {
-    "service_request": "2022-919523",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Street Subsidence (Sinking)",
-    "date_created": "2022-09-14T13:36:23.000",
-    "date_modified": "2022-09-14T13:36:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3319 Calhoun St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "919523",
-    "final_x": "3667541.25025",
-    "final_y": "528941.343872",
-    "longitude": "-90.11223395419094",
-    "latitude": "29.948821659343388",
-    "geocoded_column": {
-      "latitude": "29.948821659343388",
-      "longitude": "-90.11223395419094"
-    }
-  },
-  {
     "service_request": "2022-919522",
     "request_type": "Roads/Drainage",
     "request_reason": "Street Subsidence (Sinking)",
@@ -14836,6 +14815,27 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "919522",
+    "final_x": "3667541.25025",
+    "final_y": "528941.343872",
+    "longitude": "-90.11223395419094",
+    "latitude": "29.948821659343388",
+    "geocoded_column": {
+      "latitude": "29.948821659343388",
+      "longitude": "-90.11223395419094"
+    }
+  },
+  {
+    "service_request": "2022-919523",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Street Subsidence (Sinking)",
+    "date_created": "2022-09-14T13:36:23.000",
+    "date_modified": "2022-09-14T13:36:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3319 Calhoun St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "919523",
     "final_x": "3667541.25025",
     "final_y": "528941.343872",
     "longitude": "-90.11223395419094",
@@ -15171,27 +15171,6 @@
     }
   },
   {
-    "service_request": "2022-919505",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Traffic Sign Missing/Damaged",
-    "date_created": "2022-09-14T13:01:16.000",
-    "date_modified": "2022-09-14T13:01:16.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "500 BLK Capdevielle St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "919505",
-    "final_x": "3681148.56221",
-    "final_y": "528550.402333",
-    "longitude": "-90.06928347766811",
-    "latitude": "29.94734095648327",
-    "geocoded_column": {
-      "latitude": "29.94734095648327",
-      "longitude": "-90.06928347766811"
-    }
-  },
-  {
     "service_request": "2022-919504",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -15210,6 +15189,27 @@
     "geocoded_column": {
       "latitude": "29.981217962060217",
       "longitude": "-90.0297904523303"
+    }
+  },
+  {
+    "service_request": "2022-919505",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Traffic Sign Missing/Damaged",
+    "date_created": "2022-09-14T13:01:16.000",
+    "date_modified": "2022-09-14T13:01:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "500 BLK Capdevielle St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "919505",
+    "final_x": "3681148.56221",
+    "final_y": "528550.402333",
+    "longitude": "-90.06928347766811",
+    "latitude": "29.94734095648327",
+    "geocoded_column": {
+      "latitude": "29.94734095648327",
+      "longitude": "-90.06928347766811"
     }
   },
   {
@@ -19136,6 +19136,27 @@
     }
   },
   {
+    "service_request": "2022-919309",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-14T08:18:16.000",
+    "date_modified": "2022-09-14T08:18:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "1508 Monroe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "919309",
+    "final_x": "3661131.38234",
+    "final_y": "530683.392834",
+    "longitude": "-90.13241511554756",
+    "latitude": "29.953798004708393",
+    "geocoded_column": {
+      "latitude": "29.953798004708393",
+      "longitude": "-90.13241511554756"
+    }
+  },
+  {
     "service_request": "2022-919310",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -19155,27 +19176,6 @@
     "geocoded_column": {
       "latitude": "29.91962431570113",
       "longitude": "-90.09338947011075"
-    }
-  },
-  {
-    "service_request": "2022-919309",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-14T08:18:16.000",
-    "date_modified": "2022-09-14T08:18:16.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "1508 Monroe St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "919309",
-    "final_x": "3661131.38234",
-    "final_y": "530683.392834",
-    "longitude": "-90.13241511554756",
-    "latitude": "29.953798004708393",
-    "geocoded_column": {
-      "latitude": "29.953798004708393",
-      "longitude": "-90.13241511554756"
     }
   },
   {
