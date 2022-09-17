@@ -2659,27 +2659,6 @@
     }
   },
   {
-    "service_request": "2022-920591",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2022-09-16T15:05:19.000",
-    "date_modified": "2022-09-16T15:05:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "214 N Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "920591",
-    "final_x": "3671573.28558",
-    "final_y": "538698.689737",
-    "longitude": "-90.09917123274633",
-    "latitude": "29.97553234152688",
-    "geocoded_column": {
-      "latitude": "29.97553234152688",
-      "longitude": "-90.09917123274633"
-    }
-  },
-  {
     "service_request": "2022-920592",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -2698,6 +2677,27 @@
     "geocoded_column": {
       "latitude": "29.952545477424074",
       "longitude": "-90.11376830343504"
+    }
+  },
+  {
+    "service_request": "2022-920591",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2022-09-16T15:05:19.000",
+    "date_modified": "2022-09-16T15:05:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "214 N Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "920591",
+    "final_x": "3671573.28558",
+    "final_y": "538698.689737",
+    "longitude": "-90.09917123274633",
+    "latitude": "29.97553234152688",
+    "geocoded_column": {
+      "latitude": "29.97553234152688",
+      "longitude": "-90.09917123274633"
     }
   },
   {
@@ -6239,6 +6239,27 @@
     }
   },
   {
+    "service_request": "2022-920406",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-16T11:03:58.000",
+    "date_modified": "2022-09-16T11:03:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "8400 Oleander St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "920406",
+    "final_x": "3665929.62407",
+    "final_y": "534376.668741",
+    "longitude": "-90.11714041534741",
+    "latitude": "29.9638141539068",
+    "geocoded_column": {
+      "latitude": "29.9638141539068",
+      "longitude": "-90.11714041534741"
+    }
+  },
+  {
     "service_request": "2022-920407",
     "request_type": "Trash/Recycling",
     "request_reason": "Illegal Dumping",
@@ -6258,27 +6279,6 @@
     "geocoded_column": {
       "latitude": "29.992603243744753",
       "longitude": "-90.04756078835663"
-    }
-  },
-  {
-    "service_request": "2022-920406",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-16T11:03:58.000",
-    "date_modified": "2022-09-16T11:03:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "8400 Oleander St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "920406",
-    "final_x": "3665929.62407",
-    "final_y": "534376.668741",
-    "longitude": "-90.11714041534741",
-    "latitude": "29.9638141539068",
-    "geocoded_column": {
-      "latitude": "29.9638141539068",
-      "longitude": "-90.11714041534741"
     }
   },
   {
@@ -8124,27 +8124,6 @@
     }
   },
   {
-    "service_request": "2022-920309",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2022-09-16T09:00:46.000",
-    "date_modified": "2022-09-16T09:00:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7801 St Charles Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "920309",
-    "final_x": "3661407.40582",
-    "final_y": "526155.042302",
-    "longitude": "-90.13169349291806",
-    "latitude": "29.941338530953548",
-    "geocoded_column": {
-      "latitude": "29.941338530953548",
-      "longitude": "-90.13169349291806"
-    }
-  },
-  {
     "service_request": "2022-920308",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -8164,6 +8143,27 @@
     "geocoded_column": {
       "latitude": "29.94134704461222",
       "longitude": "-90.09186673625116"
+    }
+  },
+  {
+    "service_request": "2022-920309",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2022-09-16T09:00:46.000",
+    "date_modified": "2022-09-16T09:00:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7801 St Charles Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "920309",
+    "final_x": "3661407.40582",
+    "final_y": "526155.042302",
+    "longitude": "-90.13169349291806",
+    "latitude": "29.941338530953548",
+    "geocoded_column": {
+      "latitude": "29.941338530953548",
+      "longitude": "-90.13169349291806"
     }
   },
   {
@@ -8709,28 +8709,6 @@
     }
   },
   {
-    "service_request": "2022-920281",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2022-09-16T08:35:18.000",
-    "date_modified": "2022-09-16T08:35:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1508 Sauvage St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "920281",
-    "final_x": "3677175.3213",
-    "final_y": "540381.644427",
-    "longitude": "-90.0814203853613",
-    "latitude": "29.9799927885193",
-    "geocoded_column": {
-      "latitude": "29.9799927885193",
-      "longitude": "-90.0814203853613"
-    }
-  },
-  {
     "service_request": "2022-920282",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -8743,6 +8721,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Metro Disposal",
     "rowid": "920282",
+    "final_x": "3677175.3213",
+    "final_y": "540381.644427",
+    "longitude": "-90.0814203853613",
+    "latitude": "29.9799927885193",
+    "geocoded_column": {
+      "latitude": "29.9799927885193",
+      "longitude": "-90.0814203853613"
+    }
+  },
+  {
+    "service_request": "2022-920281",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2022-09-16T08:35:18.000",
+    "date_modified": "2022-09-16T08:35:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1508 Sauvage St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "920281",
     "final_x": "3677175.3213",
     "final_y": "540381.644427",
     "longitude": "-90.0814203853613",
@@ -11552,6 +11552,27 @@
     }
   },
   {
+    "service_request": "2022-920143",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-15T16:04:15.000",
+    "date_modified": "2022-09-15T16:04:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "3135 Sullen Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "920143",
+    "final_x": "3707720.68881",
+    "final_y": "519112.882423",
+    "longitude": "-89.9857363100851",
+    "latitude": "29.920558344960202",
+    "geocoded_column": {
+      "latitude": "29.920558344960202",
+      "longitude": "-89.9857363100851"
+    }
+  },
+  {
     "service_request": "2022-920144",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -11571,27 +11592,6 @@
     "geocoded_column": {
       "latitude": "29.937850377934108",
       "longitude": "-90.09006832562157"
-    }
-  },
-  {
-    "service_request": "2022-920143",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-15T16:04:15.000",
-    "date_modified": "2022-09-15T16:04:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "3135 Sullen Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "920143",
-    "final_x": "3707720.68881",
-    "final_y": "519112.882423",
-    "longitude": "-89.9857363100851",
-    "latitude": "29.920558344960202",
-    "geocoded_column": {
-      "latitude": "29.920558344960202",
-      "longitude": "-89.9857363100851"
     }
   },
   {
@@ -14450,28 +14450,6 @@
     }
   },
   {
-    "service_request": "2022-920001",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-15T13:30:42.000",
-    "date_modified": "2022-09-15T13:30:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7520 Lady Gray St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "920001",
-    "final_x": "3710211.97521",
-    "final_y": "564806.902946",
-    "longitude": "-89.97616419994876",
-    "latitude": "30.04611894377092",
-    "geocoded_column": {
-      "latitude": "30.04611894377092",
-      "longitude": "-89.97616419994876"
-    }
-  },
-  {
     "service_request": "2022-920000",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -14491,6 +14469,28 @@
     "geocoded_column": {
       "latitude": "30.061953782332942",
       "longitude": "-89.95848642437443"
+    }
+  },
+  {
+    "service_request": "2022-920001",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-15T13:30:42.000",
+    "date_modified": "2022-09-15T13:30:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7520 Lady Gray St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "920001",
+    "final_x": "3710211.97521",
+    "final_y": "564806.902946",
+    "longitude": "-89.97616419994876",
+    "latitude": "30.04611894377092",
+    "geocoded_column": {
+      "latitude": "30.04611894377092",
+      "longitude": "-89.97616419994876"
     }
   },
   {
@@ -16646,28 +16646,6 @@
     }
   },
   {
-    "service_request": "2022-919894",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Street Light Outage/Malfunction",
-    "date_created": "2022-09-15T11:07:33.000",
-    "date_modified": "2022-09-15T11:07:34.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1201 Napoleon Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "contractor": "Legacy Professional Services",
-    "rowid": "919894",
-    "final_x": "3671051.19521",
-    "final_y": "519878.151544",
-    "longitude": "-90.10145917596243",
-    "latitude": "29.923797492741553",
-    "geocoded_column": {
-      "latitude": "29.923797492741553",
-      "longitude": "-90.10145917596243"
-    }
-  },
-  {
     "service_request": "2022-919893",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -16687,6 +16665,28 @@
     "geocoded_column": {
       "latitude": "29.9712989221687",
       "longitude": "-90.12474913163538"
+    }
+  },
+  {
+    "service_request": "2022-919894",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Street Light Outage/Malfunction",
+    "date_created": "2022-09-15T11:07:33.000",
+    "date_modified": "2022-09-15T11:07:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1201 Napoleon Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "contractor": "Legacy Professional Services",
+    "rowid": "919894",
+    "final_x": "3671051.19521",
+    "final_y": "519878.151544",
+    "longitude": "-90.10145917596243",
+    "latitude": "29.923797492741553",
+    "geocoded_column": {
+      "latitude": "29.923797492741553",
+      "longitude": "-90.10145917596243"
     }
   },
   {
@@ -20989,28 +20989,6 @@
     }
   },
   {
-    "service_request": "2022-919682",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-14T18:24:50.000",
-    "date_modified": "2022-09-14T18:24:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5115 Chamberlain Dr",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "919682",
-    "final_x": "3679687.55957",
-    "final_y": "551095.103957",
-    "longitude": "-90.07311354262012",
-    "latitude": "30.00937530605506",
-    "geocoded_column": {
-      "latitude": "30.00937530605506",
-      "longitude": "-90.07311354262012"
-    }
-  },
-  {
     "service_request": "2022-919681",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -21030,6 +21008,28 @@
     "geocoded_column": {
       "latitude": "29.935450938605573",
       "longitude": "-90.07266353206109"
+    }
+  },
+  {
+    "service_request": "2022-919682",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-14T18:24:50.000",
+    "date_modified": "2022-09-14T18:24:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5115 Chamberlain Dr",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "919682",
+    "final_x": "3679687.55957",
+    "final_y": "551095.103957",
+    "longitude": "-90.07311354262012",
+    "latitude": "30.00937530605506",
+    "geocoded_column": {
+      "latitude": "30.00937530605506",
+      "longitude": "-90.07311354262012"
     }
   },
   {
