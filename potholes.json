@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-920771",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-09-17T10:13:21.000",
+    "date_modified": "2022-09-17T10:13:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "901 Louisiana Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "920771",
+    "final_x": "3675422.73825",
+    "final_y": "519039.790391",
+    "longitude": "-90.08768855363991",
+    "latitude": "29.921362317040032",
+    "geocoded_column": {
+      "latitude": "29.921362317040032",
+      "longitude": "-90.08768855363991"
+    }
+  },
+  {
+    "service_request": "2022-920770",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-09-17T10:13:20.000",
+    "date_modified": "2022-09-17T10:13:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "901 Louisiana Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "920770",
+    "final_x": "3675422.73825",
+    "final_y": "519039.790391",
+    "longitude": "-90.08768855363991",
+    "latitude": "29.921362317040032",
+    "geocoded_column": {
+      "latitude": "29.921362317040032",
+      "longitude": "-90.08768855363991"
+    }
+  },
+  {
     "service_request": "2022-920343",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -3632,27 +3674,6 @@
     }
   },
   {
-    "service_request": "2022-914666",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-30T09:30:51.000",
-    "date_modified": "2022-08-30T09:30:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "100 Royal St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "914666",
-    "final_x": "3681301.39701",
-    "final_y": "530756.489858",
-    "longitude": "-90.06872404570724",
-    "latitude": "29.95340231693619",
-    "geocoded_column": {
-      "latitude": "29.95340231693619",
-      "longitude": "-90.06872404570724"
-    }
-  },
-  {
     "service_request": "2022-914665",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -3664,6 +3685,27 @@
     "address_councildis": "C",
     "status": "Pending",
     "rowid": "914665",
+    "final_x": "3681301.39701",
+    "final_y": "530756.489858",
+    "longitude": "-90.06872404570724",
+    "latitude": "29.95340231693619",
+    "geocoded_column": {
+      "latitude": "29.95340231693619",
+      "longitude": "-90.06872404570724"
+    }
+  },
+  {
+    "service_request": "2022-914666",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-30T09:30:51.000",
+    "date_modified": "2022-08-30T09:30:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 Royal St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "914666",
     "final_x": "3681301.39701",
     "final_y": "530756.489858",
     "longitude": "-90.06872404570724",
@@ -3988,27 +4030,6 @@
     }
   },
   {
-    "service_request": "2022-914272",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-29T10:19:31.000",
-    "date_modified": "2022-08-29T10:19:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11621 Old Gentilly Rd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "914272",
-    "final_x": "3718723.69516",
-    "final_y": "553920.876951",
-    "longitude": "-89.94967862032865",
-    "latitude": "30.01590680877802",
-    "geocoded_column": {
-      "latitude": "30.01590680877802",
-      "longitude": "-89.94967862032865"
-    }
-  },
-  {
     "service_request": "2022-914273",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -4020,6 +4041,27 @@
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "914273",
+    "final_x": "3718723.69516",
+    "final_y": "553920.876951",
+    "longitude": "-89.94967862032865",
+    "latitude": "30.01590680877802",
+    "geocoded_column": {
+      "latitude": "30.01590680877802",
+      "longitude": "-89.94967862032865"
+    }
+  },
+  {
+    "service_request": "2022-914272",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-29T10:19:31.000",
+    "date_modified": "2022-08-29T10:19:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "11621 Old Gentilly Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "914272",
     "final_x": "3718723.69516",
     "final_y": "553920.876951",
     "longitude": "-89.94967862032865",
@@ -21170,49 +21212,6 @@
     "geocoded_column": {
       "latitude": "29.951426481453346",
       "longitude": "-90.13569137375498"
-    }
-  },
-  {
-    "service_request": "2022-882857",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-05-13T13:52:26.000",
-    "date_modified": "2022-05-24T16:11:50.000",
-    "case_close_date": "2022-05-24T11:11:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1663 Valmont St",
-    "address_councildis": "B",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "882857",
-    "final_x": "3667977.39021",
-    "final_y": "521763.099002",
-    "longitude": "-90.11109862776772",
-    "latitude": "29.929071008241554",
-    "geocoded_column": {
-      "latitude": "29.929071008241554",
-      "longitude": "-90.11109862776772"
-    }
-  },
-  {
-    "service_request": "2022-882789",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-05-13T11:46:53.000",
-    "date_modified": "2022-05-13T14:24:27.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1825 N Roman St, New Orleans, Louisiana, 70116",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "882789",
-    "final_x": "3683145.12277",
-    "final_y": "538787.005641",
-    "longitude": "-90.06262115003247",
-    "latitude": "29.975427393692204",
-    "geocoded_column": {
-      "latitude": "29.975427393692204",
-      "longitude": "-90.06262115003247"
     }
   }
 ]
