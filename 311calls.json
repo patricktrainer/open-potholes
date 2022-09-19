@@ -3837,28 +3837,6 @@
     }
   },
   {
-    "service_request": "2022-920849",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Street Light Outage/Malfunction",
-    "date_created": "2022-09-17T16:13:28.000",
-    "date_modified": "2022-09-17T16:13:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "460 Broadway St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "contractor": "Legacy Professional Services",
-    "rowid": "920849",
-    "final_x": "3662258.61837",
-    "final_y": "523806.016187",
-    "longitude": "-90.12908398179272",
-    "latitude": "29.934854880580396",
-    "geocoded_column": {
-      "latitude": "29.934854880580396",
-      "longitude": "-90.12908398179272"
-    }
-  },
-  {
     "service_request": "2022-920848",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -3878,6 +3856,28 @@
     "geocoded_column": {
       "latitude": "29.989367394119828",
       "longitude": "-90.06414026297766"
+    }
+  },
+  {
+    "service_request": "2022-920849",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Street Light Outage/Malfunction",
+    "date_created": "2022-09-17T16:13:28.000",
+    "date_modified": "2022-09-17T16:13:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "460 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "contractor": "Legacy Professional Services",
+    "rowid": "920849",
+    "final_x": "3662258.61837",
+    "final_y": "523806.016187",
+    "longitude": "-90.12908398179272",
+    "latitude": "29.934854880580396",
+    "geocoded_column": {
+      "latitude": "29.934854880580396",
+      "longitude": "-90.12908398179272"
     }
   },
   {
@@ -12818,27 +12818,6 @@
     }
   },
   {
-    "service_request": "2022-920406",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-16T11:03:58.000",
-    "date_modified": "2022-09-16T11:03:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "8400 Oleander St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "920406",
-    "final_x": "3665929.62407",
-    "final_y": "534376.668741",
-    "longitude": "-90.11714041534741",
-    "latitude": "29.9638141539068",
-    "geocoded_column": {
-      "latitude": "29.9638141539068",
-      "longitude": "-90.11714041534741"
-    }
-  },
-  {
     "service_request": "2022-920407",
     "request_type": "Trash/Recycling",
     "request_reason": "Illegal Dumping",
@@ -12858,6 +12837,27 @@
     "geocoded_column": {
       "latitude": "29.992603243744753",
       "longitude": "-90.04756078835663"
+    }
+  },
+  {
+    "service_request": "2022-920406",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-16T11:03:58.000",
+    "date_modified": "2022-09-16T11:03:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "8400 Oleander St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "920406",
+    "final_x": "3665929.62407",
+    "final_y": "534376.668741",
+    "longitude": "-90.11714041534741",
+    "latitude": "29.9638141539068",
+    "geocoded_column": {
+      "latitude": "29.9638141539068",
+      "longitude": "-90.11714041534741"
     }
   },
   {
@@ -15288,28 +15288,6 @@
     }
   },
   {
-    "service_request": "2022-920282",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2022-09-16T08:35:18.000",
-    "date_modified": "2022-09-16T08:35:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1508 Sauvage St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "920282",
-    "final_x": "3677175.3213",
-    "final_y": "540381.644427",
-    "longitude": "-90.0814203853613",
-    "latitude": "29.9799927885193",
-    "geocoded_column": {
-      "latitude": "29.9799927885193",
-      "longitude": "-90.0814203853613"
-    }
-  },
-  {
     "service_request": "2022-920281",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -15322,6 +15300,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Metro Disposal",
     "rowid": "920281",
+    "final_x": "3677175.3213",
+    "final_y": "540381.644427",
+    "longitude": "-90.0814203853613",
+    "latitude": "29.9799927885193",
+    "geocoded_column": {
+      "latitude": "29.9799927885193",
+      "longitude": "-90.0814203853613"
+    }
+  },
+  {
+    "service_request": "2022-920282",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2022-09-16T08:35:18.000",
+    "date_modified": "2022-09-16T08:35:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1508 Sauvage St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "920282",
     "final_x": "3677175.3213",
     "final_y": "540381.644427",
     "longitude": "-90.0814203853613",
@@ -18131,27 +18131,6 @@
     }
   },
   {
-    "service_request": "2022-920143",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-15T16:04:15.000",
-    "date_modified": "2022-09-15T16:04:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "3135 Sullen Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "920143",
-    "final_x": "3707720.68881",
-    "final_y": "519112.882423",
-    "longitude": "-89.9857363100851",
-    "latitude": "29.920558344960202",
-    "geocoded_column": {
-      "latitude": "29.920558344960202",
-      "longitude": "-89.9857363100851"
-    }
-  },
-  {
     "service_request": "2022-920144",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -18171,6 +18150,27 @@
     "geocoded_column": {
       "latitude": "29.937850377934108",
       "longitude": "-90.09006832562157"
+    }
+  },
+  {
+    "service_request": "2022-920143",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-15T16:04:15.000",
+    "date_modified": "2022-09-15T16:04:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "3135 Sullen Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "920143",
+    "final_x": "3707720.68881",
+    "final_y": "519112.882423",
+    "longitude": "-89.9857363100851",
+    "latitude": "29.920558344960202",
+    "geocoded_column": {
+      "latitude": "29.920558344960202",
+      "longitude": "-89.9857363100851"
     }
   },
   {
@@ -21029,28 +21029,6 @@
     }
   },
   {
-    "service_request": "2022-920000",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-15T13:30:42.000",
-    "date_modified": "2022-09-15T13:30:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7906 Gannon Rd, New Orleans, Louisiana, 70128",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "920000",
-    "final_x": "3715735.47999",
-    "final_y": "570631.729895",
-    "longitude": "-89.95848642437443",
-    "latitude": "30.061953782332942",
-    "geocoded_column": {
-      "latitude": "30.061953782332942",
-      "longitude": "-89.95848642437443"
-    }
-  },
-  {
     "service_request": "2022-920001",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -21070,6 +21048,28 @@
     "geocoded_column": {
       "latitude": "30.04611894377092",
       "longitude": "-89.97616419994876"
+    }
+  },
+  {
+    "service_request": "2022-920000",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-15T13:30:42.000",
+    "date_modified": "2022-09-15T13:30:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7906 Gannon Rd, New Orleans, Louisiana, 70128",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "920000",
+    "final_x": "3715735.47999",
+    "final_y": "570631.729895",
+    "longitude": "-89.95848642437443",
+    "latitude": "30.061953782332942",
+    "geocoded_column": {
+      "latitude": "30.061953782332942",
+      "longitude": "-89.95848642437443"
     }
   },
   {
