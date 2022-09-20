@@ -10291,28 +10291,6 @@
     }
   },
   {
-    "service_request": "2022-921028",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-18T19:05:54.000",
-    "date_modified": "2022-09-18T19:05:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1502 Conery St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "921028",
-    "final_x": "3675938.78056",
-    "final_y": "521977.203322",
-    "longitude": "-90.08595869604144",
-    "latitude": "29.92942381741005",
-    "geocoded_column": {
-      "latitude": "29.92942381741005",
-      "longitude": "-90.08595869604144"
-    }
-  },
-  {
     "service_request": "2022-921027",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -10332,6 +10310,28 @@
     "geocoded_column": {
       "latitude": "29.97319619614067",
       "longitude": "-90.10729981214295"
+    }
+  },
+  {
+    "service_request": "2022-921028",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-18T19:05:54.000",
+    "date_modified": "2022-09-18T19:05:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1502 Conery St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "921028",
+    "final_x": "3675938.78056",
+    "final_y": "521977.203322",
+    "longitude": "-90.08595869604144",
+    "latitude": "29.92942381741005",
+    "geocoded_column": {
+      "latitude": "29.92942381741005",
+      "longitude": "-90.08595869604144"
     }
   },
   {
@@ -13982,28 +13982,6 @@
     }
   },
   {
-    "service_request": "2022-920848",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-17T16:13:28.000",
-    "date_modified": "2022-09-17T16:13:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1952 Treasure St, New Orleans, Louisiana, 70122",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "920848",
-    "final_x": "3682608.03791",
-    "final_y": "543850.790926",
-    "longitude": "-90.06414026297766",
-    "latitude": "29.989367394119828",
-    "geocoded_column": {
-      "latitude": "29.989367394119828",
-      "longitude": "-90.06414026297766"
-    }
-  },
-  {
     "service_request": "2022-920849",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Street Light Outage/Malfunction",
@@ -14023,6 +14001,28 @@
     "geocoded_column": {
       "latitude": "29.934854880580396",
       "longitude": "-90.12908398179272"
+    }
+  },
+  {
+    "service_request": "2022-920848",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-17T16:13:28.000",
+    "date_modified": "2022-09-17T16:13:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1952 Treasure St, New Orleans, Louisiana, 70122",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "920848",
+    "final_x": "3682608.03791",
+    "final_y": "543850.790926",
+    "longitude": "-90.06414026297766",
+    "latitude": "29.989367394119828",
+    "geocoded_column": {
+      "latitude": "29.989367394119828",
+      "longitude": "-90.06414026297766"
     }
   },
   {
