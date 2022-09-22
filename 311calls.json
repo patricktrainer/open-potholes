@@ -4542,28 +4542,6 @@
     }
   },
   {
-    "service_request": "2022-922254",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Street Light Outage/Malfunction",
-    "date_created": "2022-09-21T12:21:50.000",
-    "date_modified": "2022-09-21T12:22:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 BLK Danneel St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "contractor": "Legacy Professional Services",
-    "rowid": "922254",
-    "final_x": "3675775.63463",
-    "final_y": "524158.43113",
-    "longitude": "-90.0863987856865",
-    "latitude": "29.935426365909215",
-    "geocoded_column": {
-      "latitude": "29.935426365909215",
-      "longitude": "-90.0863987856865"
-    }
-  },
-  {
     "service_request": "2022-922253",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -4583,6 +4561,28 @@
     "geocoded_column": {
       "latitude": "29.937291696634496",
       "longitude": "-90.09819622230944"
+    }
+  },
+  {
+    "service_request": "2022-922254",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Street Light Outage/Malfunction",
+    "date_created": "2022-09-21T12:21:50.000",
+    "date_modified": "2022-09-21T12:22:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 BLK Danneel St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "contractor": "Legacy Professional Services",
+    "rowid": "922254",
+    "final_x": "3675775.63463",
+    "final_y": "524158.43113",
+    "longitude": "-90.0863987856865",
+    "latitude": "29.935426365909215",
+    "geocoded_column": {
+      "latitude": "29.935426365909215",
+      "longitude": "-90.0863987856865"
     }
   },
   {
@@ -10607,27 +10607,6 @@
     }
   },
   {
-    "service_request": "2022-921961",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-20T20:00:41.000",
-    "date_modified": "2022-09-20T20:00:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "7127 Deanne St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "921961",
-    "final_x": "3695623.7416",
-    "final_y": "556772.283802",
-    "longitude": "-90.02256071161062",
-    "latitude": "30.024493860326423",
-    "geocoded_column": {
-      "latitude": "30.024493860326423",
-      "longitude": "-90.02256071161062"
-    }
-  },
-  {
     "service_request": "2022-921962",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -10639,6 +10618,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "921962",
+    "final_x": "3695623.7416",
+    "final_y": "556772.283802",
+    "longitude": "-90.02256071161062",
+    "latitude": "30.024493860326423",
+    "geocoded_column": {
+      "latitude": "30.024493860326423",
+      "longitude": "-90.02256071161062"
+    }
+  },
+  {
+    "service_request": "2022-921961",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-20T20:00:41.000",
+    "date_modified": "2022-09-20T20:00:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "7127 Deanne St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "921961",
     "final_x": "3695623.7416",
     "final_y": "556772.283802",
     "longitude": "-90.02256071161062",
@@ -11876,27 +11876,6 @@
     }
   },
   {
-    "service_request": "2022-921901",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-20T17:17:00.000",
-    "date_modified": "2022-09-20T17:17:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "5439 Law St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "921901",
-    "final_x": "3699055.74135",
-    "final_y": "539542.89569",
-    "longitude": "-90.01234389552451",
-    "latitude": "29.977011061664104",
-    "geocoded_column": {
-      "latitude": "29.977011061664104",
-      "longitude": "-90.01234389552451"
-    }
-  },
-  {
     "service_request": "2022-921902",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -11916,6 +11895,27 @@
     "geocoded_column": {
       "latitude": "30.023926928628885",
       "longitude": "-90.1002602010508"
+    }
+  },
+  {
+    "service_request": "2022-921901",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-20T17:17:00.000",
+    "date_modified": "2022-09-20T17:17:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "5439 Law St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "921901",
+    "final_x": "3699055.74135",
+    "final_y": "539542.89569",
+    "longitude": "-90.01234389552451",
+    "latitude": "29.977011061664104",
+    "geocoded_column": {
+      "latitude": "29.977011061664104",
+      "longitude": "-90.01234389552451"
     }
   },
   {
@@ -13335,28 +13335,6 @@
     }
   },
   {
-    "service_request": "2022-921832",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2022-09-20T15:20:17.000",
-    "date_modified": "2022-09-20T15:20:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6671 General Haig St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Metro Disposal",
-    "rowid": "921832",
-    "final_x": "3671025.35163",
-    "final_y": "551745.599317",
-    "longitude": "-90.10045840637996",
-    "latitude": "30.011423049628885",
-    "geocoded_column": {
-      "latitude": "30.011423049628885",
-      "longitude": "-90.10045840637996"
-    }
-  },
-  {
     "service_request": "2022-921831",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -13376,6 +13354,28 @@
     "geocoded_column": {
       "latitude": "29.925946088319",
       "longitude": "-90.10757675132766"
+    }
+  },
+  {
+    "service_request": "2022-921832",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2022-09-20T15:20:17.000",
+    "date_modified": "2022-09-20T15:20:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6671 General Haig St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Metro Disposal",
+    "rowid": "921832",
+    "final_x": "3671025.35163",
+    "final_y": "551745.599317",
+    "longitude": "-90.10045840637996",
+    "latitude": "30.011423049628885",
+    "geocoded_column": {
+      "latitude": "30.011423049628885",
+      "longitude": "-90.10045840637996"
     }
   },
   {
