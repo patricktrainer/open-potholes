@@ -4504,27 +4504,6 @@
     }
   },
   {
-    "service_request": "2022-922693",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Man hole cover issue",
-    "date_created": "2022-09-22T12:26:47.000",
-    "date_modified": "2022-09-22T12:26:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "S CARROLLTON AVE & BIRCH ST",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "922693",
-    "final_x": "3662932.3",
-    "final_y": "529391.38",
-    "longitude": "-90.12677149377784",
-    "latitude": "29.9501933637602",
-    "geocoded_column": {
-      "latitude": "29.9501933637602",
-      "longitude": "-90.12677149377784"
-    }
-  },
-  {
     "service_request": "2022-922692",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -4544,6 +4523,27 @@
     "geocoded_column": {
       "latitude": "29.935378608323525",
       "longitude": "-90.07105598366722"
+    }
+  },
+  {
+    "service_request": "2022-922693",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Man hole cover issue",
+    "date_created": "2022-09-22T12:26:47.000",
+    "date_modified": "2022-09-22T12:26:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "S CARROLLTON AVE & BIRCH ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "922693",
+    "final_x": "3662932.3",
+    "final_y": "529391.38",
+    "longitude": "-90.12677149377784",
+    "latitude": "29.9501933637602",
+    "geocoded_column": {
+      "latitude": "29.9501933637602",
+      "longitude": "-90.12677149377784"
     }
   },
   {
@@ -13045,28 +13045,6 @@
     }
   },
   {
-    "service_request": "2022-922253",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2022-09-21T12:21:50.000",
-    "date_modified": "2022-09-21T12:21:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2625 Peniston St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "922253",
-    "final_x": "3672031.85947",
-    "final_y": "524796.265532",
-    "longitude": "-90.09819622230944",
-    "latitude": "29.937291696634496",
-    "geocoded_column": {
-      "latitude": "29.937291696634496",
-      "longitude": "-90.09819622230944"
-    }
-  },
-  {
     "service_request": "2022-922254",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Street Light Outage/Malfunction",
@@ -13086,6 +13064,28 @@
     "geocoded_column": {
       "latitude": "29.935426365909215",
       "longitude": "-90.0863987856865"
+    }
+  },
+  {
+    "service_request": "2022-922253",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2022-09-21T12:21:50.000",
+    "date_modified": "2022-09-21T12:21:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2625 Peniston St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "922253",
+    "final_x": "3672031.85947",
+    "final_y": "524796.265532",
+    "longitude": "-90.09819622230944",
+    "latitude": "29.937291696634496",
+    "geocoded_column": {
+      "latitude": "29.937291696634496",
+      "longitude": "-90.09819622230944"
     }
   },
   {
@@ -19134,27 +19134,6 @@
     }
   },
   {
-    "service_request": "2022-921962",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-20T20:00:41.000",
-    "date_modified": "2022-09-20T20:00:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "7127 Deanne St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "921962",
-    "final_x": "3695623.7416",
-    "final_y": "556772.283802",
-    "longitude": "-90.02256071161062",
-    "latitude": "30.024493860326423",
-    "geocoded_column": {
-      "latitude": "30.024493860326423",
-      "longitude": "-90.02256071161062"
-    }
-  },
-  {
     "service_request": "2022-921961",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -19166,6 +19145,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "921961",
+    "final_x": "3695623.7416",
+    "final_y": "556772.283802",
+    "longitude": "-90.02256071161062",
+    "latitude": "30.024493860326423",
+    "geocoded_column": {
+      "latitude": "30.024493860326423",
+      "longitude": "-90.02256071161062"
+    }
+  },
+  {
+    "service_request": "2022-921962",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-20T20:00:41.000",
+    "date_modified": "2022-09-20T20:00:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "7127 Deanne St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "921962",
     "final_x": "3695623.7416",
     "final_y": "556772.283802",
     "longitude": "-90.02256071161062",
@@ -20403,6 +20403,27 @@
     }
   },
   {
+    "service_request": "2022-921901",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-09-20T17:17:00.000",
+    "date_modified": "2022-09-20T17:17:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "5439 Law St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "921901",
+    "final_x": "3699055.74135",
+    "final_y": "539542.89569",
+    "longitude": "-90.01234389552451",
+    "latitude": "29.977011061664104",
+    "geocoded_column": {
+      "latitude": "29.977011061664104",
+      "longitude": "-90.01234389552451"
+    }
+  },
+  {
     "service_request": "2022-921902",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -20422,27 +20443,6 @@
     "geocoded_column": {
       "latitude": "30.023926928628885",
       "longitude": "-90.1002602010508"
-    }
-  },
-  {
-    "service_request": "2022-921901",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-09-20T17:17:00.000",
-    "date_modified": "2022-09-20T17:17:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "5439 Law St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "921901",
-    "final_x": "3699055.74135",
-    "final_y": "539542.89569",
-    "longitude": "-90.01234389552451",
-    "latitude": "29.977011061664104",
-    "geocoded_column": {
-      "latitude": "29.977011061664104",
-      "longitude": "-90.01234389552451"
     }
   },
   {
