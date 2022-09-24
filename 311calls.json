@@ -2332,28 +2332,6 @@
     }
   },
   {
-    "service_request": "2022-923109",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2022-09-23T14:06:42.000",
-    "date_modified": "2022-09-23T14:06:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3470 Wall Blvd",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "923109",
-    "final_x": "3696957.40528",
-    "final_y": "523899.406652",
-    "longitude": "-90.01953756869659",
-    "latitude": "29.93406332829153",
-    "geocoded_column": {
-      "latitude": "29.93406332829153",
-      "longitude": "-90.01953756869659"
-    }
-  },
-  {
     "service_request": "2022-923108",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -2373,6 +2351,28 @@
     "geocoded_column": {
       "latitude": "29.92941159273221",
       "longitude": "-90.13205431008893"
+    }
+  },
+  {
+    "service_request": "2022-923109",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2022-09-23T14:06:42.000",
+    "date_modified": "2022-09-23T14:06:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3470 Wall Blvd",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "923109",
+    "final_x": "3696957.40528",
+    "final_y": "523899.406652",
+    "longitude": "-90.01953756869659",
+    "latitude": "29.93406332829153",
+    "geocoded_column": {
+      "latitude": "29.93406332829153",
+      "longitude": "-90.01953756869659"
     }
   },
   {
@@ -6551,27 +6551,6 @@
     }
   },
   {
-    "service_request": "2022-922905",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2022-09-22T22:24:05.000",
-    "date_modified": "2022-09-22T22:24:05.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4901 Eunice Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "922905",
-    "final_x": "3710514.48241",
-    "final_y": "556755.667226",
-    "longitude": "-89.97550966719511",
-    "latitude": "30.023971390140886",
-    "geocoded_column": {
-      "latitude": "30.023971390140886",
-      "longitude": "-89.97550966719511"
-    }
-  },
-  {
     "service_request": "2022-922906",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -6583,6 +6562,27 @@
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "922906",
+    "final_x": "3710514.48241",
+    "final_y": "556755.667226",
+    "longitude": "-89.97550966719511",
+    "latitude": "30.023971390140886",
+    "geocoded_column": {
+      "latitude": "30.023971390140886",
+      "longitude": "-89.97550966719511"
+    }
+  },
+  {
+    "service_request": "2022-922905",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2022-09-22T22:24:05.000",
+    "date_modified": "2022-09-22T22:24:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4901 Eunice Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "922905",
     "final_x": "3710514.48241",
     "final_y": "556755.667226",
     "longitude": "-89.97550966719511",
@@ -10994,6 +10994,27 @@
     }
   },
   {
+    "service_request": "2022-922693",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Man hole cover issue",
+    "date_created": "2022-09-22T12:26:47.000",
+    "date_modified": "2022-09-22T12:26:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "S CARROLLTON AVE & BIRCH ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "922693",
+    "final_x": "3662932.3",
+    "final_y": "529391.38",
+    "longitude": "-90.12677149377784",
+    "latitude": "29.9501933637602",
+    "geocoded_column": {
+      "latitude": "29.9501933637602",
+      "longitude": "-90.12677149377784"
+    }
+  },
+  {
     "service_request": "2022-922692",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -11013,27 +11034,6 @@
     "geocoded_column": {
       "latitude": "29.935378608323525",
       "longitude": "-90.07105598366722"
-    }
-  },
-  {
-    "service_request": "2022-922693",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Man hole cover issue",
-    "date_created": "2022-09-22T12:26:47.000",
-    "date_modified": "2022-09-22T12:26:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "S CARROLLTON AVE & BIRCH ST",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "922693",
-    "final_x": "3662932.3",
-    "final_y": "529391.38",
-    "longitude": "-90.12677149377784",
-    "latitude": "29.9501933637602",
-    "geocoded_column": {
-      "latitude": "29.9501933637602",
-      "longitude": "-90.12677149377784"
     }
   },
   {
@@ -19541,28 +19541,6 @@
     }
   },
   {
-    "service_request": "2022-922254",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Street Light Outage/Malfunction",
-    "date_created": "2022-09-21T12:21:50.000",
-    "date_modified": "2022-09-21T12:22:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 BLK Danneel St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "contractor": "Legacy Professional Services",
-    "rowid": "922254",
-    "final_x": "3675775.63463",
-    "final_y": "524158.43113",
-    "longitude": "-90.0863987856865",
-    "latitude": "29.935426365909215",
-    "geocoded_column": {
-      "latitude": "29.935426365909215",
-      "longitude": "-90.0863987856865"
-    }
-  },
-  {
     "service_request": "2022-922253",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -19582,6 +19560,28 @@
     "geocoded_column": {
       "latitude": "29.937291696634496",
       "longitude": "-90.09819622230944"
+    }
+  },
+  {
+    "service_request": "2022-922254",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Street Light Outage/Malfunction",
+    "date_created": "2022-09-21T12:21:50.000",
+    "date_modified": "2022-09-21T12:22:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 BLK Danneel St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "contractor": "Legacy Professional Services",
+    "rowid": "922254",
+    "final_x": "3675775.63463",
+    "final_y": "524158.43113",
+    "longitude": "-90.0863987856865",
+    "latitude": "29.935426365909215",
+    "geocoded_column": {
+      "latitude": "29.935426365909215",
+      "longitude": "-90.0863987856865"
     }
   },
   {
