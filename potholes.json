@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-923453",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-09-25T18:42:35.000",
+    "date_modified": "2022-09-25T18:42:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3400 Kansas St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "923453",
+    "final_x": "3694393.81872",
+    "final_y": "519987.36108",
+    "longitude": "-90.02777139281712",
+    "latitude": "29.923387106897124",
+    "geocoded_column": {
+      "latitude": "29.923387106897124",
+      "longitude": "-90.02777139281712"
+    }
+  },
+  {
     "service_request": "2022-923357",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21188,27 +21209,6 @@
     "geocoded_column": {
       "latitude": "29.966211559062085",
       "longitude": "-90.12888485118305"
-    }
-  },
-  {
-    "service_request": "2022-884579",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-05-19T11:53:04.000",
-    "date_modified": "2022-05-19T11:53:05.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4400 General De Gaulle Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "884579",
-    "final_x": "3699878.24752",
-    "final_y": "518449.277686",
-    "longitude": "-90.01051527285452",
-    "latitude": "29.918984939986817",
-    "geocoded_column": {
-      "latitude": "29.918984939986817",
-      "longitude": "-90.01051527285452"
     }
   }
 ]
