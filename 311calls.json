@@ -17215,6 +17215,27 @@
     }
   },
   {
+    "service_request": "2022-923705",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2022-09-26T13:44:50.000",
+    "date_modified": "2022-09-26T13:44:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2036 Independence St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "923705",
+    "final_x": "3691833.83369",
+    "final_y": "539221.679754",
+    "longitude": "-90.0351644021383",
+    "latitude": "29.97635478677313",
+    "geocoded_column": {
+      "latitude": "29.97635478677313",
+      "longitude": "-90.0351644021383"
+    }
+  },
+  {
     "service_request": "2022-923704",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -17234,27 +17255,6 @@
     "geocoded_column": {
       "latitude": "30.02287946671912",
       "longitude": "-89.99054722001532"
-    }
-  },
-  {
-    "service_request": "2022-923705",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2022-09-26T13:44:50.000",
-    "date_modified": "2022-09-26T13:44:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2036 Independence St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "923705",
-    "final_x": "3691833.83369",
-    "final_y": "539221.679754",
-    "longitude": "-90.0351644021383",
-    "latitude": "29.97635478677313",
-    "geocoded_column": {
-      "latitude": "29.97635478677313",
-      "longitude": "-90.0351644021383"
     }
   },
   {
