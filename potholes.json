@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-925328",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-10-02T08:49:34.000",
+    "date_modified": "2022-10-02T08:49:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5515 Danneel St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "925328",
+    "final_x": "3667076.40205",
+    "final_y": "522452.748218",
+    "longitude": "-90.11391971229378",
+    "latitude": "29.930993719674174",
+    "geocoded_column": {
+      "latitude": "29.930993719674174",
+      "longitude": "-90.11391971229378"
+    }
+  },
+  {
     "service_request": "2022-925301",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21153,28 +21174,6 @@
     "geocoded_column": {
       "latitude": "29.922009257456615",
       "longitude": "-90.11880477188278"
-    }
-  },
-  {
-    "service_request": "2022-886720",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-05-27T08:44:21.000",
-    "date_modified": "2022-05-31T10:36:31.000",
-    "case_close_date": "2022-05-30T19:00:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2441 Orleans Ave",
-    "address_councildis": "D",
-    "status": "Captured by Project",
-    "rowid": "886720",
-    "final_x": "3677653.41826",
-    "final_y": "536434.795335",
-    "longitude": "-90.08004670307605",
-    "latitude": "29.969125936993006",
-    "geocoded_column": {
-      "latitude": "29.969125936993006",
-      "longitude": "-90.08004670307605"
     }
   }
 ]
