@@ -6831,27 +6831,6 @@
     }
   },
   {
-    "service_request": "2022-914272",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-29T10:19:31.000",
-    "date_modified": "2022-08-29T10:19:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11621 Old Gentilly Rd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "914272",
-    "final_x": "3718723.69516",
-    "final_y": "553920.876951",
-    "longitude": "-89.94967862032865",
-    "latitude": "30.01590680877802",
-    "geocoded_column": {
-      "latitude": "30.01590680877802",
-      "longitude": "-89.94967862032865"
-    }
-  },
-  {
     "service_request": "2022-914273",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -6863,6 +6842,27 @@
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "914273",
+    "final_x": "3718723.69516",
+    "final_y": "553920.876951",
+    "longitude": "-89.94967862032865",
+    "latitude": "30.01590680877802",
+    "geocoded_column": {
+      "latitude": "30.01590680877802",
+      "longitude": "-89.94967862032865"
+    }
+  },
+  {
+    "service_request": "2022-914272",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-08-29T10:19:31.000",
+    "date_modified": "2022-08-29T10:19:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "11621 Old Gentilly Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "914272",
     "final_x": "3718723.69516",
     "final_y": "553920.876951",
     "longitude": "-89.94967862032865",
