@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-928947",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-10-15T20:43:54.000",
+    "date_modified": "2022-10-15T20:43:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1250 Poydras St Ste 2400",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "928947",
+    "final_x": "3678736.86037",
+    "final_y": "529752.634305",
+    "longitude": "-90.07685651827016",
+    "latitude": "29.9507196270417",
+    "geocoded_column": {
+      "latitude": "29.9507196270417",
+      "longitude": "-90.07685651827016"
+    }
+  },
+  {
+    "service_request": "2022-928857",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-10-15T10:01:23.000",
+    "date_modified": "2022-10-15T10:01:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5629 Painters St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "928857",
+    "final_x": "3686212.05334",
+    "final_y": "553839.508695",
+    "longitude": "-90.05240352856919",
+    "latitude": "30.01672249165407",
+    "geocoded_column": {
+      "latitude": "30.01672249165407",
+      "longitude": "-90.05240352856919"
+    }
+  },
+  {
     "service_request": "2022-928785",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21161,50 +21203,6 @@
     "geocoded_column": {
       "latitude": "29.955314203737036",
       "longitude": "-90.1088518309431"
-    }
-  },
-  {
-    "service_request": "2022-890672",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-06-10T14:52:45.000",
-    "date_modified": "2022-07-12T16:13:31.000",
-    "case_close_date": "2022-07-12T11:13:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "Jackson Ave & Annunciation St, New Orleans, Louisiana, 70130",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "890672",
-    "final_x": "3679502.8",
-    "final_y": "521194.98",
-    "longitude": "-90.07473486967793",
-    "latitude": "29.927165795495878",
-    "geocoded_column": {
-      "latitude": "29.927165795495878",
-      "longitude": "-90.07473486967793"
-    }
-  },
-  {
-    "service_request": "2022-890650",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-06-10T14:25:29.000",
-    "date_modified": "2022-06-13T09:05:45.000",
-    "case_close_date": "2022-06-13T04:05:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1234 Park Island Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "890650",
-    "final_x": "3676928.91266",
-    "final_y": "547824.935378",
-    "longitude": "-90.08194190087654",
-    "latitude": "30.000466640393274",
-    "geocoded_column": {
-      "latitude": "30.000466640393274",
-      "longitude": "-90.08194190087654"
     }
   }
 ]
