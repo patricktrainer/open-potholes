@@ -6945,6 +6945,27 @@
     }
   },
   {
+    "service_request": "2022-929159",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-10-17T09:26:27.000",
+    "date_modified": "2022-10-17T09:26:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "7101 Warfield St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "929159",
+    "final_x": "3701416.96778",
+    "final_y": "553135.001879",
+    "longitude": "-90.00438855672648",
+    "latitude": "30.01430923264679",
+    "geocoded_column": {
+      "latitude": "30.01430923264679",
+      "longitude": "-90.00438855672648"
+    }
+  },
+  {
     "service_request": "2022-929158",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Street Light Outage/Malfunction",
@@ -6964,27 +6985,6 @@
     "geocoded_column": {
       "latitude": "29.944812656296225",
       "longitude": "-90.1206716814039"
-    }
-  },
-  {
-    "service_request": "2022-929159",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-10-17T09:26:27.000",
-    "date_modified": "2022-10-17T09:26:27.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "7101 Warfield St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "929159",
-    "final_x": "3701416.96778",
-    "final_y": "553135.001879",
-    "longitude": "-90.00438855672648",
-    "latitude": "30.01430923264679",
-    "geocoded_column": {
-      "latitude": "30.01430923264679",
-      "longitude": "-90.00438855672648"
     }
   },
   {
