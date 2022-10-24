@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-930752",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-10-23T13:40:16.000",
+    "date_modified": "2022-10-23T13:40:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "WEST END BLVD & LANE ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "930752",
+    "final_x": "3666637.4",
+    "final_y": "550842.28",
+    "longitude": "-90.11435216019888",
+    "latitude": "30.009068324433965",
+    "geocoded_column": {
+      "latitude": "30.009068324433965",
+      "longitude": "-90.11435216019888"
+    }
+  },
+  {
     "service_request": "2022-930617",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21168,26 +21189,6 @@
     "final_address": "6534 Pontchartrain Blvd, New Orleans, Louisiana, 70124",
     "address_councildis": "A",
     "rowid": "892263",
-    "final_x": "3666215.71969",
-    "final_y": "551624.632917",
-    "longitude": "-90.11565812834723",
-    "latitude": "30.011231850205",
-    "geocoded_column": {
-      "latitude": "30.011231850205",
-      "longitude": "-90.11565812834723"
-    }
-  },
-  {
-    "service_request": "2022-892260",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-06-16T12:12:29.000",
-    "date_modified": "2022-06-16T16:57:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6534 Pontchartrain Blvd, New Orleans, Louisiana, 70124",
-    "address_councildis": "A",
-    "rowid": "892260",
     "final_x": "3666215.71969",
     "final_y": "551624.632917",
     "longitude": "-90.11565812834723",
