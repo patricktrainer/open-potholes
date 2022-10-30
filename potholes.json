@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-933090",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-10-29T12:36:38.000",
+    "date_modified": "2022-10-29T12:36:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3707 Pauger St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "933090",
+    "final_x": "3683360.66901",
+    "final_y": "543660.31323",
+    "longitude": "-90.06176959788444",
+    "latitude": "29.988820703868388",
+    "geocoded_column": {
+      "latitude": "29.988820703868388",
+      "longitude": "-90.06176959788444"
+    }
+  },
+  {
     "service_request": "2022-932989",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21184,28 +21205,6 @@
     "geocoded_column": {
       "latitude": "29.958817683100104",
       "longitude": "-90.06376707385992"
-    }
-  },
-  {
-    "service_request": "2022-894351",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-06-24T08:29:51.000",
-    "date_modified": "2022-06-24T12:42:12.000",
-    "case_close_date": "2022-06-24T07:42:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2241 Milton St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "894351",
-    "final_x": "3684371.68777",
-    "final_y": "546711.062545",
-    "longitude": "-90.05846888877957",
-    "latitude": "29.99717828863109",
-    "geocoded_column": {
-      "latitude": "29.99717828863109",
-      "longitude": "-90.05846888877957"
     }
   }
 ]
