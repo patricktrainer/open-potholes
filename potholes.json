@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2022-933183",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-10-30T11:04:00.000",
+    "date_modified": "2022-10-30T11:04:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8112 Forshey St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "933183",
+    "final_x": "3666885.43783",
+    "final_y": "533973.996485",
+    "longitude": "-90.11413556710153",
+    "latitude": "29.962679008191735",
+    "geocoded_column": {
+      "latitude": "29.962679008191735",
+      "longitude": "-90.11413556710153"
+    }
+  },
+  {
     "service_request": "2022-933090",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21183,28 +21204,6 @@
     "geocoded_column": {
       "latitude": "30.038131808769652",
       "longitude": "-89.98995501522964"
-    }
-  },
-  {
-    "service_request": "2022-894411",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-06-24T10:28:31.000",
-    "date_modified": "2022-07-14T11:58:38.000",
-    "case_close_date": "2022-07-14T06:58:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "637 St Ann St",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "894411",
-    "final_x": "3682849.25519",
-    "final_y": "532743.073732",
-    "longitude": "-90.06376707385992",
-    "latitude": "29.958817683100104",
-    "geocoded_column": {
-      "latitude": "29.958817683100104",
-      "longitude": "-90.06376707385992"
     }
   }
 ]
