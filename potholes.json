@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-938997",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-06T20:51:34.000",
+    "date_modified": "2022-11-06T20:51:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "514 Madison St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "938997",
+    "final_x": "3683375.24617",
+    "final_y": "532505.529092",
+    "longitude": "-90.06211445238885",
+    "latitude": "29.95814848139939",
+    "geocoded_column": {
+      "latitude": "29.95814848139939",
+      "longitude": "-90.06211445238885"
+    }
+  },
+  {
+    "service_request": "2022-938933",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-06T16:54:32.000",
+    "date_modified": "2022-11-06T16:54:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1477 N Prieur St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "938933",
+    "final_x": "3680799.63189",
+    "final_y": "537801.444552",
+    "longitude": "-90.07006315823145",
+    "latitude": "29.97278875423917",
+    "geocoded_column": {
+      "latitude": "29.97278875423917",
+      "longitude": "-90.07006315823145"
+    }
+  },
+  {
+    "service_request": "2022-938740",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-06T08:03:47.000",
+    "date_modified": "2022-11-06T08:03:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2733 Constitution Pl",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "938740",
+    "final_x": "3687686.04515",
+    "final_y": "543018.815757",
+    "longitude": "-90.04812981801253",
+    "latitude": "29.98692412378722",
+    "geocoded_column": {
+      "latitude": "29.98692412378722",
+      "longitude": "-90.04812981801253"
+    }
+  },
+  {
     "service_request": "2022-938672",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -46,7 +109,7 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-11-05T11:31:54.000",
-    "date_modified": "2022-11-05T11:31:54.000",
+    "date_modified": "2022-11-06T18:12:54.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4400 General De Gaulle Dr",
@@ -8481,20 +8544,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-09-13T15:48:07.000",
-    "date_modified": "2022-09-13T15:48:07.000",
+    "date_modified": "2022-11-06T18:50:00.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1544 State St",
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "919072",
-    "final_x": "3665562.32045",
-    "final_y": "522219.480122",
-    "longitude": "-90.11870728865692",
-    "latitude": "29.93039652496733",
+    "final_x": "3665606.7177",
+    "final_y": "522201.550458",
+    "longitude": "-90.11856773287175",
+    "latitude": "29.93034592993008",
     "geocoded_column": {
-      "latitude": "29.93039652496733",
-      "longitude": "-90.11870728865692"
+      "latitude": "29.93034592993008",
+      "longitude": "-90.11856773287175"
     }
   },
   {
@@ -21147,71 +21210,6 @@
     "geocoded_column": {
       "latitude": "29.96605604328391",
       "longitude": "-90.06883115800262"
-    }
-  },
-  {
-    "service_request": "2022-898480",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-10T11:10:43.000",
-    "date_modified": "2022-07-10T11:10:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8100 Forshey St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "898480",
-    "final_x": "3666967.6018",
-    "final_y": "533905.308549",
-    "longitude": "-90.1138784116776",
-    "latitude": "29.962487734900648",
-    "geocoded_column": {
-      "latitude": "29.962487734900648",
-      "longitude": "-90.1138784116776"
-    }
-  },
-  {
-    "service_request": "2022-898413",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-09T19:12:21.000",
-    "date_modified": "2022-07-12T08:53:55.000",
-    "case_close_date": "2022-07-10T19:00:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6115 Mandeville St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "898413",
-    "final_x": "3684312.32393",
-    "final_y": "555536.033817",
-    "longitude": "-90.05834621860586",
-    "latitude": "30.021445569390945",
-    "geocoded_column": {
-      "latitude": "30.021445569390945",
-      "longitude": "-90.05834621860586"
-    }
-  },
-  {
-    "service_request": "2022-898259",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-08T21:39:31.000",
-    "date_modified": "2022-07-11T09:40:51.000",
-    "case_close_date": "2022-07-11T04:40:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "330 Crystal St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "898259",
-    "final_x": "3667663.79546",
-    "final_y": "556019.226713",
-    "longitude": "-90.11093493582415",
-    "latitude": "30.023273039430794",
-    "geocoded_column": {
-      "latitude": "30.023273039430794",
-      "longitude": "-90.11093493582415"
     }
   }
 ]
