@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-942639",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-12T12:36:48.000",
+    "date_modified": "2022-11-12T12:36:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1139 Arabella St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "942639",
+    "final_x": "3666152.53025",
+    "final_y": "520220.218232",
+    "longitude": "-90.11691108139415",
+    "latitude": "29.924881970538088",
+    "geocoded_column": {
+      "latitude": "29.924881970538088",
+      "longitude": "-90.11691108139415"
+    }
+  },
+  {
+    "service_request": "2022-942578",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-12T09:04:35.000",
+    "date_modified": "2022-11-12T09:04:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4901 Franklin Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "942578",
+    "final_x": "3686871.25506",
+    "final_y": "551004.348437",
+    "longitude": "-90.05042102891811",
+    "latitude": "30.008906562279577",
+    "geocoded_column": {
+      "latitude": "30.008906562279577",
+      "longitude": "-90.05042102891811"
+    }
+  },
+  {
     "service_request": "2022-942553",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21170,49 +21212,6 @@
     "geocoded_column": {
       "latitude": "29.958051006768624",
       "longitude": "-90.12483892312723"
-    }
-  },
-  {
-    "service_request": "2022-899898",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-13T20:50:34.000",
-    "date_modified": "2022-07-14T11:20:20.000",
-    "case_close_date": "2022-07-14T06:20:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2310 Joliet St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "899898",
-    "final_x": "3663553.91891",
-    "final_y": "532298.707843",
-    "longitude": "-90.12471191243446",
-    "latitude": "29.958169560772188",
-    "geocoded_column": {
-      "latitude": "29.958169560772188",
-      "longitude": "-90.12471191243446"
-    }
-  },
-  {
-    "service_request": "2022-899872",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-13T18:25:33.000",
-    "date_modified": "2022-08-04T08:46:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FORUM RD & MORRISON RD",
-    "address_councildis": "E",
-    "status": "Reviewed",
-    "rowid": "899872",
-    "final_x": "3720826.1",
-    "final_y": "572645.48",
-    "longitude": "-89.94231785255731",
-    "latitude": "30.06732181889421",
-    "geocoded_column": {
-      "latitude": "30.06732181889421",
-      "longitude": "-89.94231785255731"
     }
   }
 ]
