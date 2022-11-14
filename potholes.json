@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-942841",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-13T21:09:15.000",
+    "date_modified": "2022-11-13T21:09:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3801 Lennox Blvd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "942841",
+    "final_x": "3700470.44983",
+    "final_y": "517502.984438",
+    "longitude": "-90.0086805382105",
+    "latitude": "29.916364144708886",
+    "geocoded_column": {
+      "latitude": "29.916364144708886",
+      "longitude": "-90.0086805382105"
+    }
+  },
+  {
+    "service_request": "2022-942829",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-13T18:54:36.000",
+    "date_modified": "2022-11-13T18:54:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1721 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "942829",
+    "final_x": "3665296.06925",
+    "final_y": "528079.497151",
+    "longitude": "-90.11935181303953",
+    "latitude": "29.946517457933044",
+    "geocoded_column": {
+      "latitude": "29.946517457933044",
+      "longitude": "-90.11935181303953"
+    }
+  },
+  {
     "service_request": "2022-942639",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21168,50 +21210,6 @@
     "geocoded_column": {
       "latitude": "30.005078288553808",
       "longitude": "-90.03355995060957"
-    }
-  },
-  {
-    "service_request": "2022-899916",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-13T22:58:06.000",
-    "date_modified": "2022-07-14T09:47:54.000",
-    "case_close_date": "2022-07-14T04:47:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4350 Stemway Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "899916",
-    "final_x": "3697127.85027",
-    "final_y": "552177.451286",
-    "longitude": "-90.01797468622043",
-    "latitude": "30.01181241199822",
-    "geocoded_column": {
-      "latitude": "30.01181241199822",
-      "longitude": "-90.01797468622043"
-    }
-  },
-  {
-    "service_request": "2022-899900",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-13T20:58:13.000",
-    "date_modified": "2022-07-14T11:22:09.000",
-    "case_close_date": "2022-07-14T06:22:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2304 Joliet St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "899900",
-    "final_x": "3663514.15603",
-    "final_y": "532255.172803",
-    "longitude": "-90.12483892312723",
-    "latitude": "29.958051006768624",
-    "geocoded_column": {
-      "latitude": "29.958051006768624",
-      "longitude": "-90.12483892312723"
     }
   }
 ]
