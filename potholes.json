@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-945268",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-20T16:04:14.000",
+    "date_modified": "2022-11-20T16:04:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5218 Arts St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "945268",
+    "final_x": "3685728.71305",
+    "final_y": "552291.58863",
+    "longitude": "-90.05398528326633",
+    "latitude": "30.012481127287916",
+    "geocoded_column": {
+      "latitude": "30.012481127287916",
+      "longitude": "-90.05398528326633"
+    }
+  },
+  {
+    "service_request": "2022-945224",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-20T11:01:35.000",
+    "date_modified": "2022-11-20T11:01:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "618 Hillary St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "945224",
+    "final_x": "3661996.5824",
+    "final_y": "525795.712317",
+    "longitude": "-90.12984525536224",
+    "latitude": "29.940333485133444",
+    "geocoded_column": {
+      "latitude": "29.940333485133444",
+      "longitude": "-90.12984525536224"
+    }
+  },
+  {
+    "service_request": "2022-945199",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-20T06:27:06.000",
+    "date_modified": "2022-11-20T06:27:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1510 General Pershing St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "945199",
+    "final_x": "3671217.23899",
+    "final_y": "520692.078713",
+    "longitude": "-90.10090740050725",
+    "latitude": "29.926030623080177",
+    "geocoded_column": {
+      "latitude": "29.926030623080177",
+      "longitude": "-90.10090740050725"
+    }
+  },
+  {
     "service_request": "2022-945187",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21157,70 +21220,6 @@
     "geocoded_column": {
       "latitude": "29.92198609686308",
       "longitude": "-90.12432988809304"
-    }
-  },
-  {
-    "service_request": "2022-901852",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-20T12:35:49.000",
-    "date_modified": "2022-07-20T12:35:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5534 S Liberty St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "901852",
-    "final_x": "3667159.26644",
-    "final_y": "523372.620027",
-    "longitude": "-90.11362720855008",
-    "latitude": "29.933520648995206",
-    "geocoded_column": {
-      "latitude": "29.933520648995206",
-      "longitude": "-90.11362720855008"
-    }
-  },
-  {
-    "service_request": "2022-901841",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-20T12:26:24.000",
-    "date_modified": "2022-07-20T14:30:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2661 Jonquil St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "901841",
-    "final_x": "3687585.80572",
-    "final_y": "547307.836305",
-    "longitude": "-90.04829450493347",
-    "latitude": "29.998720481128263",
-    "geocoded_column": {
-      "latitude": "29.998720481128263",
-      "longitude": "-90.04829450493347"
-    }
-  },
-  {
-    "service_request": "2022-901797",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-20T10:59:17.000",
-    "date_modified": "2022-10-07T14:17:27.000",
-    "case_close_date": "2022-10-07T09:17:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5300 Tchoupitoulas St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "901797",
-    "final_x": "3666894.94452",
-    "final_y": "517105.425525",
-    "longitude": "-90.11467208737976",
-    "latitude": "29.91629557699752",
-    "geocoded_column": {
-      "latitude": "29.91629557699752",
-      "longitude": "-90.11467208737976"
     }
   }
 ]
