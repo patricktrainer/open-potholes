@@ -1,15 +1,58 @@
 [
   {
+    "service_request": "2022-945568",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-21T14:58:51.000",
+    "date_modified": "2022-11-21T14:58:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 BLK N Genois St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "945568",
+    "final_x": "3672745.62429",
+    "final_y": "537389.808866",
+    "longitude": "-90.09551331505293",
+    "latitude": "29.9718985906979",
+    "geocoded_column": {
+      "latitude": "29.9718985906979",
+      "longitude": "-90.09551331505293"
+    }
+  },
+  {
+    "service_request": "2022-945536",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-21T13:47:32.000",
+    "date_modified": "2022-11-21T13:47:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "800 BLK Dumaine St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "945536",
+    "final_x": "3682569.71849",
+    "final_y": "533376.716827",
+    "longitude": "-90.06462762426051",
+    "latitude": "29.960568498465552",
+    "geocoded_column": {
+      "latitude": "29.960568498465552",
+      "longitude": "-90.06462762426051"
+    }
+  },
+  {
     "service_request": "2022-945268",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-11-20T16:04:14.000",
-    "date_modified": "2022-11-20T16:04:14.000",
-    "request_status": "Pending",
+    "date_modified": "2022-11-21T09:01:18.000",
+    "case_close_date": "2022-11-21T03:01:18.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "5218 Arts St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "945268",
     "final_x": "3685728.71305",
     "final_y": "552291.58863",
@@ -46,12 +89,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-11-20T06:27:06.000",
-    "date_modified": "2022-11-20T06:27:06.000",
+    "date_modified": "2022-11-21T09:32:42.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1510 General Pershing St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "945199",
     "final_x": "3671217.23899",
     "final_y": "520692.078713",
@@ -81,27 +124,6 @@
     "geocoded_column": {
       "latitude": "29.997927705448376",
       "longitude": "-90.1036534180396"
-    }
-  },
-  {
-    "service_request": "2022-945178",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-19T20:34:54.000",
-    "date_modified": "2022-11-19T20:34:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1100 BLK S Peters St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "945178",
-    "final_x": "3682309.33548",
-    "final_y": "526066.340372",
-    "longitude": "-90.06570524408423",
-    "latitude": "29.940475358025083",
-    "geocoded_column": {
-      "latitude": "29.940475358025083",
-      "longitude": "-90.06570524408423"
     }
   },
   {
@@ -214,12 +236,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-11-18T16:47:06.000",
-    "date_modified": "2022-11-18T16:47:07.000",
-    "request_status": "Pending",
+    "date_modified": "2022-11-21T09:25:31.000",
+    "case_close_date": "2022-11-21T03:25:31.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "4805 Flake Ave",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "944959",
     "final_x": "3706127.20075",
     "final_y": "555826.091033",
@@ -20280,27 +20303,6 @@
     "geocoded_column": {
       "latitude": "29.99675809376569",
       "longitude": "-90.05523116624826"
-    }
-  },
-  {
-    "service_request": "2022-904362",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-28T10:24:34.000",
-    "date_modified": "2022-07-28T10:24:34.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "EUTERPE ST & ST CHARLES AVE",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "904362",
-    "final_x": "3678862.4",
-    "final_y": "525039.08",
-    "longitude": "-90.07662335872662",
-    "latitude": "29.937755134737774",
-    "geocoded_column": {
-      "latitude": "29.937755134737774",
-      "longitude": "-90.07662335872662"
     }
   },
   {
