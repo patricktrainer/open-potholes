@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-946201",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-23T14:08:25.000",
+    "date_modified": "2022-11-23T14:08:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3129 Jefferson Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "946201",
+    "final_x": "3668597.80468",
+    "final_y": "526838.441406",
+    "longitude": "-90.10896889620489",
+    "latitude": "29.943008358478135",
+    "geocoded_column": {
+      "latitude": "29.943008358478135",
+      "longitude": "-90.10896889620489"
+    }
+  },
+  {
+    "service_request": "2022-946136",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-23T11:42:45.000",
+    "date_modified": "2022-11-23T13:18:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N MIRO ST & ALLEN ST",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "946136",
+    "final_x": "3682454.0",
+    "final_y": "540178.08",
+    "longitude": "-90.06475526076254",
+    "latitude": "29.979273419794676",
+    "geocoded_column": {
+      "latitude": "29.979273419794676",
+      "longitude": "-90.06475526076254"
+    }
+  },
+  {
+    "service_request": "2022-946135",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-23T11:41:46.000",
+    "date_modified": "2022-11-23T11:41:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ALLEN ST & N GALVEZ ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "946135",
+    "final_x": "3682482.4",
+    "final_y": "539808.38",
+    "longitude": "-90.0646784906074",
+    "latitude": "29.97825600925972",
+    "geocoded_column": {
+      "latitude": "29.97825600925972",
+      "longitude": "-90.0646784906074"
+    }
+  },
+  {
     "service_request": "2022-945901",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21155,70 +21218,6 @@
     "geocoded_column": {
       "latitude": "29.922112534389647",
       "longitude": "-90.11684232693814"
-    }
-  },
-  {
-    "service_request": "2022-902425",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-21T18:11:20.000",
-    "date_modified": "2022-07-22T14:58:44.000",
-    "case_close_date": "2022-07-22T09:58:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "New Orleans,LA",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "902425",
-    "final_x": "3702502.5",
-    "final_y": "556568.19",
-    "longitude": "-90.00083269889926",
-    "latitude": "30.023714521944257",
-    "geocoded_column": {
-      "latitude": "30.023714521944257",
-      "longitude": "-90.00083269889926"
-    }
-  },
-  {
-    "service_request": "2022-902396",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-21T16:55:08.000",
-    "date_modified": "2022-07-22T10:16:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4418 Painters St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "902396",
-    "final_x": "3686239.45794",
-    "final_y": "549064.289875",
-    "longitude": "-90.0524855953164",
-    "latitude": "30.003591541830534",
-    "geocoded_column": {
-      "latitude": "30.003591541830534",
-      "longitude": "-90.0524855953164"
-    }
-  },
-  {
-    "service_request": "2022-902220",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-21T11:57:59.000",
-    "date_modified": "2022-07-26T06:29:35.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1200 Forstall St",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "902220",
-    "final_x": "3696316.96899",
-    "final_y": "534584.807685",
-    "longitude": "-90.02117309321444",
-    "latitude": "29.96346462554072",
-    "geocoded_column": {
-      "latitude": "29.96346462554072",
-      "longitude": "-90.02117309321444"
     }
   }
 ]
