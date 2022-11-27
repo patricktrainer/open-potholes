@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-946706",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-26T19:15:20.000",
+    "date_modified": "2022-11-26T19:15:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2309 S Claiborne Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "946706",
+    "final_x": "3674244.97697",
+    "final_y": "527548.905535",
+    "longitude": "-90.09111504621504",
+    "latitude": "29.94479477349326",
+    "geocoded_column": {
+      "latitude": "29.94479477349326",
+      "longitude": "-90.09111504621504"
+    }
+  },
+  {
+    "service_request": "2022-946609",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-26T10:12:42.000",
+    "date_modified": "2022-11-26T10:12:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2664 General Collins Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "946609",
+    "final_x": "3698425.65284",
+    "final_y": "521208.263289",
+    "longitude": "-90.01500014228446",
+    "latitude": "29.92661723901846",
+    "geocoded_column": {
+      "latitude": "29.92661723901846",
+      "longitude": "-90.01500014228446"
+    }
+  },
+  {
     "service_request": "2022-946500",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21175,49 +21217,6 @@
     "geocoded_column": {
       "latitude": "29.92207192127979",
       "longitude": "-90.11793065068923"
-    }
-  },
-  {
-    "service_request": "2022-902625",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-22T13:32:37.000",
-    "date_modified": "2022-07-29T10:01:59.000",
-    "case_close_date": "2022-07-29T05:01:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4036 Frenchmen St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "902625",
-    "final_x": "3683641.85653",
-    "final_y": "547634.142226",
-    "longitude": "-90.06074200757595",
-    "latitude": "29.999738734424373",
-    "geocoded_column": {
-      "latitude": "29.999738734424373",
-      "longitude": "-90.06074200757595"
-    }
-  },
-  {
-    "service_request": "2022-902501",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-22T09:19:01.000",
-    "date_modified": "2022-07-26T11:30:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2401 Gallier St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "902501",
-    "final_x": "3691725.37219",
-    "final_y": "540568.984907",
-    "longitude": "-90.03545875696072",
-    "latitude": "29.98006277373254",
-    "geocoded_column": {
-      "latitude": "29.98006277373254",
-      "longitude": "-90.03545875696072"
     }
   }
 ]
