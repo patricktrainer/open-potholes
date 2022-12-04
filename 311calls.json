@@ -13193,27 +13193,6 @@
     }
   },
   {
-    "service_request": "2022-948504",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-12-01T15:18:13.000",
-    "date_modified": "2022-12-01T15:18:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "5400 St Claude Ave",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "948504",
-    "final_x": "3697202.46218",
-    "final_y": "533902.895493",
-    "longitude": "-90.01840152863893",
-    "latitude": "29.961561697367742",
-    "geocoded_column": {
-      "latitude": "29.961561697367742",
-      "longitude": "-90.01840152863893"
-    }
-  },
-  {
     "service_request": "2022-948505",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -13225,6 +13204,27 @@
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "948505",
+    "final_x": "3697202.46218",
+    "final_y": "533902.895493",
+    "longitude": "-90.01840152863893",
+    "latitude": "29.961561697367742",
+    "geocoded_column": {
+      "latitude": "29.961561697367742",
+      "longitude": "-90.01840152863893"
+    }
+  },
+  {
+    "service_request": "2022-948504",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-12-01T15:18:13.000",
+    "date_modified": "2022-12-01T15:18:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "5400 St Claude Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "948504",
     "final_x": "3697202.46218",
     "final_y": "533902.895493",
     "longitude": "-90.01840152863893",
