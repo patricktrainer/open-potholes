@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-949145",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-03T23:08:06.000",
+    "date_modified": "2022-12-03T23:08:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4443 Arts St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "949145",
+    "final_x": "3686074.66492",
+    "final_y": "549250.176979",
+    "longitude": "-90.05299964038981",
+    "latitude": "30.00410772806479",
+    "geocoded_column": {
+      "latitude": "30.00410772806479",
+      "longitude": "-90.05299964038981"
+    }
+  },
+  {
+    "service_request": "2022-949034",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-03T10:42:09.000",
+    "date_modified": "2022-12-03T10:42:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8300 Pritchard Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "949034",
+    "final_x": "3665464.46919",
+    "final_y": "533372.97818",
+    "longitude": "-90.1186429355144",
+    "latitude": "29.961067901980247",
+    "geocoded_column": {
+      "latitude": "29.961067901980247",
+      "longitude": "-90.1186429355144"
+    }
+  },
+  {
     "service_request": "2022-948975",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -499,6 +541,26 @@
     "geocoded_column": {
       "latitude": "29.972942931518727",
       "longitude": "-90.0825627776396"
+    }
+  },
+  {
+    "service_request": "2022-947821",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-11-30T07:23:50.000",
+    "date_modified": "2022-12-03T16:43:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ELYSIAN FIELDS AVE & AGRICULTURE ST",
+    "address_councildis": "D",
+    "rowid": "947821",
+    "final_x": "3684376.1",
+    "final_y": "543303.98",
+    "longitude": "-90.05857468827433",
+    "latitude": "29.987809890446286",
+    "geocoded_column": {
+      "latitude": "29.987809890446286",
+      "longitude": "-90.05857468827433"
     }
   },
   {
@@ -21152,70 +21214,6 @@
     "geocoded_column": {
       "latitude": "29.93055417533511",
       "longitude": "-90.10353214796731"
-    }
-  },
-  {
-    "service_request": "2022-905010",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-30T08:37:53.000",
-    "date_modified": "2022-07-30T08:37:53.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3424 Sullen Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "905010",
-    "final_x": "3707753.13707",
-    "final_y": "518125.126006",
-    "longitude": "-89.98567055738548",
-    "latitude": "29.917841309586105",
-    "geocoded_column": {
-      "latitude": "29.917841309586105",
-      "longitude": "-89.98567055738548"
-    }
-  },
-  {
-    "service_request": "2022-904915",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-29T15:17:32.000",
-    "date_modified": "2022-11-02T08:43:31.000",
-    "case_close_date": "2022-11-02T03:43:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5010 Piety Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "904915",
-    "final_x": "3691134.43299",
-    "final_y": "552501.974486",
-    "longitude": "-90.03689875569371",
-    "latitude": "30.012892546499508",
-    "geocoded_column": {
-      "latitude": "30.012892546499508",
-      "longitude": "-90.03689875569371"
-    }
-  },
-  {
-    "service_request": "2022-904893",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-29T14:31:23.000",
-    "date_modified": "2022-07-29T14:31:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9317 Apricot St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "904893",
-    "final_x": "3662612.33779",
-    "final_y": "535606.695366",
-    "longitude": "-90.12757526127872",
-    "latitude": "29.96729272185434",
-    "geocoded_column": {
-      "latitude": "29.96729272185434",
-      "longitude": "-90.12757526127872"
     }
   }
 ]
