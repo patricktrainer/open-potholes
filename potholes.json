@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-949213",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-04T16:01:22.000",
+    "date_modified": "2022-12-04T16:01:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2300 BLK Winthrop St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "949213",
+    "final_x": "3700454.44518",
+    "final_y": "538108.018388",
+    "longitude": "-90.00797878694765",
+    "latitude": "29.973021257536743",
+    "geocoded_column": {
+      "latitude": "29.973021257536743",
+      "longitude": "-90.00797878694765"
+    }
+  },
+  {
+    "service_request": "2022-949188",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-04T12:10:40.000",
+    "date_modified": "2022-12-04T12:10:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1022 Cherokee St, New Orleans, Louisiana, 70118",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "949188",
+    "final_x": "3663140.83661",
+    "final_y": "526562.263038",
+    "longitude": "-90.12620714860266",
+    "latitude": "29.942408159511483",
+    "geocoded_column": {
+      "latitude": "29.942408159511483",
+      "longitude": "-90.12620714860266"
+    }
+  },
+  {
     "service_request": "2022-949145",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21171,49 +21213,6 @@
     "geocoded_column": {
       "latitude": "29.9325350479122",
       "longitude": "-90.07419072006655"
-    }
-  },
-  {
-    "service_request": "2022-905118",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-30T19:24:42.000",
-    "date_modified": "2022-07-30T19:24:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5629 Marshal Foch St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "905118",
-    "final_x": "3669645.75674",
-    "final_y": "544568.408911",
-    "longitude": "-90.10506019576123",
-    "latitude": "29.99172901590333",
-    "geocoded_column": {
-      "latitude": "29.99172901590333",
-      "longitude": "-90.10506019576123"
-    }
-  },
-  {
-    "service_request": "2022-905114",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-07-30T18:40:49.000",
-    "date_modified": "2022-08-01T13:11:34.000",
-    "case_close_date": "2022-08-01T08:11:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4433 Danneel St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "905114",
-    "final_x": "3670368.19994",
-    "final_y": "522328.07609",
-    "longitude": "-90.10353214796731",
-    "latitude": "29.93055417533511",
-    "geocoded_column": {
-      "latitude": "29.93055417533511",
-      "longitude": "-90.10353214796731"
     }
   }
 ]
