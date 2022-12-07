@@ -1339,6 +1339,27 @@
     }
   },
   {
+    "service_request": "2022-949620",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2022-12-05T16:51:43.000",
+    "date_modified": "2022-12-05T16:51:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2438 Palmer Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "949620",
+    "final_x": "3666381.90957",
+    "final_y": "525881.240701",
+    "longitude": "-90.11599715321566",
+    "latitude": "29.940441283571865",
+    "geocoded_column": {
+      "latitude": "29.940441283571865",
+      "longitude": "-90.11599715321566"
+    }
+  },
+  {
     "service_request": "2022-949621",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -1358,27 +1379,6 @@
     "geocoded_column": {
       "latitude": "29.977366353180507",
       "longitude": "-90.08275401098841"
-    }
-  },
-  {
-    "service_request": "2022-949620",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2022-12-05T16:51:43.000",
-    "date_modified": "2022-12-05T16:51:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2438 Palmer Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "949620",
-    "final_x": "3666381.90957",
-    "final_y": "525881.240701",
-    "longitude": "-90.11599715321566",
-    "latitude": "29.940441283571865",
-    "geocoded_column": {
-      "latitude": "29.940441283571865",
-      "longitude": "-90.11599715321566"
     }
   },
   {
@@ -1556,6 +1556,27 @@
     }
   },
   {
+    "service_request": "2022-949610",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2022-12-05T16:33:41.000",
+    "date_modified": "2022-12-05T16:33:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "3021 Bienville Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "949610",
+    "final_x": "3674699.41153",
+    "final_y": "536660.782855",
+    "longitude": "-90.089367931397",
+    "latitude": "29.969835837055637",
+    "geocoded_column": {
+      "latitude": "29.969835837055637",
+      "longitude": "-90.089367931397"
+    }
+  },
+  {
     "service_request": "2022-949611",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -1575,27 +1596,6 @@
     "geocoded_column": {
       "latitude": "30.006643322657716",
       "longitude": "-90.11739841524482"
-    }
-  },
-  {
-    "service_request": "2022-949610",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2022-12-05T16:33:41.000",
-    "date_modified": "2022-12-05T16:33:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "3021 Bienville Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "949610",
-    "final_x": "3674699.41153",
-    "final_y": "536660.782855",
-    "longitude": "-90.089367931397",
-    "latitude": "29.969835837055637",
-    "geocoded_column": {
-      "latitude": "29.969835837055637",
-      "longitude": "-90.089367931397"
     }
   },
   {
@@ -3416,28 +3416,6 @@
     }
   },
   {
-    "service_request": "2022-949520",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2022-12-05T14:03:58.000",
-    "date_modified": "2022-12-05T14:03:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5505 Wilton Dr B",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "949520",
-    "final_x": "3681929.30536",
-    "final_y": "553058.963671",
-    "longitude": "-90.06596247299446",
-    "latitude": "30.01470722504582",
-    "geocoded_column": {
-      "latitude": "30.01470722504582",
-      "longitude": "-90.06596247299446"
-    }
-  },
-  {
     "service_request": "2022-949519",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -3457,6 +3435,28 @@
     "geocoded_column": {
       "latitude": "30.014778964512548",
       "longitude": "-90.059607959909"
+    }
+  },
+  {
+    "service_request": "2022-949520",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2022-12-05T14:03:58.000",
+    "date_modified": "2022-12-05T14:03:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5505 Wilton Dr B",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "949520",
+    "final_x": "3681929.30536",
+    "final_y": "553058.963671",
+    "longitude": "-90.06596247299446",
+    "latitude": "30.01470722504582",
+    "geocoded_column": {
+      "latitude": "30.01470722504582",
+      "longitude": "-90.06596247299446"
     }
   },
   {
