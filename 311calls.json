@@ -13393,27 +13393,6 @@
     }
   },
   {
-    "service_request": "2022-949620",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2022-12-05T16:51:43.000",
-    "date_modified": "2022-12-05T16:51:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2438 Palmer Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "949620",
-    "final_x": "3666381.90957",
-    "final_y": "525881.240701",
-    "longitude": "-90.11599715321566",
-    "latitude": "29.940441283571865",
-    "geocoded_column": {
-      "latitude": "29.940441283571865",
-      "longitude": "-90.11599715321566"
-    }
-  },
-  {
     "service_request": "2022-949621",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -13433,6 +13412,27 @@
     "geocoded_column": {
       "latitude": "29.977366353180507",
       "longitude": "-90.08275401098841"
+    }
+  },
+  {
+    "service_request": "2022-949620",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2022-12-05T16:51:43.000",
+    "date_modified": "2022-12-05T16:51:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2438 Palmer Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "949620",
+    "final_x": "3666381.90957",
+    "final_y": "525881.240701",
+    "longitude": "-90.11599715321566",
+    "latitude": "29.940441283571865",
+    "geocoded_column": {
+      "latitude": "29.940441283571865",
+      "longitude": "-90.11599715321566"
     }
   },
   {
