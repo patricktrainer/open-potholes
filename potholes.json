@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2022-951165",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-08T13:14:55.000",
+    "date_modified": "2022-12-08T13:14:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "819 Aline St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "951165",
+    "final_x": "3674796.96705",
+    "final_y": "518542.659447",
+    "longitude": "-90.08968087253628",
+    "latitude": "29.920014056950823",
+    "geocoded_column": {
+      "latitude": "29.920014056950823",
+      "longitude": "-90.08968087253628"
+    }
+  },
+  {
+    "service_request": "2022-950924",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-08T09:08:50.000",
+    "date_modified": "2022-12-08T09:08:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2319 Rousseau St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "950924",
+    "final_x": "3679744.74856",
+    "final_y": "519977.8622",
+    "longitude": "-90.07401332657119",
+    "latitude": "29.923811809239165",
+    "geocoded_column": {
+      "latitude": "29.923811809239165",
+      "longitude": "-90.07401332657119"
+    }
+  },
+  {
+    "service_request": "2022-950891",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-08T08:25:44.000",
+    "date_modified": "2022-12-08T08:25:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1720 Broadway St, New Orleans, Louisiana, 70118",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "950891",
+    "final_x": "3665209.59687",
+    "final_y": "528147.244671",
+    "longitude": "-90.11962257251744",
+    "latitude": "29.946706260593693",
+    "geocoded_column": {
+      "latitude": "29.946706260593693",
+      "longitude": "-90.11962257251744"
+    }
+  },
+  {
     "service_request": "2022-950741",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -25,12 +88,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-12-07T15:58:51.000",
-    "date_modified": "2022-12-07T15:58:51.000",
-    "request_status": "Pending",
+    "date_modified": "2022-12-08T08:23:31.000",
+    "case_close_date": "2022-12-08T02:23:31.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "632 Deslonde St",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "950706",
     "final_x": "3694916.82576",
     "final_y": "532892.22906",
@@ -46,12 +110,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2022-12-07T15:37:02.000",
-    "date_modified": "2022-12-07T15:37:04.000",
+    "date_modified": "2022-12-08T08:12:52.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "DAUPHINE ST & REYNES ST",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "950697",
     "final_x": "3695645.5",
     "final_y": "533140.28",
@@ -21160,71 +21224,6 @@
     "geocoded_column": {
       "latitude": "30.053926244168768",
       "longitude": "-89.96951073697166"
-    }
-  },
-  {
-    "service_request": "2022-905946",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-02T16:25:10.000",
-    "date_modified": "2022-08-03T10:22:05.000",
-    "case_close_date": "2022-08-03T05:22:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5132 Warrington Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "905946",
-    "final_x": "3680935.50779",
-    "final_y": "551342.557141",
-    "longitude": "-90.0691622196724",
-    "latitude": "30.010017914670232",
-    "geocoded_column": {
-      "latitude": "30.010017914670232",
-      "longitude": "-90.0691622196724"
-    }
-  },
-  {
-    "service_request": "2022-905945",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-02T16:24:57.000",
-    "date_modified": "2022-08-03T10:08:04.000",
-    "case_close_date": "2022-08-03T05:08:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4918 Warrington Dr",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "905945",
-    "final_x": "3680987.44456",
-    "final_y": "550691.232532",
-    "longitude": "-90.0690208378165",
-    "latitude": "30.00822543108846",
-    "geocoded_column": {
-      "latitude": "30.00822543108846",
-      "longitude": "-90.0690208378165"
-    }
-  },
-  {
-    "service_request": "2022-905923",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-02T15:39:59.000",
-    "date_modified": "2022-08-02T15:39:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3205 Ptolemy St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "905923",
-    "final_x": "3696105.03901",
-    "final_y": "525830.421885",
-    "longitude": "-90.02215868501447",
-    "latitude": "29.939399800071683",
-    "geocoded_column": {
-      "latitude": "29.939399800071683",
-      "longitude": "-90.02215868501447"
     }
   }
 ]
