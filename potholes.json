@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-951932",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-10T16:25:50.000",
+    "date_modified": "2022-12-10T16:25:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1417 Third St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "951932",
+    "final_x": "3676914.75547",
+    "final_y": "522288.494522",
+    "longitude": "-90.08286699733344",
+    "latitude": "29.930250516642626",
+    "geocoded_column": {
+      "latitude": "29.930250516642626",
+      "longitude": "-90.08286699733344"
+    }
+  },
+  {
+    "service_request": "2022-951835",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-10T09:57:36.000",
+    "date_modified": "2022-12-10T09:57:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6827 Marshal Foch St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "951835",
+    "final_x": "3670393.20174",
+    "final_y": "552758.519766",
+    "longitude": "-90.10242125432706",
+    "latitude": "30.0142269100208",
+    "geocoded_column": {
+      "latitude": "30.0142269100208",
+      "longitude": "-90.10242125432706"
+    }
+  },
+  {
     "service_request": "2022-951772",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21179,49 +21221,6 @@
     "geocoded_column": {
       "latitude": "29.935398465733982",
       "longitude": "-90.12716411497595"
-    }
-  },
-  {
-    "service_request": "2022-906226",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-03T13:27:17.000",
-    "date_modified": "2022-08-04T09:57:56.000",
-    "case_close_date": "2022-08-04T04:57:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8022 Townsend Pl",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "906226",
-    "final_x": "3693476.56944",
-    "final_y": "559268.905692",
-    "longitude": "-90.02925558603333",
-    "latitude": "30.031425986255645",
-    "geocoded_column": {
-      "latitude": "30.031425986255645",
-      "longitude": "-90.02925558603333"
-    }
-  },
-  {
-    "service_request": "2022-906210",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-03T13:03:06.000",
-    "date_modified": "2022-08-03T13:03:06.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "533 Henry Clay Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "906210",
-    "final_x": "3663551.8832",
-    "final_y": "518831.688567",
-    "longitude": "-90.12516672360553",
-    "latitude": "29.9211396058691",
-    "geocoded_column": {
-      "latitude": "29.9211396058691",
-      "longitude": "-90.12516672360553"
     }
   }
 ]
