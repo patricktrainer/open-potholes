@@ -18710,28 +18710,6 @@
     }
   },
   {
-    "service_request": "2022-952093",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2022-12-11T23:08:36.000",
-    "date_modified": "2022-12-11T23:08:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4430 Laine Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "952093",
-    "final_x": "3705807.14558",
-    "final_y": "553614.540375",
-    "longitude": "-89.99050014124",
-    "latitude": "30.015487044914874",
-    "geocoded_column": {
-      "latitude": "30.015487044914874",
-      "longitude": "-89.99050014124"
-    }
-  },
-  {
     "service_request": "2022-952094",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -18745,6 +18723,28 @@
     "status": "Duplicate Request",
     "contractor": "Waste Pro",
     "rowid": "952094",
+    "final_x": "3705807.14558",
+    "final_y": "553614.540375",
+    "longitude": "-89.99050014124",
+    "latitude": "30.015487044914874",
+    "geocoded_column": {
+      "latitude": "30.015487044914874",
+      "longitude": "-89.99050014124"
+    }
+  },
+  {
+    "service_request": "2022-952093",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2022-12-11T23:08:36.000",
+    "date_modified": "2022-12-11T23:08:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4430 Laine Ave",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "952093",
     "final_x": "3705807.14558",
     "final_y": "553614.540375",
     "longitude": "-89.99050014124",
