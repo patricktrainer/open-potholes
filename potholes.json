@@ -1,23 +1,107 @@
 [
   {
-    "service_request": "2022-953334",
+    "service_request": "2022-953653",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
-    "date_created": "2022-12-14T22:38:32.000",
-    "date_modified": "2022-12-14T22:39:36.000",
+    "date_created": "2022-12-15T15:29:17.000",
+    "date_modified": "2022-12-15T15:29:18.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "JULIA ST & LOYOLA AVE",
+    "final_address": "SPRUCE ST & MONROE ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "953653",
+    "final_x": "3662270.2",
+    "final_y": "531886.88",
+    "longitude": "-90.12877923419987",
+    "latitude": "29.957074337254188",
+    "geocoded_column": {
+      "latitude": "29.957074337254188",
+      "longitude": "-90.12877923419987"
+    }
+  },
+  {
+    "service_request": "2022-953633",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-15T15:08:59.000",
+    "date_modified": "2022-12-15T15:08:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1917 Sixth St",
     "address_councildis": "B",
     "status": "Pending",
-    "rowid": "953334",
-    "final_x": "3678731.4",
-    "final_y": "528435.68",
-    "longitude": "-90.07691935474188",
-    "latitude": "29.947098607555517",
+    "rowid": "953633",
+    "final_x": "3674837.26619",
+    "final_y": "523308.045435",
+    "longitude": "-90.08939036870254",
+    "latitude": "29.933116127278677",
     "geocoded_column": {
-      "latitude": "29.947098607555517",
-      "longitude": "-90.07691935474188"
+      "latitude": "29.933116127278677",
+      "longitude": "-90.08939036870254"
+    }
+  },
+  {
+    "service_request": "2022-953592",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-15T14:25:03.000",
+    "date_modified": "2022-12-15T14:25:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "LEON C SIMON DR & MUSIC ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "953592",
+    "final_x": "3685191.9",
+    "final_y": "557119.48",
+    "longitude": "-90.05551120706674",
+    "latitude": "30.02577251979931",
+    "geocoded_column": {
+      "latitude": "30.02577251979931",
+      "longitude": "-90.05551120706674"
+    }
+  },
+  {
+    "service_request": "2022-953386",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-15T08:40:03.000",
+    "date_modified": "2022-12-15T08:40:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5100 BLK Loyola Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "953386",
+    "final_x": "3668329.94841",
+    "final_y": "522871.122681",
+    "longitude": "-90.10994832170445",
+    "latitude": "29.932107374705097",
+    "geocoded_column": {
+      "latitude": "29.932107374705097",
+      "longitude": "-90.10994832170445"
+    }
+  },
+  {
+    "service_request": "2022-953375",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-15T08:20:16.000",
+    "date_modified": "2022-12-15T08:20:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ELYSIAN FIELDS AVE & BURGUNDY ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "953375",
+    "final_x": "3685106.6",
+    "final_y": "535588.18",
+    "longitude": "-90.0565388586521",
+    "latitude": "29.96657177960158",
+    "geocoded_column": {
+      "latitude": "29.96657177960158",
+      "longitude": "-90.0565388586521"
     }
   },
   {
@@ -123,27 +207,6 @@
     "geocoded_column": {
       "latitude": "29.94932589288813",
       "longitude": "-90.12732765235351"
-    }
-  },
-  {
-    "service_request": "2022-953145",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-14T10:28:19.000",
-    "date_modified": "2022-12-14T10:28:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "746 Loyola Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "953145",
-    "final_x": "3678671.74344",
-    "final_y": "528923.376256",
-    "longitude": "-90.07709083082099",
-    "latitude": "29.948441407987954",
-    "geocoded_column": {
-      "latitude": "29.948441407987954",
-      "longitude": "-90.07709083082099"
     }
   },
   {
@@ -21156,71 +21219,6 @@
     "geocoded_column": {
       "latitude": "29.99615668426659",
       "longitude": "-90.05515723875867"
-    }
-  },
-  {
-    "service_request": "2022-906991",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-05T12:12:07.000",
-    "date_modified": "2022-08-10T08:51:57.000",
-    "case_close_date": "2022-08-10T03:51:57.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4035 Fairmont Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "906991",
-    "final_x": "3684791.65737",
-    "final_y": "547199.378513",
-    "longitude": "-90.0571250434006",
-    "latitude": "29.99850812767199",
-    "geocoded_column": {
-      "latitude": "29.99850812767199",
-      "longitude": "-90.0571250434006"
-    }
-  },
-  {
-    "service_request": "2022-906990",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-05T12:11:43.000",
-    "date_modified": "2022-08-08T09:20:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4035 Fairmont Dr",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "906990",
-    "final_x": "3684791.65737",
-    "final_y": "547199.378513",
-    "longitude": "-90.0571250434006",
-    "latitude": "29.99850812767199",
-    "geocoded_column": {
-      "latitude": "29.99850812767199",
-      "longitude": "-90.0571250434006"
-    }
-  },
-  {
-    "service_request": "2022-906989",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-05T12:11:15.000",
-    "date_modified": "2022-08-08T09:01:02.000",
-    "case_close_date": "2022-08-08T04:01:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3636 Fairmont Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "906989",
-    "final_x": "3685442.7389",
-    "final_y": "545815.423376",
-    "longitude": "-90.0551170496952",
-    "latitude": "29.99468279235115",
-    "geocoded_column": {
-      "latitude": "29.99468279235115",
-      "longitude": "-90.0551170496952"
     }
   }
 ]
