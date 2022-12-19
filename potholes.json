@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2022-954214",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-18T10:15:31.000",
+    "date_modified": "2022-12-18T10:15:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5010 Constance St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "954214",
+    "final_x": "3668528.86842",
+    "final_y": "518180.822262",
+    "longitude": "-90.10947849856062",
+    "latitude": "29.919204695724737",
+    "geocoded_column": {
+      "latitude": "29.919204695724737",
+      "longitude": "-90.10947849856062"
+    }
+  },
+  {
+    "service_request": "2022-954213",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2022-12-18T10:11:04.000",
+    "date_modified": "2022-12-18T10:11:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1610 Elysian Fields Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "954213",
+    "final_x": "3684733.38421",
+    "final_y": "538263.167113",
+    "longitude": "-90.0576234182711",
+    "latitude": "29.973938494169122",
+    "geocoded_column": {
+      "latitude": "29.973938494169122",
+      "longitude": "-90.0576234182711"
+    }
+  },
+  {
     "service_request": "2022-953995",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21176,49 +21218,6 @@
     "geocoded_column": {
       "latitude": "29.996969266015046",
       "longitude": "-90.04862960744109"
-    }
-  },
-  {
-    "service_request": "2022-907487",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-08T10:06:43.000",
-    "date_modified": "2022-08-08T10:07:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2101 N Miro St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "907487",
-    "final_x": "3683934.62844",
-    "final_y": "540327.503563",
-    "longitude": "-90.06007361765008",
-    "latitude": "29.979639126088426",
-    "geocoded_column": {
-      "latitude": "29.979639126088426",
-      "longitude": "-90.06007361765008"
-    }
-  },
-  {
-    "service_request": "2022-907468",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-08T09:27:18.000",
-    "date_modified": "2022-08-09T09:41:42.000",
-    "case_close_date": "2022-08-09T04:41:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4900 St Roch Ave",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "907468",
-    "final_x": "3685211.20444",
-    "final_y": "550876.014805",
-    "longitude": "-90.05567018927738",
-    "latitude": "30.00860469278336",
-    "geocoded_column": {
-      "latitude": "30.00860469278336",
-      "longitude": "-90.05567018927738"
     }
   }
 ]
