@@ -19755,27 +19755,6 @@
     }
   },
   {
-    "service_request": "2022-954447",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Traffic Sign Missing/Damaged",
-    "date_created": "2022-12-19T11:05:02.000",
-    "date_modified": "2022-12-19T11:05:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1301 Decatur St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "954447",
-    "final_x": "3684477.44265",
-    "final_y": "533761.465477",
-    "longitude": "-90.05858990541473",
-    "latitude": "29.961568206492245",
-    "geocoded_column": {
-      "latitude": "29.961568206492245",
-      "longitude": "-90.05858990541473"
-    }
-  },
-  {
     "service_request": "2022-954448",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -19795,6 +19774,27 @@
     "geocoded_column": {
       "latitude": "29.98178367809629",
       "longitude": "-90.10124928617505"
+    }
+  },
+  {
+    "service_request": "2022-954447",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Traffic Sign Missing/Damaged",
+    "date_created": "2022-12-19T11:05:02.000",
+    "date_modified": "2022-12-19T11:05:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1301 Decatur St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "954447",
+    "final_x": "3684477.44265",
+    "final_y": "533761.465477",
+    "longitude": "-90.05858990541473",
+    "latitude": "29.961568206492245",
+    "geocoded_column": {
+      "latitude": "29.961568206492245",
+      "longitude": "-90.05858990541473"
     }
   },
   {
