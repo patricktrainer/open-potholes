@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2023-958316",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-01T22:13:51.000",
+    "date_modified": "2023-01-01T22:13:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3130 St Philip St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "958316",
+    "final_x": "3675731.14651",
+    "final_y": "539100.696842",
+    "longitude": "-90.0860257340666",
+    "latitude": "29.976513929106797",
+    "geocoded_column": {
+      "latitude": "29.976513929106797",
+      "longitude": "-90.0860257340666"
+    }
+  },
+  {
+    "service_request": "2023-958255",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-01T15:12:14.000",
+    "date_modified": "2023-01-01T15:12:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1027 Independence St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "958255",
+    "final_x": "3690936.33948",
+    "final_y": "535285.730246",
+    "longitude": "-90.03813945983933",
+    "latitude": "29.96556024357869",
+    "geocoded_column": {
+      "latitude": "29.96556024357869",
+      "longitude": "-90.03813945983933"
+    }
+  },
+  {
+    "service_request": "2023-958206",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-01T11:57:28.000",
+    "date_modified": "2023-01-01T11:57:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6354 Orleans Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "958206",
+    "final_x": "3671047.45876",
+    "final_y": "549495.561939",
+    "longitude": "-90.10046504789682",
+    "latitude": "30.00523558448891",
+    "geocoded_column": {
+      "latitude": "30.00523558448891",
+      "longitude": "-90.10046504789682"
+    }
+  },
+  {
     "service_request": "2022-958016",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21188,70 +21251,6 @@
     "geocoded_column": {
       "latitude": "29.92327788074409",
       "longitude": "-90.11708436334695"
-    }
-  },
-  {
-    "service_request": "2022-910255",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-15T23:18:22.000",
-    "date_modified": "2022-08-15T23:18:22.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5619 Chestnut St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "910255",
-    "final_x": "3666103.83424",
-    "final_y": "519636.329144",
-    "longitude": "-90.11708436334695",
-    "latitude": "29.92327788074409",
-    "geocoded_column": {
-      "latitude": "29.92327788074409",
-      "longitude": "-90.11708436334695"
-    }
-  },
-  {
-    "service_request": "2022-910190",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-15T16:56:12.000",
-    "date_modified": "2022-08-19T09:47:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2100 BLK N Prieur St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "910190",
-    "final_x": "3684538.04559",
-    "final_y": "539231.697571",
-    "longitude": "-90.05820630063828",
-    "latitude": "29.976607592998402",
-    "geocoded_column": {
-      "latitude": "29.976607592998402",
-      "longitude": "-90.05820630063828"
-    }
-  },
-  {
-    "service_request": "2022-910123",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-15T14:52:02.000",
-    "date_modified": "2022-08-19T15:04:46.000",
-    "case_close_date": "2022-08-19T10:04:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "JACKSON AVE & LAUREL ST",
-    "address_councildis": "B",
-    "status": "Invalid Case",
-    "rowid": "910123",
-    "final_x": "3679319.5",
-    "final_y": "521512.58",
-    "longitude": "-90.07530249333445",
-    "latitude": "29.928044626533087",
-    "geocoded_column": {
-      "latitude": "29.928044626533087",
-      "longitude": "-90.07530249333445"
     }
   }
 ]
