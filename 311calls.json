@@ -1770,27 +1770,6 @@
     }
   },
   {
-    "service_request": "2023-958686",
-    "request_type": "Mosquito, Termite & Rodent Control",
-    "request_reason": "Non-Rodent Complaint (Mice, Possums, Snakes)",
-    "date_created": "2023-01-02T17:01:40.000",
-    "date_modified": "2023-01-02T17:01:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Mosquito, Termite & Rodent Control Board",
-    "final_address": "6100 Milne Blvd",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "958686",
-    "final_x": "3667011.81185",
-    "final_y": "548081.70773",
-    "longitude": "-90.11326212902844",
-    "latitude": "30.001466751934892",
-    "geocoded_column": {
-      "latitude": "30.001466751934892",
-      "longitude": "-90.11326212902844"
-    }
-  },
-  {
     "service_request": "2023-958685",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -1810,6 +1789,27 @@
     "geocoded_column": {
       "latitude": "29.949513899264065",
       "longitude": "-90.10704496553845"
+    }
+  },
+  {
+    "service_request": "2023-958686",
+    "request_type": "Mosquito, Termite & Rodent Control",
+    "request_reason": "Non-Rodent Complaint (Mice, Possums, Snakes)",
+    "date_created": "2023-01-02T17:01:40.000",
+    "date_modified": "2023-01-02T17:01:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Mosquito, Termite & Rodent Control Board",
+    "final_address": "6100 Milne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "958686",
+    "final_x": "3667011.81185",
+    "final_y": "548081.70773",
+    "longitude": "-90.11326212902844",
+    "latitude": "30.001466751934892",
+    "geocoded_column": {
+      "latitude": "30.001466751934892",
+      "longitude": "-90.11326212902844"
     }
   },
   {
@@ -8030,28 +8030,6 @@
     }
   },
   {
-    "service_request": "2023-958381",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-01-02T08:37:44.000",
-    "date_modified": "2023-01-02T08:37:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4727 Miles Dr",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "958381",
-    "final_x": "3679753.94274",
-    "final_y": "548996.607123",
-    "longitude": "-90.07297673998902",
-    "latitude": "30.003603183899074",
-    "geocoded_column": {
-      "latitude": "30.003603183899074",
-      "longitude": "-90.07297673998902"
-    }
-  },
-  {
     "service_request": "2023-958382",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -8066,6 +8044,28 @@
     "contractor": "IV Waste",
     "contractor_action": "Completed",
     "rowid": "958382",
+    "final_x": "3679753.94274",
+    "final_y": "548996.607123",
+    "longitude": "-90.07297673998902",
+    "latitude": "30.003603183899074",
+    "geocoded_column": {
+      "latitude": "30.003603183899074",
+      "longitude": "-90.07297673998902"
+    }
+  },
+  {
+    "service_request": "2023-958381",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-01-02T08:37:44.000",
+    "date_modified": "2023-01-02T08:37:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4727 Miles Dr",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "958381",
     "final_x": "3679753.94274",
     "final_y": "548996.607123",
     "longitude": "-90.07297673998902",
