@@ -1883,6 +1883,27 @@
     }
   },
   {
+    "service_request": "2023-960361",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Catch Basin - Clogged",
+    "date_created": "2023-01-04T19:06:04.000",
+    "date_modified": "2023-01-04T19:06:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1521 Dublin St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "960361",
+    "final_x": "3662565.88487",
+    "final_y": "529494.769473",
+    "longitude": "-90.12792501083638",
+    "latitude": "29.950488255587455",
+    "geocoded_column": {
+      "latitude": "29.950488255587455",
+      "longitude": "-90.12792501083638"
+    }
+  },
+  {
     "service_request": "2023-960362",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -1902,27 +1923,6 @@
     "geocoded_column": {
       "latitude": "29.93732017931266",
       "longitude": "-90.10727215569612"
-    }
-  },
-  {
-    "service_request": "2023-960361",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Catch Basin - Clogged",
-    "date_created": "2023-01-04T19:06:04.000",
-    "date_modified": "2023-01-04T19:06:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1521 Dublin St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "960361",
-    "final_x": "3662565.88487",
-    "final_y": "529494.769473",
-    "longitude": "-90.12792501083638",
-    "latitude": "29.950488255587455",
-    "geocoded_column": {
-      "latitude": "29.950488255587455",
-      "longitude": "-90.12792501083638"
     }
   },
   {
@@ -5435,28 +5435,6 @@
     }
   },
   {
-    "service_request": "2023-960195",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2023-01-04T16:19:12.000",
-    "date_modified": "2023-01-04T16:19:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1721 Robert St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "960195",
-    "final_x": "3668804.12609",
-    "final_y": "521971.424698",
-    "longitude": "-90.10848174660215",
-    "latitude": "29.929619563428524",
-    "geocoded_column": {
-      "latitude": "29.929619563428524",
-      "longitude": "-90.10848174660215"
-    }
-  },
-  {
     "service_request": "2023-960194",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -5469,6 +5447,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Richards Disposal",
     "rowid": "960194",
+    "final_x": "3668804.12609",
+    "final_y": "521971.424698",
+    "longitude": "-90.10848174660215",
+    "latitude": "29.929619563428524",
+    "geocoded_column": {
+      "latitude": "29.929619563428524",
+      "longitude": "-90.10848174660215"
+    }
+  },
+  {
+    "service_request": "2023-960195",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2023-01-04T16:19:12.000",
+    "date_modified": "2023-01-04T16:19:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1721 Robert St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "960195",
     "final_x": "3668804.12609",
     "final_y": "521971.424698",
     "longitude": "-90.10848174660215",
@@ -18611,28 +18611,6 @@
     }
   },
   {
-    "service_request": "2023-959574",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2023-01-04T08:30:41.000",
-    "date_modified": "2023-01-04T08:30:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2431 Burgundy St",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "959574",
-    "final_x": "3686092.7581",
-    "final_y": "535697.522311",
-    "longitude": "-90.05342073034049",
-    "latitude": "29.966842181184763",
-    "geocoded_column": {
-      "latitude": "29.966842181184763",
-      "longitude": "-90.05342073034049"
-    }
-  },
-  {
     "service_request": "2023-959573",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -18652,6 +18630,28 @@
     "geocoded_column": {
       "latitude": "29.977653999570986",
       "longitude": "-90.08774980136917"
+    }
+  },
+  {
+    "service_request": "2023-959574",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2023-01-04T08:30:41.000",
+    "date_modified": "2023-01-04T08:30:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2431 Burgundy St",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "959574",
+    "final_x": "3686092.7581",
+    "final_y": "535697.522311",
+    "longitude": "-90.05342073034049",
+    "latitude": "29.966842181184763",
+    "geocoded_column": {
+      "latitude": "29.966842181184763",
+      "longitude": "-90.05342073034049"
     }
   },
   {
