@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2023-967168",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-15T10:38:26.000",
+    "date_modified": "2023-01-15T10:38:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3316 Montegut St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "967168",
+    "final_x": "3690619.50691",
+    "final_y": "544981.563471",
+    "longitude": "-90.03879407525227",
+    "latitude": "29.99223017649448",
+    "geocoded_column": {
+      "latitude": "29.99223017649448",
+      "longitude": "-90.03879407525227"
+    }
+  },
+  {
+    "service_request": "2023-967147",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-15T05:27:49.000",
+    "date_modified": "2023-01-15T05:27:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "MARTIN LUTHER KING JR BLVD & S CLAIBORNE AVE",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "967147",
+    "final_x": "3675010.8",
+    "final_y": "528134.58",
+    "longitude": "-90.08867702288131",
+    "latitude": "29.946382334051407",
+    "geocoded_column": {
+      "latitude": "29.946382334051407",
+      "longitude": "-90.08867702288131"
+    }
+  },
+  {
     "service_request": "2023-967146",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21194,27 +21236,6 @@
     }
   },
   {
-    "service_request": "2022-914666",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-30T09:30:51.000",
-    "date_modified": "2023-01-04T14:31:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "100 Royal St",
-    "address_councildis": "C",
-    "status": "Reviewed",
-    "rowid": "914666",
-    "final_x": "3681301.39701",
-    "final_y": "530756.489858",
-    "longitude": "-90.06872404570724",
-    "latitude": "29.95340231693619",
-    "geocoded_column": {
-      "latitude": "29.95340231693619",
-      "longitude": "-90.06872404570724"
-    }
-  },
-  {
     "service_request": "2022-914665",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21236,46 +21257,24 @@
     }
   },
   {
-    "service_request": "2022-914649",
+    "service_request": "2022-914666",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
-    "date_created": "2022-08-30T09:01:08.000",
-    "date_modified": "2022-08-31T12:22:15.000",
-    "case_close_date": "2022-08-31T07:22:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7601 Trapier Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "914649",
-    "final_x": "3706709.33419",
-    "final_y": "563482.524256",
-    "longitude": "-89.98728340688494",
-    "latitude": "30.042591036231535",
-    "geocoded_column": {
-      "latitude": "30.042591036231535",
-      "longitude": "-89.98728340688494"
-    }
-  },
-  {
-    "service_request": "2022-914607",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-08-29T23:31:18.000",
-    "date_modified": "2022-08-29T23:31:18.000",
+    "date_created": "2022-08-30T09:30:51.000",
+    "date_modified": "2023-01-04T14:31:26.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "5641 Milne St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "914607",
-    "final_x": "3666872.10721",
-    "final_y": "545057.395535",
-    "longitude": "-90.11380515606258",
-    "latitude": "29.993155022715687",
+    "final_address": "100 Royal St",
+    "address_councildis": "C",
+    "status": "Reviewed",
+    "rowid": "914666",
+    "final_x": "3681301.39701",
+    "final_y": "530756.489858",
+    "longitude": "-90.06872404570724",
+    "latitude": "29.95340231693619",
     "geocoded_column": {
-      "latitude": "29.993155022715687",
-      "longitude": "-90.11380515606258"
+      "latitude": "29.95340231693619",
+      "longitude": "-90.06872404570724"
     }
   }
 ]
