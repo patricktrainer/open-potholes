@@ -20994,28 +20994,6 @@
     }
   },
   {
-    "service_request": "2023-968242",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Street Light Outage/Malfunction",
-    "date_created": "2023-01-18T13:32:02.000",
-    "date_modified": "2023-01-18T13:32:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8400 BLK Lake Forest Blvd",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Legacy Professional Services",
-    "rowid": "968242",
-    "final_x": "3705450.95192",
-    "final_y": "557919.466954",
-    "longitude": "-89.99146625526897",
-    "latitude": "30.027335400646916",
-    "geocoded_column": {
-      "latitude": "30.027335400646916",
-      "longitude": "-89.99146625526897"
-    }
-  },
-  {
     "service_request": "2023-968243",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -21037,6 +21015,28 @@
     "geocoded_column": {
       "latitude": "30.036173145108922",
       "longitude": "-89.99118678258259"
+    }
+  },
+  {
+    "service_request": "2023-968242",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Street Light Outage/Malfunction",
+    "date_created": "2023-01-18T13:32:02.000",
+    "date_modified": "2023-01-18T13:32:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8400 BLK Lake Forest Blvd",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Legacy Professional Services",
+    "rowid": "968242",
+    "final_x": "3705450.95192",
+    "final_y": "557919.466954",
+    "longitude": "-89.99146625526897",
+    "latitude": "30.027335400646916",
+    "geocoded_column": {
+      "latitude": "30.027335400646916",
+      "longitude": "-89.99146625526897"
     }
   },
   {
