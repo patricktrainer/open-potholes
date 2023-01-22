@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2023-969252",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-21T15:37:32.000",
+    "date_modified": "2023-01-21T15:37:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8318 Nelson St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "969252",
+    "final_x": "3664418.82208",
+    "final_y": "532434.518339",
+    "longitude": "-90.12197624076919",
+    "latitude": "29.958517882026573",
+    "geocoded_column": {
+      "latitude": "29.958517882026573",
+      "longitude": "-90.12197624076919"
+    }
+  },
+  {
+    "service_request": "2023-969200",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-21T10:26:12.000",
+    "date_modified": "2023-01-21T10:26:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5800 Prytania St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "969200",
+    "final_x": "3665782.97645",
+    "final_y": "520652.338937",
+    "longitude": "-90.11806317883935",
+    "latitude": "29.926080948625895",
+    "geocoded_column": {
+      "latitude": "29.926080948625895",
+      "longitude": "-90.11806317883935"
+    }
+  },
+  {
+    "service_request": "2023-969176",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-21T08:44:49.000",
+    "date_modified": "2023-01-21T08:44:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "PROVIDENCE PL & PRESSBURG ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "969176",
+    "final_x": "3688235.5",
+    "final_y": "554955.08",
+    "longitude": "-90.04597070725406",
+    "latitude": "30.019727547452",
+    "geocoded_column": {
+      "latitude": "30.019727547452",
+      "longitude": "-90.04597070725406"
+    }
+  },
+  {
     "service_request": "2023-969090",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21216,71 +21279,6 @@
     "geocoded_column": {
       "latitude": "29.970801504669062",
       "longitude": "-90.08703206354076"
-    }
-  },
-  {
-    "service_request": "2022-916422",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-05T09:17:22.000",
-    "date_modified": "2022-09-06T09:44:49.000",
-    "case_close_date": "2022-09-06T04:44:49.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4860 Constance St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "916422",
-    "final_x": "3669108.08986",
-    "final_y": "518170.975414",
-    "longitude": "-90.10765051766106",
-    "latitude": "29.919160596194285",
-    "geocoded_column": {
-      "latitude": "29.919160596194285",
-      "longitude": "-90.10765051766106"
-    }
-  },
-  {
-    "service_request": "2022-916408",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-05T00:24:51.000",
-    "date_modified": "2022-09-27T07:53:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5730 Elysian Fields Ave",
-    "address_councildis": "D",
-    "status": "Reviewed",
-    "rowid": "916408",
-    "final_x": "3683410.66562",
-    "final_y": "554072.984344",
-    "longitude": "-90.06124653170953",
-    "latitude": "30.01745027597235",
-    "geocoded_column": {
-      "latitude": "30.01745027597235",
-      "longitude": "-90.06124653170953"
-    }
-  },
-  {
-    "service_request": "2022-916390",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-04T18:30:36.000",
-    "date_modified": "2022-11-16T07:00:39.000",
-    "case_close_date": "2022-11-15T18:00:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4922 Touro St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "916390",
-    "final_x": "3682975.26703",
-    "final_y": "550864.512661",
-    "longitude": "-90.06273462866189",
-    "latitude": "30.008641429732908",
-    "geocoded_column": {
-      "latitude": "30.008641429732908",
-      "longitude": "-90.06273462866189"
     }
   }
 ]
