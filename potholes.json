@@ -1,5 +1,90 @@
 [
   {
+    "service_request": "2023-971132",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-28T12:58:03.000",
+    "date_modified": "2023-01-28T12:58:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "GENERAL DIAZ ST & HARRISON AVE",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "971132",
+    "final_x": "3669677.8",
+    "final_y": "549142.98",
+    "longitude": "-90.10480404873553",
+    "latitude": "30.00430655731503",
+    "geocoded_column": {
+      "latitude": "30.00430655731503",
+      "longitude": "-90.10480404873553"
+    }
+  },
+  {
+    "service_request": "2023-971113",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-28T10:37:35.000",
+    "date_modified": "2023-01-28T10:38:11.000",
+    "case_close_date": "2023-01-28T04:38:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1428 Numa St",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "rowid": "971113",
+    "final_x": "3691804.23728",
+    "final_y": "525950.531517",
+    "longitude": "-90.03573253137267",
+    "latitude": "29.93986468093268",
+    "geocoded_column": {
+      "latitude": "29.93986468093268",
+      "longitude": "-90.03573253137267"
+    }
+  },
+  {
+    "service_request": "2023-971086",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-28T08:50:09.000",
+    "date_modified": "2023-01-28T08:50:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "LEAKE AVE & PITT ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "971086",
+    "final_x": "3660797.6",
+    "final_y": "523879.98",
+    "longitude": "-90.13369397812536",
+    "latitude": "29.935100398027167",
+    "geocoded_column": {
+      "latitude": "29.935100398027167",
+      "longitude": "-90.13369397812536"
+    }
+  },
+  {
+    "service_request": "2023-971083",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-01-28T08:36:09.000",
+    "date_modified": "2023-01-28T08:36:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1528 Harmony St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "971083",
+    "final_x": "3674953.61685",
+    "final_y": "521579.146745",
+    "longitude": "-90.08908232491245",
+    "latitude": "29.92835874308816",
+    "geocoded_column": {
+      "latitude": "29.92835874308816",
+      "longitude": "-90.08908232491245"
+    }
+  },
+  {
     "service_request": "2023-971076",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21215,91 +21300,6 @@
     "geocoded_column": {
       "latitude": "29.95953508527586",
       "longitude": "-90.12441287911183"
-    }
-  },
-  {
-    "service_request": "2022-919074",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-13T15:48:41.000",
-    "date_modified": "2022-09-15T07:51:08.000",
-    "case_close_date": "2022-09-15T02:51:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7601 Trapier Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "919074",
-    "final_x": "3706709.33419",
-    "final_y": "563482.524256",
-    "longitude": "-89.98728340688494",
-    "latitude": "30.042591036231535",
-    "geocoded_column": {
-      "latitude": "30.042591036231535",
-      "longitude": "-89.98728340688494"
-    }
-  },
-  {
-    "service_request": "2022-919073",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-13T15:48:14.000",
-    "date_modified": "2022-09-13T15:48:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8528 Panola St, New Orleans, Louisiana, 70118",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "919073",
-    "final_x": "3662829.64173",
-    "final_y": "531813.562371",
-    "longitude": "-90.12701511949327",
-    "latitude": "29.95685655469224",
-    "geocoded_column": {
-      "latitude": "29.95685655469224",
-      "longitude": "-90.12701511949327"
-    }
-  },
-  {
-    "service_request": "2022-919072",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-13T15:48:07.000",
-    "date_modified": "2022-12-12T09:11:03.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1544 State St",
-    "address_councildis": "A",
-    "status": "Reviewed",
-    "rowid": "919072",
-    "final_x": "3665606.7177",
-    "final_y": "522201.550458",
-    "longitude": "-90.11856773287175",
-    "latitude": "29.93034592993008",
-    "geocoded_column": {
-      "latitude": "29.93034592993008",
-      "longitude": "-90.11856773287175"
-    }
-  },
-  {
-    "service_request": "2022-919058",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-13T15:27:29.000",
-    "date_modified": "2022-09-13T15:27:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11930 Willow Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "919058",
-    "final_x": "3728098.49945",
-    "final_y": "512836.840177",
-    "longitude": "-89.92165810975558",
-    "latitude": "29.90262680611128",
-    "geocoded_column": {
-      "latitude": "29.90262680611128",
-      "longitude": "-89.92165810975558"
     }
   }
 ]
