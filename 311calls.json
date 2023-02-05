@@ -13279,23 +13279,6 @@
     }
   },
   {
-    "service_request": "2023-972092",
-    "request_type": "Tax and Revenue",
-    "request_reason": "Sales Tax Question",
-    "date_created": "2023-02-01T11:38:37.000",
-    "date_modified": "2023-02-01T11:38:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Bureau of Revenue",
-    "status": "Pending",
-    "rowid": "972092",
-    "longitude": "0.0",
-    "latitude": "0.0",
-    "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
-    }
-  },
-  {
     "service_request": "2023-972093",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Street Light Outage/Malfunction",
@@ -13315,6 +13298,23 @@
     "geocoded_column": {
       "latitude": "30.00836404295527",
       "longitude": "-90.03448652392453"
+    }
+  },
+  {
+    "service_request": "2023-972092",
+    "request_type": "Tax and Revenue",
+    "request_reason": "Sales Tax Question",
+    "date_created": "2023-02-01T11:38:37.000",
+    "date_modified": "2023-02-01T11:38:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Bureau of Revenue",
+    "status": "Pending",
+    "rowid": "972092",
+    "longitude": "0.0",
+    "latitude": "0.0",
+    "geocoded_column": {
+      "latitude": "0.0",
+      "longitude": "0.0"
     }
   },
   {
