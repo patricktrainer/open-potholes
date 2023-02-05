@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2023-972923",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-04T17:28:17.000",
+    "date_modified": "2023-02-04T17:28:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7038 Milne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "972923",
+    "final_x": "3667599.45057",
+    "final_y": "554356.155928",
+    "longitude": "-90.1111943012857",
+    "latitude": "30.01870207170555",
+    "geocoded_column": {
+      "latitude": "30.01870207170555",
+      "longitude": "-90.1111943012857"
+    }
+  },
+  {
+    "service_request": "2023-972889",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-04T10:42:52.000",
+    "date_modified": "2023-02-04T10:42:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2112 Dublin St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "972889",
+    "final_x": "3663874.11923",
+    "final_y": "531056.444866",
+    "longitude": "-90.12374221320748",
+    "latitude": "29.954744450628773",
+    "geocoded_column": {
+      "latitude": "29.954744450628773",
+      "longitude": "-90.12374221320748"
+    }
+  },
+  {
     "service_request": "2023-972836",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21257,49 +21299,6 @@
     "geocoded_column": {
       "latitude": "30.0485021710237",
       "longitude": "-89.97399545063664"
-    }
-  },
-  {
-    "service_request": "2022-921617",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-20T09:38:27.000",
-    "date_modified": "2022-11-01T13:15:59.000",
-    "case_close_date": "2022-11-01T08:15:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1000 Conti St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "921617",
-    "final_x": "3680979.80354",
-    "final_y": "532252.663363",
-    "longitude": "-90.06968740036038",
-    "latitude": "29.957526042802996",
-    "geocoded_column": {
-      "latitude": "29.957526042802996",
-      "longitude": "-90.06968740036038"
-    }
-  },
-  {
-    "service_request": "2022-921592",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-20T09:03:32.000",
-    "date_modified": "2022-09-20T09:04:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "HURST ST & AUDUBON ST",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "921592",
-    "final_x": "3662481.8",
-    "final_y": "523440.38",
-    "longitude": "-90.12839153529956",
-    "latitude": "29.933843044996973",
-    "geocoded_column": {
-      "latitude": "29.933843044996973",
-      "longitude": "-90.12839153529956"
     }
   }
 ]
