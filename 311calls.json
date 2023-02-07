@@ -6344,28 +6344,6 @@
     }
   },
   {
-    "service_request": "2023-973096",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Street Light Outage/Malfunction",
-    "date_created": "2023-02-06T09:00:28.000",
-    "date_modified": "2023-02-06T09:00:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1801 Independence St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "Legacy Professional Services",
-    "rowid": "973096",
-    "final_x": "3691653.29552",
-    "final_y": "538176.717641",
-    "longitude": "-90.03577196659768",
-    "latitude": "29.973487135103568",
-    "geocoded_column": {
-      "latitude": "29.973487135103568",
-      "longitude": "-90.03577196659768"
-    }
-  },
-  {
     "service_request": "2023-973097",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Street Light Outage/Malfunction",
@@ -6378,6 +6356,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Legacy Professional Services",
     "rowid": "973097",
+    "final_x": "3691653.29552",
+    "final_y": "538176.717641",
+    "longitude": "-90.03577196659768",
+    "latitude": "29.973487135103568",
+    "geocoded_column": {
+      "latitude": "29.973487135103568",
+      "longitude": "-90.03577196659768"
+    }
+  },
+  {
+    "service_request": "2023-973096",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Street Light Outage/Malfunction",
+    "date_created": "2023-02-06T09:00:28.000",
+    "date_modified": "2023-02-06T09:00:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1801 Independence St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "Legacy Professional Services",
+    "rowid": "973096",
     "final_x": "3691653.29552",
     "final_y": "538176.717641",
     "longitude": "-90.03577196659768",
