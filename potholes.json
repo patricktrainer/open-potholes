@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2023-974736",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-12T09:50:52.000",
+    "date_modified": "2023-02-12T09:50:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2215 Burgundy St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "974736",
+    "final_x": "3685271.22441",
+    "final_y": "535634.688582",
+    "longitude": "-90.05601734004672",
+    "latitude": "29.966694617120556",
+    "geocoded_column": {
+      "latitude": "29.966694617120556",
+      "longitude": "-90.05601734004672"
+    }
+  },
+  {
     "service_request": "2023-974712",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21299,28 +21320,6 @@
     "geocoded_column": {
       "latitude": "29.973047926117733",
       "longitude": "-90.1016514969805"
-    }
-  },
-  {
-    "service_request": "2022-924664",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-09-29T10:34:18.000",
-    "date_modified": "2022-10-13T12:47:13.000",
-    "case_close_date": "2022-10-13T07:47:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "VALMONT ST & CONSTANCE ST",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "924664",
-    "final_x": "3667444.8",
-    "final_y": "518264.08",
-    "longitude": "-90.11289756476636",
-    "latitude": "29.919465421736838",
-    "geocoded_column": {
-      "latitude": "29.919465421736838",
-      "longitude": "-90.11289756476636"
     }
   }
 ]
