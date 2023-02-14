@@ -1164,27 +1164,6 @@
     }
   },
   {
-    "service_request": "2023-975050",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Additional signage",
-    "date_created": "2023-02-13T16:25:28.000",
-    "date_modified": "2023-02-13T16:25:28.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CHEF MENTEUR ONRAMP & CHEF MENTEUR HWY & FRANCE RD",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "975050",
-    "final_x": "3693437.8",
-    "final_y": "550559.28",
-    "longitude": "-90.02969122979614",
-    "latitude": "30.007478999108844",
-    "geocoded_column": {
-      "latitude": "30.007478999108844",
-      "longitude": "-90.02969122979614"
-    }
-  },
-  {
     "service_request": "2023-975051",
     "request_type": "Traffic Signals/Signs/Striping/Streetlights",
     "request_reason": "Additional signage",
@@ -1196,6 +1175,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "975051",
+    "final_x": "3693437.8",
+    "final_y": "550559.28",
+    "longitude": "-90.02969122979614",
+    "latitude": "30.007478999108844",
+    "geocoded_column": {
+      "latitude": "30.007478999108844",
+      "longitude": "-90.02969122979614"
+    }
+  },
+  {
+    "service_request": "2023-975050",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Additional signage",
+    "date_created": "2023-02-13T16:25:28.000",
+    "date_modified": "2023-02-13T16:25:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "CHEF MENTEUR ONRAMP & CHEF MENTEUR HWY & FRANCE RD",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "975050",
     "final_x": "3693437.8",
     "final_y": "550559.28",
     "longitude": "-90.02969122979614",
