@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2023-976381",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-19T13:25:53.000",
+    "date_modified": "2023-02-19T13:25:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "901 Ursulines Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "976381",
+    "final_x": "3682843.32879",
+    "final_y": "534136.940293",
+    "longitude": "-90.06373701937721",
+    "latitude": "29.962650519674252",
+    "geocoded_column": {
+      "latitude": "29.962650519674252",
+      "longitude": "-90.06373701937721"
+    }
+  },
+  {
     "service_request": "2023-976192",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21321,27 +21342,6 @@
     "address_councildis": "B",
     "status": "Inspected",
     "rowid": "926387",
-    "final_x": "3667399.80359",
-    "final_y": "518305.780406",
-    "longitude": "-90.11303819464234",
-    "latitude": "29.919581402475536",
-    "geocoded_column": {
-      "latitude": "29.919581402475536",
-      "longitude": "-90.11303819464234"
-    }
-  },
-  {
-    "service_request": "2022-926385",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-05T16:38:11.000",
-    "date_modified": "2022-10-06T14:17:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "800 Valmont St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "926385",
     "final_x": "3667399.80359",
     "final_y": "518305.780406",
     "longitude": "-90.11303819464234",
