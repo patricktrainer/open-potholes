@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2023-976491",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-20T10:16:46.000",
+    "date_modified": "2023-02-20T10:16:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4423 St Charles Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "976491",
+    "final_x": "3670603.20065",
+    "final_y": "520986.272697",
+    "longitude": "-90.10283577216958",
+    "latitude": "29.926857708223626",
+    "geocoded_column": {
+      "latitude": "29.926857708223626",
+      "longitude": "-90.10283577216958"
+    }
+  },
+  {
+    "service_request": "2023-976481",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-20T09:40:51.000",
+    "date_modified": "2023-02-20T09:40:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "11600 Morrison Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "976481",
+    "final_x": "3712842.9731",
+    "final_y": "566029.157283",
+    "longitude": "-89.96780295767543",
+    "latitude": "30.049393700817774",
+    "geocoded_column": {
+      "latitude": "30.049393700817774",
+      "longitude": "-89.96780295767543"
+    }
+  },
+  {
+    "service_request": "2023-976479",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-20T09:34:39.000",
+    "date_modified": "2023-02-20T09:34:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "11610 Morrison Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "976479",
+    "final_x": "3712891.34488",
+    "final_y": "566063.596579",
+    "longitude": "-89.96764877745944",
+    "latitude": "30.049486809763003",
+    "geocoded_column": {
+      "latitude": "30.049486809763003",
+      "longitude": "-89.96764877745944"
+    }
+  },
+  {
     "service_request": "2023-976381",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -25,12 +88,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-02-17T15:20:25.000",
-    "date_modified": "2023-02-17T15:20:26.000",
+    "date_modified": "2023-02-20T08:01:34.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5300 BLK Cameron Blvd",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "976192",
     "final_x": "3682559.4498",
     "final_y": "552572.214525",
@@ -327,12 +390,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-02-15T17:12:40.000",
-    "date_modified": "2023-02-15T17:12:40.000",
-    "request_status": "Pending",
+    "date_modified": "2023-02-20T11:24:06.000",
+    "case_close_date": "2023-02-20T05:24:06.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "6123 Fleur-De-Lis Dr",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "975687",
     "final_x": "3665278.29748",
     "final_y": "548311.097042",
@@ -21285,70 +21349,6 @@
     "geocoded_column": {
       "latitude": "29.918984939986817",
       "longitude": "-90.01051527285452"
-    }
-  },
-  {
-    "service_request": "2022-926488",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-06T09:13:26.000",
-    "date_modified": "2022-10-26T08:16:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1338 Holiday Pl",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "926488",
-    "final_x": "3699060.39524",
-    "final_y": "526305.272062",
-    "longitude": "-90.01281101953147",
-    "latitude": "29.940612154081027",
-    "geocoded_column": {
-      "latitude": "29.940612154081027",
-      "longitude": "-90.01281101953147"
-    }
-  },
-  {
-    "service_request": "2022-926389",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-05T16:47:06.000",
-    "date_modified": "2022-11-01T09:09:09.000",
-    "case_close_date": "2022-11-01T04:09:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "632 Julia St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "926389",
-    "final_x": "3680497.30325",
-    "final_y": "527957.768319",
-    "longitude": "-90.07136035829298",
-    "latitude": "29.945731150163244",
-    "geocoded_column": {
-      "latitude": "29.945731150163244",
-      "longitude": "-90.07136035829298"
-    }
-  },
-  {
-    "service_request": "2022-926387",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-05T16:41:00.000",
-    "date_modified": "2022-10-06T14:17:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "800 Valmont St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "926387",
-    "final_x": "3667399.80359",
-    "final_y": "518305.780406",
-    "longitude": "-90.11303819464234",
-    "latitude": "29.919581402475536",
-    "geocoded_column": {
-      "latitude": "29.919581402475536",
-      "longitude": "-90.11303819464234"
     }
   }
 ]
