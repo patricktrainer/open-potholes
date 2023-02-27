@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2023-978158",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-26T17:44:11.000",
+    "date_modified": "2023-02-26T17:44:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2232 Burgundy St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "978158",
+    "final_x": "3685400.23433",
+    "final_y": "535584.096262",
+    "longitude": "-90.0556117098159",
+    "latitude": "29.966551550792907",
+    "geocoded_column": {
+      "latitude": "29.966551550792907",
+      "longitude": "-90.0556117098159"
+    }
+  },
+  {
+    "service_request": "2023-978151",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-26T16:42:51.000",
+    "date_modified": "2023-02-26T16:42:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8230 Neron Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "978151",
+    "final_x": "3664035.2217",
+    "final_y": "531664.262339",
+    "longitude": "-90.12321324191922",
+    "latitude": "29.956411074027336",
+    "geocoded_column": {
+      "latitude": "29.956411074027336",
+      "longitude": "-90.12321324191922"
+    }
+  },
+  {
+    "service_request": "2023-978125",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-26T13:20:25.000",
+    "date_modified": "2023-02-26T13:20:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7903 Freret St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "978125",
+    "final_x": "3662051.56627",
+    "final_y": "527406.042495",
+    "longitude": "-90.12961825291639",
+    "latitude": "29.944759792476848",
+    "geocoded_column": {
+      "latitude": "29.944759792476848",
+      "longitude": "-90.12961825291639"
+    }
+  },
+  {
+    "service_request": "2023-978124",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-02-26T13:18:18.000",
+    "date_modified": "2023-02-26T13:18:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7837 Freret St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "978124",
+    "final_x": "3662138.56167",
+    "final_y": "527322.121215",
+    "longitude": "-90.12934636504077",
+    "latitude": "29.944526522546525",
+    "geocoded_column": {
+      "latitude": "29.944526522546525",
+      "longitude": "-90.12934636504077"
+    }
+  },
+  {
     "service_request": "2023-978069",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21287,91 +21371,6 @@
     "geocoded_column": {
       "latitude": "29.97871584764257",
       "longitude": "-90.06866436695154"
-    }
-  },
-  {
-    "service_request": "2022-927897",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-12T07:39:35.000",
-    "date_modified": "2022-10-14T10:02:39.000",
-    "case_close_date": "2022-10-14T05:02:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "11221 Old Gentilly Rd",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "927897",
-    "final_x": "3717420.41919",
-    "final_y": "554690.320664",
-    "longitude": "-89.95376706950672",
-    "latitude": "30.018065682811578",
-    "geocoded_column": {
-      "latitude": "30.018065682811578",
-      "longitude": "-89.95376706950672"
-    }
-  },
-  {
-    "service_request": "2022-927868",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-11T19:46:14.000",
-    "date_modified": "2022-10-11T19:46:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5220 Norgate Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "927868",
-    "final_x": "3707359.77003",
-    "final_y": "557375.156187",
-    "longitude": "-89.9854548386491",
-    "latitude": "30.025777156241666",
-    "geocoded_column": {
-      "latitude": "30.025777156241666",
-      "longitude": "-89.9854548386491"
-    }
-  },
-  {
-    "service_request": "2022-927863",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-11T19:21:11.000",
-    "date_modified": "2022-10-11T19:21:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2204 Touro St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "927863",
-    "final_x": "3683872.24834",
-    "final_y": "540357.535051",
-    "longitude": "-90.06026958509878",
-    "latitude": "29.97972360797686",
-    "geocoded_column": {
-      "latitude": "29.97972360797686",
-      "longitude": "-90.06026958509878"
-    }
-  },
-  {
-    "service_request": "2022-927833",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-11T16:51:19.000",
-    "date_modified": "2022-10-11T16:51:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "12215 Willow Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "927833",
-    "final_x": "3728445.31136",
-    "final_y": "511629.09272",
-    "longitude": "-89.92061059342124",
-    "latitude": "29.899294183446383",
-    "geocoded_column": {
-      "latitude": "29.899294183446383",
-      "longitude": "-89.92061059342124"
     }
   }
 ]
