@@ -20540,28 +20540,6 @@
     }
   },
   {
-    "service_request": "2023-978389",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2023-02-27T11:43:44.000",
-    "date_modified": "2023-02-27T11:43:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6048 Perrier St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "978389",
-    "final_x": "3664709.05876",
-    "final_y": "520620.217656",
-    "longitude": "-90.12145431197989",
-    "latitude": "29.926023900054517",
-    "geocoded_column": {
-      "latitude": "29.926023900054517",
-      "longitude": "-90.12145431197989"
-    }
-  },
-  {
     "service_request": "2023-978390",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -20574,6 +20552,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Richards Disposal",
     "rowid": "978390",
+    "final_x": "3664709.05876",
+    "final_y": "520620.217656",
+    "longitude": "-90.12145431197989",
+    "latitude": "29.926023900054517",
+    "geocoded_column": {
+      "latitude": "29.926023900054517",
+      "longitude": "-90.12145431197989"
+    }
+  },
+  {
+    "service_request": "2023-978389",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2023-02-27T11:43:44.000",
+    "date_modified": "2023-02-27T11:43:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6048 Perrier St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "978389",
     "final_x": "3664709.05876",
     "final_y": "520620.217656",
     "longitude": "-90.12145431197989",
@@ -21086,6 +21086,28 @@
     }
   },
   {
+    "service_request": "2023-978361",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Accessibility Ramps, Curbs and Sidewalk Repair",
+    "date_created": "2023-02-27T11:17:11.000",
+    "date_modified": "2023-02-27T13:21:43.000",
+    "case_close_date": "2023-02-27T07:21:43.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 BLK N Saint Patrick St",
+    "address_councildis": "A",
+    "status": "Question Answered",
+    "rowid": "978361",
+    "final_x": "3669265.38847",
+    "final_y": "540036.841302",
+    "longitude": "-90.10641497287438",
+    "latitude": "29.979279955436482",
+    "geocoded_column": {
+      "latitude": "29.979279955436482",
+      "longitude": "-90.10641497287438"
+    }
+  },
+  {
     "service_request": "2023-978362",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -21107,28 +21129,6 @@
     "geocoded_column": {
       "latitude": "30.01489417259938",
       "longitude": "-90.0502825636113"
-    }
-  },
-  {
-    "service_request": "2023-978361",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Accessibility Ramps, Curbs and Sidewalk Repair",
-    "date_created": "2023-02-27T11:17:11.000",
-    "date_modified": "2023-02-27T13:21:43.000",
-    "case_close_date": "2023-02-27T07:21:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "100 BLK N Saint Patrick St",
-    "address_councildis": "A",
-    "status": "Question Answered",
-    "rowid": "978361",
-    "final_x": "3669265.38847",
-    "final_y": "540036.841302",
-    "longitude": "-90.10641497287438",
-    "latitude": "29.979279955436482",
-    "geocoded_column": {
-      "latitude": "29.979279955436482",
-      "longitude": "-90.10641497287438"
     }
   },
   {
