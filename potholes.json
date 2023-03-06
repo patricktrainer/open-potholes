@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2023-980291",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-05T20:22:54.000",
+    "date_modified": "2023-03-05T20:22:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3800 Eagle St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "980291",
+    "final_x": "3666338.49671",
+    "final_y": "536997.738376",
+    "longitude": "-90.11576127767253",
+    "latitude": "29.971009287923287",
+    "geocoded_column": {
+      "latitude": "29.971009287923287",
+      "longitude": "-90.11576127767253"
+    }
+  },
+  {
+    "service_request": "2023-980290",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-05T20:20:32.000",
+    "date_modified": "2023-03-05T20:20:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3925 Eagle St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "980290",
+    "final_x": "3666797.25645",
+    "final_y": "537303.885256",
+    "longitude": "-90.11430216292206",
+    "latitude": "29.971837677844206",
+    "geocoded_column": {
+      "latitude": "29.971837677844206",
+      "longitude": "-90.11430216292206"
+    }
+  },
+  {
+    "service_request": "2023-980282",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-05T19:42:32.000",
+    "date_modified": "2023-03-05T19:42:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1717 Governor Nicholls St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "980282",
+    "final_x": "3680734.20283",
+    "final_y": "536220.357255",
+    "longitude": "-90.07032483501789",
+    "latitude": "29.968443291879804",
+    "geocoded_column": {
+      "latitude": "29.968443291879804",
+      "longitude": "-90.07032483501789"
+    }
+  },
+  {
+    "service_request": "2023-980224",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-05T11:32:51.000",
+    "date_modified": "2023-03-05T11:32:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2008 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "980224",
+    "final_x": "3665754.91892",
+    "final_y": "528959.224192",
+    "longitude": "-90.1178735917795",
+    "latitude": "29.948923047830057",
+    "geocoded_column": {
+      "latitude": "29.948923047830057",
+      "longitude": "-90.1178735917795"
+    }
+  },
+  {
     "service_request": "2023-980085",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21293,94 +21377,6 @@
     "geocoded_column": {
       "latitude": "29.95527271096369",
       "longitude": "-90.06720279361424"
-    }
-  },
-  {
-    "service_request": "2022-930538",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-21T14:23:51.000",
-    "date_modified": "2022-10-21T14:49:45.000",
-    "case_close_date": "2022-10-21T09:49:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7600 Shubrick Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "930538",
-    "final_x": "3706799.81873",
-    "final_y": "563531.17328",
-    "longitude": "-89.98699563566217",
-    "latitude": "30.042721878698913",
-    "geocoded_column": {
-      "latitude": "30.042721878698913",
-      "longitude": "-89.98699563566217"
-    }
-  },
-  {
-    "service_request": "2022-930537",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-21T14:23:30.000",
-    "date_modified": "2022-10-21T14:52:36.000",
-    "case_close_date": "2022-10-21T09:52:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7500 BLK Shubrick Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "930537",
-    "final_x": "3706881.36638",
-    "final_y": "563531.960322",
-    "longitude": "-89.98673788528974",
-    "latitude": "30.042721407905066",
-    "geocoded_column": {
-      "latitude": "30.042721407905066",
-      "longitude": "-89.98673788528974"
-    }
-  },
-  {
-    "service_request": "2022-930535",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-21T14:22:51.000",
-    "date_modified": "2022-11-01T11:08:02.000",
-    "case_close_date": "2022-11-01T06:08:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7300 BLK Shubrick Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "930535",
-    "final_x": "3707163.71392",
-    "final_y": "563022.982009",
-    "longitude": "-89.9858644775611",
-    "latitude": "30.041312793218925",
-    "geocoded_column": {
-      "latitude": "30.041312793218925",
-      "longitude": "-89.9858644775611"
-    }
-  },
-  {
-    "service_request": "2022-930526",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-21T14:04:34.000",
-    "date_modified": "2022-10-21T14:45:25.000",
-    "case_close_date": "2022-10-21T09:45:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7800 Shubrick Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "930526",
-    "final_x": "3706491.23012",
-    "final_y": "564091.852897",
-    "longitude": "-89.98795008597854",
-    "latitude": "30.044273490770745",
-    "geocoded_column": {
-      "latitude": "30.044273490770745",
-      "longitude": "-89.98795008597854"
     }
   }
 ]
