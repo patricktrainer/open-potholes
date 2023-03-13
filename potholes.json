@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2023-982209",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-12T12:08:04.000",
+    "date_modified": "2023-03-12T12:08:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4718 St Charles Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "982209",
+    "final_x": "3669573.29377",
+    "final_y": "520564.484664",
+    "longitude": "-90.10610118413591",
+    "latitude": "29.925728296642053",
+    "geocoded_column": {
+      "latitude": "29.925728296642053",
+      "longitude": "-90.10610118413591"
+    }
+  },
+  {
+    "service_request": "2023-982205",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-12T11:58:40.000",
+    "date_modified": "2023-03-12T11:58:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4279 Vendome Pl",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "982205",
+    "final_x": "3669395.797",
+    "final_y": "531461.948483",
+    "longitude": "-90.10629311161554",
+    "latitude": "29.95569802214813",
+    "geocoded_column": {
+      "latitude": "29.95569802214813",
+      "longitude": "-90.10629311161554"
+    }
+  },
+  {
+    "service_request": "2023-982202",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-12T11:31:46.000",
+    "date_modified": "2023-03-12T11:31:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5010 St Charles Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "982202",
+    "final_x": "3668621.51463",
+    "final_y": "520732.663033",
+    "longitude": "-90.10910000112825",
+    "latitude": "29.92621872926538",
+    "geocoded_column": {
+      "latitude": "29.92621872926538",
+      "longitude": "-90.10910000112825"
+    }
+  },
+  {
+    "service_request": "2023-982185",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-12T09:28:27.000",
+    "date_modified": "2023-03-12T09:28:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7146 Crowder Blvd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "982185",
+    "final_x": "3704074.41982",
+    "final_y": "560025.187741",
+    "longitude": "-89.99573827139287",
+    "latitude": "30.033169565346956",
+    "geocoded_column": {
+      "latitude": "30.033169565346956",
+      "longitude": "-89.99573827139287"
+    }
+  },
+  {
     "service_request": "2023-982006",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21283,93 +21367,6 @@
     "geocoded_column": {
       "latitude": "29.999811233495812",
       "longitude": "-90.05259756987667"
-    }
-  },
-  {
-    "service_request": "2022-932984",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-28T17:06:44.000",
-    "date_modified": "2022-10-31T10:07:13.000",
-    "case_close_date": "2022-10-31T05:07:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1406 Cabrini Ct",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "932984",
-    "final_x": "3677795.43278",
-    "final_y": "553201.523927",
-    "longitude": "-90.07901857849204",
-    "latitude": "30.015224288846486",
-    "geocoded_column": {
-      "latitude": "30.015224288846486",
-      "longitude": "-90.07901857849204"
-    }
-  },
-  {
-    "service_request": "2022-932963",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-28T16:13:01.000",
-    "date_modified": "2022-10-28T16:13:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5712 S Claiborne Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "932963",
-    "final_x": "3667316.37121",
-    "final_y": "526228.279486",
-    "longitude": "-90.11303522589489",
-    "latitude": "29.94136819756626",
-    "geocoded_column": {
-      "latitude": "29.94136819756626",
-      "longitude": "-90.11303522589489"
-    }
-  },
-  {
-    "service_request": "2022-932960",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-28T16:04:58.000",
-    "date_modified": "2022-10-31T08:30:12.000",
-    "case_close_date": "2022-10-31T03:30:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1715 Governor Nicholls St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "932960",
-    "final_x": "3680760.47739",
-    "final_y": "536203.460103",
-    "longitude": "-90.07024244691662",
-    "latitude": "29.968396034153926",
-    "geocoded_column": {
-      "latitude": "29.968396034153926",
-      "longitude": "-90.07024244691662"
-    }
-  },
-  {
-    "service_request": "2022-932702",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-10-28T10:31:06.000",
-    "date_modified": "2022-11-14T09:00:04.000",
-    "case_close_date": "2022-11-14T03:00:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N RAMPART ST & IBERVILLE ST",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "932702",
-    "final_x": "3680259.5",
-    "final_y": "531920.98",
-    "longitude": "-90.07197343459657",
-    "latitude": "29.95663584840802",
-    "geocoded_column": {
-      "latitude": "29.95663584840802",
-      "longitude": "-90.07197343459657"
     }
   }
 ]
