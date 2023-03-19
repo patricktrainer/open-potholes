@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2023-983970",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-18T15:11:33.000",
+    "date_modified": "2023-03-18T15:11:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2560 Vienna Street",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "983970",
+    "final_x": "3686227.58914",
+    "final_y": "555081.496921",
+    "longitude": "-90.05231057094757",
+    "latitude": "30.020137023616762",
+    "geocoded_column": {
+      "latitude": "30.020137023616762",
+      "longitude": "-90.05231057094757"
+    }
+  },
+  {
+    "service_request": "2023-983929",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-18T10:26:53.000",
+    "date_modified": "2023-03-18T10:26:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7901 Lamb Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "983929",
+    "final_x": "3696814.51101",
+    "final_y": "560087.564637",
+    "longitude": "-90.018677919151",
+    "latitude": "30.03357210580188",
+    "geocoded_column": {
+      "latitude": "30.03357210580188",
+      "longitude": "-90.018677919151"
+    }
+  },
+  {
+    "service_request": "2023-983921",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-18T09:52:28.000",
+    "date_modified": "2023-03-18T09:52:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3157 Elmwood Park Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "983921",
+    "final_x": "3694660.4479",
+    "final_y": "518524.518263",
+    "longitude": "-90.026982393489",
+    "latitude": "29.91935642705984",
+    "geocoded_column": {
+      "latitude": "29.91935642705984",
+      "longitude": "-90.026982393489"
+    }
+  },
+  {
     "service_request": "2023-983864",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21341,70 +21404,6 @@
     "geocoded_column": {
       "latitude": "29.99455845283965",
       "longitude": "-90.05136822611975"
-    }
-  },
-  {
-    "service_request": "2022-938054",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-04T13:38:01.000",
-    "date_modified": "2022-11-04T13:38:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6818 Milne Blvd",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "938054",
-    "final_x": "3667470.43175",
-    "final_y": "552919.128791",
-    "longitude": "-90.11165036616391",
-    "latitude": "30.01475453688969",
-    "geocoded_column": {
-      "latitude": "30.01475453688969",
-      "longitude": "-90.11165036616391"
-    }
-  },
-  {
-    "service_request": "2022-937900",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-04T11:58:55.000",
-    "date_modified": "2022-11-04T11:58:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2750 Dumaine St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "937900",
-    "final_x": "3676761.88021",
-    "final_y": "537773.53236",
-    "longitude": "-90.08281610525538",
-    "latitude": "29.972833789908222",
-    "geocoded_column": {
-      "latitude": "29.972833789908222",
-      "longitude": "-90.08281610525538"
-    }
-  },
-  {
-    "service_request": "2022-937866",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-04T11:26:08.000",
-    "date_modified": "2022-11-18T09:11:21.000",
-    "case_close_date": "2022-11-03T19:00:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1638 St Anthony St",
-    "address_councildis": "D",
-    "status": "Captured by Project",
-    "rowid": "937866",
-    "final_x": "3683303.32751",
-    "final_y": "538343.198281",
-    "longitude": "-90.06213704732374",
-    "latitude": "29.9742022528698",
-    "geocoded_column": {
-      "latitude": "29.9742022528698",
-      "longitude": "-90.06213704732374"
     }
   }
 ]
