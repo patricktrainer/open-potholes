@@ -105,27 +105,6 @@
     }
   },
   {
-    "service_request": "2023-984283",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-03-20T12:33:50.000",
-    "date_modified": "2023-03-20T12:33:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2535 S Derbigny St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "984283",
-    "final_x": "3673504.96737",
-    "final_y": "527467.815231",
-    "longitude": "-90.09345425391092",
-    "latitude": "29.944593840324597",
-    "geocoded_column": {
-      "latitude": "29.944593840324597",
-      "longitude": "-90.09345425391092"
-    }
-  },
-  {
     "service_request": "2023-984284",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -137,6 +116,27 @@
     "address_councildis": "B",
     "status": "Pending",
     "rowid": "984284",
+    "final_x": "3673504.96737",
+    "final_y": "527467.815231",
+    "longitude": "-90.09345425391092",
+    "latitude": "29.944593840324597",
+    "geocoded_column": {
+      "latitude": "29.944593840324597",
+      "longitude": "-90.09345425391092"
+    }
+  },
+  {
+    "service_request": "2023-984283",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-20T12:33:50.000",
+    "date_modified": "2023-03-20T12:33:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2535 S Derbigny St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "984283",
     "final_x": "3673504.96737",
     "final_y": "527467.815231",
     "longitude": "-90.09345425391092",
