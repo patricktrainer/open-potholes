@@ -1,15 +1,118 @@
 [
   {
+    "service_request": "2023-985130",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-22T19:27:44.000",
+    "date_modified": "2023-03-22T19:27:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "937 France St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "985130",
+    "final_x": "3692288.57814",
+    "final_y": "534642.14119",
+    "longitude": "-90.033892212322",
+    "latitude": "29.963748502443654",
+    "geocoded_column": {
+      "latitude": "29.963748502443654",
+      "longitude": "-90.033892212322"
+    }
+  },
+  {
+    "service_request": "2023-985050",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-22T15:18:04.000",
+    "date_modified": "2023-03-22T15:18:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3137 Orleans Ave, New Orleans, Louisiana, 70119",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "985050",
+    "final_x": "3675086.00885",
+    "final_y": "538360.268233",
+    "longitude": "-90.08808869185481",
+    "latitude": "29.974497297491975",
+    "geocoded_column": {
+      "latitude": "29.974497297491975",
+      "longitude": "-90.08808869185481"
+    }
+  },
+  {
+    "service_request": "2023-984990",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-22T13:05:22.000",
+    "date_modified": "2023-03-22T13:06:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK Valmont St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "984990",
+    "final_x": "3667884.12679",
+    "final_y": "521581.031429",
+    "longitude": "-90.11139917230841",
+    "latitude": "29.928573115392687",
+    "geocoded_column": {
+      "latitude": "29.928573115392687",
+      "longitude": "-90.11139917230841"
+    }
+  },
+  {
+    "service_request": "2023-984973",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-22T12:26:14.000",
+    "date_modified": "2023-03-22T12:40:49.000",
+    "case_close_date": "2023-03-22T07:40:49.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6970 Pontchartrain Blvd, New Orleans, Louisiana, 70124",
+    "status": "Resolved",
+    "rowid": "984973",
+    "longitude": "0.0",
+    "latitude": "0.0",
+    "geocoded_column": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    }
+  },
+  {
+    "service_request": "2023-984925",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-22T10:55:06.000",
+    "date_modified": "2023-03-22T10:55:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "VENDOME PL & MARTIN LUTHER KING JR BLVD & S NORMAN C FRANCIS PKWY",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "984925",
+    "final_x": "3669505.4",
+    "final_y": "531596.08",
+    "longitude": "-90.10594248626451",
+    "latitude": "29.956063611907474",
+    "geocoded_column": {
+      "latitude": "29.956063611907474",
+      "longitude": "-90.10594248626451"
+    }
+  },
+  {
     "service_request": "2023-984808",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-03-21T19:10:29.000",
-    "date_modified": "2023-03-21T19:10:29.000",
+    "date_modified": "2023-03-22T08:07:44.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1240 N Dorgenois St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "984808",
     "final_x": "3678492.85538",
     "final_y": "538323.502153",
@@ -21301,115 +21404,6 @@
     "geocoded_column": {
       "latitude": "29.949784004382035",
       "longitude": "-90.12970040728487"
-    }
-  },
-  {
-    "service_request": "2022-940882",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-09T10:06:16.000",
-    "date_modified": "2023-03-17T10:35:35.000",
-    "case_close_date": "2023-03-17T05:35:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "220 Hay Pl",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "940882",
-    "final_x": "3665941.35181",
-    "final_y": "554126.601368",
-    "longitude": "-90.11644102184513",
-    "latitude": "30.018119400853024",
-    "geocoded_column": {
-      "latitude": "30.018119400853024",
-      "longitude": "-90.11644102184513"
-    }
-  },
-  {
-    "service_request": "2022-940841",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-09T09:26:35.000",
-    "date_modified": "2022-11-10T07:50:19.000",
-    "case_close_date": "2022-11-10T01:50:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CRYSTAL ST & CAMEO ST",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "940841",
-    "final_x": "3667734.3",
-    "final_y": "556105.38",
-    "longitude": "-90.11070925112473",
-    "latitude": "30.023507861990154",
-    "geocoded_column": {
-      "latitude": "30.023507861990154",
-      "longitude": "-90.11070925112473"
-    }
-  },
-  {
-    "service_request": "2022-940830",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-09T09:16:06.000",
-    "date_modified": "2022-11-09T15:12:09.000",
-    "case_close_date": "2022-11-09T09:12:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "WILSON AVE & SELMA ST & GRANT ST",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "940830",
-    "final_x": "3703078.0",
-    "final_y": "554069.18",
-    "longitude": "-89.99910619343314",
-    "latitude": "30.016824790199145",
-    "geocoded_column": {
-      "latitude": "30.016824790199145",
-      "longitude": "-89.99910619343314"
-    }
-  },
-  {
-    "service_request": "2022-940800",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-09T08:53:37.000",
-    "date_modified": "2022-11-09T08:53:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "24 Virginia Ct",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "940800",
-    "final_x": "3668860.94862",
-    "final_y": "542042.679052",
-    "longitude": "-90.10762458853111",
-    "latitude": "29.98480723037842",
-    "geocoded_column": {
-      "latitude": "29.98480723037842",
-      "longitude": "-90.10762458853111"
-    }
-  },
-  {
-    "service_request": "2022-940749",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-09T07:59:18.000",
-    "date_modified": "2022-11-14T10:15:01.000",
-    "case_close_date": "2022-11-14T04:15:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BROADWAY ST & SPRUCE ST",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "940749",
-    "final_x": "3665739.1",
-    "final_y": "528854.58",
-    "longitude": "-90.11792704381216",
-    "latitude": "29.94863577155117",
-    "geocoded_column": {
-      "latitude": "29.94863577155117",
-      "longitude": "-90.11792704381216"
     }
   }
 ]
