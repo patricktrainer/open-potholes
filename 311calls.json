@@ -18982,28 +18982,6 @@
     }
   },
   {
-    "service_request": "2023-984560",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Grass Cutting Service (City Owned Property)",
-    "date_created": "2023-03-21T09:52:01.000",
-    "date_modified": "2023-03-23T08:50:21.000",
-    "case_close_date": "2023-03-23T03:50:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "BUNDY RD & CHEF MENTEUR HWY",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "984560",
-    "final_x": "3709601.2",
-    "final_y": "553816.88",
-    "longitude": "-89.97850523299951",
-    "latitude": "30.01592059710702",
-    "geocoded_column": {
-      "latitude": "30.01592059710702",
-      "longitude": "-89.97850523299951"
-    }
-  },
-  {
     "service_request": "2023-984561",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -19023,6 +19001,28 @@
     "geocoded_column": {
       "latitude": "29.9411034394116",
       "longitude": "-90.04631077729607"
+    }
+  },
+  {
+    "service_request": "2023-984560",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Grass Cutting Service (City Owned Property)",
+    "date_created": "2023-03-21T09:52:01.000",
+    "date_modified": "2023-03-23T08:50:21.000",
+    "case_close_date": "2023-03-23T03:50:21.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "BUNDY RD & CHEF MENTEUR HWY",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "984560",
+    "final_x": "3709601.2",
+    "final_y": "553816.88",
+    "longitude": "-89.97850523299951",
+    "latitude": "30.01592059710702",
+    "geocoded_column": {
+      "latitude": "30.01592059710702",
+      "longitude": "-89.97850523299951"
     }
   },
   {
