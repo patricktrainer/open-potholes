@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2023-985984",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-26T18:05:22.000",
+    "date_modified": "2023-03-26T18:05:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "346 West Robert E Lee Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "985984",
+    "final_x": "3665113.75175",
+    "final_y": "554881.68188",
+    "longitude": "-90.1190306534984",
+    "latitude": "30.020219747796055",
+    "geocoded_column": {
+      "latitude": "30.020219747796055",
+      "longitude": "-90.1190306534984"
+    }
+  },
+  {
+    "service_request": "2023-985909",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-03-26T12:13:17.000",
+    "date_modified": "2023-03-26T12:13:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1720 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "985909",
+    "final_x": "3665209.59687",
+    "final_y": "528147.244671",
+    "longitude": "-90.11962257251744",
+    "latitude": "29.946706260593693",
+    "geocoded_column": {
+      "latitude": "29.946706260593693",
+      "longitude": "-90.11962257251744"
+    }
+  },
+  {
     "service_request": "2023-985761",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21379,49 +21421,6 @@
     "geocoded_column": {
       "latitude": "29.916364144708886",
       "longitude": "-90.0086805382105"
-    }
-  },
-  {
-    "service_request": "2022-942639",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-12T12:36:48.000",
-    "date_modified": "2023-03-25T10:31:28.000",
-    "case_close_date": "2023-03-25T05:31:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1139 Arabella St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "942639",
-    "final_x": "3666152.53025",
-    "final_y": "520220.218232",
-    "longitude": "-90.11691108139415",
-    "latitude": "29.924881970538088",
-    "geocoded_column": {
-      "latitude": "29.924881970538088",
-      "longitude": "-90.11691108139415"
-    }
-  },
-  {
-    "service_request": "2022-942578",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-12T09:04:35.000",
-    "date_modified": "2022-11-14T08:19:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4901 Franklin Ave",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "942578",
-    "final_x": "3686871.25506",
-    "final_y": "551004.348437",
-    "longitude": "-90.05042102891811",
-    "latitude": "30.008906562279577",
-    "geocoded_column": {
-      "latitude": "30.008906562279577",
-      "longitude": "-90.05042102891811"
     }
   }
 ]
