@@ -19864,28 +19864,6 @@
     }
   },
   {
-    "service_request": "2023-986074",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-03-27T08:44:07.000",
-    "date_modified": "2023-03-27T08:44:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3117 Robert St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "986074",
-    "final_x": "3668948.84417",
-    "final_y": "526853.570686",
-    "longitude": "-90.10786006432717",
-    "latitude": "29.943039640521846",
-    "geocoded_column": {
-      "latitude": "29.943039640521846",
-      "longitude": "-90.10786006432717"
-    }
-  },
-  {
     "service_request": "2023-986073",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -19907,6 +19885,28 @@
     "geocoded_column": {
       "latitude": "30.010699080199906",
       "longitude": "-90.10095199230659"
+    }
+  },
+  {
+    "service_request": "2023-986074",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-03-27T08:44:07.000",
+    "date_modified": "2023-03-27T08:44:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3117 Robert St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "986074",
+    "final_x": "3668948.84417",
+    "final_y": "526853.570686",
+    "longitude": "-90.10786006432717",
+    "latitude": "29.943039640521846",
+    "geocoded_column": {
+      "latitude": "29.943039640521846",
+      "longitude": "-90.10786006432717"
     }
   },
   {
