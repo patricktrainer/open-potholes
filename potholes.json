@@ -1,5 +1,88 @@
 [
   {
+    "service_request": "2023-987794",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-01T12:17:41.000",
+    "date_modified": "2023-04-01T12:17:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6900 Downman Rd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "987794",
+    "final_x": "3695300.06608",
+    "final_y": "556167.19561",
+    "longitude": "-90.0236053187468",
+    "latitude": "30.022840274037925",
+    "geocoded_column": {
+      "latitude": "30.022840274037925",
+      "longitude": "-90.0236053187468"
+    }
+  },
+  {
+    "service_request": "2023-987768",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-01T09:47:11.000",
+    "date_modified": "2023-04-01T09:47:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2136 Annette St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "987768",
+    "final_x": "3682781.30671",
+    "final_y": "540136.792523",
+    "longitude": "-90.06372294372545",
+    "latitude": "29.979149925784508",
+    "geocoded_column": {
+      "latitude": "29.979149925784508",
+      "longitude": "-90.06372294372545"
+    }
+  },
+  {
+    "service_request": "2023-987762",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-01T09:43:14.000",
+    "date_modified": "2023-04-01T09:43:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2618 St Thomas St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "987762",
+    "final_x": "3678452.92456",
+    "final_y": "519527.432503",
+    "longitude": "-90.07810672363414",
+    "latitude": "29.92261224939398",
+    "geocoded_column": {
+      "latitude": "29.92261224939398",
+      "longitude": "-90.07810672363414"
+    }
+  },
+  {
+    "service_request": "2023-987735",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-01T07:47:53.000",
+    "date_modified": "2023-04-01T09:04:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1993 Law St, New Orleans, Louisiana, 70119",
+    "address_councildis": "D",
+    "rowid": "987735",
+    "final_x": "3682232.29557",
+    "final_y": "541680.309388",
+    "longitude": "-90.06540298799854",
+    "latitude": "29.98341077223429",
+    "geocoded_column": {
+      "latitude": "29.98341077223429",
+      "longitude": "-90.06540298799854"
+    }
+  },
+  {
     "service_request": "2023-987685",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21358,94 +21441,6 @@
     "geocoded_column": {
       "latitude": "29.981783793556936",
       "longitude": "-90.10107293502566"
-    }
-  },
-  {
-    "service_request": "2022-946872",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-28T07:51:56.000",
-    "date_modified": "2023-02-23T08:08:55.000",
-    "case_close_date": "2023-02-23T02:08:55.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1934 Eagle St, New Orleans, Louisiana, 70118",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "946872",
-    "final_x": "3661936.80071",
-    "final_y": "532089.708483",
-    "longitude": "-90.12982528409599",
-    "latitude": "29.957641682801558",
-    "geocoded_column": {
-      "latitude": "29.957641682801558",
-      "longitude": "-90.12982528409599"
-    }
-  },
-  {
-    "service_request": "2022-946869",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-28T07:35:07.000",
-    "date_modified": "2022-11-30T13:57:57.000",
-    "case_close_date": "2022-11-30T07:57:57.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3300 BLK Grand Route St John St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "946869",
-    "final_x": "3675526.57476",
-    "final_y": "540337.686501",
-    "longitude": "-90.08662932787023",
-    "latitude": "29.979921347868853",
-    "geocoded_column": {
-      "latitude": "29.979921347868853",
-      "longitude": "-90.08662932787023"
-    }
-  },
-  {
-    "service_request": "2022-946722",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-26T21:22:00.000",
-    "date_modified": "2022-12-20T13:17:43.000",
-    "case_close_date": "2022-12-20T07:17:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "New Orleans,LA",
-    "address_councildis": "D",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "946722",
-    "final_x": "3687880.8",
-    "final_y": "560035.64",
-    "longitude": "-90.04691121641319",
-    "latitude": "30.03370814054373",
-    "geocoded_column": {
-      "latitude": "30.03370814054373",
-      "longitude": "-90.04691121641319"
-    }
-  },
-  {
-    "service_request": "2022-946721",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-11-26T21:20:30.000",
-    "date_modified": "2022-12-20T13:18:22.000",
-    "case_close_date": "2022-12-20T07:18:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9435 Stroelitz St",
-    "address_councildis": "D",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "946721",
-    "final_x": "3687880.8",
-    "final_y": "560035.64",
-    "longitude": "-90.04691121641319",
-    "latitude": "30.03370814054373",
-    "geocoded_column": {
-      "latitude": "30.03370814054373",
-      "longitude": "-90.04691121641319"
     }
   }
 ]
