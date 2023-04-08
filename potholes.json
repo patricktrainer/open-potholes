@@ -1,5 +1,86 @@
 [
   {
+    "service_request": "2023-989446",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-07T14:29:51.000",
+    "date_modified": "2023-04-07T14:29:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6021 Constance St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "989446",
+    "final_x": "3664425.42266",
+    "final_y": "519051.525495",
+    "longitude": "-90.12240200424998",
+    "latitude": "29.921718733773655",
+    "geocoded_column": {
+      "latitude": "29.921718733773655",
+      "longitude": "-90.12240200424998"
+    }
+  },
+  {
+    "service_request": "2023-989429",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-07T13:32:03.000",
+    "date_modified": "2023-04-07T13:32:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5342 Cameron Blvd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "989429",
+    "final_x": "3682451.37378",
+    "final_y": "552791.134038",
+    "longitude": "-90.06432236359403",
+    "latitude": "30.013954903167026",
+    "geocoded_column": {
+      "latitude": "30.013954903167026",
+      "longitude": "-90.06432236359403"
+    }
+  },
+  {
+    "service_request": "2023-989361",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-07T10:26:03.000",
+    "date_modified": "2023-04-07T10:26:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "101 W Robert E Lee Blvd, New Orleans, Louisiana, 70124",
+    "status": "Pending",
+    "rowid": "989361",
+    "longitude": "0.0",
+    "latitude": "0.0",
+    "geocoded_column": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    }
+  },
+  {
+    "service_request": "2023-989332",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-07T08:46:04.000",
+    "date_modified": "2023-04-07T08:46:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4751 Arthur Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "989332",
+    "final_x": "3707752.48376",
+    "final_y": "555583.619033",
+    "longitude": "-89.98428057693734",
+    "latitude": "30.02083841929887",
+    "geocoded_column": {
+      "latitude": "30.02083841929887",
+      "longitude": "-89.98428057693734"
+    }
+  },
+  {
     "service_request": "2023-989284",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21371,92 +21452,6 @@
     "geocoded_column": {
       "latitude": "29.92210579201996",
       "longitude": "-90.1172319308618"
-    }
-  },
-  {
-    "service_request": "2022-949327",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-05T09:23:26.000",
-    "date_modified": "2023-02-23T08:07:14.000",
-    "case_close_date": "2023-02-23T02:07:14.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8500 Birch St, New Orleans, Louisiana, 70118",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "949327",
-    "final_x": "3661796.64474",
-    "final_y": "530371.532802",
-    "longitude": "-90.13032481992254",
-    "latitude": "29.95292130154243",
-    "geocoded_column": {
-      "latitude": "29.95292130154243",
-      "longitude": "-90.13032481992254"
-    }
-  },
-  {
-    "service_request": "2022-949301",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-05T08:47:52.000",
-    "date_modified": "2022-12-05T08:47:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2737 St Ann St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "949301",
-    "final_x": "3676664.87221",
-    "final_y": "537455.00084",
-    "longitude": "-90.08313345109491",
-    "latitude": "29.971960847762748",
-    "geocoded_column": {
-      "latitude": "29.971960847762748",
-      "longitude": "-90.08313345109491"
-    }
-  },
-  {
-    "service_request": "2022-949213",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-04T16:01:22.000",
-    "date_modified": "2022-12-05T09:50:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2300 BLK Winthrop St",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "949213",
-    "final_x": "3700454.44518",
-    "final_y": "538108.018388",
-    "longitude": "-90.00797878694765",
-    "latitude": "29.973021257536743",
-    "geocoded_column": {
-      "latitude": "29.973021257536743",
-      "longitude": "-90.00797878694765"
-    }
-  },
-  {
-    "service_request": "2022-949188",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-04T12:10:40.000",
-    "date_modified": "2023-01-19T12:12:37.000",
-    "case_close_date": "2023-01-19T06:12:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1022 Cherokee St, New Orleans, Louisiana, 70118",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "949188",
-    "final_x": "3663140.83661",
-    "final_y": "526562.263038",
-    "longitude": "-90.12620714860266",
-    "latitude": "29.942408159511483",
-    "geocoded_column": {
-      "latitude": "29.942408159511483",
-      "longitude": "-90.12620714860266"
     }
   }
 ]
