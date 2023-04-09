@@ -1,5 +1,67 @@
 [
   {
+    "service_request": "2023-989629",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-08T16:39:34.000",
+    "date_modified": "2023-04-08T16:39:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "722 N Galvez St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "989629",
+    "final_x": "3678519.72187",
+    "final_y": "535845.446407",
+    "longitude": "-90.0773312554221",
+    "latitude": "29.96747934626919",
+    "geocoded_column": {
+      "latitude": "29.96747934626919",
+      "longitude": "-90.0773312554221"
+    }
+  },
+  {
+    "service_request": "2023-989513",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-08T08:32:15.000",
+    "date_modified": "2023-04-08T08:32:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "101 Allen Toussaint Blvd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "989513",
+    "final_x": "3667078.52308",
+    "final_y": "555294.448409",
+    "longitude": "-90.11280867210165",
+    "latitude": "30.02129731128112",
+    "geocoded_column": {
+      "latitude": "30.02129731128112",
+      "longitude": "-90.11280867210165"
+    }
+  },
+  {
+    "service_request": "2023-989455",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-07T15:06:45.000",
+    "date_modified": "2023-04-08T08:50:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1990 Law St, New Orleans, Louisiana, 70119",
+    "address_councildis": "D",
+    "rowid": "989455",
+    "final_x": "3681339.61268",
+    "final_y": "541569.752278",
+    "longitude": "-90.06822640142143",
+    "latitude": "29.983133909686796",
+    "geocoded_column": {
+      "latitude": "29.983133909686796",
+      "longitude": "-90.06822640142143"
+    }
+  },
+  {
     "service_request": "2023-989446",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -46,17 +108,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-04-07T10:26:03.000",
-    "date_modified": "2023-04-07T10:26:03.000",
+    "date_modified": "2023-04-08T09:16:51.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "101 W Robert E Lee Blvd, New Orleans, Louisiana, 70124",
+    "address_councildis": "D",
     "status": "Pending",
     "rowid": "989361",
-    "longitude": "0.0",
-    "latitude": "0.0",
+    "final_x": "3666734.08109",
+    "final_y": "555016.436761",
+    "longitude": "-90.11390636608914",
+    "latitude": "30.02054296132822",
     "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
+      "latitude": "30.02054296132822",
+      "longitude": "-90.11390636608914"
     }
   },
   {
@@ -21387,71 +21452,6 @@
     "geocoded_column": {
       "latitude": "29.98985530986403",
       "longitude": "-90.10824881076562"
-    }
-  },
-  {
-    "service_request": "2022-949364",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-05T10:08:11.000",
-    "date_modified": "2023-02-08T15:22:32.000",
-    "case_close_date": "2023-02-08T09:22:32.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "801 Chartres St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "949364",
-    "final_x": "3683066.37173",
-    "final_y": "532602.783684",
-    "longitude": "-90.06308638696765",
-    "latitude": "29.958425317010388",
-    "geocoded_column": {
-      "latitude": "29.958425317010388",
-      "longitude": "-90.06308638696765"
-    }
-  },
-  {
-    "service_request": "2022-949362",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-05T10:06:33.000",
-    "date_modified": "2022-12-06T14:08:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3826 General Taylor St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "949362",
-    "final_x": "3670765.41985",
-    "final_y": "528816.324672",
-    "longitude": "-90.10205808440692",
-    "latitude": "29.94838302691389",
-    "geocoded_column": {
-      "latitude": "29.94838302691389",
-      "longitude": "-90.10205808440692"
-    }
-  },
-  {
-    "service_request": "2022-949357",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-05T09:58:00.000",
-    "date_modified": "2023-02-09T09:32:51.000",
-    "case_close_date": "2023-02-09T03:32:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5612 Camp St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "949357",
-    "final_x": "3666061.6146",
-    "final_y": "519209.618231",
-    "longitude": "-90.1172319308618",
-    "latitude": "29.92210579201996",
-    "geocoded_column": {
-      "latitude": "29.92210579201996",
-      "longitude": "-90.1172319308618"
     }
   }
 ]
