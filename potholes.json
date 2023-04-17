@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2023-991428",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-16T10:28:24.000",
+    "date_modified": "2023-04-16T10:28:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7900 BLK Trapier Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "991428",
+    "final_x": "3706022.0597",
+    "final_y": "564573.851283",
+    "longitude": "-89.98941499723756",
+    "latitude": "30.045613933127093",
+    "geocoded_column": {
+      "latitude": "30.045613933127093",
+      "longitude": "-89.98941499723756"
+    }
+  },
+  {
     "service_request": "2023-991390",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21426,28 +21447,6 @@
     "geocoded_column": {
       "latitude": "29.928238360606404",
       "longitude": "-90.08494368334651"
-    }
-  },
-  {
-    "service_request": "2022-953085",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-14T08:59:46.000",
-    "date_modified": "2022-12-14T09:01:58.000",
-    "case_close_date": "2022-12-14T03:01:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3430 Annunciation St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "953085",
-    "final_x": "3675225.52974",
-    "final_y": "518476.207606",
-    "longitude": "-90.08833038432275",
-    "latitude": "29.91981853873692",
-    "geocoded_column": {
-      "latitude": "29.91981853873692",
-      "longitude": "-90.08833038432275"
     }
   }
 ]
