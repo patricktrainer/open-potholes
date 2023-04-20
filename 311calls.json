@@ -296,27 +296,6 @@
     }
   },
   {
-    "service_request": "2023-992678",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Recycling Cart",
-    "date_created": "2023-04-19T19:40:11.000",
-    "date_modified": "2023-04-19T19:40:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4168 Orleans Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "992678",
-    "final_x": "3672175.96084",
-    "final_y": "540385.834251",
-    "longitude": "-90.09721033206395",
-    "latitude": "29.980153552476356",
-    "geocoded_column": {
-      "latitude": "29.980153552476356",
-      "longitude": "-90.09721033206395"
-    }
-  },
-  {
     "service_request": "2023-992679",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Recycling Cart",
@@ -328,6 +307,27 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "992679",
+    "final_x": "3672175.96084",
+    "final_y": "540385.834251",
+    "longitude": "-90.09721033206395",
+    "latitude": "29.980153552476356",
+    "geocoded_column": {
+      "latitude": "29.980153552476356",
+      "longitude": "-90.09721033206395"
+    }
+  },
+  {
+    "service_request": "2023-992678",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Recycling Cart",
+    "date_created": "2023-04-19T19:40:11.000",
+    "date_modified": "2023-04-19T19:40:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4168 Orleans Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "992678",
     "final_x": "3672175.96084",
     "final_y": "540385.834251",
     "longitude": "-90.09721033206395",
@@ -7299,6 +7299,27 @@
     }
   },
   {
+    "service_request": "2023-992302",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-19T07:59:30.000",
+    "date_modified": "2023-04-19T12:22:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 Myrtle St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "992302",
+    "final_x": "3686499.2077",
+    "final_y": "545953.07848",
+    "longitude": "-90.05177493524461",
+    "latitude": "29.99502884704932",
+    "geocoded_column": {
+      "latitude": "29.99502884704932",
+      "longitude": "-90.05177493524461"
+    }
+  },
+  {
     "service_request": "2023-992303",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -7311,27 +7332,6 @@
     "address_councildis": "D",
     "status": "Duplicate Request",
     "rowid": "992303",
-    "final_x": "3686499.2077",
-    "final_y": "545953.07848",
-    "longitude": "-90.05177493524461",
-    "latitude": "29.99502884704932",
-    "geocoded_column": {
-      "latitude": "29.99502884704932",
-      "longitude": "-90.05177493524461"
-    }
-  },
-  {
-    "service_request": "2023-992302",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-04-19T07:59:30.000",
-    "date_modified": "2023-04-19T12:22:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 Myrtle St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "992302",
     "final_x": "3686499.2077",
     "final_y": "545953.07848",
     "longitude": "-90.05177493524461",
@@ -11419,27 +11419,6 @@
     }
   },
   {
-    "service_request": "2023-992102",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-04-18T13:27:59.000",
-    "date_modified": "2023-04-19T10:32:16.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1450 Josephine St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "992102",
-    "final_x": "3678247.27253",
-    "final_y": "523444.999739",
-    "longitude": "-90.07862047326248",
-    "latitude": "29.933390474531205",
-    "geocoded_column": {
-      "latitude": "29.933390474531205",
-      "longitude": "-90.07862047326248"
-    }
-  },
-  {
     "service_request": "2023-992103",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -11451,6 +11430,27 @@
     "address_councildis": "B",
     "status": "Inspected",
     "rowid": "992103",
+    "final_x": "3678247.27253",
+    "final_y": "523444.999739",
+    "longitude": "-90.07862047326248",
+    "latitude": "29.933390474531205",
+    "geocoded_column": {
+      "latitude": "29.933390474531205",
+      "longitude": "-90.07862047326248"
+    }
+  },
+  {
+    "service_request": "2023-992102",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-04-18T13:27:59.000",
+    "date_modified": "2023-04-19T10:32:16.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1450 Josephine St",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "992102",
     "final_x": "3678247.27253",
     "final_y": "523444.999739",
     "longitude": "-90.07862047326248",
@@ -11504,27 +11504,6 @@
     }
   },
   {
-    "service_request": "2023-992099",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-04-18T13:23:20.000",
-    "date_modified": "2023-04-19T10:12:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1450 Josephine St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "992099",
-    "final_x": "3678247.27253",
-    "final_y": "523444.999739",
-    "longitude": "-90.07862047326248",
-    "latitude": "29.933390474531205",
-    "geocoded_column": {
-      "latitude": "29.933390474531205",
-      "longitude": "-90.07862047326248"
-    }
-  },
-  {
     "service_request": "2023-992098",
     "request_type": "Roads/Drainage",
     "request_reason": "Road Shoulder Repair",
@@ -11543,6 +11522,27 @@
     "geocoded_column": {
       "latitude": "29.946116953679937",
       "longitude": "-90.1291390386886"
+    }
+  },
+  {
+    "service_request": "2023-992099",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-04-18T13:23:20.000",
+    "date_modified": "2023-04-19T10:12:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1450 Josephine St",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "992099",
+    "final_x": "3678247.27253",
+    "final_y": "523444.999739",
+    "longitude": "-90.07862047326248",
+    "latitude": "29.933390474531205",
+    "geocoded_column": {
+      "latitude": "29.933390474531205",
+      "longitude": "-90.07862047326248"
     }
   },
   {
