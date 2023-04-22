@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2023-993290",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-21T18:42:11.000",
+    "date_modified": "2023-04-21T18:42:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1025 Ursulines Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "993290",
+    "final_x": "3682437.06792",
+    "final_y": "534441.302725",
+    "longitude": "-90.06500929687574",
+    "latitude": "29.963499783057653",
+    "geocoded_column": {
+      "latitude": "29.963499783057653",
+      "longitude": "-90.06500929687574"
+    }
+  },
+  {
+    "service_request": "2023-993278",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-21T16:43:12.000",
+    "date_modified": "2023-04-21T16:43:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1218 Alvar St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "993278",
+    "final_x": "3691586.36873",
+    "final_y": "535912.106503",
+    "longitude": "-90.03606430754071",
+    "latitude": "29.967262338602136",
+    "geocoded_column": {
+      "latitude": "29.967262338602136",
+      "longitude": "-90.03606430754071"
+    }
+  },
+  {
+    "service_request": "2023-993200",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-21T12:58:25.000",
+    "date_modified": "2023-04-21T16:52:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4432 Frenchmen St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "993200",
+    "final_x": "3683515.02089",
+    "final_y": "549052.927635",
+    "longitude": "-90.06109292179407",
+    "latitude": "30.003643757123722",
+    "geocoded_column": {
+      "latitude": "30.003643757123722",
+      "longitude": "-90.06109292179407"
+    }
+  },
+  {
     "service_request": "2023-993034",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -130,12 +193,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-04-20T11:22:36.000",
-    "date_modified": "2023-04-20T11:22:36.000",
+    "date_modified": "2023-04-21T08:51:54.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4215 St Bernard Ave",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "992846",
     "final_x": "3677155.07074",
     "final_y": "547781.775378",
@@ -194,12 +257,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-04-20T09:40:07.000",
-    "date_modified": "2023-04-20T10:41:40.000",
+    "date_modified": "2023-04-21T09:25:27.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4712 Charlene Dr",
     "address_councildis": "E",
-    "status": "Inspected",
+    "status": "Reviewed",
     "rowid": "992781",
     "final_x": "3707865.74961",
     "final_y": "555319.713689",
@@ -21378,70 +21441,6 @@
     "geocoded_column": {
       "latitude": "29.998200092414272",
       "longitude": "-90.10362180496458"
-    }
-  },
-  {
-    "service_request": "2022-955393",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-21T19:38:43.000",
-    "date_modified": "2022-12-21T19:38:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "931 Polk St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "955393",
-    "final_x": "3670090.87847",
-    "final_y": "547213.995025",
-    "longitude": "-90.10356445772517",
-    "latitude": "29.998990336072286",
-    "geocoded_column": {
-      "latitude": "29.998990336072286",
-      "longitude": "-90.10356445772517"
-    }
-  },
-  {
-    "service_request": "2022-955287",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-21T14:20:22.000",
-    "date_modified": "2022-12-21T14:59:17.000",
-    "case_close_date": "2022-12-21T08:59:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MORRISON RD & PARIS RD",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "955287",
-    "final_x": "3721463.0",
-    "final_y": "572973.78",
-    "longitude": "-89.94029190571797",
-    "latitude": "30.068203230469766",
-    "geocoded_column": {
-      "latitude": "30.068203230469766",
-      "longitude": "-89.94029190571797"
-    }
-  },
-  {
-    "service_request": "2022-955265",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2022-12-21T13:11:50.000",
-    "date_modified": "2022-12-21T13:11:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5237 Macarthur Blvd",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "955265",
-    "final_x": "3703432.70276",
-    "final_y": "519713.516472",
-    "longitude": "-89.99924931138304",
-    "latitude": "29.922347850622305",
-    "geocoded_column": {
-      "latitude": "29.922347850622305",
-      "longitude": "-89.99924931138304"
     }
   }
 ]
