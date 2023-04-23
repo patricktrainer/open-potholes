@@ -1417,27 +1417,6 @@
     }
   },
   {
-    "service_request": "2023-993372",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2023-04-22T12:30:53.000",
-    "date_modified": "2023-04-22T12:30:53.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "4671 Perelli Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "993372",
-    "final_x": "3711825.44555",
-    "final_y": "555733.081497",
-    "longitude": "-89.9714057230101",
-    "latitude": "30.0211169008583",
-    "geocoded_column": {
-      "latitude": "30.0211169008583",
-      "longitude": "-89.9714057230101"
-    }
-  },
-  {
     "service_request": "2023-993371",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -1449,6 +1428,27 @@
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "993371",
+    "final_x": "3711825.44555",
+    "final_y": "555733.081497",
+    "longitude": "-89.9714057230101",
+    "latitude": "30.0211169008583",
+    "geocoded_column": {
+      "latitude": "30.0211169008583",
+      "longitude": "-89.9714057230101"
+    }
+  },
+  {
+    "service_request": "2023-993372",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2023-04-22T12:30:53.000",
+    "date_modified": "2023-04-22T12:30:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "4671 Perelli Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "993372",
     "final_x": "3711825.44555",
     "final_y": "555733.081497",
     "longitude": "-89.9714057230101",
@@ -15425,27 +15425,6 @@
     }
   },
   {
-    "service_request": "2023-992679",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Recycling Cart",
-    "date_created": "2023-04-19T19:40:11.000",
-    "date_modified": "2023-04-19T19:40:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4168 Orleans Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "992679",
-    "final_x": "3672175.96084",
-    "final_y": "540385.834251",
-    "longitude": "-90.09721033206395",
-    "latitude": "29.980153552476356",
-    "geocoded_column": {
-      "latitude": "29.980153552476356",
-      "longitude": "-90.09721033206395"
-    }
-  },
-  {
     "service_request": "2023-992678",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Recycling Cart",
@@ -15457,6 +15436,27 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "992678",
+    "final_x": "3672175.96084",
+    "final_y": "540385.834251",
+    "longitude": "-90.09721033206395",
+    "latitude": "29.980153552476356",
+    "geocoded_column": {
+      "latitude": "29.980153552476356",
+      "longitude": "-90.09721033206395"
+    }
+  },
+  {
+    "service_request": "2023-992679",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Recycling Cart",
+    "date_created": "2023-04-19T19:40:11.000",
+    "date_modified": "2023-04-19T19:40:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4168 Orleans Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "992679",
     "final_x": "3672175.96084",
     "final_y": "540385.834251",
     "longitude": "-90.09721033206395",
