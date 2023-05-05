@@ -15223,6 +15223,28 @@
     }
   },
   {
+    "service_request": "2023-996163",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-05-02T15:45:14.000",
+    "date_modified": "2023-05-02T15:45:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2113 Harmony St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "996163",
+    "final_x": "3674012.20961",
+    "final_y": "523561.381563",
+    "longitude": "-90.0919863559777",
+    "latitude": "29.933837322273995",
+    "geocoded_column": {
+      "latitude": "29.933837322273995",
+      "longitude": "-90.0919863559777"
+    }
+  },
+  {
     "service_request": "2023-996164",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -15244,28 +15266,6 @@
     "geocoded_column": {
       "latitude": "29.960217647694172",
       "longitude": "-90.01795278847887"
-    }
-  },
-  {
-    "service_request": "2023-996163",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-05-02T15:45:14.000",
-    "date_modified": "2023-05-02T15:45:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2113 Harmony St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "996163",
-    "final_x": "3674012.20961",
-    "final_y": "523561.381563",
-    "longitude": "-90.0919863559777",
-    "latitude": "29.933837322273995",
-    "geocoded_column": {
-      "latitude": "29.933837322273995",
-      "longitude": "-90.0919863559777"
     }
   },
   {
