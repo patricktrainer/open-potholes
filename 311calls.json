@@ -6242,6 +6242,27 @@
     }
   },
   {
+    "service_request": "2023-996867",
+    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
+    "request_reason": "Additional signage",
+    "date_created": "2023-05-04T16:22:03.000",
+    "date_modified": "2023-05-04T16:22:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "FRERET ST & UPPERLINE ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "996867",
+    "final_x": "3669167.8",
+    "final_y": "523908.18",
+    "longitude": "-90.10726826899554",
+    "latitude": "29.934934325859306",
+    "geocoded_column": {
+      "latitude": "29.934934325859306",
+      "longitude": "-90.10726826899554"
+    }
+  },
+  {
     "service_request": "2023-996868",
     "request_type": "Roads/Drainage",
     "request_reason": "Road Shoulder Repair",
@@ -6261,27 +6282,6 @@
     "geocoded_column": {
       "latitude": "30.026749097302783",
       "longitude": "-90.07452075293"
-    }
-  },
-  {
-    "service_request": "2023-996867",
-    "request_type": "Traffic Signals/Signs/Striping/Streetlights",
-    "request_reason": "Additional signage",
-    "date_created": "2023-05-04T16:22:03.000",
-    "date_modified": "2023-05-04T16:22:03.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FRERET ST & UPPERLINE ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "996867",
-    "final_x": "3669167.8",
-    "final_y": "523908.18",
-    "longitude": "-90.10726826899554",
-    "latitude": "29.934934325859306",
-    "geocoded_column": {
-      "latitude": "29.934934325859306",
-      "longitude": "-90.10726826899554"
     }
   },
   {
@@ -20562,28 +20562,6 @@
     }
   },
   {
-    "service_request": "2023-996163",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-05-02T15:45:14.000",
-    "date_modified": "2023-05-02T15:45:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2113 Harmony St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "996163",
-    "final_x": "3674012.20961",
-    "final_y": "523561.381563",
-    "longitude": "-90.0919863559777",
-    "latitude": "29.933837322273995",
-    "geocoded_column": {
-      "latitude": "29.933837322273995",
-      "longitude": "-90.0919863559777"
-    }
-  },
-  {
     "service_request": "2023-996164",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20605,6 +20583,28 @@
     "geocoded_column": {
       "latitude": "29.960217647694172",
       "longitude": "-90.01795278847887"
+    }
+  },
+  {
+    "service_request": "2023-996163",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-05-02T15:45:14.000",
+    "date_modified": "2023-05-02T15:45:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2113 Harmony St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "996163",
+    "final_x": "3674012.20961",
+    "final_y": "523561.381563",
+    "longitude": "-90.0919863559777",
+    "latitude": "29.933837322273995",
+    "geocoded_column": {
+      "latitude": "29.933837322273995",
+      "longitude": "-90.0919863559777"
     }
   },
   {
