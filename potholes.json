@@ -1,5 +1,88 @@
 [
   {
+    "service_request": "2023-997425",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-07T19:08:21.000",
+    "date_modified": "2023-05-07T19:08:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7131 Boston Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "997425",
+    "final_x": "3706230.58884",
+    "final_y": "561155.243998",
+    "longitude": "-89.98888271982645",
+    "latitude": "30.036207391162073",
+    "geocoded_column": {
+      "latitude": "30.036207391162073",
+      "longitude": "-89.98888271982645"
+    }
+  },
+  {
+    "service_request": "2023-997370",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-07T12:17:54.000",
+    "date_modified": "2023-05-07T12:17:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1920 S Lopez St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "997370",
+    "final_x": "3669590.86881",
+    "final_y": "529860.909633",
+    "longitude": "-90.1057313046256",
+    "latitude": "29.95128994587979",
+    "geocoded_column": {
+      "latitude": "29.95128994587979",
+      "longitude": "-90.1057313046256"
+    }
+  },
+  {
+    "service_request": "2023-997354",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-07T10:40:23.000",
+    "date_modified": "2023-05-07T10:40:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "10150 S Interstate 10 Service Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "997354",
+    "final_x": "3711578.54949",
+    "final_y": "562129.474527",
+    "longitude": "-89.97194571063051",
+    "latitude": "30.038712514746106",
+    "geocoded_column": {
+      "latitude": "30.038712514746106",
+      "longitude": "-89.97194571063051"
+    }
+  },
+  {
+    "service_request": "2023-997245",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-06T11:57:35.000",
+    "date_modified": "2023-05-07T19:05:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "B",
+    "rowid": "997245",
+    "final_x": "3681569.24247",
+    "final_y": "528493.193457",
+    "longitude": "-90.067957225121",
+    "latitude": "29.947170883965494",
+    "geocoded_column": {
+      "latitude": "29.947170883965494",
+      "longitude": "-90.067957225121"
+    }
+  },
+  {
     "service_request": "2023-997168",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21428,92 +21511,6 @@
     "geocoded_column": {
       "latitude": "29.920511293192494",
       "longitude": "-89.98966380750461"
-    }
-  },
-  {
-    "service_request": "2023-960853",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-05T12:15:37.000",
-    "date_modified": "2023-01-05T12:15:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8020 Spruce St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "960853",
-    "final_x": "3664045.05312",
-    "final_y": "530219.073729",
-    "longitude": "-90.12323039107248",
-    "latitude": "29.952436988646106",
-    "geocoded_column": {
-      "latitude": "29.952436988646106",
-      "longitude": "-90.12323039107248"
-    }
-  },
-  {
-    "service_request": "2023-960747",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-05T11:06:01.000",
-    "date_modified": "2023-01-05T11:06:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "965 Navarre St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "960747",
-    "final_x": "3670335.99034",
-    "final_y": "543731.92763",
-    "longitude": "-90.10290826236762",
-    "latitude": "29.98940861754111",
-    "geocoded_column": {
-      "latitude": "29.98940861754111",
-      "longitude": "-90.10290826236762"
-    }
-  },
-  {
-    "service_request": "2023-960706",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-05T10:39:05.000",
-    "date_modified": "2023-01-06T07:22:38.000",
-    "case_close_date": "2023-01-06T01:22:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6534 Pontchartrain Blvd",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "960706",
-    "final_x": "3666215.71969",
-    "final_y": "551624.632917",
-    "longitude": "-90.11565812834723",
-    "latitude": "30.011231850205",
-    "geocoded_column": {
-      "latitude": "30.011231850205",
-      "longitude": "-90.11565812834723"
-    }
-  },
-  {
-    "service_request": "2023-960645",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-05T09:48:03.000",
-    "date_modified": "2023-04-24T16:06:11.000",
-    "case_close_date": "2023-04-24T11:06:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5662 Marcia Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "960645",
-    "final_x": "3664785.40884",
-    "final_y": "545339.889487",
-    "longitude": "-90.12038726765209",
-    "latitude": "29.99399268661466",
-    "geocoded_column": {
-      "latitude": "29.99399268661466",
-      "longitude": "-90.12038726765209"
     }
   }
 ]
