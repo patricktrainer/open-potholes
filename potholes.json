@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2023-999166",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-12T11:29:37.000",
+    "date_modified": "2023-05-12T11:29:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1715 Third St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "999166",
+    "final_x": "3676183.59637",
+    "final_y": "523324.708795",
+    "longitude": "-90.08513951903458",
+    "latitude": "29.933121688273758",
+    "geocoded_column": {
+      "latitude": "29.933121688273758",
+      "longitude": "-90.08513951903458"
+    }
+  },
+  {
+    "service_request": "2023-999134",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-12T10:22:14.000",
+    "date_modified": "2023-05-12T10:22:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK Audubon Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "999134",
+    "final_x": "3664238.39852",
+    "final_y": "525138.055155",
+    "longitude": "-90.12278938700146",
+    "latitude": "29.938460203400084",
+    "geocoded_column": {
+      "latitude": "29.938460203400084",
+      "longitude": "-90.12278938700146"
+    }
+  },
+  {
+    "service_request": "2023-999114",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-12T09:43:46.000",
+    "date_modified": "2023-05-12T09:43:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5512 S Tonti St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "999114",
+    "final_x": "3668281.54401",
+    "final_y": "527978.020095",
+    "longitude": "-90.1099289969943",
+    "latitude": "29.946151118844153",
+    "geocoded_column": {
+      "latitude": "29.946151118844153",
+      "longitude": "-90.1099289969943"
+    }
+  },
+  {
+    "service_request": "2023-999082",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-12T08:01:13.000",
+    "date_modified": "2023-05-12T08:01:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N RENDON ST & ORLEANS AVE",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "999082",
+    "final_x": "3675039.4",
+    "final_y": "538359.38",
+    "longitude": "-90.08823592451465",
+    "latitude": "29.97449624783542",
+    "geocoded_column": {
+      "latitude": "29.97449624783542",
+      "longitude": "-90.08823592451465"
+    }
+  },
+  {
     "service_request": "2023-998909",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21414,92 +21498,6 @@
     "geocoded_column": {
       "latitude": "29.924686451577013",
       "longitude": "-90.08570746403252"
-    }
-  },
-  {
-    "service_request": "2023-965243",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-11T10:52:03.000",
-    "date_modified": "2023-01-11T13:39:04.000",
-    "case_close_date": "2023-01-11T07:39:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1534 N Derbigny St, New Orleans, Louisiana, 70116",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "965243",
-    "final_x": "3681624.51023",
-    "final_y": "537603.521928",
-    "longitude": "-90.0674649454929",
-    "latitude": "29.97221950391262",
-    "geocoded_column": {
-      "latitude": "29.97221950391262",
-      "longitude": "-90.0674649454929"
-    }
-  },
-  {
-    "service_request": "2023-965153",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-11T09:30:17.000",
-    "date_modified": "2023-02-14T11:07:03.000",
-    "case_close_date": "2023-02-14T05:07:03.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7044 Milne Blvd",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "965153",
-    "final_x": "3667604.44602",
-    "final_y": "554404.193048",
-    "longitude": "-90.1111768985099",
-    "latitude": "30.018834010296764",
-    "geocoded_column": {
-      "latitude": "30.018834010296764",
-      "longitude": "-90.1111768985099"
-    }
-  },
-  {
-    "service_request": "2023-965127",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-11T09:04:40.000",
-    "date_modified": "2023-01-23T12:15:35.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5220 Atlanta St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "965127",
-    "final_x": "3667917.40577",
-    "final_y": "520685.623161",
-    "longitude": "-90.1113242624008",
-    "latitude": "29.926110051036336",
-    "geocoded_column": {
-      "latitude": "29.926110051036336",
-      "longitude": "-90.1113242624008"
-    }
-  },
-  {
-    "service_request": "2023-964954",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-10T19:51:31.000",
-    "date_modified": "2023-01-20T08:13:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4018 Laurel St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "964954",
-    "final_x": "3672444.07668",
-    "final_y": "518094.514998",
-    "longitude": "-90.09712308893906",
-    "latitude": "29.91885181229599",
-    "geocoded_column": {
-      "latitude": "29.91885181229599",
-      "longitude": "-90.09712308893906"
     }
   }
 ]
