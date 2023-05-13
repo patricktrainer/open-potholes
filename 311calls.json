@@ -16022,6 +16022,28 @@
     }
   },
   {
+    "service_request": "2023-998543",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-05-10T12:57:01.000",
+    "date_modified": "2023-05-10T12:57:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6320 Laurel St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "998543",
+    "final_x": "3662841.00333",
+    "final_y": "518802.169463",
+    "longitude": "-90.12741164526388",
+    "latitude": "29.92107902852174",
+    "geocoded_column": {
+      "latitude": "29.92107902852174",
+      "longitude": "-90.12741164526388"
+    }
+  },
+  {
     "service_request": "2023-998542",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -16043,28 +16065,6 @@
     "geocoded_column": {
       "latitude": "30.047807733771375",
       "longitude": "-89.9865619966026"
-    }
-  },
-  {
-    "service_request": "2023-998543",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-05-10T12:57:01.000",
-    "date_modified": "2023-05-10T12:57:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6320 Laurel St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "998543",
-    "final_x": "3662841.00333",
-    "final_y": "518802.169463",
-    "longitude": "-90.12741164526388",
-    "latitude": "29.92107902852174",
-    "geocoded_column": {
-      "latitude": "29.92107902852174",
-      "longitude": "-90.12741164526388"
     }
   },
   {
