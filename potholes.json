@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2023-999543",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-14T17:36:43.000",
+    "date_modified": "2023-05-14T17:36:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7701 Downman Rd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "999543",
+    "final_x": "3694667.44304",
+    "final_y": "558710.169948",
+    "longitude": "-90.02551254293856",
+    "latitude": "30.02985235580821",
+    "geocoded_column": {
+      "latitude": "30.02985235580821",
+      "longitude": "-90.02551254293856"
+    }
+  },
+  {
     "service_request": "2023-999437",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -3955,6 +3976,27 @@
     }
   },
   {
+    "service_request": "2023-992302",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-19T07:59:30.000",
+    "date_modified": "2023-04-19T12:22:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 Myrtle St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "992302",
+    "final_x": "3686499.2077",
+    "final_y": "545953.07848",
+    "longitude": "-90.05177493524461",
+    "latitude": "29.99502884704932",
+    "geocoded_column": {
+      "latitude": "29.99502884704932",
+      "longitude": "-90.05177493524461"
+    }
+  },
+  {
     "service_request": "2023-992303",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -3967,27 +4009,6 @@
     "address_councildis": "D",
     "status": "Duplicate Request",
     "rowid": "992303",
-    "final_x": "3686499.2077",
-    "final_y": "545953.07848",
-    "longitude": "-90.05177493524461",
-    "latitude": "29.99502884704932",
-    "geocoded_column": {
-      "latitude": "29.99502884704932",
-      "longitude": "-90.05177493524461"
-    }
-  },
-  {
-    "service_request": "2023-992302",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-04-19T07:59:30.000",
-    "date_modified": "2023-04-19T12:22:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 Myrtle St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "992302",
     "final_x": "3686499.2077",
     "final_y": "545953.07848",
     "longitude": "-90.05177493524461",
@@ -21473,27 +21494,6 @@
     "geocoded_column": {
       "latitude": "29.937984426106887",
       "longitude": "-90.06966004299065"
-    }
-  },
-  {
-    "service_request": "2023-965421",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-11T13:38:05.000",
-    "date_modified": "2023-01-11T13:38:05.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2222 St Claude Ave",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "965421",
-    "final_x": "3685254.38537",
-    "final_y": "536237.784071",
-    "longitude": "-90.0560492870277",
-    "latitude": "29.968353436628156",
-    "geocoded_column": {
-      "latitude": "29.968353436628156",
-      "longitude": "-90.0560492870277"
     }
   }
 ]
