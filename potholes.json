@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2023-1003542",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-28T11:08:32.000",
+    "date_modified": "2023-05-28T11:08:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7707 Jeannette St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1003542",
+    "final_x": "3663696.75245",
+    "final_y": "528274.35936",
+    "longitude": "-90.12439495721364",
+    "latitude": "29.947099760619817",
+    "geocoded_column": {
+      "latitude": "29.947099760619817",
+      "longitude": "-90.12439495721364"
+    }
+  },
+  {
+    "service_request": "2023-1003520",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-28T08:58:48.000",
+    "date_modified": "2023-05-28T08:58:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8000 BLK Spruce St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1003520",
+    "final_x": "3664065.10195",
+    "final_y": "530258.308366",
+    "longitude": "-90.12316577734154",
+    "latitude": "29.9525442889902",
+    "geocoded_column": {
+      "latitude": "29.9525442889902",
+      "longitude": "-90.12316577734154"
+    }
+  },
+  {
     "service_request": "2023-1003427",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -6437,27 +6479,6 @@
     }
   },
   {
-    "service_request": "2023-992302",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-04-19T07:59:30.000",
-    "date_modified": "2023-04-19T12:22:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 Myrtle St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "992302",
-    "final_x": "3686499.2077",
-    "final_y": "545953.07848",
-    "longitude": "-90.05177493524461",
-    "latitude": "29.99502884704932",
-    "geocoded_column": {
-      "latitude": "29.99502884704932",
-      "longitude": "-90.05177493524461"
-    }
-  },
-  {
     "service_request": "2023-992303",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -6470,6 +6491,27 @@
     "address_councildis": "D",
     "status": "Duplicate Request",
     "rowid": "992303",
+    "final_x": "3686499.2077",
+    "final_y": "545953.07848",
+    "longitude": "-90.05177493524461",
+    "latitude": "29.99502884704932",
+    "geocoded_column": {
+      "latitude": "29.99502884704932",
+      "longitude": "-90.05177493524461"
+    }
+  },
+  {
+    "service_request": "2023-992302",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-19T07:59:30.000",
+    "date_modified": "2023-04-19T12:22:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 Myrtle St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "992302",
     "final_x": "3686499.2077",
     "final_y": "545953.07848",
     "longitude": "-90.05177493524461",
@@ -21468,50 +21510,6 @@
     "geocoded_column": {
       "latitude": "30.054219039254882",
       "longitude": "-89.96745007793196"
-    }
-  },
-  {
-    "service_request": "2023-969623",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-23T13:32:47.000",
-    "date_modified": "2023-01-24T11:31:41.000",
-    "case_close_date": "2023-01-22T18:00:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5800 BLK Franklin Ave",
-    "address_councildis": "D",
-    "status": "Captured by Project",
-    "rowid": "969623",
-    "final_x": "3686494.37763",
-    "final_y": "554641.08145",
-    "longitude": "-90.05148317233643",
-    "latitude": "30.01891783998133",
-    "geocoded_column": {
-      "latitude": "30.01891783998133",
-      "longitude": "-90.05148317233643"
-    }
-  },
-  {
-    "service_request": "2023-969601",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-23T12:56:23.000",
-    "date_modified": "2023-01-23T14:40:54.000",
-    "case_close_date": "2023-01-23T08:40:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CROWDER BLVD & DWYER RD",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "969601",
-    "final_x": "3706337.9",
-    "final_y": "556796.57",
-    "longitude": "-89.98870523707355",
-    "latitude": "30.024219281691163",
-    "geocoded_column": {
-      "latitude": "30.024219281691163",
-      "longitude": "-89.98870523707355"
     }
   }
 ]
