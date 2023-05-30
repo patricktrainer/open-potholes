@@ -67,17 +67,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-05-27T09:54:58.000",
-    "date_modified": "2023-05-27T09:54:58.000",
+    "date_modified": "2023-05-29T09:04:39.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "Philip and Collisium",
+    "address_councildis": "B",
     "status": "Pending",
     "rowid": "1003408",
-    "longitude": "0.0",
-    "latitude": "0.0",
+    "final_x": "3677912.8",
+    "final_y": "522666.68",
+    "longitude": "-90.07970326610065",
+    "latitude": "29.931260416607618",
     "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
+      "latitude": "29.931260416607618",
+      "longitude": "-90.07970326610065"
     }
   },
   {
@@ -99,6 +102,26 @@
     "geocoded_column": {
       "latitude": "29.980970745802132",
       "longitude": "-90.03749766192837"
+    }
+  },
+  {
+    "service_request": "2023-1003364",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-05-26T18:58:49.000",
+    "date_modified": "2023-05-29T10:13:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "New Orleans,LA",
+    "address_councildis": "B",
+    "rowid": "1003364",
+    "final_x": "3674637.80622",
+    "final_y": "535532.54887",
+    "longitude": "-90.08960116172035",
+    "latitude": "29.9667354141973",
+    "geocoded_column": {
+      "latitude": "29.9667354141973",
+      "longitude": "-90.08960116172035"
     }
   },
   {
@@ -6479,27 +6502,6 @@
     }
   },
   {
-    "service_request": "2023-992302",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-04-19T07:59:30.000",
-    "date_modified": "2023-04-19T12:22:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 Myrtle St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "992302",
-    "final_x": "3686499.2077",
-    "final_y": "545953.07848",
-    "longitude": "-90.05177493524461",
-    "latitude": "29.99502884704932",
-    "geocoded_column": {
-      "latitude": "29.99502884704932",
-      "longitude": "-90.05177493524461"
-    }
-  },
-  {
     "service_request": "2023-992303",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -6512,6 +6514,27 @@
     "address_councildis": "D",
     "status": "Duplicate Request",
     "rowid": "992303",
+    "final_x": "3686499.2077",
+    "final_y": "545953.07848",
+    "longitude": "-90.05177493524461",
+    "latitude": "29.99502884704932",
+    "geocoded_column": {
+      "latitude": "29.99502884704932",
+      "longitude": "-90.05177493524461"
+    }
+  },
+  {
+    "service_request": "2023-992302",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-04-19T07:59:30.000",
+    "date_modified": "2023-04-19T12:22:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 Myrtle St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "992302",
     "final_x": "3686499.2077",
     "final_y": "545953.07848",
     "longitude": "-90.05177493524461",
@@ -8954,7 +8977,7 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-04-04T21:17:20.000",
-    "date_modified": "2023-04-04T21:17:20.000",
+    "date_modified": "2023-05-29T19:01:01.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "954 Felicity St",
@@ -21489,27 +21512,6 @@
     "geocoded_column": {
       "latitude": "29.92383217335646",
       "longitude": "-90.11831964241381"
-    }
-  },
-  {
-    "service_request": "2023-969629",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-01-23T13:39:32.000",
-    "date_modified": "2023-01-24T10:19:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11901 Curran Rd",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "969629",
-    "final_x": "3712933.69099",
-    "final_y": "567785.166948",
-    "longitude": "-89.96745007793196",
-    "latitude": "30.054219039254882",
-    "geocoded_column": {
-      "latitude": "30.054219039254882",
-      "longitude": "-89.96745007793196"
     }
   }
 ]
