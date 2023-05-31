@@ -18,26 +18,26 @@ class JSONHandler:
         for item in json_data:
             feature = self.geojson_feature(item)
             geojson["features"].append(feature)
-        return geojson
+        return json.dumps(geojson)
 
     def geojson_feature(self, item):
         feature = {
             "type": "Feature",
             "properties": {
-                "service_request": item["service_request"],
-                "request_type": item["request_type"],
-                "request_reason": item["request_reason"],
-                "date_created": item["date_created"],
-                "date_modified": item["date_modified"],
-                "request_status": item["request_status"],
-                "final_address": item["final_address"],
+                "service_request": item.get("service_request", ""),
+                "request_type": item.get("request_type", ""),
+                "request_reason": item.get("request_reason", ""),
+                "date_created": item.get("date_created", ""),
+                "date_modified": item.get("date_modified", ""),
+                "request_status": item.get("request_status", ""),
+                "final_address": item.get("final_address", ""),
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     # these are strings, but we need floats
-                    float(item["latitude"]),
-                    float(item["longitude"]),
+                    float(item.get("latitude", "")),
+                    float(item.get("longitude", "")),
                 ],
             },
         }
