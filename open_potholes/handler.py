@@ -1,4 +1,5 @@
 import json
+from git.repo import Repo
 
 
 class JSONHandler:
@@ -45,7 +46,16 @@ class JSONHandler:
 
 
 class GitHandler:
-    pass
+    def parse_revisions(self, git_dir, filepath, rev="main"):
+        """
+        Iterate through the versions of a file in a git repo
+        """
+        repo = Repo(git_dir)
+        commits = reversed(list(repo.iter_commits(rev, paths=filepath)))
+
+        for commit in commits:
+            blob = [b for b in commit.tree.blobs if b.name == filepath][0]
+            yield commit.committed_datetime, commit.hexsha, blob.data_stream.read()
 
 
 class MapHandler:
