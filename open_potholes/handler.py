@@ -36,8 +36,8 @@ class JSONHandler:
                 "type": "Point",
                 "coordinates": [
                     # these are strings, but we need floats
-                    float(item.get("latitude", "")),
                     float(item.get("longitude", "")),
+                    float(item.get("latitude", "")),
                 ],
             },
         }
