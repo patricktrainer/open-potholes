@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2023-1009570",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-06-18T23:59:12.000",
+    "date_modified": "2023-06-18T23:59:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5600 BLK Danneel St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1009570",
+    "final_x": "3666779.53058",
+    "final_y": "522471.736996",
+    "longitude": "-90.11485626141044",
+    "latitude": "29.9310546165781",
+    "geocoded_column": {
+      "latitude": "29.9310546165781",
+      "longitude": "-90.11485626141044"
+    }
+  },
+  {
+    "service_request": "2023-1009484",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-06-18T03:56:24.000",
+    "date_modified": "2023-06-18T03:56:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1606 Foucher St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1009484",
+    "final_x": "3673361.66715",
+    "final_y": "521474.500473",
+    "longitude": "-90.09411134375694",
+    "latitude": "29.928118436481167",
+    "geocoded_column": {
+      "latitude": "29.928118436481167",
+      "longitude": "-90.09411134375694"
+    }
+  },
+  {
     "service_request": "2023-1009468",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21502,48 +21544,6 @@
     "geocoded_column": {
       "latitude": "29.948372963475745",
       "longitude": "-90.11831594444251"
-    }
-  },
-  {
-    "service_request": "2023-973376",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-02-06T17:51:40.000",
-    "date_modified": "2023-02-06T17:51:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2800 BLK Dante St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "973376",
-    "final_x": "3665409.79644",
-    "final_y": "533237.29519",
-    "longitude": "-90.11882012413197",
-    "latitude": "29.96069641179029",
-    "geocoded_column": {
-      "latitude": "29.96069641179029",
-      "longitude": "-90.11882012413197"
-    }
-  },
-  {
-    "service_request": "2023-973359",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-02-06T16:53:33.000",
-    "date_modified": "2023-02-06T16:53:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4400 BLK Saint Charles Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "973359",
-    "final_x": "3670634.03599",
-    "final_y": "520799.88765",
-    "longitude": "-90.10274475180441",
-    "latitude": "29.926344298324366",
-    "geocoded_column": {
-      "latitude": "29.926344298324366",
-      "longitude": "-90.10274475180441"
     }
   }
 ]
