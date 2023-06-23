@@ -11011,27 +11011,6 @@
     }
   },
   {
-    "service_request": "2023-1010451",
-    "request_type": "Safety & Permits",
-    "request_reason": "Construction permit",
-    "date_created": "2023-06-21T12:59:41.000",
-    "date_modified": "2023-06-21T12:59:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "1806 Milan St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1010451",
-    "final_x": "3671450.55259",
-    "final_y": "521739.996986",
-    "longitude": "-90.10013529421668",
-    "latitude": "29.92890516040198",
-    "geocoded_column": {
-      "latitude": "29.92890516040198",
-      "longitude": "-90.10013529421668"
-    }
-  },
-  {
     "service_request": "2023-1010450",
     "request_type": "Roads/Drainage",
     "request_reason": "Leaking Hydrant",
@@ -11051,6 +11030,27 @@
     "geocoded_column": {
       "latitude": "29.969895367956703",
       "longitude": "-90.03516959842644"
+    }
+  },
+  {
+    "service_request": "2023-1010451",
+    "request_type": "Safety & Permits",
+    "request_reason": "Construction permit",
+    "date_created": "2023-06-21T12:59:41.000",
+    "date_modified": "2023-06-21T12:59:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "1806 Milan St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1010451",
+    "final_x": "3671450.55259",
+    "final_y": "521739.996986",
+    "longitude": "-90.10013529421668",
+    "latitude": "29.92890516040198",
+    "geocoded_column": {
+      "latitude": "29.92890516040198",
+      "longitude": "-90.10013529421668"
     }
   },
   {
