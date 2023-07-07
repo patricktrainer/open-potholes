@@ -12905,6 +12905,27 @@
     }
   },
   {
+    "service_request": "2023-1014192",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-07-05T11:09:51.000",
+    "date_modified": "2023-07-06T13:40:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2400 BLK Mazant St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1014192",
+    "final_x": "3693373.05876",
+    "final_y": "540315.845009",
+    "longitude": "-90.03026378998157",
+    "latitude": "29.979315310015732",
+    "geocoded_column": {
+      "latitude": "29.979315310015732",
+      "longitude": "-90.03026378998157"
+    }
+  },
+  {
     "service_request": "2023-1014193",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -12926,27 +12947,6 @@
     "geocoded_column": {
       "latitude": "30.040434086090986",
       "longitude": "-89.93203879200036"
-    }
-  },
-  {
-    "service_request": "2023-1014192",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-07-05T11:09:51.000",
-    "date_modified": "2023-07-06T13:40:22.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2400 BLK Mazant St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1014192",
-    "final_x": "3693373.05876",
-    "final_y": "540315.845009",
-    "longitude": "-90.03026378998157",
-    "latitude": "29.979315310015732",
-    "geocoded_column": {
-      "latitude": "29.979315310015732",
-      "longitude": "-90.03026378998157"
     }
   },
   {
