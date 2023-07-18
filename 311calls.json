@@ -17725,6 +17725,27 @@
     }
   },
   {
+    "service_request": "2023-1017178",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2023-07-14T12:39:00.000",
+    "date_modified": "2023-07-17T10:59:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3207 Coliseum St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1017178",
+    "final_x": "3675229.34504",
+    "final_y": "520932.269753",
+    "longitude": "-90.08823409965463",
+    "latitude": "29.92657180494806",
+    "geocoded_column": {
+      "latitude": "29.92657180494806",
+      "longitude": "-90.08823409965463"
+    }
+  },
+  {
     "service_request": "2023-1017177",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -17744,27 +17765,6 @@
     "geocoded_column": {
       "latitude": "29.92168891140618",
       "longitude": "-90.08784368799412"
-    }
-  },
-  {
-    "service_request": "2023-1017178",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2023-07-14T12:39:00.000",
-    "date_modified": "2023-07-17T10:59:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3207 Coliseum St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1017178",
-    "final_x": "3675229.34504",
-    "final_y": "520932.269753",
-    "longitude": "-90.08823409965463",
-    "latitude": "29.92657180494806",
-    "geocoded_column": {
-      "latitude": "29.92657180494806",
-      "longitude": "-90.08823409965463"
     }
   },
   {
