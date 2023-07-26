@@ -10270,6 +10270,28 @@
     }
   },
   {
+    "service_request": "2023-1020144",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2023-07-24T14:43:08.000",
+    "date_modified": "2023-07-24T14:43:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1800 BLK Dublin St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "1020144",
+    "final_x": "3663240.61508",
+    "final_y": "530297.848313",
+    "longitude": "-90.1257678295612",
+    "latitude": "29.952676928692544",
+    "geocoded_column": {
+      "latitude": "29.952676928692544",
+      "longitude": "-90.1257678295612"
+    }
+  },
+  {
     "service_request": "2023-1020145",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -10291,28 +10313,6 @@
     "geocoded_column": {
       "latitude": "30.035844541176957",
       "longitude": "-89.93209804600616"
-    }
-  },
-  {
-    "service_request": "2023-1020144",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2023-07-24T14:43:08.000",
-    "date_modified": "2023-07-24T14:43:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1800 BLK Dublin St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "1020144",
-    "final_x": "3663240.61508",
-    "final_y": "530297.848313",
-    "longitude": "-90.1257678295612",
-    "latitude": "29.952676928692544",
-    "geocoded_column": {
-      "latitude": "29.952676928692544",
-      "longitude": "-90.1257678295612"
     }
   },
   {
