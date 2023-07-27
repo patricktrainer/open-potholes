@@ -4921,27 +4921,6 @@
     }
   },
   {
-    "service_request": "2023-1020793",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2023-07-26T11:00:17.000",
-    "date_modified": "2023-07-26T11:00:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "1436 Shirley Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1020793",
-    "final_x": "3693163.41475",
-    "final_y": "525698.968701",
-    "longitude": "-90.03145045268259",
-    "latitude": "29.939130576828465",
-    "geocoded_column": {
-      "latitude": "29.939130576828465",
-      "longitude": "-90.03145045268259"
-    }
-  },
-  {
     "service_request": "2023-1020794",
     "request_type": "Parks & Parkways",
     "request_reason": "Request Tree Service (Right of Way/Public Property)",
@@ -4954,6 +4933,27 @@
     "address_councildis": "C",
     "status": "Duplicate Request",
     "rowid": "1020794",
+    "final_x": "3693163.41475",
+    "final_y": "525698.968701",
+    "longitude": "-90.03145045268259",
+    "latitude": "29.939130576828465",
+    "geocoded_column": {
+      "latitude": "29.939130576828465",
+      "longitude": "-90.03145045268259"
+    }
+  },
+  {
+    "service_request": "2023-1020793",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2023-07-26T11:00:17.000",
+    "date_modified": "2023-07-26T11:00:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "1436 Shirley Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1020793",
     "final_x": "3693163.41475",
     "final_y": "525698.968701",
     "longitude": "-90.03145045268259",
@@ -17945,30 +17945,6 @@
     }
   },
   {
-    "service_request": "2023-1020145",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2023-07-24T14:43:08.000",
-    "date_modified": "2023-07-25T13:58:09.000",
-    "case_close_date": "2023-07-25T08:58:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "13118 Dwyer Blvd",
-    "address_councildis": "E",
-    "status": "Invalid Request",
-    "contractor": "Waste Pro",
-    "contractor_action": "Invalid Pick-Up",
-    "rowid": "1020145",
-    "final_x": "3724198.54828",
-    "final_y": "561238.55683",
-    "longitude": "-89.93209804600616",
-    "latitude": "30.035844541176957",
-    "geocoded_column": {
-      "latitude": "30.035844541176957",
-      "longitude": "-89.93209804600616"
-    }
-  },
-  {
     "service_request": "2023-1020144",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -17990,6 +17966,30 @@
     "geocoded_column": {
       "latitude": "29.952676928692544",
       "longitude": "-90.1257678295612"
+    }
+  },
+  {
+    "service_request": "2023-1020145",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2023-07-24T14:43:08.000",
+    "date_modified": "2023-07-25T13:58:09.000",
+    "case_close_date": "2023-07-25T08:58:09.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "13118 Dwyer Blvd",
+    "address_councildis": "E",
+    "status": "Invalid Request",
+    "contractor": "Waste Pro",
+    "contractor_action": "Invalid Pick-Up",
+    "rowid": "1020145",
+    "final_x": "3724198.54828",
+    "final_y": "561238.55683",
+    "longitude": "-89.93209804600616",
+    "latitude": "30.035844541176957",
+    "geocoded_column": {
+      "latitude": "30.035844541176957",
+      "longitude": "-89.93209804600616"
     }
   },
   {
