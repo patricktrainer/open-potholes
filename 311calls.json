@@ -20836,27 +20836,6 @@
     }
   },
   {
-    "service_request": "2023-1020793",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2023-07-26T11:00:17.000",
-    "date_modified": "2023-07-26T11:00:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "1436 Shirley Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1020793",
-    "final_x": "3693163.41475",
-    "final_y": "525698.968701",
-    "longitude": "-90.03145045268259",
-    "latitude": "29.939130576828465",
-    "geocoded_column": {
-      "latitude": "29.939130576828465",
-      "longitude": "-90.03145045268259"
-    }
-  },
-  {
     "service_request": "2023-1020794",
     "request_type": "Parks & Parkways",
     "request_reason": "Request Tree Service (Right of Way/Public Property)",
@@ -20869,6 +20848,27 @@
     "address_councildis": "C",
     "status": "Duplicate Request",
     "rowid": "1020794",
+    "final_x": "3693163.41475",
+    "final_y": "525698.968701",
+    "longitude": "-90.03145045268259",
+    "latitude": "29.939130576828465",
+    "geocoded_column": {
+      "latitude": "29.939130576828465",
+      "longitude": "-90.03145045268259"
+    }
+  },
+  {
+    "service_request": "2023-1020793",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2023-07-26T11:00:17.000",
+    "date_modified": "2023-07-26T11:00:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "1436 Shirley Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1020793",
     "final_x": "3693163.41475",
     "final_y": "525698.968701",
     "longitude": "-90.03145045268259",
