@@ -13862,6 +13862,27 @@
     }
   },
   {
+    "service_request": "2023-1021621",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-07-28T14:57:11.000",
+    "date_modified": "2023-07-31T16:36:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4900 BLK Loyola Ave",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "1021621",
+    "final_x": "3668954.58594",
+    "final_y": "522849.812356",
+    "longitude": "-90.10797711685551",
+    "latitude": "29.93203042550474",
+    "geocoded_column": {
+      "latitude": "29.93203042550474",
+      "longitude": "-90.10797711685551"
+    }
+  },
+  {
     "service_request": "2023-1021620",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -13883,27 +13904,6 @@
     "geocoded_column": {
       "latitude": "29.952397489700672",
       "longitude": "-90.06684968009122"
-    }
-  },
-  {
-    "service_request": "2023-1021621",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-07-28T14:57:11.000",
-    "date_modified": "2023-07-31T16:36:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4900 BLK Loyola Ave",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1021621",
-    "final_x": "3668954.58594",
-    "final_y": "522849.812356",
-    "longitude": "-90.10797711685551",
-    "latitude": "29.93203042550474",
-    "geocoded_column": {
-      "latitude": "29.93203042550474",
-      "longitude": "-90.10797711685551"
     }
   },
   {
