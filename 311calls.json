@@ -17967,6 +17967,27 @@
     }
   },
   {
+    "service_request": "2023-1025824",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-08-13T10:10:20.000",
+    "date_modified": "2023-08-14T14:03:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2634 Constance St",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "1025824",
+    "final_x": "3677568.48654",
+    "final_y": "520677.208377",
+    "longitude": "-90.08085887046292",
+    "latitude": "29.92580037139369",
+    "geocoded_column": {
+      "latitude": "29.92580037139369",
+      "longitude": "-90.08085887046292"
+    }
+  },
+  {
     "service_request": "2023-1025823",
     "request_type": "Trash/Recycling",
     "request_reason": "Start Trash Service",
@@ -17988,27 +18009,6 @@
     "geocoded_column": {
       "latitude": "30.016593962415726",
       "longitude": "-90.0358549965301"
-    }
-  },
-  {
-    "service_request": "2023-1025824",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-08-13T10:10:20.000",
-    "date_modified": "2023-08-14T14:03:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2634 Constance St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1025824",
-    "final_x": "3677568.48654",
-    "final_y": "520677.208377",
-    "longitude": "-90.08085887046292",
-    "latitude": "29.92580037139369",
-    "geocoded_column": {
-      "latitude": "29.92580037139369",
-      "longitude": "-90.08085887046292"
     }
   },
   {
