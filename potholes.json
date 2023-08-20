@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2023-1027812",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-08-19T23:58:53.000",
+    "date_modified": "2023-08-19T23:58:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1424 Valmont St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1027812",
+    "final_x": "3667643.52897",
+    "final_y": "520415.550008",
+    "longitude": "-90.11219790077504",
+    "latitude": "29.925375463871653",
+    "geocoded_column": {
+      "latitude": "29.925375463871653",
+      "longitude": "-90.11219790077504"
+    }
+  },
+  {
+    "service_request": "2023-1027808",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-08-19T21:48:40.000",
+    "date_modified": "2023-08-19T21:48:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1422 General Pershing St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1027808",
+    "final_x": "3671239.44116",
+    "final_y": "520532.324984",
+    "longitude": "-90.10084273889387",
+    "latitude": "29.925590694745555",
+    "geocoded_column": {
+      "latitude": "29.925590694745555",
+      "longitude": "-90.10084273889387"
+    }
+  },
+  {
     "service_request": "2023-1027693",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -866,20 +908,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-08-16T18:50:47.000",
-    "date_modified": "2023-08-16T18:50:47.000",
+    "date_modified": "2023-08-19T13:55:55.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "3629 Prytania St",
+    "final_address": "1500 BLK Antonine St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1027032",
-    "final_x": "3673410.74836",
-    "final_y": "520712.326393",
-    "longitude": "-90.09398242884356",
-    "latitude": "29.926021243402264",
+    "final_x": "3673294.16059",
+    "final_y": "520875.624703",
+    "longitude": "-90.09434488909022",
+    "latitude": "29.92647372815397",
     "geocoded_column": {
-      "latitude": "29.926021243402264",
-      "longitude": "-90.09398242884356"
+      "latitude": "29.92647372815397",
+      "longitude": "-90.09434488909022"
     }
   },
   {
@@ -1829,27 +1871,6 @@
     }
   },
   {
-    "service_request": "2023-1026233",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-08-14T15:52:58.000",
-    "date_modified": "2023-08-14T15:52:58.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1300 BLK Jefferson Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1026233",
-    "final_x": "3667094.61525",
-    "final_y": "520185.991568",
-    "longitude": "-90.11393836753265",
-    "latitude": "29.924760324448933",
-    "geocoded_column": {
-      "latitude": "29.924760324448933",
-      "longitude": "-90.11393836753265"
-    }
-  },
-  {
     "service_request": "2023-1026230",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -1941,12 +1962,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-08-14T09:43:05.000",
-    "date_modified": "2023-08-14T09:43:05.000",
+    "date_modified": "2023-08-19T13:40:12.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "7700 BLK Coolidge Ct",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1025994",
     "final_x": "3668310.02981",
     "final_y": "533440.583497",
@@ -2157,20 +2178,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-08-13T16:05:58.000",
-    "date_modified": "2023-08-13T16:05:58.000",
+    "date_modified": "2023-08-19T13:53:12.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "3705 Coliseum St",
+    "final_address": "1500 BLK Antonine St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1025878",
-    "final_x": "3673321.77467",
-    "final_y": "520162.498104",
-    "longitude": "-90.09428206164169",
-    "latitude": "29.924512038006064",
+    "final_x": "3673294.16059",
+    "final_y": "520875.624703",
+    "longitude": "-90.09434488909022",
+    "latitude": "29.92647372815397",
     "geocoded_column": {
-      "latitude": "29.924512038006064",
-      "longitude": "-90.09428206164169"
+      "latitude": "29.92647372815397",
+      "longitude": "-90.09434488909022"
     }
   },
   {
@@ -2178,20 +2199,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-08-13T15:51:02.000",
-    "date_modified": "2023-08-13T15:51:02.000",
+    "date_modified": "2023-08-19T13:54:48.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "3629 Prytania St",
+    "final_address": "1500 BLK Antonine St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1025876",
-    "final_x": "3673410.74836",
-    "final_y": "520712.326393",
-    "longitude": "-90.09398242884356",
-    "latitude": "29.926021243402264",
+    "final_x": "3673294.16059",
+    "final_y": "520875.624703",
+    "longitude": "-90.09434488909022",
+    "latitude": "29.92647372815397",
     "geocoded_column": {
-      "latitude": "29.926021243402264",
-      "longitude": "-90.09398242884356"
+      "latitude": "29.92647372815397",
+      "longitude": "-90.09434488909022"
     }
   },
   {
@@ -2525,12 +2546,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-08-11T15:36:01.000",
-    "date_modified": "2023-08-11T15:36:01.000",
-    "request_status": "Pending",
+    "date_modified": "2023-08-19T13:11:08.000",
+    "case_close_date": "2023-08-19T08:11:08.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "3019 Canal St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "1025611",
     "final_x": "3674377.00257",
     "final_y": "536183.248519",
@@ -2590,20 +2612,20 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2023-08-11T10:15:07.000",
-    "date_modified": "2023-08-11T10:15:08.000",
+    "date_modified": "2023-08-19T13:07:08.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "1800 BLK First St",
+    "final_address": "1500 BLK Dufossat St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1025472",
-    "final_x": "3676447.10081",
-    "final_y": "523972.782223",
-    "longitude": "-90.08428535067644",
-    "latitude": "29.934895783034587",
+    "final_x": "3668105.62471",
+    "final_y": "520567.470136",
+    "longitude": "-90.11073408735746",
+    "latitude": "29.925779646900356",
     "geocoded_column": {
-      "latitude": "29.934895783034587",
-      "longitude": "-90.08428535067644"
+      "latitude": "29.925779646900356",
+      "longitude": "-90.11073408735746"
     }
   },
   {
@@ -21567,26 +21589,6 @@
     "geocoded_column": {
       "latitude": "29.949768865986208",
       "longitude": "-90.06830774782175"
-    }
-  },
-  {
-    "service_request": "2023-996015",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-05-02T11:14:22.000",
-    "date_modified": "2023-05-03T21:54:36.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4901 Copernicus St, New Orleans, Louisiana, 70131",
-    "address_councildis": "C",
-    "rowid": "996015",
-    "final_x": "3702050.46551",
-    "final_y": "522653.948154",
-    "longitude": "-90.0035047176804",
-    "latitude": "29.930477199088166",
-    "geocoded_column": {
-      "latitude": "29.930477199088166",
-      "longitude": "-90.0035047176804"
     }
   }
 ]
