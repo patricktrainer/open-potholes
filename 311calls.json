@@ -8439,27 +8439,6 @@
     }
   },
   {
-    "service_request": "2023-1032365",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Road Shoulder Repair",
-    "date_created": "2023-09-05T21:28:11.000",
-    "date_modified": "2023-09-05T21:28:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3900 BLK Pitt St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1032365",
-    "final_x": "3672519.83603",
-    "final_y": "520734.901231",
-    "longitude": "-90.09679401515201",
-    "latitude": "29.926109783282126",
-    "geocoded_column": {
-      "latitude": "29.926109783282126",
-      "longitude": "-90.09679401515201"
-    }
-  },
-  {
     "service_request": "2023-1032366",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -8478,6 +8457,27 @@
     "geocoded_column": {
       "latitude": "30.019664502321678",
       "longitude": "-89.9841607939076"
+    }
+  },
+  {
+    "service_request": "2023-1032365",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Road Shoulder Repair",
+    "date_created": "2023-09-05T21:28:11.000",
+    "date_modified": "2023-09-05T21:28:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3900 BLK Pitt St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1032365",
+    "final_x": "3672519.83603",
+    "final_y": "520734.901231",
+    "longitude": "-90.09679401515201",
+    "latitude": "29.926109783282126",
+    "geocoded_column": {
+      "latitude": "29.926109783282126",
+      "longitude": "-90.09679401515201"
     }
   },
   {
