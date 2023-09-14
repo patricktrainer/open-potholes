@@ -16065,30 +16065,6 @@
     }
   },
   {
-    "service_request": "2023-1034218",
-    "request_type": "Trash/Recycling",
-    "request_reason": "MIssed Recycling Pick-Up",
-    "date_created": "2023-09-12T06:39:50.000",
-    "date_modified": "2023-09-13T07:42:31.000",
-    "case_close_date": "2023-09-13T02:42:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1509 Upperline St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "contractor_action": "Completed",
-    "rowid": "1034218",
-    "final_x": "3669127.65575",
-    "final_y": "520479.239608",
-    "longitude": "-90.10751081191844",
-    "latitude": "29.925507016314405",
-    "geocoded_column": {
-      "latitude": "29.925507016314405",
-      "longitude": "-90.10751081191844"
-    }
-  },
-  {
     "service_request": "2023-1034217",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -16103,6 +16079,30 @@
     "contractor": "Richards Disposal",
     "contractor_action": "duplicate",
     "rowid": "1034217",
+    "final_x": "3669127.65575",
+    "final_y": "520479.239608",
+    "longitude": "-90.10751081191844",
+    "latitude": "29.925507016314405",
+    "geocoded_column": {
+      "latitude": "29.925507016314405",
+      "longitude": "-90.10751081191844"
+    }
+  },
+  {
+    "service_request": "2023-1034218",
+    "request_type": "Trash/Recycling",
+    "request_reason": "MIssed Recycling Pick-Up",
+    "date_created": "2023-09-12T06:39:50.000",
+    "date_modified": "2023-09-13T07:42:31.000",
+    "case_close_date": "2023-09-13T02:42:31.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1509 Upperline St",
+    "address_councildis": "B",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "contractor_action": "Completed",
+    "rowid": "1034218",
     "final_x": "3669127.65575",
     "final_y": "520479.239608",
     "longitude": "-90.10751081191844",
