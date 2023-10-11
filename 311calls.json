@@ -18043,30 +18043,6 @@
     }
   },
   {
-    "service_request": "2023-1041414",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2023-10-06T16:11:17.000",
-    "date_modified": "2023-10-10T15:14:55.000",
-    "case_close_date": "2023-10-10T10:14:55.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "8061 Driftwood Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1041414",
-    "final_x": "3702420.72893",
-    "final_y": "562010.531167",
-    "longitude": "-90.0008911055384",
-    "latitude": "30.03868146019868",
-    "geocoded_column": {
-      "latitude": "30.03868146019868",
-      "longitude": "-90.0008911055384"
-    }
-  },
-  {
     "service_request": "2023-1041415",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -18088,6 +18064,30 @@
     "geocoded_column": {
       "latitude": "30.024837084792985",
       "longitude": "-90.0360447865432"
+    }
+  },
+  {
+    "service_request": "2023-1041414",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2023-10-06T16:11:17.000",
+    "date_modified": "2023-10-10T15:14:55.000",
+    "case_close_date": "2023-10-10T10:14:55.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "8061 Driftwood Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1041414",
+    "final_x": "3702420.72893",
+    "final_y": "562010.531167",
+    "longitude": "-90.0008911055384",
+    "latitude": "30.03868146019868",
+    "geocoded_column": {
+      "latitude": "30.03868146019868",
+      "longitude": "-90.0008911055384"
     }
   },
   {
@@ -20815,30 +20815,6 @@
     }
   },
   {
-    "service_request": "2023-1041282",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-10-06T11:15:07.000",
-    "date_modified": "2023-10-10T12:23:18.000",
-    "case_close_date": "2023-10-10T07:23:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7054 Barrington Ct",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1041282",
-    "final_x": "3714004.02943",
-    "final_y": "565121.700962",
-    "longitude": "-89.96416761850723",
-    "latitude": "30.046860468332213",
-    "geocoded_column": {
-      "latitude": "30.046860468332213",
-      "longitude": "-89.96416761850723"
-    }
-  },
-  {
     "service_request": "2023-1041283",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20853,6 +20829,30 @@
     "contractor": "Waste Pro",
     "contractor_action": "duplicate",
     "rowid": "1041283",
+    "final_x": "3714004.02943",
+    "final_y": "565121.700962",
+    "longitude": "-89.96416761850723",
+    "latitude": "30.046860468332213",
+    "geocoded_column": {
+      "latitude": "30.046860468332213",
+      "longitude": "-89.96416761850723"
+    }
+  },
+  {
+    "service_request": "2023-1041282",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-10-06T11:15:07.000",
+    "date_modified": "2023-10-10T12:23:18.000",
+    "case_close_date": "2023-10-10T07:23:18.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7054 Barrington Ct",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1041282",
     "final_x": "3714004.02943",
     "final_y": "565121.700962",
     "longitude": "-89.96416761850723",
