@@ -6258,27 +6258,6 @@
     }
   },
   {
-    "service_request": "2023-1047863",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-11-03T10:36:21.000",
-    "date_modified": "2023-11-03T10:36:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3312 Martin Luther King, Jr. Blvd",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1047863",
-    "final_x": "3673998.14753",
-    "final_y": "528732.368192",
-    "longitude": "-90.09185387809642",
-    "latitude": "29.948056261482336",
-    "geocoded_column": {
-      "latitude": "29.948056261482336",
-      "longitude": "-90.09185387809642"
-    }
-  },
-  {
     "service_request": "2023-1047862",
     "request_type": "Roads/Drainage",
     "request_reason": "Road Shoulder Repair",
@@ -6297,6 +6276,27 @@
     "geocoded_column": {
       "latitude": "30.041355414136937",
       "longitude": "-89.99407204132743"
+    }
+  },
+  {
+    "service_request": "2023-1047863",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-11-03T10:36:21.000",
+    "date_modified": "2023-11-03T10:36:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3312 Martin Luther King, Jr. Blvd",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "1047863",
+    "final_x": "3673998.14753",
+    "final_y": "528732.368192",
+    "longitude": "-90.09185387809642",
+    "latitude": "29.948056261482336",
+    "geocoded_column": {
+      "latitude": "29.948056261482336",
+      "longitude": "-90.09185387809642"
     }
   },
   {
