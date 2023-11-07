@@ -12063,27 +12063,6 @@
     }
   },
   {
-    "service_request": "2023-1047862",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Road Shoulder Repair",
-    "date_created": "2023-11-03T10:36:21.000",
-    "date_modified": "2023-11-04T10:53:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8800 Gervais St",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1047862",
-    "final_x": "3704566.83159",
-    "final_y": "563008.037152",
-    "longitude": "-89.99407204132743",
-    "latitude": "30.041355414136937",
-    "geocoded_column": {
-      "latitude": "30.041355414136937",
-      "longitude": "-89.99407204132743"
-    }
-  },
-  {
     "service_request": "2023-1047863",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -12102,6 +12081,27 @@
     "geocoded_column": {
       "latitude": "29.948056261482336",
       "longitude": "-90.09185387809642"
+    }
+  },
+  {
+    "service_request": "2023-1047862",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Road Shoulder Repair",
+    "date_created": "2023-11-03T10:36:21.000",
+    "date_modified": "2023-11-04T10:53:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8800 Gervais St",
+    "address_councildis": "E",
+    "status": "Inspected",
+    "rowid": "1047862",
+    "final_x": "3704566.83159",
+    "final_y": "563008.037152",
+    "longitude": "-89.99407204132743",
+    "latitude": "30.041355414136937",
+    "geocoded_column": {
+      "latitude": "30.041355414136937",
+      "longitude": "-89.99407204132743"
     }
   },
   {
