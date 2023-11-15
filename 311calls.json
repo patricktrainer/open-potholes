@@ -17727,6 +17727,28 @@
     }
   },
   {
+    "service_request": "2023-1049247",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2023-11-10T08:09:08.000",
+    "date_modified": "2023-11-10T08:10:05.000",
+    "case_close_date": "2023-11-10T02:10:05.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6941 Salem Dr",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "1049247",
+    "final_x": "3706868.35364",
+    "final_y": "560497.880542",
+    "longitude": "-89.98689168645035",
+    "latitude": "30.034379309738394",
+    "geocoded_column": {
+      "latitude": "30.034379309738394",
+      "longitude": "-89.98689168645035"
+    }
+  },
+  {
     "service_request": "2023-1049248",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -17747,28 +17769,6 @@
     "geocoded_column": {
       "latitude": "29.929716833131494",
       "longitude": "-90.00521060296514"
-    }
-  },
-  {
-    "service_request": "2023-1049247",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2023-11-10T08:09:08.000",
-    "date_modified": "2023-11-10T08:10:05.000",
-    "case_close_date": "2023-11-10T02:10:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6941 Salem Dr",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1049247",
-    "final_x": "3706868.35364",
-    "final_y": "560497.880542",
-    "longitude": "-89.98689168645035",
-    "latitude": "30.034379309738394",
-    "geocoded_column": {
-      "latitude": "30.034379309738394",
-      "longitude": "-89.98689168645035"
     }
   },
   {
