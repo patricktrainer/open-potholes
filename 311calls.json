@@ -16600,27 +16600,6 @@
     }
   },
   {
-    "service_request": "2023-1049765",
-    "request_type": "Mosquito, Termite & Rodent Control",
-    "request_reason": "Rodent Complaint (Rats)",
-    "date_created": "2023-11-13T14:34:25.000",
-    "date_modified": "2023-11-13T14:46:06.000",
-    "request_status": "Pending",
-    "responsible_agency": "Mosquito, Termite & Rodent Control Board",
-    "final_address": "5111 Toulon St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1049765",
-    "final_x": "3723721.97158",
-    "final_y": "561871.162207",
-    "longitude": "-89.93357967334059",
-    "latitude": "30.037599962600254",
-    "geocoded_column": {
-      "latitude": "30.037599962600254",
-      "longitude": "-89.93357967334059"
-    }
-  },
-  {
     "service_request": "2023-1049766",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -16641,6 +16620,27 @@
     "geocoded_column": {
       "latitude": "29.966550012047",
       "longitude": "-90.12177936357087"
+    }
+  },
+  {
+    "service_request": "2023-1049765",
+    "request_type": "Mosquito, Termite & Rodent Control",
+    "request_reason": "Rodent Complaint (Rats)",
+    "date_created": "2023-11-13T14:34:25.000",
+    "date_modified": "2023-11-13T14:46:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Mosquito, Termite & Rodent Control Board",
+    "final_address": "5111 Toulon St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1049765",
+    "final_x": "3723721.97158",
+    "final_y": "561871.162207",
+    "longitude": "-89.93357967334059",
+    "latitude": "30.037599962600254",
+    "geocoded_column": {
+      "latitude": "30.037599962600254",
+      "longitude": "-89.93357967334059"
     }
   },
   {
