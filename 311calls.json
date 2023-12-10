@@ -6933,30 +6933,6 @@
     }
   },
   {
-    "service_request": "2023-1054493",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2023-12-07T15:39:38.000",
-    "date_modified": "2023-12-08T14:20:34.000",
-    "case_close_date": "2023-12-08T08:20:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1706 St Maurice Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1054493",
-    "final_x": "3700674.57533",
-    "final_y": "535393.318726",
-    "longitude": "-90.00738278944138",
-    "latitude": "29.965549810234094",
-    "geocoded_column": {
-      "latitude": "29.965549810234094",
-      "longitude": "-90.00738278944138"
-    }
-  },
-  {
     "service_request": "2023-1054492",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -6971,6 +6947,30 @@
     "contractor": "Waste Pro",
     "contractor_action": "Completed",
     "rowid": "1054492",
+    "final_x": "3700674.57533",
+    "final_y": "535393.318726",
+    "longitude": "-90.00738278944138",
+    "latitude": "29.965549810234094",
+    "geocoded_column": {
+      "latitude": "29.965549810234094",
+      "longitude": "-90.00738278944138"
+    }
+  },
+  {
+    "service_request": "2023-1054493",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2023-12-07T15:39:38.000",
+    "date_modified": "2023-12-08T14:20:34.000",
+    "case_close_date": "2023-12-08T08:20:34.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1706 St Maurice Ave",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1054493",
     "final_x": "3700674.57533",
     "final_y": "535393.318726",
     "longitude": "-90.00738278944138",
@@ -15111,30 +15111,6 @@
     }
   },
   {
-    "service_request": "2023-1054107",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2023-12-06T10:01:42.000",
-    "date_modified": "2023-12-08T14:24:35.000",
-    "case_close_date": "2023-12-08T08:24:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1926 France St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1054107",
-    "final_x": "3693152.73942",
-    "final_y": "538389.615753",
-    "longitude": "-90.03102878742557",
-    "latitude": "29.974025755206558",
-    "geocoded_column": {
-      "latitude": "29.974025755206558",
-      "longitude": "-90.03102878742557"
-    }
-  },
-  {
     "service_request": "2023-1054106",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -15149,6 +15125,30 @@
     "contractor": "IV Waste",
     "contractor_action": "duplicate",
     "rowid": "1054106",
+    "final_x": "3693152.73942",
+    "final_y": "538389.615753",
+    "longitude": "-90.03102878742557",
+    "latitude": "29.974025755206558",
+    "geocoded_column": {
+      "latitude": "29.974025755206558",
+      "longitude": "-90.03102878742557"
+    }
+  },
+  {
+    "service_request": "2023-1054107",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2023-12-06T10:01:42.000",
+    "date_modified": "2023-12-08T14:24:35.000",
+    "case_close_date": "2023-12-08T08:24:35.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1926 France St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1054107",
     "final_x": "3693152.73942",
     "final_y": "538389.615753",
     "longitude": "-90.03102878742557",
