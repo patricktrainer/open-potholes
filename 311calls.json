@@ -4569,28 +4569,6 @@
     }
   },
   {
-    "service_request": "2023-1055696",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2023-12-14T08:02:09.000",
-    "date_modified": "2023-12-14T08:02:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7524 Devine Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1055696",
-    "final_x": "3705731.49617",
-    "final_y": "562779.225504",
-    "longitude": "-89.99039978884545",
-    "latitude": "30.04068879169362",
-    "geocoded_column": {
-      "latitude": "30.04068879169362",
-      "longitude": "-89.99039978884545"
-    }
-  },
-  {
     "service_request": "2023-1055695",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -4610,6 +4588,28 @@
     "geocoded_column": {
       "latitude": "30.05477281983414",
       "longitude": "-89.95612552974627"
+    }
+  },
+  {
+    "service_request": "2023-1055696",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2023-12-14T08:02:09.000",
+    "date_modified": "2023-12-14T08:02:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7524 Devine Ave",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1055696",
+    "final_x": "3705731.49617",
+    "final_y": "562779.225504",
+    "longitude": "-89.99039978884545",
+    "latitude": "30.04068879169362",
+    "geocoded_column": {
+      "latitude": "30.04068879169362",
+      "longitude": "-89.99039978884545"
     }
   },
   {
