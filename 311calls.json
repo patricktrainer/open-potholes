@@ -5459,28 +5459,6 @@
     }
   },
   {
-    "service_request": "2023-1055954",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Return Trash Cart",
-    "date_created": "2023-12-15T10:00:10.000",
-    "date_modified": "2023-12-15T10:00:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4538 S Johnson St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "1055954",
-    "final_x": "3669514.51406",
-    "final_y": "527115.167615",
-    "longitude": "-90.10606525405707",
-    "latitude": "29.94374230001293",
-    "geocoded_column": {
-      "latitude": "29.94374230001293",
-      "longitude": "-90.10606525405707"
-    }
-  },
-  {
     "service_request": "2023-1055955",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -5500,6 +5478,28 @@
     "geocoded_column": {
       "latitude": "29.95355482329574",
       "longitude": "-90.13594652612247"
+    }
+  },
+  {
+    "service_request": "2023-1055954",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Return Trash Cart",
+    "date_created": "2023-12-15T10:00:10.000",
+    "date_modified": "2023-12-15T10:00:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4538 S Johnson St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "1055954",
+    "final_x": "3669514.51406",
+    "final_y": "527115.167615",
+    "longitude": "-90.10606525405707",
+    "latitude": "29.94374230001293",
+    "geocoded_column": {
+      "latitude": "29.94374230001293",
+      "longitude": "-90.10606525405707"
     }
   },
   {
