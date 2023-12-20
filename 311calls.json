@@ -17835,27 +17835,6 @@
     }
   },
   {
-    "service_request": "2023-1055835",
-    "request_type": "EMS",
-    "request_reason": "EMS Lost & Found",
-    "date_created": "2023-12-14T14:16:37.000",
-    "date_modified": "2023-12-14T14:16:39.000",
-    "request_status": "Pending",
-    "responsible_agency": "Emergency Medical Services",
-    "final_address": "7920 Wave Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1055835",
-    "final_x": "3714203.63224",
-    "final_y": "569677.786214",
-    "longitude": "-89.96336461220459",
-    "latitude": "30.059381279620585",
-    "geocoded_column": {
-      "latitude": "30.059381279620585",
-      "longitude": "-89.96336461220459"
-    }
-  },
-  {
     "service_request": "2023-1055834",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -17877,6 +17856,27 @@
     "geocoded_column": {
       "latitude": "30.056196149312207",
       "longitude": "-89.95918185160555"
+    }
+  },
+  {
+    "service_request": "2023-1055835",
+    "request_type": "EMS",
+    "request_reason": "EMS Lost & Found",
+    "date_created": "2023-12-14T14:16:37.000",
+    "date_modified": "2023-12-14T14:16:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Emergency Medical Services",
+    "final_address": "7920 Wave Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1055835",
+    "final_x": "3714203.63224",
+    "final_y": "569677.786214",
+    "longitude": "-89.96336461220459",
+    "latitude": "30.059381279620585",
+    "geocoded_column": {
+      "latitude": "30.059381279620585",
+      "longitude": "-89.96336461220459"
     }
   },
   {
@@ -20827,30 +20827,6 @@
     }
   },
   {
-    "service_request": "2023-1055695",
-    "request_type": "Trash/Recycling",
-    "request_reason": "MIssed Recycling Pick-Up",
-    "date_created": "2023-12-14T08:02:09.000",
-    "date_modified": "2023-12-15T18:04:56.000",
-    "case_close_date": "2023-12-15T12:04:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "12911 Mcraven Ct",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Invalid Request",
-    "rowid": "1055695",
-    "final_x": "3716513.64607",
-    "final_y": "568029.423333",
-    "longitude": "-89.95612552974627",
-    "latitude": "30.05477281983414",
-    "geocoded_column": {
-      "latitude": "30.05477281983414",
-      "longitude": "-89.95612552974627"
-    }
-  },
-  {
     "service_request": "2023-1055696",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -20872,6 +20848,30 @@
     "geocoded_column": {
       "latitude": "30.04068879169362",
       "longitude": "-89.99039978884545"
+    }
+  },
+  {
+    "service_request": "2023-1055695",
+    "request_type": "Trash/Recycling",
+    "request_reason": "MIssed Recycling Pick-Up",
+    "date_created": "2023-12-14T08:02:09.000",
+    "date_modified": "2023-12-15T18:04:56.000",
+    "case_close_date": "2023-12-15T12:04:56.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "12911 Mcraven Ct",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Invalid Request",
+    "rowid": "1055695",
+    "final_x": "3716513.64607",
+    "final_y": "568029.423333",
+    "longitude": "-89.95612552974627",
+    "latitude": "30.05477281983414",
+    "geocoded_column": {
+      "latitude": "30.05477281983414",
+      "longitude": "-89.95612552974627"
     }
   },
   {
