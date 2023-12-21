@@ -4409,27 +4409,6 @@
     }
   },
   {
-    "service_request": "2023-1056720",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-12-20T08:44:02.000",
-    "date_modified": "2023-12-20T08:44:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2007 Lafitte Ave",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1056720",
-    "final_x": "3678595.64571",
-    "final_y": "535046.211782",
-    "longitude": "-90.07711915767787",
-    "latitude": "29.965279434921605",
-    "geocoded_column": {
-      "latitude": "29.965279434921605",
-      "longitude": "-90.07711915767787"
-    }
-  },
-  {
     "service_request": "2023-1056719",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -4448,6 +4427,27 @@
     "geocoded_column": {
       "latitude": "29.986057018076604",
       "longitude": "-90.0795552724145"
+    }
+  },
+  {
+    "service_request": "2023-1056720",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-12-20T08:44:02.000",
+    "date_modified": "2023-12-20T08:44:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2007 Lafitte Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1056720",
+    "final_x": "3678595.64571",
+    "final_y": "535046.211782",
+    "longitude": "-90.07711915767787",
+    "latitude": "29.965279434921605",
+    "geocoded_column": {
+      "latitude": "29.965279434921605",
+      "longitude": "-90.07711915767787"
     }
   },
   {
@@ -20868,29 +20868,6 @@
     }
   },
   {
-    "service_request": "2023-1055955",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2023-12-15T10:00:10.000",
-    "date_modified": "2023-12-18T11:40:30.000",
-    "case_close_date": "2023-12-18T05:40:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "8906 Plum St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "rowid": "1055955",
-    "final_x": "3660014.04576",
-    "final_y": "530583.259714",
-    "longitude": "-90.13594652612247",
-    "latitude": "29.95355482329574",
-    "geocoded_column": {
-      "latitude": "29.95355482329574",
-      "longitude": "-90.13594652612247"
-    }
-  },
-  {
     "service_request": "2023-1055954",
     "request_type": "Trash/Recycling",
     "request_reason": "Return Trash Cart",
@@ -20911,6 +20888,29 @@
     "geocoded_column": {
       "latitude": "29.94374230001293",
       "longitude": "-90.10606525405707"
+    }
+  },
+  {
+    "service_request": "2023-1055955",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2023-12-15T10:00:10.000",
+    "date_modified": "2023-12-18T11:40:30.000",
+    "case_close_date": "2023-12-18T05:40:30.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "8906 Plum St",
+    "address_councildis": "A",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "rowid": "1055955",
+    "final_x": "3660014.04576",
+    "final_y": "530583.259714",
+    "longitude": "-90.13594652612247",
+    "latitude": "29.95355482329574",
+    "geocoded_column": {
+      "latitude": "29.95355482329574",
+      "longitude": "-90.13594652612247"
     }
   },
   {
