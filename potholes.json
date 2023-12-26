@@ -1,5 +1,131 @@
 [
   {
+    "service_request": "2023-1057324",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-25T22:18:56.000",
+    "date_modified": "2023-12-25T22:18:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5915 Pitt St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1057324",
+    "final_x": "3665542.56448",
+    "final_y": "521174.406329",
+    "longitude": "-90.11880462457182",
+    "latitude": "29.927523478234637",
+    "geocoded_column": {
+      "latitude": "29.927523478234637",
+      "longitude": "-90.11880462457182"
+    }
+  },
+  {
+    "service_request": "2023-1057323",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-25T22:14:15.000",
+    "date_modified": "2023-12-25T22:14:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6034 Pitt St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1057323",
+    "final_x": "3664975.2768",
+    "final_y": "521175.853177",
+    "longitude": "-90.12059537206552",
+    "latitude": "29.927543978068122",
+    "geocoded_column": {
+      "latitude": "29.927543978068122",
+      "longitude": "-90.12059537206552"
+    }
+  },
+  {
+    "service_request": "2023-1057322",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-25T22:10:06.000",
+    "date_modified": "2023-12-25T22:10:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6028 Benjamin St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1057322",
+    "final_x": "3665338.06842",
+    "final_y": "522201.69881",
+    "longitude": "-90.1194158153632",
+    "latitude": "29.930354166447213",
+    "geocoded_column": {
+      "latitude": "29.930354166447213",
+      "longitude": "-90.1194158153632"
+    }
+  },
+  {
+    "service_request": "2023-1057308",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-25T14:06:17.000",
+    "date_modified": "2023-12-25T14:06:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5220 Atlanta St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057308",
+    "final_x": "3667917.40577",
+    "final_y": "520685.623161",
+    "longitude": "-90.1113242624008",
+    "latitude": "29.926110051036336",
+    "geocoded_column": {
+      "latitude": "29.926110051036336",
+      "longitude": "-90.1113242624008"
+    }
+  },
+  {
+    "service_request": "2023-1057301",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-25T11:20:47.000",
+    "date_modified": "2023-12-25T11:20:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4919 Carondelet St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057301",
+    "final_x": "3668879.53863",
+    "final_y": "521160.194169",
+    "longitude": "-90.10827106165362",
+    "latitude": "29.927386721176084",
+    "geocoded_column": {
+      "latitude": "29.927386721176084",
+      "longitude": "-90.10827106165362"
+    }
+  },
+  {
+    "service_request": "2023-1057290",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-25T02:13:23.000",
+    "date_modified": "2023-12-25T02:13:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1523 Antonine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057290",
+    "final_x": "3673374.72936",
+    "final_y": "520875.962873",
+    "longitude": "-90.09409054390046",
+    "latitude": "29.926472262294165",
+    "geocoded_column": {
+      "latitude": "29.926472262294165",
+      "longitude": "-90.09409054390046"
+    }
+  },
+  {
     "service_request": "2023-1057288",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21586,133 +21712,6 @@
     "geocoded_column": {
       "latitude": "29.96955837850097",
       "longitude": "-90.10603384658579"
-    }
-  },
-  {
-    "service_request": "2023-1044408",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-10-19T08:37:57.000",
-    "date_modified": "2023-10-19T08:37:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4200 BLK S Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1044408",
-    "final_x": "3669761.48459",
-    "final_y": "536778.815338",
-    "longitude": "-90.1049584153925",
-    "latitude": "29.97030686635561",
-    "geocoded_column": {
-      "latitude": "29.97030686635561",
-      "longitude": "-90.1049584153925"
-    }
-  },
-  {
-    "service_request": "2023-1044406",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-10-19T08:37:04.000",
-    "date_modified": "2023-10-19T08:37:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4300 BLK S Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1044406",
-    "final_x": "3669934.41403",
-    "final_y": "536971.082013",
-    "longitude": "-90.10440577163602",
-    "latitude": "29.970830436620457",
-    "geocoded_column": {
-      "latitude": "29.970830436620457",
-      "longitude": "-90.10440577163602"
-    }
-  },
-  {
-    "service_request": "2023-1044403",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-10-19T08:32:02.000",
-    "date_modified": "2023-10-21T14:29:23.000",
-    "case_close_date": "2023-10-21T09:29:23.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5216 Danneel St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1044403",
-    "final_x": "3668011.29313",
-    "final_y": "522117.241978",
-    "longitude": "-90.11097967640912",
-    "latitude": "29.9300437942745",
-    "geocoded_column": {
-      "latitude": "29.9300437942745",
-      "longitude": "-90.11097967640912"
-    }
-  },
-  {
-    "service_request": "2023-1044394",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-10-19T08:17:07.000",
-    "date_modified": "2023-10-19T08:17:07.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4400 BLK S Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1044394",
-    "final_x": "3670208.21335",
-    "final_y": "537366.736078",
-    "longitude": "-90.10352766588777",
-    "latitude": "29.971910275079853",
-    "geocoded_column": {
-      "latitude": "29.971910275079853",
-      "longitude": "-90.10352766588777"
-    }
-  },
-  {
-    "service_request": "2023-1044390",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-10-19T08:13:28.000",
-    "date_modified": "2023-10-19T08:13:28.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK S Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1044390",
-    "final_x": "3662578.06326",
-    "final_y": "529000.808912",
-    "longitude": "-90.12790296545961",
-    "latitude": "29.94912967055273",
-    "geocoded_column": {
-      "latitude": "29.94912967055273",
-      "longitude": "-90.12790296545961"
-    }
-  },
-  {
-    "service_request": "2023-1044388",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-10-19T08:10:57.000",
-    "date_modified": "2023-10-19T08:10:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "WILLOW ST & S CARROLLTON AVE",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1044388",
-    "final_x": "3662457.7",
-    "final_y": "528870.68",
-    "longitude": "-90.12828732798027",
-    "latitude": "29.9487753389812",
-    "geocoded_column": {
-      "latitude": "29.9487753389812",
-      "longitude": "-90.12828732798027"
     }
   }
 ]
