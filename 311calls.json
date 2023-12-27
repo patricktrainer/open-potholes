@@ -1583,27 +1583,6 @@
     }
   },
   {
-    "service_request": "2023-1057470",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-12-26T14:18:09.000",
-    "date_modified": "2023-12-26T14:18:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1829 Bordeaux St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1057470",
-    "final_x": "3669329.725",
-    "final_y": "521672.549241",
-    "longitude": "-90.1068326189762",
-    "latitude": "29.92878229206484",
-    "geocoded_column": {
-      "latitude": "29.92878229206484",
-      "longitude": "-90.1068326189762"
-    }
-  },
-  {
     "service_request": "2023-1057471",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -1625,6 +1604,27 @@
     "geocoded_column": {
       "latitude": "30.00207501544259",
       "longitude": "-90.08120886040687"
+    }
+  },
+  {
+    "service_request": "2023-1057470",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-26T14:18:09.000",
+    "date_modified": "2023-12-26T14:18:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1829 Bordeaux St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057470",
+    "final_x": "3669329.725",
+    "final_y": "521672.549241",
+    "longitude": "-90.1068326189762",
+    "latitude": "29.92878229206484",
+    "geocoded_column": {
+      "latitude": "29.92878229206484",
+      "longitude": "-90.1068326189762"
     }
   },
   {
@@ -9422,27 +9422,6 @@
     }
   },
   {
-    "service_request": "2023-1057094",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2023-12-21T15:23:02.000",
-    "date_modified": "2023-12-21T15:23:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4232 Cadiz St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1057094",
-    "final_x": "3669169.56878",
-    "final_y": "528664.13536",
-    "longitude": "-90.10710200579089",
-    "latitude": "29.948011611842137",
-    "geocoded_column": {
-      "latitude": "29.948011611842137",
-      "longitude": "-90.10710200579089"
-    }
-  },
-  {
     "service_request": "2023-1057093",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -9464,6 +9443,27 @@
     "geocoded_column": {
       "latitude": "30.014993693718022",
       "longitude": "-90.01602600792356"
+    }
+  },
+  {
+    "service_request": "2023-1057094",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2023-12-21T15:23:02.000",
+    "date_modified": "2023-12-21T15:23:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4232 Cadiz St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057094",
+    "final_x": "3669169.56878",
+    "final_y": "528664.13536",
+    "longitude": "-90.10710200579089",
+    "latitude": "29.948011611842137",
+    "geocoded_column": {
+      "latitude": "29.948011611842137",
+      "longitude": "-90.10710200579089"
     }
   },
   {
@@ -17361,27 +17361,6 @@
     }
   },
   {
-    "service_request": "2023-1056720",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2023-12-20T08:44:02.000",
-    "date_modified": "2023-12-20T08:44:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2007 Lafitte Ave",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1056720",
-    "final_x": "3678595.64571",
-    "final_y": "535046.211782",
-    "longitude": "-90.07711915767787",
-    "latitude": "29.965279434921605",
-    "geocoded_column": {
-      "latitude": "29.965279434921605",
-      "longitude": "-90.07711915767787"
-    }
-  },
-  {
     "service_request": "2023-1056719",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -17400,6 +17379,27 @@
     "geocoded_column": {
       "latitude": "29.986057018076604",
       "longitude": "-90.0795552724145"
+    }
+  },
+  {
+    "service_request": "2023-1056720",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2023-12-20T08:44:02.000",
+    "date_modified": "2023-12-20T08:44:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2007 Lafitte Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1056720",
+    "final_x": "3678595.64571",
+    "final_y": "535046.211782",
+    "longitude": "-90.07711915767787",
+    "latitude": "29.965279434921605",
+    "geocoded_column": {
+      "latitude": "29.965279434921605",
+      "longitude": "-90.07711915767787"
     }
   },
   {
