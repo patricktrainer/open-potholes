@@ -13971,6 +13971,27 @@
     }
   },
   {
+    "service_request": "2023-1057470",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-26T14:18:09.000",
+    "date_modified": "2023-12-26T14:18:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1829 Bordeaux St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057470",
+    "final_x": "3669329.725",
+    "final_y": "521672.549241",
+    "longitude": "-90.1068326189762",
+    "latitude": "29.92878229206484",
+    "geocoded_column": {
+      "latitude": "29.92878229206484",
+      "longitude": "-90.1068326189762"
+    }
+  },
+  {
     "service_request": "2023-1057471",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -13992,27 +14013,6 @@
     "geocoded_column": {
       "latitude": "30.00207501544259",
       "longitude": "-90.08120886040687"
-    }
-  },
-  {
-    "service_request": "2023-1057470",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-12-26T14:18:09.000",
-    "date_modified": "2023-12-26T14:18:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1829 Bordeaux St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1057470",
-    "final_x": "3669329.725",
-    "final_y": "521672.549241",
-    "longitude": "-90.1068326189762",
-    "latitude": "29.92878229206484",
-    "geocoded_column": {
-      "latitude": "29.92878229206484",
-      "longitude": "-90.1068326189762"
     }
   },
   {
@@ -20474,29 +20474,6 @@
     }
   },
   {
-    "service_request": "2023-1057163",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2023-12-22T10:56:37.000",
-    "date_modified": "2023-12-27T13:44:02.000",
-    "case_close_date": "2023-12-27T07:44:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1840 St Thomas St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "rowid": "1057163",
-    "final_x": "3681095.40002",
-    "final_y": "521477.562425",
-    "longitude": "-90.06969760493234",
-    "latitude": "29.927894607677175",
-    "geocoded_column": {
-      "latitude": "29.927894607677175",
-      "longitude": "-90.06969760493234"
-    }
-  },
-  {
     "service_request": "2023-1057164",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -20510,6 +20487,29 @@
     "status": "Duplicate Request",
     "contractor": "Richards Disposal",
     "rowid": "1057164",
+    "final_x": "3681095.40002",
+    "final_y": "521477.562425",
+    "longitude": "-90.06969760493234",
+    "latitude": "29.927894607677175",
+    "geocoded_column": {
+      "latitude": "29.927894607677175",
+      "longitude": "-90.06969760493234"
+    }
+  },
+  {
+    "service_request": "2023-1057163",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2023-12-22T10:56:37.000",
+    "date_modified": "2023-12-27T13:44:02.000",
+    "case_close_date": "2023-12-27T07:44:02.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1840 St Thomas St",
+    "address_councildis": "B",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "rowid": "1057163",
     "final_x": "3681095.40002",
     "final_y": "521477.562425",
     "longitude": "-90.06969760493234",
