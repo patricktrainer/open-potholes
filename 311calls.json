@@ -9921,6 +9921,27 @@
     }
   },
   {
+    "service_request": "2023-1057972",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Recycling Cart",
+    "date_created": "2023-12-28T12:16:37.000",
+    "date_modified": "2023-12-28T12:28:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4623 Laine Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1057972",
+    "final_x": "3705928.19153",
+    "final_y": "554651.552728",
+    "longitude": "-89.99007928534928",
+    "latitude": "30.01833452825426",
+    "geocoded_column": {
+      "latitude": "30.01833452825426",
+      "longitude": "-89.99007928534928"
+    }
+  },
+  {
     "service_request": "2023-1057973",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -9941,27 +9962,6 @@
     "geocoded_column": {
       "latitude": "29.93441240596466",
       "longitude": "-90.09468804201809"
-    }
-  },
-  {
-    "service_request": "2023-1057972",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Recycling Cart",
-    "date_created": "2023-12-28T12:16:37.000",
-    "date_modified": "2023-12-28T12:28:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4623 Laine Ave",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1057972",
-    "final_x": "3705928.19153",
-    "final_y": "554651.552728",
-    "longitude": "-89.99007928534928",
-    "latitude": "30.01833452825426",
-    "geocoded_column": {
-      "latitude": "30.01833452825426",
-      "longitude": "-89.99007928534928"
     }
   },
   {
@@ -20715,27 +20715,6 @@
     }
   },
   {
-    "service_request": "2023-1057470",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2023-12-26T14:18:09.000",
-    "date_modified": "2023-12-26T14:18:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1829 Bordeaux St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1057470",
-    "final_x": "3669329.725",
-    "final_y": "521672.549241",
-    "longitude": "-90.1068326189762",
-    "latitude": "29.92878229206484",
-    "geocoded_column": {
-      "latitude": "29.92878229206484",
-      "longitude": "-90.1068326189762"
-    }
-  },
-  {
     "service_request": "2023-1057471",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -20757,6 +20736,27 @@
     "geocoded_column": {
       "latitude": "30.00207501544259",
       "longitude": "-90.08120886040687"
+    }
+  },
+  {
+    "service_request": "2023-1057470",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2023-12-26T14:18:09.000",
+    "date_modified": "2023-12-26T14:18:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1829 Bordeaux St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1057470",
+    "final_x": "3669329.725",
+    "final_y": "521672.549241",
+    "longitude": "-90.1068326189762",
+    "latitude": "29.92878229206484",
+    "geocoded_column": {
+      "latitude": "29.92878229206484",
+      "longitude": "-90.1068326189762"
     }
   },
   {
