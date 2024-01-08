@@ -21559,6 +21559,27 @@
     }
   },
   {
+    "service_request": "2023-1058072",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Catch Basin - Clogged",
+    "date_created": "2023-12-28T16:04:45.000",
+    "date_modified": "2024-01-02T14:33:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "PINES BLVD & DEANNE ST",
+    "address_councildis": "D",
+    "status": "Scheduled",
+    "rowid": "1058072",
+    "final_x": "3695786.4",
+    "final_y": "555990.38",
+    "longitude": "-90.02207501573812",
+    "latitude": "30.02233880411819",
+    "geocoded_column": {
+      "latitude": "30.02233880411819",
+      "longitude": "-90.02207501573812"
+    }
+  },
+  {
     "service_request": "2023-1058071",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -21580,27 +21601,6 @@
     "geocoded_column": {
       "latitude": "30.023453612167025",
       "longitude": "-89.96535734418731"
-    }
-  },
-  {
-    "service_request": "2023-1058072",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Catch Basin - Clogged",
-    "date_created": "2023-12-28T16:04:45.000",
-    "date_modified": "2024-01-02T14:33:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PINES BLVD & DEANNE ST",
-    "address_councildis": "D",
-    "status": "Scheduled",
-    "rowid": "1058072",
-    "final_x": "3695786.4",
-    "final_y": "555990.38",
-    "longitude": "-90.02207501573812",
-    "latitude": "30.02233880411819",
-    "geocoded_column": {
-      "latitude": "30.02233880411819",
-      "longitude": "-90.02207501573812"
     }
   },
   {
