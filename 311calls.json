@@ -9169,27 +9169,6 @@
     }
   },
   {
-    "service_request": "2024-1069121",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2024-02-20T13:35:44.000",
-    "date_modified": "2024-02-20T13:35:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4800 Raymond Joseph Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1069121",
-    "final_x": "3703617.16906",
-    "final_y": "555514.866841",
-    "longitude": "-89.99734940039193",
-    "latitude": "30.020782600196448",
-    "geocoded_column": {
-      "latitude": "30.020782600196448",
-      "longitude": "-89.99734940039193"
-    }
-  },
-  {
     "service_request": "2024-1069122",
     "request_type": "Trash/Recycling",
     "request_reason": "Illegal Dumping",
@@ -9208,6 +9187,27 @@
     "geocoded_column": {
       "latitude": "30.007689758607874",
       "longitude": "-90.0179716022294"
+    }
+  },
+  {
+    "service_request": "2024-1069121",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2024-02-20T13:35:44.000",
+    "date_modified": "2024-02-20T13:35:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4800 Raymond Joseph Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1069121",
+    "final_x": "3703617.16906",
+    "final_y": "555514.866841",
+    "longitude": "-89.99734940039193",
+    "latitude": "30.020782600196448",
+    "geocoded_column": {
+      "latitude": "30.020782600196448",
+      "longitude": "-89.99734940039193"
     }
   },
   {
