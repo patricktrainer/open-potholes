@@ -15443,27 +15443,6 @@
     }
   },
   {
-    "service_request": "2024-1069122",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2024-02-20T13:35:44.000",
-    "date_modified": "2024-02-20T13:35:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6000 BLK Old Gentilly Rd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1069122",
-    "final_x": "3697146.03579",
-    "final_y": "550678.309192",
-    "longitude": "-90.0179716022294",
-    "latitude": "30.007689758607874",
-    "geocoded_column": {
-      "latitude": "30.007689758607874",
-      "longitude": "-90.0179716022294"
-    }
-  },
-  {
     "service_request": "2024-1069121",
     "request_type": "Trash/Recycling",
     "request_reason": "Illegal Dumping",
@@ -15482,6 +15461,27 @@
     "geocoded_column": {
       "latitude": "30.020782600196448",
       "longitude": "-89.99734940039193"
+    }
+  },
+  {
+    "service_request": "2024-1069122",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2024-02-20T13:35:44.000",
+    "date_modified": "2024-02-20T13:35:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6000 BLK Old Gentilly Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1069122",
+    "final_x": "3697146.03579",
+    "final_y": "550678.309192",
+    "longitude": "-90.0179716022294",
+    "latitude": "30.007689758607874",
+    "geocoded_column": {
+      "latitude": "30.007689758607874",
+      "longitude": "-90.0179716022294"
     }
   },
   {
