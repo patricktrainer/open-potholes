@@ -12552,6 +12552,27 @@
     }
   },
   {
+    "service_request": "2024-1070404",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2024-02-26T10:12:25.000",
+    "date_modified": "2024-02-26T10:12:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2036 Pauger St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1070404",
+    "final_x": "3683755.26421",
+    "final_y": "537241.272712",
+    "longitude": "-90.0607483792081",
+    "latitude": "29.971158546748015",
+    "geocoded_column": {
+      "latitude": "29.971158546748015",
+      "longitude": "-90.0607483792081"
+    }
+  },
+  {
     "service_request": "2024-1070403",
     "request_type": "Trash/Recycling",
     "request_reason": "Dead Animal Pick Up",
@@ -12573,27 +12594,6 @@
     "geocoded_column": {
       "latitude": "29.91807804603675",
       "longitude": "-89.99432828231339"
-    }
-  },
-  {
-    "service_request": "2024-1070404",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2024-02-26T10:12:25.000",
-    "date_modified": "2024-02-26T10:12:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2036 Pauger St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1070404",
-    "final_x": "3683755.26421",
-    "final_y": "537241.272712",
-    "longitude": "-90.0607483792081",
-    "latitude": "29.971158546748015",
-    "geocoded_column": {
-      "latitude": "29.971158546748015",
-      "longitude": "-90.0607483792081"
     }
   },
   {
