@@ -9076,27 +9076,6 @@
     }
   },
   {
-    "service_request": "2024-1071511",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-02-29T13:21:51.000",
-    "date_modified": "2024-02-29T13:21:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4744 Crowder Blvd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1071511",
-    "final_x": "3706309.95358",
-    "final_y": "555832.127257",
-    "longitude": "-89.98882930001099",
-    "latitude": "30.02156834030124",
-    "geocoded_column": {
-      "latitude": "30.02156834030124",
-      "longitude": "-89.98882930001099"
-    }
-  },
-  {
     "service_request": "2024-1071510",
     "request_type": "Roads/Drainage",
     "request_reason": "Street Subsidence (Sinking)",
@@ -9115,6 +9094,27 @@
     "geocoded_column": {
       "latitude": "29.961921728131145",
       "longitude": "-90.07437927615977"
+    }
+  },
+  {
+    "service_request": "2024-1071511",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-02-29T13:21:51.000",
+    "date_modified": "2024-02-29T13:21:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4744 Crowder Blvd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1071511",
+    "final_x": "3706309.95358",
+    "final_y": "555832.127257",
+    "longitude": "-89.98882930001099",
+    "latitude": "30.02156834030124",
+    "geocoded_column": {
+      "latitude": "30.02156834030124",
+      "longitude": "-89.98882930001099"
     }
   },
   {
