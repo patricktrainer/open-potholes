@@ -19346,27 +19346,6 @@
     }
   },
   {
-    "service_request": "2024-1071510",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Street Subsidence (Sinking)",
-    "date_created": "2024-02-29T13:21:51.000",
-    "date_modified": "2024-02-29T13:26:35.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1600 BLK Saint Louis St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1071510",
-    "final_x": "3679476.57047",
-    "final_y": "533834.744782",
-    "longitude": "-90.07437927615977",
-    "latitude": "29.961921728131145",
-    "geocoded_column": {
-      "latitude": "29.961921728131145",
-      "longitude": "-90.07437927615977"
-    }
-  },
-  {
     "service_request": "2024-1071511",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -19385,6 +19364,27 @@
     "geocoded_column": {
       "latitude": "30.02156834030124",
       "longitude": "-89.98882930001099"
+    }
+  },
+  {
+    "service_request": "2024-1071510",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Street Subsidence (Sinking)",
+    "date_created": "2024-02-29T13:21:51.000",
+    "date_modified": "2024-02-29T13:26:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK Saint Louis St",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "1071510",
+    "final_x": "3679476.57047",
+    "final_y": "533834.744782",
+    "longitude": "-90.07437927615977",
+    "latitude": "29.961921728131145",
+    "geocoded_column": {
+      "latitude": "29.961921728131145",
+      "longitude": "-90.07437927615977"
     }
   },
   {
