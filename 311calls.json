@@ -19588,6 +19588,27 @@
     }
   },
   {
+    "service_request": "2024-1072766",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Street Subsidence (Sinking)",
+    "date_created": "2024-03-05T15:36:46.000",
+    "date_modified": "2024-03-06T14:49:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5433 Vermillion Blvd",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1072766",
+    "final_x": "3683332.9885",
+    "final_y": "552814.518166",
+    "longitude": "-90.06153609354493",
+    "latitude": "30.013992324542834",
+    "geocoded_column": {
+      "latitude": "30.013992324542834",
+      "longitude": "-90.06153609354493"
+    }
+  },
+  {
     "service_request": "2024-1072767",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -19607,27 +19628,6 @@
     "geocoded_column": {
       "latitude": "30.016300849525358",
       "longitude": "-90.06942102283878"
-    }
-  },
-  {
-    "service_request": "2024-1072766",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Street Subsidence (Sinking)",
-    "date_created": "2024-03-05T15:36:46.000",
-    "date_modified": "2024-03-06T14:49:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5433 Vermillion Blvd",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1072766",
-    "final_x": "3683332.9885",
-    "final_y": "552814.518166",
-    "longitude": "-90.06153609354493",
-    "latitude": "30.013992324542834",
-    "geocoded_column": {
-      "latitude": "30.013992324542834",
-      "longitude": "-90.06153609354493"
     }
   },
   {
