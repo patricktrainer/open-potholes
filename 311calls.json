@@ -19758,30 +19758,6 @@
     }
   },
   {
-    "service_request": "2024-1089128",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2024-04-30T10:58:42.000",
-    "date_modified": "2024-05-02T12:17:13.000",
-    "case_close_date": "2024-05-02T07:17:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1726 Constantinople St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1089128",
-    "final_x": "3672210.81735",
-    "final_y": "521611.833465",
-    "longitude": "-90.09773964910023",
-    "latitude": "29.92853023145648",
-    "geocoded_column": {
-      "latitude": "29.92853023145648",
-      "longitude": "-90.09773964910023"
-    }
-  },
-  {
     "service_request": "2024-1089129",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -19803,6 +19779,30 @@
     "geocoded_column": {
       "latitude": "29.953703918147315",
       "longitude": "-90.0674861245128"
+    }
+  },
+  {
+    "service_request": "2024-1089128",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2024-04-30T10:58:42.000",
+    "date_modified": "2024-05-02T12:17:13.000",
+    "case_close_date": "2024-05-02T07:17:13.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1726 Constantinople St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1089128",
+    "final_x": "3672210.81735",
+    "final_y": "521611.833465",
+    "longitude": "-90.09773964910023",
+    "latitude": "29.92853023145648",
+    "geocoded_column": {
+      "latitude": "29.92853023145648",
+      "longitude": "-90.09773964910023"
     }
   },
   {
