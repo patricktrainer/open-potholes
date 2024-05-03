@@ -19758,30 +19758,6 @@
     }
   },
   {
-    "service_request": "2024-1089129",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-04-30T10:58:42.000",
-    "date_modified": "2024-05-01T11:39:45.000",
-    "case_close_date": "2024-05-01T06:39:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "203 Chartres St, New Orleans, Louisiana, 70130",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Empire Services",
-    "contractor_action": "Completed",
-    "rowid": "1089129",
-    "final_x": "3681692.18613",
-    "final_y": "530870.491586",
-    "longitude": "-90.0674861245128",
-    "latitude": "29.953703918147315",
-    "geocoded_column": {
-      "latitude": "29.953703918147315",
-      "longitude": "-90.0674861245128"
-    }
-  },
-  {
     "service_request": "2024-1089128",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -19803,6 +19779,30 @@
     "geocoded_column": {
       "latitude": "29.92853023145648",
       "longitude": "-90.09773964910023"
+    }
+  },
+  {
+    "service_request": "2024-1089129",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-04-30T10:58:42.000",
+    "date_modified": "2024-05-01T11:39:45.000",
+    "case_close_date": "2024-05-01T06:39:45.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "203 Chartres St, New Orleans, Louisiana, 70130",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Empire Services",
+    "contractor_action": "Completed",
+    "rowid": "1089129",
+    "final_x": "3681692.18613",
+    "final_y": "530870.491586",
+    "longitude": "-90.0674861245128",
+    "latitude": "29.953703918147315",
+    "geocoded_column": {
+      "latitude": "29.953703918147315",
+      "longitude": "-90.0674861245128"
     }
   },
   {
