@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2024-1090513",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-05-05T19:59:27.000",
+    "date_modified": "2024-05-05T19:59:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "9890 Lake Forest Blvd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1090513",
+    "final_x": "3710522.43269",
+    "final_y": "559379.343901",
+    "longitude": "-89.97538629705147",
+    "latitude": "30.03118520796939",
+    "geocoded_column": {
+      "latitude": "30.03118520796939",
+      "longitude": "-89.97538629705147"
+    }
+  },
+  {
     "service_request": "2024-1090410",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21525,28 +21546,6 @@
     "geocoded_column": {
       "latitude": "29.922850019854593",
       "longitude": "-90.09981939416457"
-    }
-  },
-  {
-    "service_request": "2024-1070971",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-02-27T16:16:51.000",
-    "date_modified": "2024-02-28T08:44:34.000",
-    "case_close_date": "2024-02-28T02:44:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5769 Warrington Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1070971",
-    "final_x": "3680829.62299",
-    "final_y": "554464.313944",
-    "longitude": "-90.06938795480225",
-    "latitude": "30.018604825870657",
-    "geocoded_column": {
-      "latitude": "30.018604825870657",
-      "longitude": "-90.06938795480225"
     }
   }
 ]
