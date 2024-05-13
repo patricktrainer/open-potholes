@@ -5379,27 +5379,6 @@
     }
   },
   {
-    "service_request": "2024-1092251",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2024-05-10T15:55:55.000",
-    "date_modified": "2024-05-10T15:55:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "9548 Stroelitz St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1092251",
-    "final_x": "3663991.2889",
-    "final_y": "538488.030665",
-    "longitude": "-90.12312439112239",
-    "latitude": "29.97517546930037",
-    "geocoded_column": {
-      "latitude": "29.97517546930037",
-      "longitude": "-90.12312439112239"
-    }
-  },
-  {
     "service_request": "2024-1092252",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Recycling Cart",
@@ -5411,6 +5390,27 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "1092252",
+    "final_x": "3663991.2889",
+    "final_y": "538488.030665",
+    "longitude": "-90.12312439112239",
+    "latitude": "29.97517546930037",
+    "geocoded_column": {
+      "latitude": "29.97517546930037",
+      "longitude": "-90.12312439112239"
+    }
+  },
+  {
+    "service_request": "2024-1092251",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2024-05-10T15:55:55.000",
+    "date_modified": "2024-05-10T15:55:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "9548 Stroelitz St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1092251",
     "final_x": "3663991.2889",
     "final_y": "538488.030665",
     "longitude": "-90.12312439112239",
