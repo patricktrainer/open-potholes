@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2024-1092460",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-05-12T16:49:54.000",
+    "date_modified": "2024-05-12T16:49:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5921 Coliseum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1092460",
+    "final_x": "3665303.22644",
+    "final_y": "520189.895096",
+    "longitude": "-90.11959307956585",
+    "latitude": "29.924823355758967",
+    "geocoded_column": {
+      "latitude": "29.924823355758967",
+      "longitude": "-90.11959307956585"
+    }
+  },
+  {
+    "service_request": "2024-1092452",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-05-12T15:16:13.000",
+    "date_modified": "2024-05-12T15:16:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6024 Benjamin St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1092452",
+    "final_x": "3665395.13933",
+    "final_y": "522178.833594",
+    "longitude": "-90.11923641544821",
+    "latitude": "29.93028963171796",
+    "geocoded_column": {
+      "latitude": "29.93028963171796",
+      "longitude": "-90.11923641544821"
+    }
+  },
+  {
+    "service_request": "2024-1092398",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-05-12T08:31:17.000",
+    "date_modified": "2024-05-12T08:31:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4900 Carondelet St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1092398",
+    "final_x": "3669013.15508",
+    "final_y": "521008.061497",
+    "longitude": "-90.10785440277594",
+    "latitude": "29.9269644760373",
+    "geocoded_column": {
+      "latitude": "29.9269644760373",
+      "longitude": "-90.10785440277594"
+    }
+  },
+  {
     "service_request": "2024-1092388",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21500,70 +21563,6 @@
     "geocoded_column": {
       "latitude": "30.016300849525358",
       "longitude": "-90.06942102283878"
-    }
-  },
-  {
-    "service_request": "2024-1072765",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-03-05T15:35:35.000",
-    "date_modified": "2024-03-06T16:05:21.000",
-    "case_close_date": "2024-03-06T10:05:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1312 Milan St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1072765",
-    "final_x": "3671625.82823",
-    "final_y": "520286.919608",
-    "longitude": "-90.09963137110304",
-    "latitude": "29.92490447494246",
-    "geocoded_column": {
-      "latitude": "29.92490447494246",
-      "longitude": "-90.09963137110304"
-    }
-  },
-  {
-    "service_request": "2024-1072745",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-03-05T15:09:33.000",
-    "date_modified": "2024-03-05T15:09:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1301 Constantinople St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1072745",
-    "final_x": "3672430.66305",
-    "final_y": "520250.7726",
-    "longitude": "-90.09709199725775",
-    "latitude": "29.924781230435865",
-    "geocoded_column": {
-      "latitude": "29.924781230435865",
-      "longitude": "-90.09709199725775"
-    }
-  },
-  {
-    "service_request": "2024-1072637",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-03-05T12:54:03.000",
-    "date_modified": "2024-03-05T12:54:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "600 BLK Red Allen Way",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1072637",
-    "final_x": "3687301.38422",
-    "final_y": "528735.256622",
-    "longitude": "-90.04985017915384",
-    "latitude": "29.947661173153246",
-    "geocoded_column": {
-      "latitude": "29.947661173153246",
-      "longitude": "-90.04985017915384"
     }
   }
 ]
