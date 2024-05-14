@@ -12806,27 +12806,6 @@
     }
   },
   {
-    "service_request": "2024-1092252",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2024-05-10T15:55:55.000",
-    "date_modified": "2024-05-10T15:55:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "9548 Stroelitz St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1092252",
-    "final_x": "3663991.2889",
-    "final_y": "538488.030665",
-    "longitude": "-90.12312439112239",
-    "latitude": "29.97517546930037",
-    "geocoded_column": {
-      "latitude": "29.97517546930037",
-      "longitude": "-90.12312439112239"
-    }
-  },
-  {
     "service_request": "2024-1092251",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Recycling Cart",
@@ -12838,6 +12817,27 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "1092251",
+    "final_x": "3663991.2889",
+    "final_y": "538488.030665",
+    "longitude": "-90.12312439112239",
+    "latitude": "29.97517546930037",
+    "geocoded_column": {
+      "latitude": "29.97517546930037",
+      "longitude": "-90.12312439112239"
+    }
+  },
+  {
+    "service_request": "2024-1092252",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2024-05-10T15:55:55.000",
+    "date_modified": "2024-05-10T15:55:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "9548 Stroelitz St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1092252",
     "final_x": "3663991.2889",
     "final_y": "538488.030665",
     "longitude": "-90.12312439112239",
@@ -21838,25 +21838,27 @@
     }
   },
   {
-    "service_request": "2024-1091825",
+    "service_request": "2024-1091826",
     "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
+    "request_reason": "Replace Trash Cart",
     "date_created": "2024-05-09T11:19:10.000",
-    "date_modified": "2024-05-09T11:19:10.000",
-    "request_status": "Pending",
+    "date_modified": "2024-05-13T10:10:28.000",
+    "case_close_date": "2024-05-13T05:10:28.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Sanitation",
-    "final_address": "3333 State Street Dr",
-    "address_councildis": "A",
+    "final_address": "1730 Second St",
+    "address_councildis": "B",
     "status": "Assigned to Contractor",
     "contractor": "IV Waste",
-    "rowid": "1091825",
-    "final_x": "3667765.73319",
-    "final_y": "528496.116032",
-    "longitude": "-90.11154015248043",
-    "latitude": "29.947590847630526",
+    "contractor_action": "Completed",
+    "rowid": "1091826",
+    "final_x": "3676325.22459",
+    "final_y": "523550.590907",
+    "longitude": "-90.08468463721294",
+    "latitude": "29.93373854739026",
     "geocoded_column": {
-      "latitude": "29.947590847630526",
-      "longitude": "-90.11154015248043"
+      "latitude": "29.93373854739026",
+      "longitude": "-90.08468463721294"
     }
   }
 ]
