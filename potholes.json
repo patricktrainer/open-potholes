@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2024-1098846",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-06-01T14:29:31.000",
+    "date_modified": "2024-06-01T14:29:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6070 Chestnut St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1098846",
+    "final_x": "3664412.78983",
+    "final_y": "519991.592952",
+    "longitude": "-90.12241052146828",
+    "latitude": "29.92430399204139",
+    "geocoded_column": {
+      "latitude": "29.92430399204139",
+      "longitude": "-90.12241052146828"
+    }
+  },
+  {
+    "service_request": "2024-1098845",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-06-01T14:28:24.000",
+    "date_modified": "2024-06-01T14:28:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1239 Eleonore St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1098845",
+    "final_x": "3665602.50362",
+    "final_y": "520568.733816",
+    "longitude": "-90.11863567920368",
+    "latitude": "29.925856322761145",
+    "geocoded_column": {
+      "latitude": "29.925856322761145",
+      "longitude": "-90.11863567920368"
+    }
+  },
+  {
+    "service_request": "2024-1098844",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-06-01T14:27:09.000",
+    "date_modified": "2024-06-01T14:27:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5923 Pitt St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1098844",
+    "final_x": "3665490.05639",
+    "final_y": "521140.942649",
+    "longitude": "-90.11897149996602",
+    "latitude": "29.92743299392239",
+    "geocoded_column": {
+      "latitude": "29.92743299392239",
+      "longitude": "-90.11897149996602"
+    }
+  },
+  {
     "service_request": "2024-1098773",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21544,72 +21607,6 @@
     "geocoded_column": {
       "latitude": "29.999648583963374",
       "longitude": "-90.05741753697804"
-    }
-  },
-  {
-    "service_request": "2024-1079156",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-03-27T10:32:39.000",
-    "date_modified": "2024-03-27T10:33:02.000",
-    "case_close_date": "2024-03-27T05:33:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8500 BLK Curran Rd",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1079156",
-    "final_x": "3704026.45182",
-    "final_y": "562511.54668",
-    "longitude": "-89.99579813798694",
-    "latitude": "30.04000761650585",
-    "geocoded_column": {
-      "latitude": "30.04000761650585",
-      "longitude": "-89.99579813798694"
-    }
-  },
-  {
-    "service_request": "2024-1079154",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-03-27T10:30:49.000",
-    "date_modified": "2024-03-27T10:31:10.000",
-    "case_close_date": "2024-03-27T05:31:10.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6700 BLK Dreux Ave",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1079154",
-    "final_x": "3699372.72983",
-    "final_y": "554142.11296",
-    "longitude": "-90.01081056396049",
-    "latitude": "30.017143439190534",
-    "geocoded_column": {
-      "latitude": "30.017143439190534",
-      "longitude": "-90.01081056396049"
-    }
-  },
-  {
-    "service_request": "2024-1079150",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-03-27T10:27:57.000",
-    "date_modified": "2024-03-27T10:28:18.000",
-    "case_close_date": "2024-03-27T05:28:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6700 BLK Selma St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1079150",
-    "final_x": "3699422.64213",
-    "final_y": "553605.062853",
-    "longitude": "-90.0106724495202",
-    "latitude": "30.015665171002624",
-    "geocoded_column": {
-      "latitude": "30.015665171002624",
-      "longitude": "-90.0106724495202"
     }
   }
 ]
