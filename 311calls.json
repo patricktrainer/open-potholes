@@ -2641,27 +2641,6 @@
     }
   },
   {
-    "service_request": "2024-1098900",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2024-06-02T00:03:22.000",
-    "date_modified": "2024-06-02T00:03:22.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "725 Fern St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1098900",
-    "final_x": "3661544.37856",
-    "final_y": "526701.458494",
-    "longitude": "-90.13124294309793",
-    "latitude": "29.942837051441494",
-    "geocoded_column": {
-      "latitude": "29.942837051441494",
-      "longitude": "-90.13124294309793"
-    }
-  },
-  {
     "service_request": "2024-1098901",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -2681,6 +2660,27 @@
     "geocoded_column": {
       "latitude": "29.94994067673017",
       "longitude": "-90.10122326473615"
+    }
+  },
+  {
+    "service_request": "2024-1098900",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2024-06-02T00:03:22.000",
+    "date_modified": "2024-06-02T00:03:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "725 Fern St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1098900",
+    "final_x": "3661544.37856",
+    "final_y": "526701.458494",
+    "longitude": "-90.13124294309793",
+    "latitude": "29.942837051441494",
+    "geocoded_column": {
+      "latitude": "29.942837051441494",
+      "longitude": "-90.13124294309793"
     }
   },
   {
@@ -4473,28 +4473,6 @@
     }
   },
   {
-    "service_request": "2024-1098810",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-06-01T10:19:28.000",
-    "date_modified": "2024-06-01T10:19:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4566 Cerise Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1098810",
-    "final_x": "3708644.65675",
-    "final_y": "554591.824728",
-    "longitude": "-89.98149856764431",
-    "latitude": "30.01808245838527",
-    "geocoded_column": {
-      "latitude": "30.01808245838527",
-      "longitude": "-89.98149856764431"
-    }
-  },
-  {
     "service_request": "2024-1098809",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -4507,6 +4485,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Waste Pro",
     "rowid": "1098809",
+    "final_x": "3708644.65675",
+    "final_y": "554591.824728",
+    "longitude": "-89.98149856764431",
+    "latitude": "30.01808245838527",
+    "geocoded_column": {
+      "latitude": "30.01808245838527",
+      "longitude": "-89.98149856764431"
+    }
+  },
+  {
+    "service_request": "2024-1098810",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-06-01T10:19:28.000",
+    "date_modified": "2024-06-01T10:19:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4566 Cerise Ave",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1098810",
     "final_x": "3708644.65675",
     "final_y": "554591.824728",
     "longitude": "-89.98149856764431",
