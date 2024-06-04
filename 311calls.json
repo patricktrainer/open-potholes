@@ -7308,27 +7308,6 @@
     }
   },
   {
-    "service_request": "2024-1099195",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2024-06-03T10:53:01.000",
-    "date_modified": "2024-06-03T10:53:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1009 Camp St HM",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1099195",
-    "final_x": "3680477.44104",
-    "final_y": "526926.218814",
-    "longitude": "-90.07145893742155",
-    "latitude": "29.942895335038273",
-    "geocoded_column": {
-      "latitude": "29.942895335038273",
-      "longitude": "-90.07145893742155"
-    }
-  },
-  {
     "service_request": "2024-1099196",
     "request_type": "Parks & Parkways",
     "request_reason": "Request Tree Service (Right of Way/Public Property)",
@@ -7347,6 +7326,27 @@
     "geocoded_column": {
       "latitude": "30.023606262050237",
       "longitude": "-89.94986219882499"
+    }
+  },
+  {
+    "service_request": "2024-1099195",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2024-06-03T10:53:01.000",
+    "date_modified": "2024-06-03T10:53:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1009 Camp St HM",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1099195",
+    "final_x": "3680477.44104",
+    "final_y": "526926.218814",
+    "longitude": "-90.07145893742155",
+    "latitude": "29.942895335038273",
+    "geocoded_column": {
+      "latitude": "29.942895335038273",
+      "longitude": "-90.07145893742155"
     }
   },
   {
@@ -15356,28 +15356,6 @@
     }
   },
   {
-    "service_request": "2024-1098809",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-06-01T10:19:28.000",
-    "date_modified": "2024-06-01T10:19:28.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4566 Cerise Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1098809",
-    "final_x": "3708644.65675",
-    "final_y": "554591.824728",
-    "longitude": "-89.98149856764431",
-    "latitude": "30.01808245838527",
-    "geocoded_column": {
-      "latitude": "30.01808245838527",
-      "longitude": "-89.98149856764431"
-    }
-  },
-  {
     "service_request": "2024-1098810",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -15392,6 +15370,28 @@
     "contractor": "Waste Pro",
     "contractor_action": "Duplicate",
     "rowid": "1098810",
+    "final_x": "3708644.65675",
+    "final_y": "554591.824728",
+    "longitude": "-89.98149856764431",
+    "latitude": "30.01808245838527",
+    "geocoded_column": {
+      "latitude": "30.01808245838527",
+      "longitude": "-89.98149856764431"
+    }
+  },
+  {
+    "service_request": "2024-1098809",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-06-01T10:19:28.000",
+    "date_modified": "2024-06-01T10:19:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4566 Cerise Ave",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1098809",
     "final_x": "3708644.65675",
     "final_y": "554591.824728",
     "longitude": "-89.98149856764431",
