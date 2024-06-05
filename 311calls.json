@@ -16377,27 +16377,6 @@
     }
   },
   {
-    "service_request": "2024-1099196",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2024-06-03T10:53:01.000",
-    "date_modified": "2024-06-03T10:53:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "4701 W Adams Ct",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1099196",
-    "final_x": "3718631.79557",
-    "final_y": "556719.973786",
-    "longitude": "-89.94986219882499",
-    "latitude": "30.023606262050237",
-    "geocoded_column": {
-      "latitude": "30.023606262050237",
-      "longitude": "-89.94986219882499"
-    }
-  },
-  {
     "service_request": "2024-1099195",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -16416,6 +16395,27 @@
     "geocoded_column": {
       "latitude": "29.942895335038273",
       "longitude": "-90.07145893742155"
+    }
+  },
+  {
+    "service_request": "2024-1099196",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2024-06-03T10:53:01.000",
+    "date_modified": "2024-06-03T10:53:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "4701 W Adams Ct",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1099196",
+    "final_x": "3718631.79557",
+    "final_y": "556719.973786",
+    "longitude": "-89.94986219882499",
+    "latitude": "30.023606262050237",
+    "geocoded_column": {
+      "latitude": "30.023606262050237",
+      "longitude": "-89.94986219882499"
     }
   },
   {
