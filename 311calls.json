@@ -10595,30 +10595,6 @@
     }
   },
   {
-    "service_request": "2024-1099912",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2024-06-04T15:57:55.000",
-    "date_modified": "2024-06-05T09:45:42.000",
-    "case_close_date": "2024-06-05T04:45:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "618 N Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Invalid Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid",
-    "rowid": "1099912",
-    "final_x": "3672535.14657",
-    "final_y": "539739.944906",
-    "longitude": "-90.09609789734962",
-    "latitude": "29.978366917595974",
-    "geocoded_column": {
-      "latitude": "29.978366917595974",
-      "longitude": "-90.09609789734962"
-    }
-  },
-  {
     "service_request": "2024-1099913",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -10633,6 +10609,30 @@
     "contractor": "IV Waste",
     "contractor_action": "Duplicate",
     "rowid": "1099913",
+    "final_x": "3672535.14657",
+    "final_y": "539739.944906",
+    "longitude": "-90.09609789734962",
+    "latitude": "29.978366917595974",
+    "geocoded_column": {
+      "latitude": "29.978366917595974",
+      "longitude": "-90.09609789734962"
+    }
+  },
+  {
+    "service_request": "2024-1099912",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2024-06-04T15:57:55.000",
+    "date_modified": "2024-06-05T09:45:42.000",
+    "case_close_date": "2024-06-05T04:45:42.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "618 N Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Invalid Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid",
+    "rowid": "1099912",
     "final_x": "3672535.14657",
     "final_y": "539739.944906",
     "longitude": "-90.09609789734962",
