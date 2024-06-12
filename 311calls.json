@@ -13550,30 +13550,6 @@
     }
   },
   {
-    "service_request": "2024-1101914",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-06-10T15:14:20.000",
-    "date_modified": "2024-06-11T18:03:08.000",
-    "case_close_date": "2024-06-11T13:03:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7343 Read Blvd",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "contractor": "Waste Pro",
-    "contractor_action": "Duplicate",
-    "rowid": "1101914",
-    "final_x": "3709306.2364",
-    "final_y": "563243.791136",
-    "longitude": "-89.97908515689079",
-    "latitude": "30.041850478552938",
-    "geocoded_column": {
-      "latitude": "30.041850478552938",
-      "longitude": "-89.97908515689079"
-    }
-  },
-  {
     "service_request": "2024-1101915",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -13588,6 +13564,30 @@
     "contractor": "Waste Pro",
     "contractor_action": "Completed",
     "rowid": "1101915",
+    "final_x": "3709306.2364",
+    "final_y": "563243.791136",
+    "longitude": "-89.97908515689079",
+    "latitude": "30.041850478552938",
+    "geocoded_column": {
+      "latitude": "30.041850478552938",
+      "longitude": "-89.97908515689079"
+    }
+  },
+  {
+    "service_request": "2024-1101914",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-06-10T15:14:20.000",
+    "date_modified": "2024-06-11T18:03:08.000",
+    "case_close_date": "2024-06-11T13:03:08.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7343 Read Blvd",
+    "address_councildis": "E",
+    "status": "Duplicate Request",
+    "contractor": "Waste Pro",
+    "contractor_action": "Duplicate",
+    "rowid": "1101914",
     "final_x": "3709306.2364",
     "final_y": "563243.791136",
     "longitude": "-89.97908515689079",
