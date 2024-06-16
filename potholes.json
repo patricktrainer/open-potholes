@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1104005",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-06-15T18:01:19.000",
+    "date_modified": "2024-06-15T18:01:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK English Turn Pkwy",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1104005",
+    "final_x": "3714478.8315",
+    "final_y": "516189.451005",
+    "longitude": "-89.96451447055301",
+    "latitude": "29.912299665809115",
+    "geocoded_column": {
+      "latitude": "29.912299665809115",
+      "longitude": "-89.96451447055301"
+    }
+  },
+  {
+    "service_request": "2024-1103976",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-06-15T13:44:07.000",
+    "date_modified": "2024-06-15T13:44:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "BORDEAUX ST & PITT ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1103976",
+    "final_x": "3669410.7",
+    "final_y": "520423.78",
+    "longitude": "-90.1066192002336",
+    "latitude": "29.925346190935787",
+    "geocoded_column": {
+      "latitude": "29.925346190935787",
+      "longitude": "-90.1066192002336"
+    }
+  },
+  {
     "service_request": "2024-1103899",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21578,50 +21620,6 @@
     "geocoded_column": {
       "latitude": "29.97682305673247",
       "longitude": "-90.03152379102323"
-    }
-  },
-  {
-    "service_request": "2024-1085533",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-04-17T12:49:52.000",
-    "date_modified": "2024-04-17T12:50:09.000",
-    "case_close_date": "2024-04-17T07:50:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4100 BLK N Miro St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1085533",
-    "final_x": "3693279.70888",
-    "final_y": "539333.508391",
-    "longitude": "-90.03059389876297",
-    "latitude": "29.97661715457969",
-    "geocoded_column": {
-      "latitude": "29.97661715457969",
-      "longitude": "-90.03059389876297"
-    }
-  },
-  {
-    "service_request": "2024-1085532",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-04-17T12:49:02.000",
-    "date_modified": "2024-04-17T12:49:19.000",
-    "case_close_date": "2024-04-17T07:49:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4200 BLK N Miro St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1085532",
-    "final_x": "3693475.16977",
-    "final_y": "539285.498316",
-    "longitude": "-90.02997830046095",
-    "latitude": "29.97647903217364",
-    "geocoded_column": {
-      "latitude": "29.97647903217364",
-      "longitude": "-90.02997830046095"
     }
   }
 ]
