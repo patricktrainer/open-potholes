@@ -11031,30 +11031,6 @@
     }
   },
   {
-    "service_request": "2024-1105034",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2024-06-19T13:38:57.000",
-    "date_modified": "2024-06-20T15:50:30.000",
-    "case_close_date": "2024-06-20T10:50:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5500 Holley Ln",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1105034",
-    "final_x": "3703482.8321",
-    "final_y": "556229.822938",
-    "longitude": "-89.99774753128108",
-    "latitude": "30.022752760060722",
-    "geocoded_column": {
-      "latitude": "30.022752760060722",
-      "longitude": "-89.99774753128108"
-    }
-  },
-  {
     "service_request": "2024-1105035",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -11076,6 +11052,30 @@
     "geocoded_column": {
       "latitude": "29.9359033107097",
       "longitude": "-90.10047810480661"
+    }
+  },
+  {
+    "service_request": "2024-1105034",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2024-06-19T13:38:57.000",
+    "date_modified": "2024-06-20T15:50:30.000",
+    "case_close_date": "2024-06-20T10:50:30.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5500 Holley Ln",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1105034",
+    "final_x": "3703482.8321",
+    "final_y": "556229.822938",
+    "longitude": "-89.99774753128108",
+    "latitude": "30.022752760060722",
+    "geocoded_column": {
+      "latitude": "30.022752760060722",
+      "longitude": "-89.99774753128108"
     }
   },
   {
@@ -21324,27 +21324,6 @@
     }
   },
   {
-    "service_request": "2024-1104553",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Damaged Sidewalk",
-    "date_created": "2024-06-18T08:09:22.000",
-    "date_modified": "2024-06-20T09:23:59.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6014 Wilton Dr",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1104553",
-    "final_x": "3681693.02568",
-    "final_y": "554819.162136",
-    "longitude": "-90.06664752253009",
-    "latitude": "30.01955431308189",
-    "geocoded_column": {
-      "latitude": "30.01955431308189",
-      "longitude": "-90.06664752253009"
-    }
-  },
-  {
     "service_request": "2024-1104552",
     "request_type": "Roads/Drainage",
     "request_reason": "Catch Basin - Clogged",
@@ -21363,6 +21342,27 @@
     "geocoded_column": {
       "latitude": "30.013780016127193",
       "longitude": "-90.080713278126"
+    }
+  },
+  {
+    "service_request": "2024-1104553",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Damaged Sidewalk",
+    "date_created": "2024-06-18T08:09:22.000",
+    "date_modified": "2024-06-20T09:23:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6014 Wilton Dr",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1104553",
+    "final_x": "3681693.02568",
+    "final_y": "554819.162136",
+    "longitude": "-90.06664752253009",
+    "latitude": "30.01955431308189",
+    "geocoded_column": {
+      "latitude": "30.01955431308189",
+      "longitude": "-90.06664752253009"
     }
   },
   {
