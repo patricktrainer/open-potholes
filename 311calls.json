@@ -18892,30 +18892,6 @@
     }
   },
   {
-    "service_request": "2024-1105035",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-06-19T13:38:57.000",
-    "date_modified": "2024-06-19T14:15:49.000",
-    "case_close_date": "2024-06-19T09:15:49.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2519 Milan St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1105035",
-    "final_x": "3671314.59073",
-    "final_y": "524283.613948",
-    "longitude": "-90.10047810480661",
-    "latitude": "29.9359033107097",
-    "geocoded_column": {
-      "latitude": "29.9359033107097",
-      "longitude": "-90.10047810480661"
-    }
-  },
-  {
     "service_request": "2024-1105034",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -18937,6 +18913,30 @@
     "geocoded_column": {
       "latitude": "30.022752760060722",
       "longitude": "-89.99774753128108"
+    }
+  },
+  {
+    "service_request": "2024-1105035",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-06-19T13:38:57.000",
+    "date_modified": "2024-06-19T14:15:49.000",
+    "case_close_date": "2024-06-19T09:15:49.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2519 Milan St",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1105035",
+    "final_x": "3671314.59073",
+    "final_y": "524283.613948",
+    "longitude": "-90.10047810480661",
+    "latitude": "29.9359033107097",
+    "geocoded_column": {
+      "latitude": "29.9359033107097",
+      "longitude": "-90.10047810480661"
     }
   },
   {
