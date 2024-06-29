@@ -20859,27 +20859,6 @@
     }
   },
   {
-    "service_request": "2024-1107054",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2024-06-26T08:29:07.000",
-    "date_modified": "2024-06-26T08:29:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "537 Aurora Oaks Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1107054",
-    "final_x": "3701256.71959",
-    "final_y": "521219.536633",
-    "longitude": "-90.00606288809418",
-    "latitude": "29.926558369692764",
-    "geocoded_column": {
-      "latitude": "29.926558369692764",
-      "longitude": "-90.00606288809418"
-    }
-  },
-  {
     "service_request": "2024-1107053",
     "request_type": "Trash/Recycling",
     "request_reason": "Stop Trash Service",
@@ -20901,6 +20880,27 @@
     "geocoded_column": {
       "latitude": "30.013717440702777",
       "longitude": "-90.035655925849"
+    }
+  },
+  {
+    "service_request": "2024-1107054",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2024-06-26T08:29:07.000",
+    "date_modified": "2024-06-26T08:29:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "537 Aurora Oaks Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1107054",
+    "final_x": "3701256.71959",
+    "final_y": "521219.536633",
+    "longitude": "-90.00606288809418",
+    "latitude": "29.926558369692764",
+    "geocoded_column": {
+      "latitude": "29.926558369692764",
+      "longitude": "-90.00606288809418"
     }
   },
   {
