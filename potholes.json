@@ -1,5 +1,152 @@
 [
   {
+    "service_request": "2024-1109492",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T21:56:59.000",
+    "date_modified": "2024-07-04T21:56:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1400 BLK Valence St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1109492",
+    "final_x": "3669784.65285",
+    "final_y": "520336.257015",
+    "longitude": "-90.1054417057675",
+    "latitude": "29.925094517046503",
+    "geocoded_column": {
+      "latitude": "29.925094517046503",
+      "longitude": "-90.1054417057675"
+    }
+  },
+  {
+    "service_request": "2024-1109475",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T17:17:25.000",
+    "date_modified": "2024-07-04T17:17:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1000 BLK Webster St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1109475",
+    "final_x": "3664418.43622",
+    "final_y": "520223.886833",
+    "longitude": "-90.12238494831831",
+    "latitude": "29.924942563273177",
+    "geocoded_column": {
+      "latitude": "29.924942563273177",
+      "longitude": "-90.12238494831831"
+    }
+  },
+  {
+    "service_request": "2024-1109465",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T15:39:24.000",
+    "date_modified": "2024-07-04T15:39:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "829 Nashville Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1109465",
+    "final_x": "3665630.14445",
+    "final_y": "519222.413111",
+    "longitude": "-90.11859347985998",
+    "latitude": "29.922153558399792",
+    "geocoded_column": {
+      "latitude": "29.922153558399792",
+      "longitude": "-90.11859347985998"
+    }
+  },
+  {
+    "service_request": "2024-1109432",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T08:51:19.000",
+    "date_modified": "2024-07-04T08:51:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5500 BLK Hewes St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1109432",
+    "final_x": "3668613.09712",
+    "final_y": "529379.094573",
+    "longitude": "-90.1088348928886",
+    "latitude": "29.949993879501513",
+    "geocoded_column": {
+      "latitude": "29.949993879501513",
+      "longitude": "-90.1088348928886"
+    }
+  },
+  {
+    "service_request": "2024-1109421",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T05:24:32.000",
+    "date_modified": "2024-07-04T05:24:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1237 Eleonore St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1109421",
+    "final_x": "3665597.04704",
+    "final_y": "520543.518776",
+    "longitude": "-90.11865374785661",
+    "latitude": "29.925787148398527",
+    "geocoded_column": {
+      "latitude": "29.925787148398527",
+      "longitude": "-90.11865374785661"
+    }
+  },
+  {
+    "service_request": "2024-1109420",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T05:22:09.000",
+    "date_modified": "2024-07-04T05:22:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1234 Henry Clay Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1109420",
+    "final_x": "3664327.06445",
+    "final_y": "521120.367609",
+    "longitude": "-90.12264347982506",
+    "latitude": "29.92741025864685",
+    "geocoded_column": {
+      "latitude": "29.92741025864685",
+      "longitude": "-90.12264347982506"
+    }
+  },
+  {
+    "service_request": "2024-1109419",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-07-04T05:18:40.000",
+    "date_modified": "2024-07-04T05:18:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1475 Calhoun St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1109419",
+    "final_x": "3664531.76442",
+    "final_y": "522145.615162",
+    "longitude": "-90.12196307460573",
+    "latitude": "29.930223417464774",
+    "geocoded_column": {
+      "latitude": "29.930223417464774",
+      "longitude": "-90.12196307460573"
+    }
+  },
+  {
     "service_request": "2024-1109387",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21443,160 +21590,6 @@
     "geocoded_column": {
       "latitude": "30.03095378574333",
       "longitude": "-90.01719826100016"
-    }
-  },
-  {
-    "service_request": "2024-1091893",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T13:34:50.000",
-    "date_modified": "2024-05-09T13:35:17.000",
-    "case_close_date": "2024-05-09T08:35:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BREVARD AVE & FULTON ST",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1091893",
-    "final_x": "3706286.6",
-    "final_y": "563576.48",
-    "longitude": "-89.98861591914107",
-    "latitude": "30.0428630249707",
-    "geocoded_column": {
-      "latitude": "30.0428630249707",
-      "longitude": "-89.98861591914107"
-    }
-  },
-  {
-    "service_request": "2024-1091850",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T11:51:23.000",
-    "date_modified": "2024-05-09T11:51:41.000",
-    "case_close_date": "2024-05-09T06:51:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7608 Trapier Ave",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1091850",
-    "final_x": "3706551.99646",
-    "final_y": "563461.127072",
-    "longitude": "-89.98778144658485",
-    "latitude": "30.042537283627777",
-    "geocoded_column": {
-      "latitude": "30.042537283627777",
-      "longitude": "-89.98778144658485"
-    }
-  },
-  {
-    "service_request": "2024-1091845",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T11:49:24.000",
-    "date_modified": "2024-05-09T11:49:46.000",
-    "case_close_date": "2024-05-09T06:49:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7366 Shubrick Ave",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1091845",
-    "final_x": "3707005.00043",
-    "final_y": "563164.672608",
-    "longitude": "-89.9863608006358",
-    "latitude": "30.041707517061308",
-    "geocoded_column": {
-      "latitude": "30.041707517061308",
-      "longitude": "-89.9863608006358"
-    }
-  },
-  {
-    "service_request": "2024-1091842",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T11:40:44.000",
-    "date_modified": "2024-05-09T11:42:47.000",
-    "case_close_date": "2024-05-09T06:42:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7530 Shubrick Ave",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1091842",
-    "final_x": "3706858.53579",
-    "final_y": "563425.12688",
-    "longitude": "-89.98681400619347",
-    "latitude": "30.0424283961327",
-    "geocoded_column": {
-      "latitude": "30.0424283961327",
-      "longitude": "-89.98681400619347"
-    }
-  },
-  {
-    "service_request": "2024-1091838",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T11:36:39.000",
-    "date_modified": "2024-05-09T11:36:58.000",
-    "case_close_date": "2024-05-09T06:36:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6936 Argonne Blvd",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1091838",
-    "final_x": "3670660.79271",
-    "final_y": "553476.683095",
-    "longitude": "-90.10155140644234",
-    "latitude": "30.01619369780389",
-    "geocoded_column": {
-      "latitude": "30.01619369780389",
-      "longitude": "-90.10155140644234"
-    }
-  },
-  {
-    "service_request": "2024-1091837",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T11:34:42.000",
-    "date_modified": "2024-05-09T11:35:32.000",
-    "case_close_date": "2024-05-09T06:35:32.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6864 Argonne Blvd",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1091837",
-    "final_x": "3670630.45102",
-    "final_y": "553031.034007",
-    "longitude": "-90.1016624084195",
-    "latitude": "30.014969217685884",
-    "geocoded_column": {
-      "latitude": "30.014969217685884",
-      "longitude": "-90.1016624084195"
-    }
-  },
-  {
-    "service_request": "2024-1091832",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-05-09T11:32:08.000",
-    "date_modified": "2024-05-09T11:32:35.000",
-    "case_close_date": "2024-05-09T06:32:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6655 Argonne Blvd",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1091832",
-    "final_x": "3670626.19822",
-    "final_y": "551618.828437",
-    "longitude": "-90.10172380411572",
-    "latitude": "30.011086277331668",
-    "geocoded_column": {
-      "latitude": "30.011086277331668",
-      "longitude": "-90.10172380411572"
     }
   }
 ]
