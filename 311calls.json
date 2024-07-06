@@ -20904,28 +20904,6 @@
     }
   },
   {
-    "service_request": "2024-1108823",
-    "request_type": "Healthy Homes",
-    "request_reason": "Healthy Homes",
-    "date_created": "2024-07-02T11:17:53.000",
-    "date_modified": "2024-07-02T14:20:42.000",
-    "case_close_date": "2024-07-02T09:20:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "401 River Oaks Dr",
-    "address_councildis": "C",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1108823",
-    "final_x": "3701513.36317",
-    "final_y": "522371.187066",
-    "longitude": "-90.00521060296514",
-    "latitude": "29.929716833131494",
-    "geocoded_column": {
-      "latitude": "29.929716833131494",
-      "longitude": "-90.00521060296514"
-    }
-  },
-  {
     "service_request": "2024-1108824",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20947,6 +20925,28 @@
     "geocoded_column": {
       "latitude": "29.91671149815849",
       "longitude": "-89.99076995258298"
+    }
+  },
+  {
+    "service_request": "2024-1108823",
+    "request_type": "Healthy Homes",
+    "request_reason": "Healthy Homes",
+    "date_created": "2024-07-02T11:17:53.000",
+    "date_modified": "2024-07-02T14:20:42.000",
+    "case_close_date": "2024-07-02T09:20:42.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "401 River Oaks Dr",
+    "address_councildis": "C",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1108823",
+    "final_x": "3701513.36317",
+    "final_y": "522371.187066",
+    "longitude": "-90.00521060296514",
+    "latitude": "29.929716833131494",
+    "geocoded_column": {
+      "latitude": "29.929716833131494",
+      "longitude": "-90.00521060296514"
     }
   },
   {
