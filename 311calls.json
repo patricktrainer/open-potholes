@@ -20599,27 +20599,6 @@
     }
   },
   {
-    "service_request": "2024-1110323",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Catch Basin - Broken/Damage",
-    "date_created": "2024-07-08T14:37:00.000",
-    "date_modified": "2024-07-09T10:11:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4519 S Robertson St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1110323",
-    "final_x": "3669933.02196",
-    "final_y": "524375.97638",
-    "longitude": "-90.10483663102674",
-    "latitude": "29.936198078790607",
-    "geocoded_column": {
-      "latitude": "29.936198078790607",
-      "longitude": "-90.10483663102674"
-    }
-  },
-  {
     "service_request": "2024-1110322",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -20641,6 +20620,27 @@
     "geocoded_column": {
       "latitude": "29.972513220300375",
       "longitude": "-90.08663555496052"
+    }
+  },
+  {
+    "service_request": "2024-1110323",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Catch Basin - Broken/Damage",
+    "date_created": "2024-07-08T14:37:00.000",
+    "date_modified": "2024-07-09T10:11:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4519 S Robertson St",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "1110323",
+    "final_x": "3669933.02196",
+    "final_y": "524375.97638",
+    "longitude": "-90.10483663102674",
+    "latitude": "29.936198078790607",
+    "geocoded_column": {
+      "latitude": "29.936198078790607",
+      "longitude": "-90.10483663102674"
     }
   },
   {
