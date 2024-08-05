@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2024-1118768",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-04T23:25:00.000",
+    "date_modified": "2024-08-04T23:25:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1100 BLK Constantinople St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1118768",
+    "final_x": "3672431.76698",
+    "final_y": "519818.358445",
+    "longitude": "-90.09710323917102",
+    "latitude": "29.92359219713162",
+    "geocoded_column": {
+      "latitude": "29.92359219713162",
+      "longitude": "-90.09710323917102"
+    }
+  },
+  {
+    "service_request": "2024-1118735",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-04T15:28:55.000",
+    "date_modified": "2024-08-04T15:28:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1112 Constantinople St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1118735",
+    "final_x": "3672348.95259",
+    "final_y": "519796.384952",
+    "longitude": "-90.09736540233975",
+    "latitude": "29.923534233550217",
+    "geocoded_column": {
+      "latitude": "29.923534233550217",
+      "longitude": "-90.09736540233975"
+    }
+  },
+  {
+    "service_request": "2024-1118734",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-04T15:28:20.000",
+    "date_modified": "2024-08-04T15:28:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1312 Milan St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1118734",
+    "final_x": "3671625.82823",
+    "final_y": "520286.919608",
+    "longitude": "-90.09963137110304",
+    "latitude": "29.92490447494246",
+    "geocoded_column": {
+      "latitude": "29.92490447494246",
+      "longitude": "-90.09963137110304"
+    }
+  },
+  {
+    "service_request": "2024-1118667",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-04T00:39:12.000",
+    "date_modified": "2024-08-04T00:39:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "POYDRAS ST & I 10 E & S CLAIBORNE AVE",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1118667",
+    "final_x": "3676836.7",
+    "final_y": "530857.68",
+    "longitude": "-90.0828181784778",
+    "latitude": "29.953815289693384",
+    "geocoded_column": {
+      "latitude": "29.953815289693384",
+      "longitude": "-90.0828181784778"
+    }
+  },
+  {
     "service_request": "2024-1118660",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21512,93 +21596,6 @@
     "geocoded_column": {
       "latitude": "29.925927453713577",
       "longitude": "-90.09706965638372"
-    }
-  },
-  {
-    "service_request": "2024-1101284",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-07T23:15:25.000",
-    "date_modified": "2024-06-12T12:27:04.000",
-    "case_close_date": "2024-06-12T07:27:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1120 Aline St Apt 2A",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1101284",
-    "final_x": "3674344.461",
-    "final_y": "519521.432503",
-    "longitude": "-90.09107572309848",
-    "latitude": "29.922718865916426",
-    "geocoded_column": {
-      "latitude": "29.922718865916426",
-      "longitude": "-90.09107572309848"
-    }
-  },
-  {
-    "service_request": "2024-1101283",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-07T23:14:44.000",
-    "date_modified": "2024-06-11T15:19:39.000",
-    "case_close_date": "2024-06-11T10:19:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1312 Milan St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1101283",
-    "final_x": "3671625.82823",
-    "final_y": "520286.919608",
-    "longitude": "-90.09963137110304",
-    "latitude": "29.92490447494246",
-    "geocoded_column": {
-      "latitude": "29.92490447494246",
-      "longitude": "-90.09963137110304"
-    }
-  },
-  {
-    "service_request": "2024-1101277",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-07T22:46:08.000",
-    "date_modified": "2024-06-12T12:28:29.000",
-    "case_close_date": "2024-06-12T07:28:29.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1122 Aline St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1101277",
-    "final_x": "3674288.77825",
-    "final_y": "519514.088503",
-    "longitude": "-90.09125174299426",
-    "latitude": "29.92270033208624",
-    "geocoded_column": {
-      "latitude": "29.92270033208624",
-      "longitude": "-90.09125174299426"
-    }
-  },
-  {
-    "service_request": "2024-1101264",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-07T20:03:21.000",
-    "date_modified": "2024-06-07T20:03:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3127 Dauphine St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1101264",
-    "final_x": "3688938.95657",
-    "final_y": "534828.517254",
-    "longitude": "-90.04446333403554",
-    "latitude": "29.964364996072092",
-    "geocoded_column": {
-      "latitude": "29.964364996072092",
-      "longitude": "-90.04446333403554"
     }
   }
 ]
