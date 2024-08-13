@@ -6933,27 +6933,6 @@
     }
   },
   {
-    "service_request": "2024-1120832",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2024-08-12T10:11:41.000",
-    "date_modified": "2024-08-12T10:11:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2101 Lapeyrouse St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1120832",
-    "final_x": "3680773.32552",
-    "final_y": "538927.807946",
-    "longitude": "-90.07010702172514",
-    "latitude": "29.97588666146428",
-    "geocoded_column": {
-      "latitude": "29.97588666146428",
-      "longitude": "-90.07010702172514"
-    }
-  },
-  {
     "service_request": "2024-1120831",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -6973,6 +6952,27 @@
     "geocoded_column": {
       "latitude": "29.931307303566868",
       "longitude": "-90.02732507132431"
+    }
+  },
+  {
+    "service_request": "2024-1120832",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2024-08-12T10:11:41.000",
+    "date_modified": "2024-08-12T10:11:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2101 Lapeyrouse St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1120832",
+    "final_x": "3680773.32552",
+    "final_y": "538927.807946",
+    "longitude": "-90.07010702172514",
+    "latitude": "29.97588666146428",
+    "geocoded_column": {
+      "latitude": "29.97588666146428",
+      "longitude": "-90.07010702172514"
     }
   },
   {
