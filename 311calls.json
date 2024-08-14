@@ -11788,27 +11788,6 @@
     }
   },
   {
-    "service_request": "2024-1120975",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Recycling Cart",
-    "date_created": "2024-08-12T13:28:51.000",
-    "date_modified": "2024-08-12T13:28:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1600 Tropic Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1120975",
-    "final_x": "3699550.16951",
-    "final_y": "524917.947516",
-    "longitude": "-90.01131526364942",
-    "latitude": "29.936781965369565",
-    "geocoded_column": {
-      "latitude": "29.936781965369565",
-      "longitude": "-90.01131526364942"
-    }
-  },
-  {
     "service_request": "2024-1120976",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -11827,6 +11806,27 @@
     "geocoded_column": {
       "latitude": "30.010407364535162",
       "longitude": "-90.0667771957696"
+    }
+  },
+  {
+    "service_request": "2024-1120975",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Recycling Cart",
+    "date_created": "2024-08-12T13:28:51.000",
+    "date_modified": "2024-08-12T13:28:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1600 Tropic Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1120975",
+    "final_x": "3699550.16951",
+    "final_y": "524917.947516",
+    "longitude": "-90.01131526364942",
+    "latitude": "29.936781965369565",
+    "geocoded_column": {
+      "latitude": "29.936781965369565",
+      "longitude": "-90.01131526364942"
     }
   },
   {
@@ -14769,6 +14769,27 @@
     }
   },
   {
+    "service_request": "2024-1120832",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2024-08-12T10:11:41.000",
+    "date_modified": "2024-08-13T10:34:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK N Galvez St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1120832",
+    "final_x": "3680881.87311",
+    "final_y": "539006.108783",
+    "longitude": "-90.06976147059726",
+    "latitude": "29.976098670730725",
+    "geocoded_column": {
+      "latitude": "29.976098670730725",
+      "longitude": "-90.06976147059726"
+    }
+  },
+  {
     "service_request": "2024-1120831",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -14790,27 +14811,6 @@
     "geocoded_column": {
       "latitude": "29.931307303566868",
       "longitude": "-90.02732507132431"
-    }
-  },
-  {
-    "service_request": "2024-1120832",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2024-08-12T10:11:41.000",
-    "date_modified": "2024-08-13T10:34:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1600 BLK N Galvez St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1120832",
-    "final_x": "3680881.87311",
-    "final_y": "539006.108783",
-    "longitude": "-90.06976147059726",
-    "latitude": "29.976098670730725",
-    "geocoded_column": {
-      "latitude": "29.976098670730725",
-      "longitude": "-90.06976147059726"
     }
   },
   {
@@ -20701,30 +20701,6 @@
     }
   },
   {
-    "service_request": "2024-1120535",
-    "request_type": "Trash/Recycling",
-    "request_reason": "MIssed Recycling Pick-Up",
-    "date_created": "2024-08-09T16:34:20.000",
-    "date_modified": "2024-08-10T06:35:01.000",
-    "case_close_date": "2024-08-10T01:35:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3614 Touro St",
-    "address_councildis": "D",
-    "status": "Invalid Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1120535",
-    "final_x": "3683410.00873",
-    "final_y": "545939.136848",
-    "longitude": "-90.06153385524763",
-    "latitude": "29.995085153724578",
-    "geocoded_column": {
-      "latitude": "29.995085153724578",
-      "longitude": "-90.06153385524763"
-    }
-  },
-  {
     "service_request": "2024-1120534",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -20746,6 +20722,30 @@
     "geocoded_column": {
       "latitude": "29.93793004330636",
       "longitude": "-90.10810730722154"
+    }
+  },
+  {
+    "service_request": "2024-1120535",
+    "request_type": "Trash/Recycling",
+    "request_reason": "MIssed Recycling Pick-Up",
+    "date_created": "2024-08-09T16:34:20.000",
+    "date_modified": "2024-08-10T06:35:01.000",
+    "case_close_date": "2024-08-10T01:35:01.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3614 Touro St",
+    "address_councildis": "D",
+    "status": "Invalid Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1120535",
+    "final_x": "3683410.00873",
+    "final_y": "545939.136848",
+    "longitude": "-90.06153385524763",
+    "latitude": "29.995085153724578",
+    "geocoded_column": {
+      "latitude": "29.995085153724578",
+      "longitude": "-90.06153385524763"
     }
   },
   {
