@@ -1097,27 +1097,6 @@
     }
   },
   {
-    "service_request": "2024-1122263",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-08-15T16:40:31.000",
-    "date_modified": "2024-08-15T16:40:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "6910 Boston Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1122263",
-    "final_x": "3706610.50807",
-    "final_y": "560199.025245",
-    "longitude": "-89.98771759779265",
-    "latitude": "30.03356590371684",
-    "geocoded_column": {
-      "latitude": "30.03356590371684",
-      "longitude": "-89.98771759779265"
-    }
-  },
-  {
     "service_request": "2024-1122264",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -1137,6 +1116,27 @@
     "geocoded_column": {
       "latitude": "30.016906645215958",
       "longitude": "-90.00025970745185"
+    }
+  },
+  {
+    "service_request": "2024-1122263",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-08-15T16:40:31.000",
+    "date_modified": "2024-08-15T16:40:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "6910 Boston Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1122263",
+    "final_x": "3706610.50807",
+    "final_y": "560199.025245",
+    "longitude": "-89.98771759779265",
+    "latitude": "30.03356590371684",
+    "geocoded_column": {
+      "latitude": "30.03356590371684",
+      "longitude": "-89.98771759779265"
     }
   },
   {
