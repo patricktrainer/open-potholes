@@ -1,15 +1,58 @@
 [
   {
+    "service_request": "2024-1122703",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-17T13:16:14.000",
+    "date_modified": "2024-08-17T13:16:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6215 Clara St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1122703",
+    "final_x": "3666201.29594",
+    "final_y": "525689.257981",
+    "longitude": "-90.1165738185679",
+    "latitude": "29.939918667594014",
+    "geocoded_column": {
+      "latitude": "29.939918667594014",
+      "longitude": "-90.1165738185679"
+    }
+  },
+  {
+    "service_request": "2024-1122685",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-17T11:22:21.000",
+    "date_modified": "2024-08-17T11:22:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7833 Belfast St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1122685",
+    "final_x": "3666249.8178",
+    "final_y": "531820.286467",
+    "longitude": "-90.11621502059326",
+    "latitude": "29.956775593498833",
+    "geocoded_column": {
+      "latitude": "29.956775593498833",
+      "longitude": "-90.11621502059326"
+    }
+  },
+  {
     "service_request": "2024-1122599",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2024-08-16T15:58:47.000",
-    "date_modified": "2024-08-16T15:58:47.000",
-    "request_status": "Pending",
+    "date_modified": "2024-08-17T07:58:18.000",
+    "case_close_date": "2024-08-17T02:58:18.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "8004 Trapier Ave",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1122599",
     "final_x": "3705983.30711",
     "final_y": "564455.410273",
@@ -25,12 +68,13 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2024-08-16T15:57:11.000",
-    "date_modified": "2024-08-16T15:57:11.000",
-    "request_status": "Pending",
+    "date_modified": "2024-08-17T07:52:12.000",
+    "case_close_date": "2024-08-17T02:52:12.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "8004 Trapier Ave",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1122597",
     "final_x": "3705983.30711",
     "final_y": "564455.410273",
@@ -67,12 +111,12 @@
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
     "date_created": "2024-08-16T14:11:17.000",
-    "date_modified": "2024-08-16T14:11:17.000",
+    "date_modified": "2024-08-17T09:59:01.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5646 Lewis Rd",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1122548",
     "final_x": "3694940.31203",
     "final_y": "555757.575769",
@@ -208,27 +252,6 @@
     "geocoded_column": {
       "latitude": "29.961460983474126",
       "longitude": "-90.0788084687127"
-    }
-  },
-  {
-    "service_request": "2024-1122332",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-16T07:27:30.000",
-    "date_modified": "2024-08-16T07:27:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4600 BLK Paris Ave",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1122332",
-    "final_x": "3679307.61937",
-    "final_y": "549691.05723",
-    "longitude": "-90.07436264328081",
-    "latitude": "30.005526164978054",
-    "geocoded_column": {
-      "latitude": "30.005526164978054",
-      "longitude": "-90.07436264328081"
     }
   },
   {
@@ -21665,28 +21688,6 @@
     "geocoded_column": {
       "latitude": "29.925273976748592",
       "longitude": "-90.01340045203193"
-    }
-  },
-  {
-    "service_request": "2024-1103220",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-13T11:20:01.000",
-    "date_modified": "2024-06-13T11:20:19.000",
-    "case_close_date": "2024-06-13T06:20:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1300 BLK Elizardi Blvd",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1103220",
-    "final_x": "3694751.18854",
-    "final_y": "526299.129604",
-    "longitude": "-90.02641606950797",
-    "latitude": "29.940731113136057",
-    "geocoded_column": {
-      "latitude": "29.940731113136057",
-      "longitude": "-90.02641606950797"
     }
   }
 ]
