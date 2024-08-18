@@ -6513,6 +6513,27 @@
     }
   },
   {
+    "service_request": "2024-1122434",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-08-16T10:12:58.000",
+    "date_modified": "2024-08-16T10:12:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "4793 Citrus Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1122434",
+    "final_x": "3710818.41925",
+    "final_y": "556157.047962",
+    "longitude": "-89.97457172467413",
+    "latitude": "30.02231551534476",
+    "geocoded_column": {
+      "latitude": "30.02231551534476",
+      "longitude": "-89.97457172467413"
+    }
+  },
+  {
     "service_request": "2024-1122433",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -6532,27 +6553,6 @@
     "geocoded_column": {
       "latitude": "29.920319001808245",
       "longitude": "-90.08690805390944"
-    }
-  },
-  {
-    "service_request": "2024-1122434",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-08-16T10:12:58.000",
-    "date_modified": "2024-08-16T10:12:58.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "4793 Citrus Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1122434",
-    "final_x": "3710818.41925",
-    "final_y": "556157.047962",
-    "longitude": "-89.97457172467413",
-    "latitude": "30.02231551534476",
-    "geocoded_column": {
-      "latitude": "30.02231551534476",
-      "longitude": "-89.97457172467413"
     }
   },
   {
@@ -20085,30 +20085,6 @@
     }
   },
   {
-    "service_request": "2024-1121786",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-08-14T14:00:28.000",
-    "date_modified": "2024-08-16T14:27:28.000",
-    "case_close_date": "2024-08-16T09:27:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3000 Magazine St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1121786",
-    "final_x": "3676342.1291",
-    "final_y": "520267.665592",
-    "longitude": "-90.08474420437597",
-    "latitude": "29.924711063257504",
-    "geocoded_column": {
-      "latitude": "29.924711063257504",
-      "longitude": "-90.08474420437597"
-    }
-  },
-  {
     "service_request": "2024-1121787",
     "request_type": "Trash/Recycling",
     "request_reason": "Return Trash Cart",
@@ -20130,6 +20106,30 @@
     "geocoded_column": {
       "latitude": "29.938025684192446",
       "longitude": "-90.1081126300313"
+    }
+  },
+  {
+    "service_request": "2024-1121786",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-08-14T14:00:28.000",
+    "date_modified": "2024-08-16T14:27:28.000",
+    "case_close_date": "2024-08-16T09:27:28.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3000 Magazine St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1121786",
+    "final_x": "3676342.1291",
+    "final_y": "520267.665592",
+    "longitude": "-90.08474420437597",
+    "latitude": "29.924711063257504",
+    "geocoded_column": {
+      "latitude": "29.924711063257504",
+      "longitude": "-90.08474420437597"
     }
   },
   {
