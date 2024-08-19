@@ -8273,6 +8273,27 @@
     }
   },
   {
+    "service_request": "2024-1122434",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-08-16T10:12:58.000",
+    "date_modified": "2024-08-16T10:12:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "4793 Citrus Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1122434",
+    "final_x": "3710818.41925",
+    "final_y": "556157.047962",
+    "longitude": "-89.97457172467413",
+    "latitude": "30.02231551534476",
+    "geocoded_column": {
+      "latitude": "30.02231551534476",
+      "longitude": "-89.97457172467413"
+    }
+  },
+  {
     "service_request": "2024-1122433",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -8292,27 +8313,6 @@
     "geocoded_column": {
       "latitude": "29.920319001808245",
       "longitude": "-90.08690805390944"
-    }
-  },
-  {
-    "service_request": "2024-1122434",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-08-16T10:12:58.000",
-    "date_modified": "2024-08-16T10:12:58.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "4793 Citrus Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1122434",
-    "final_x": "3710818.41925",
-    "final_y": "556157.047962",
-    "longitude": "-89.97457172467413",
-    "latitude": "30.02231551534476",
-    "geocoded_column": {
-      "latitude": "30.02231551534476",
-      "longitude": "-89.97457172467413"
     }
   },
   {
