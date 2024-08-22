@@ -15494,6 +15494,28 @@
     }
   },
   {
+    "service_request": "2024-1123217",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-08-19T16:33:22.000",
+    "date_modified": "2024-08-19T16:33:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4826 Stemway Dr",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1123217",
+    "final_x": "3696802.33955",
+    "final_y": "554625.842904",
+    "longitude": "-90.01891437108576",
+    "latitude": "30.018554837545157",
+    "geocoded_column": {
+      "latitude": "30.018554837545157",
+      "longitude": "-90.01891437108576"
+    }
+  },
+  {
     "service_request": "2024-1123218",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -15515,28 +15537,6 @@
     "geocoded_column": {
       "latitude": "30.024150357313196",
       "longitude": "-90.1041254617434"
-    }
-  },
-  {
-    "service_request": "2024-1123217",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-08-19T16:33:22.000",
-    "date_modified": "2024-08-19T16:33:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4826 Stemway Dr",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1123217",
-    "final_x": "3696802.33955",
-    "final_y": "554625.842904",
-    "longitude": "-90.01891437108576",
-    "latitude": "30.018554837545157",
-    "geocoded_column": {
-      "latitude": "30.018554837545157",
-      "longitude": "-90.01891437108576"
     }
   },
   {
