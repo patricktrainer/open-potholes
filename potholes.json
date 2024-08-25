@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1124723",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-24T14:52:08.000",
+    "date_modified": "2024-08-24T14:52:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "618 Marigny St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1124723",
+    "final_x": "3685518.9382",
+    "final_y": "534716.69415",
+    "longitude": "-90.05526739836418",
+    "latitude": "29.964162855201234",
+    "geocoded_column": {
+      "latitude": "29.964162855201234",
+      "longitude": "-90.05526739836418"
+    }
+  },
+  {
+    "service_request": "2024-1124694",
+    "request_type": "Roads/Drainage",
+    "request_reason": "Pothole",
+    "date_created": "2024-08-24T10:49:50.000",
+    "date_modified": "2024-08-24T10:49:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8422 Green St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1124694",
+    "final_x": "3662181.77152",
+    "final_y": "530496.033858",
+    "longitude": "-90.12910462195475",
+    "latitude": "29.953252515640536",
+    "geocoded_column": {
+      "latitude": "29.953252515640536",
+      "longitude": "-90.12910462195475"
+    }
+  },
+  {
     "service_request": "2024-1124645",
     "request_type": "Roads/Drainage",
     "request_reason": "Pothole",
@@ -21642,48 +21684,6 @@
     "geocoded_column": {
       "latitude": "30.011977693065493",
       "longitude": "-89.98935433901896"
-    }
-  },
-  {
-    "service_request": "2024-1104466",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-17T16:05:36.000",
-    "date_modified": "2024-07-31T08:56:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "215 Whitney Ave",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1104466",
-    "final_x": "3690213.3702",
-    "final_y": "530909.508674",
-    "longitude": "-90.04057847741953",
-    "latitude": "29.9535496077787",
-    "geocoded_column": {
-      "latitude": "29.9535496077787",
-      "longitude": "-90.04057847741953"
-    }
-  },
-  {
-    "service_request": "2024-1104451",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-17T15:37:32.000",
-    "date_modified": "2024-06-18T10:32:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "EARHART BLVD & S MIRO ST",
-    "address_councildis": "B",
-    "status": "Need Further Information from Resident",
-    "rowid": "1104451",
-    "final_x": "3673847.9",
-    "final_y": "530435.18",
-    "longitude": "-90.0922700383947",
-    "latitude": "29.952742905941317",
-    "geocoded_column": {
-      "latitude": "29.952742905941317",
-      "longitude": "-90.0922700383947"
     }
   }
 ]
