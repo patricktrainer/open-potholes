@@ -8680,6 +8680,27 @@
     }
   },
   {
+    "service_request": "2024-1126364",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2024-08-30T08:06:36.000",
+    "date_modified": "2024-08-30T08:06:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1131 Fourth St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1126364",
+    "final_x": "3677218.12718",
+    "final_y": "521233.383801",
+    "longitude": "-90.08194567671121",
+    "latitude": "29.927340198795825",
+    "geocoded_column": {
+      "latitude": "29.927340198795825",
+      "longitude": "-90.08194567671121"
+    }
+  },
+  {
     "service_request": "2024-1126363",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -8701,27 +8722,6 @@
     "geocoded_column": {
       "latitude": "29.921200812635217",
       "longitude": "-90.091973826238"
-    }
-  },
-  {
-    "service_request": "2024-1126364",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2024-08-30T08:06:36.000",
-    "date_modified": "2024-08-30T08:06:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1131 Fourth St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1126364",
-    "final_x": "3677218.12718",
-    "final_y": "521233.383801",
-    "longitude": "-90.08194567671121",
-    "latitude": "29.927340198795825",
-    "geocoded_column": {
-      "latitude": "29.927340198795825",
-      "longitude": "-90.08194567671121"
     }
   },
   {
