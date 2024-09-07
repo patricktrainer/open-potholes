@@ -11066,6 +11066,27 @@
     }
   },
   {
+    "service_request": "2024-1127786",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2024-09-05T09:13:45.000",
+    "date_modified": "2024-09-05T09:13:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "3915 St Charles Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1127786",
+    "final_x": "3672549.50183",
+    "final_y": "521103.606969",
+    "longitude": "-90.09668780728617",
+    "latitude": "29.927122725406615",
+    "geocoded_column": {
+      "latitude": "29.927122725406615",
+      "longitude": "-90.09668780728617"
+    }
+  },
+  {
     "service_request": "2024-1127785",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -11087,27 +11108,6 @@
     "geocoded_column": {
       "latitude": "30.018978096262053",
       "longitude": "-90.0064637363177"
-    }
-  },
-  {
-    "service_request": "2024-1127786",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2024-09-05T09:13:45.000",
-    "date_modified": "2024-09-05T09:13:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "3915 St Charles Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1127786",
-    "final_x": "3672549.50183",
-    "final_y": "521103.606969",
-    "longitude": "-90.09668780728617",
-    "latitude": "29.927122725406615",
-    "geocoded_column": {
-      "latitude": "29.927122725406615",
-      "longitude": "-90.09668780728617"
     }
   },
   {
