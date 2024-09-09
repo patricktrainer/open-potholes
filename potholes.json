@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1128484",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-08T17:47:57.000",
+    "date_modified": "2024-09-08T17:47:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2231 N Broad St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1128484",
+    "final_x": "3681323.7005",
+    "final_y": "543286.529102",
+    "longitude": "-90.06821679110101",
+    "latitude": "29.987854926750984",
+    "geocoded_column": {
+      "latitude": "29.987854926750984",
+      "longitude": "-90.06821679110101"
+    }
+  },
+  {
+    "service_request": "2024-1128457",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-08T12:55:36.000",
+    "date_modified": "2024-09-08T12:55:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1500 BLK Allen Toussaint Blvd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1128457",
+    "final_x": "3678405.632",
+    "final_y": "555291.843272",
+    "longitude": "-90.07701822287059",
+    "latitude": "30.02095352931752",
+    "geocoded_column": {
+      "latitude": "30.02095352931752",
+      "longitude": "-90.07701822287059"
+    }
+  },
+  {
     "service_request": "2024-1128425",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21648,49 +21690,6 @@
     "geocoded_column": {
       "latitude": "29.914929619592506",
       "longitude": "-89.93974143589126"
-    }
-  },
-  {
-    "service_request": "2024-1105860",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-21T15:55:12.000",
-    "date_modified": "2024-06-26T13:38:37.000",
-    "case_close_date": "2024-06-26T08:38:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK Valence St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1105860",
-    "final_x": "3669784.65285",
-    "final_y": "520336.257015",
-    "longitude": "-90.1054417057675",
-    "latitude": "29.925094517046503",
-    "geocoded_column": {
-      "latitude": "29.925094517046503",
-      "longitude": "-90.1054417057675"
-    }
-  },
-  {
-    "service_request": "2024-1105840",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-21T14:54:25.000",
-    "date_modified": "2024-06-21T14:54:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "829 Nashville Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1105840",
-    "final_x": "3665630.14445",
-    "final_y": "519222.413111",
-    "longitude": "-90.11859347985998",
-    "latitude": "29.922153558399792",
-    "geocoded_column": {
-      "latitude": "29.922153558399792",
-      "longitude": "-90.11859347985998"
     }
   }
 ]
