@@ -8200,27 +8200,6 @@
     }
   },
   {
-    "service_request": "2024-1130145",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Storm Debris Collection",
-    "date_created": "2024-09-12T14:17:21.000",
-    "date_modified": "2024-09-12T14:17:22.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5100 Van Chu Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1130145",
-    "final_x": "3727612.57811",
-    "final_y": "563371.588192",
-    "longitude": "-89.92122617925645",
-    "latitude": "30.04159425497107",
-    "geocoded_column": {
-      "latitude": "30.04159425497107",
-      "longitude": "-89.92122617925645"
-    }
-  },
-  {
     "service_request": "2024-1130144",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -8242,6 +8221,27 @@
     "geocoded_column": {
       "latitude": "30.023752077446588",
       "longitude": "-89.95757331619274"
+    }
+  },
+  {
+    "service_request": "2024-1130145",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Storm Debris Collection",
+    "date_created": "2024-09-12T14:17:21.000",
+    "date_modified": "2024-09-12T14:17:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5100 Van Chu Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1130145",
+    "final_x": "3727612.57811",
+    "final_y": "563371.588192",
+    "longitude": "-89.92122617925645",
+    "latitude": "30.04159425497107",
+    "geocoded_column": {
+      "latitude": "30.04159425497107",
+      "longitude": "-89.92122617925645"
     }
   },
   {
@@ -14489,30 +14489,6 @@
     }
   },
   {
-    "service_request": "2024-1129861",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2024-09-12T12:25:58.000",
-    "date_modified": "2024-09-12T12:26:21.000",
-    "case_close_date": "2024-09-12T07:26:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "601 Henry Clay Ave",
-    "address_councildis": "A",
-    "status": "Invalid Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid",
-    "rowid": "1129861",
-    "final_x": "3663608.81267",
-    "final_y": "518950.195319",
-    "longitude": "-90.1249830770682",
-    "latitude": "29.92146381183473",
-    "geocoded_column": {
-      "latitude": "29.92146381183473",
-      "longitude": "-90.1249830770682"
-    }
-  },
-  {
     "service_request": "2024-1129860",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -14534,6 +14510,30 @@
     "geocoded_column": {
       "latitude": "30.025635097091758",
       "longitude": "-89.95109179082704"
+    }
+  },
+  {
+    "service_request": "2024-1129861",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2024-09-12T12:25:58.000",
+    "date_modified": "2024-09-12T12:26:21.000",
+    "case_close_date": "2024-09-12T07:26:21.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "601 Henry Clay Ave",
+    "address_councildis": "A",
+    "status": "Invalid Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid",
+    "rowid": "1129861",
+    "final_x": "3663608.81267",
+    "final_y": "518950.195319",
+    "longitude": "-90.1249830770682",
+    "latitude": "29.92146381183473",
+    "geocoded_column": {
+      "latitude": "29.92146381183473",
+      "longitude": "-90.1249830770682"
     }
   },
   {
@@ -18629,30 +18629,6 @@
     }
   },
   {
-    "service_request": "2024-1129683",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2024-09-12T11:54:47.000",
-    "date_modified": "2024-09-12T12:31:00.000",
-    "case_close_date": "2024-09-12T07:31:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6125 Eads St, New Orleans, Louisiana, 70122",
-    "address_councildis": "D",
-    "status": "Invalid Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid",
-    "rowid": "1129683",
-    "final_x": "3686770.95478",
-    "final_y": "555806.686617",
-    "longitude": "-90.0505680579843",
-    "latitude": "30.022114312208455",
-    "geocoded_column": {
-      "latitude": "30.022114312208455",
-      "longitude": "-90.0505680579843"
-    }
-  },
-  {
     "service_request": "2024-1129682",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -18674,6 +18650,30 @@
     "geocoded_column": {
       "latitude": "29.923876316054816",
       "longitude": "-90.12573162638056"
+    }
+  },
+  {
+    "service_request": "2024-1129683",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2024-09-12T11:54:47.000",
+    "date_modified": "2024-09-12T12:31:00.000",
+    "case_close_date": "2024-09-12T07:31:00.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6125 Eads St, New Orleans, Louisiana, 70122",
+    "address_councildis": "D",
+    "status": "Invalid Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid",
+    "rowid": "1129683",
+    "final_x": "3686770.95478",
+    "final_y": "555806.686617",
+    "longitude": "-90.0505680579843",
+    "latitude": "30.022114312208455",
+    "geocoded_column": {
+      "latitude": "30.022114312208455",
+      "longitude": "-90.0505680579843"
     }
   },
   {
