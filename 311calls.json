@@ -18864,28 +18864,6 @@
     }
   },
   {
-    "service_request": "2024-1130342",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-09-12T16:15:40.000",
-    "date_modified": "2024-09-13T09:09:09.000",
-    "case_close_date": "2024-09-13T04:09:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "5226 Wilton Dr",
-    "address_councildis": "D",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1130342",
-    "final_x": "3681876.22543",
-    "final_y": "551807.24367",
-    "longitude": "-90.06617391521566",
-    "latitude": "30.011267063391596",
-    "geocoded_column": {
-      "latitude": "30.011267063391596",
-      "longitude": "-90.06617391521566"
-    }
-  },
-  {
     "service_request": "2024-1130341",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -18907,6 +18885,28 @@
     "geocoded_column": {
       "latitude": "30.007687977442906",
       "longitude": "-90.05668170088994"
+    }
+  },
+  {
+    "service_request": "2024-1130342",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-09-12T16:15:40.000",
+    "date_modified": "2024-09-13T09:09:09.000",
+    "case_close_date": "2024-09-13T04:09:09.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "5226 Wilton Dr",
+    "address_councildis": "D",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1130342",
+    "final_x": "3681876.22543",
+    "final_y": "551807.24367",
+    "longitude": "-90.06617391521566",
+    "latitude": "30.011267063391596",
+    "geocoded_column": {
+      "latitude": "30.011267063391596",
+      "longitude": "-90.06617391521566"
     }
   },
   {
