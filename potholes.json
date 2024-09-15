@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1131360",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-14T15:46:00.000",
+    "date_modified": "2024-09-14T15:46:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4644 Baccich St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1131360",
+    "final_x": "3687714.88323",
+    "final_y": "550078.640276",
+    "longitude": "-90.04778854733618",
+    "latitude": "30.006335204499518",
+    "geocoded_column": {
+      "latitude": "30.006335204499518",
+      "longitude": "-90.04778854733618"
+    }
+  },
+  {
+    "service_request": "2024-1131333",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-14T13:37:14.000",
+    "date_modified": "2024-09-14T13:37:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "800 BLK Constance St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1131333",
+    "final_x": "3681393.1421",
+    "final_y": "527481.258145",
+    "longitude": "-90.06854850717032",
+    "latitude": "29.944393747307757",
+    "geocoded_column": {
+      "latitude": "29.944393747307757",
+      "longitude": "-90.06854850717032"
+    }
+  },
+  {
     "service_request": "2024-1131179",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -67,12 +109,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-09-13T15:35:14.000",
-    "date_modified": "2024-09-13T15:35:15.000",
-    "request_status": "Pending",
+    "date_modified": "2024-09-14T11:54:30.000",
+    "case_close_date": "2024-09-14T06:54:30.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "8620 Gervais St",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1131100",
     "final_x": "3704029.3722",
     "final_y": "562731.296736",
@@ -172,12 +215,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-09-13T10:36:20.000",
-    "date_modified": "2024-09-13T10:36:20.000",
+    "date_modified": "2024-09-14T12:04:15.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "9803 Irby St",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1130770",
     "final_x": "3707449.71204",
     "final_y": "565027.647074",
@@ -21652,48 +21695,6 @@
     "geocoded_column": {
       "latitude": "29.92210782133062",
       "longitude": "-90.11860390192565"
-    }
-  },
-  {
-    "service_request": "2024-1106368",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-24T12:14:01.000",
-    "date_modified": "2024-08-29T09:11:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1335 Ferry Pl",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1106368",
-    "final_x": "3660191.36333",
-    "final_y": "530832.17165",
-    "longitude": "-90.1353784117631",
-    "latitude": "29.954234155020252",
-    "geocoded_column": {
-      "latitude": "29.954234155020252",
-      "longitude": "-90.1353784117631"
-    }
-  },
-  {
-    "service_request": "2024-1106353",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-24T11:42:49.000",
-    "date_modified": "2024-06-24T11:42:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3716 General Ogden St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1106353",
-    "final_x": "3665939.4313",
-    "final_y": "537006.856648",
-    "longitude": "-90.1170212777515",
-    "latitude": "29.971046013974753",
-    "geocoded_column": {
-      "latitude": "29.971046013974753",
-      "longitude": "-90.1170212777515"
     }
   }
 ]
