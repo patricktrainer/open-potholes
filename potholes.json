@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2024-1131533",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-15T17:50:35.000",
+    "date_modified": "2024-09-15T17:50:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3800 BLK Tchoupitoulas St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1131533",
+    "final_x": "3673565.63216",
+    "final_y": "517708.183203",
+    "longitude": "-90.09359610829819",
+    "latitude": "29.917756204019074",
+    "geocoded_column": {
+      "latitude": "29.917756204019074",
+      "longitude": "-90.09359610829819"
+    }
+  },
+  {
+    "service_request": "2024-1131496",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-15T14:41:59.000",
+    "date_modified": "2024-09-15T14:41:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7215 Pritchard Pl",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1131496",
+    "final_x": "3667450.27143",
+    "final_y": "531660.078851",
+    "longitude": "-90.11242974866029",
+    "latitude": "29.956299958714066",
+    "geocoded_column": {
+      "latitude": "29.956299958714066",
+      "longitude": "-90.11242974866029"
+    }
+  },
+  {
+    "service_request": "2024-1131442",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-15T10:01:00.000",
+    "date_modified": "2024-09-15T10:01:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "LAUREL ST & WEBSTER ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1131442",
+    "final_x": "3663754.9",
+    "final_y": "518437.98",
+    "longitude": "-90.12453899776527",
+    "latitude": "29.92005114251841",
+    "geocoded_column": {
+      "latitude": "29.92005114251841",
+      "longitude": "-90.12453899776527"
+    }
+  },
+  {
+    "service_request": "2024-1131434",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-15T09:41:42.000",
+    "date_modified": "2024-09-15T09:41:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "CITY PARK AVE & I 10 E & METAIRIE RD",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1131434",
+    "final_x": "3666908.3",
+    "final_y": "540680.08",
+    "longitude": "-90.11383798908375",
+    "latitude": "29.981117832474713",
+    "geocoded_column": {
+      "latitude": "29.981117832474713",
+      "longitude": "-90.11383798908375"
+    }
+  },
+  {
     "service_request": "2024-1131360",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21609,92 +21693,6 @@
     "geocoded_column": {
       "latitude": "29.92003179335413",
       "longitude": "-90.09684817851132"
-    }
-  },
-  {
-    "service_request": "2024-1106458",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-24T14:39:05.000",
-    "date_modified": "2024-07-02T07:00:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "724 Constantinople St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1106458",
-    "final_x": "3672530.07732",
-    "final_y": "518402.462902",
-    "longitude": "-90.09684113968652",
-    "latitude": "29.919696019479016",
-    "geocoded_column": {
-      "latitude": "29.919696019479016",
-      "longitude": "-90.09684113968652"
-    }
-  },
-  {
-    "service_request": "2024-1106406",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-24T13:08:27.000",
-    "date_modified": "2024-06-24T15:43:10.000",
-    "case_close_date": "2024-06-24T10:43:10.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FRANKLIN AVE & N MIRO ST",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1106406",
-    "final_x": "3687634.8",
-    "final_y": "540595.28",
-    "longitude": "-90.04837752680744",
-    "latitude": "29.980261842020028",
-    "geocoded_column": {
-      "latitude": "29.980261842020028",
-      "longitude": "-90.04837752680744"
-    }
-  },
-  {
-    "service_request": "2024-1106400",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-24T13:00:05.000",
-    "date_modified": "2024-06-24T15:17:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FRANCE ST & N TONTI ST",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1106400",
-    "final_x": "3693549.5",
-    "final_y": "539680.88",
-    "longitude": "-90.02972933739811",
-    "latitude": "29.97756386536346",
-    "geocoded_column": {
-      "latitude": "29.97756386536346",
-      "longitude": "-90.02972933739811"
-    }
-  },
-  {
-    "service_request": "2024-1106386",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-24T12:36:04.000",
-    "date_modified": "2024-07-16T08:16:07.000",
-    "case_close_date": "2024-07-16T03:16:07.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "827 Nashville Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1106386",
-    "final_x": "3665627.01946",
-    "final_y": "519205.746423",
-    "longitude": "-90.11860390192565",
-    "latitude": "29.92210782133062",
-    "geocoded_column": {
-      "latitude": "29.92210782133062",
-      "longitude": "-90.11860390192565"
     }
   }
 ]
