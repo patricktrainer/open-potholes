@@ -8680,27 +8680,6 @@
     }
   },
   {
-    "service_request": "2024-1131775",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Storm Debris Collection",
-    "date_created": "2024-09-16T10:43:55.000",
-    "date_modified": "2024-09-16T10:43:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "706 Eleonore St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1131775",
-    "final_x": "3665129.79636",
-    "final_y": "518815.950647",
-    "longitude": "-90.12018646188162",
-    "latitude": "29.92105048966512",
-    "geocoded_column": {
-      "latitude": "29.92105048966512",
-      "longitude": "-90.12018646188162"
-    }
-  },
-  {
     "service_request": "2024-1131776",
     "request_type": "Trash/Recycling",
     "request_reason": "Storm Debris Collection",
@@ -8719,6 +8698,27 @@
     "geocoded_column": {
       "latitude": "30.07346795697943",
       "longitude": "-89.9444304125577"
+    }
+  },
+  {
+    "service_request": "2024-1131775",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Storm Debris Collection",
+    "date_created": "2024-09-16T10:43:55.000",
+    "date_modified": "2024-09-16T10:43:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "706 Eleonore St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1131775",
+    "final_x": "3665129.79636",
+    "final_y": "518815.950647",
+    "longitude": "-90.12018646188162",
+    "latitude": "29.92105048966512",
+    "geocoded_column": {
+      "latitude": "29.92105048966512",
+      "longitude": "-90.12018646188162"
     }
   },
   {
