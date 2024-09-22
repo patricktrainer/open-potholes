@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2024-1134066",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-21T18:04:41.000",
+    "date_modified": "2024-09-21T18:04:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "PASTEUR BLVD & RAPIDES DR",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1134066",
+    "final_x": "3682877.1",
+    "final_y": "552971.98",
+    "longitude": "-90.06297095231525",
+    "latitude": "30.01443919258813",
+    "geocoded_column": {
+      "latitude": "30.01443919258813",
+      "longitude": "-90.06297095231525"
+    }
+  },
+  {
+    "service_request": "2024-1134056",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-21T15:51:04.000",
+    "date_modified": "2024-09-21T15:51:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5100 Press Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1134056",
+    "final_x": "3689306.71804",
+    "final_y": "552122.931606",
+    "longitude": "-90.04268681381917",
+    "latitude": "30.0119070521994",
+    "geocoded_column": {
+      "latitude": "30.0119070521994",
+      "longitude": "-90.04268681381917"
+    }
+  },
+  {
+    "service_request": "2024-1134040",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-21T13:45:00.000",
+    "date_modified": "2024-09-21T13:45:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "727 Louque Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1134040",
+    "final_x": "3668465.65966",
+    "final_y": "543580.667534",
+    "longitude": "-90.10882122566056",
+    "latitude": "29.98904779530509",
+    "geocoded_column": {
+      "latitude": "29.98904779530509",
+      "longitude": "-90.10882122566056"
+    }
+  },
+  {
+    "service_request": "2024-1134006",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-21T07:57:22.000",
+    "date_modified": "2024-09-21T07:57:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2300 BLK Madrid St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1134006",
+    "final_x": "3684425.76366",
+    "final_y": "555403.586815",
+    "longitude": "-90.05799243842155",
+    "latitude": "30.021077917725364",
+    "geocoded_column": {
+      "latitude": "30.021077917725364",
+      "longitude": "-90.05799243842155"
+    }
+  },
+  {
     "service_request": "2024-1133971",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21607,91 +21691,6 @@
     "geocoded_column": {
       "latitude": "29.92743299392239",
       "longitude": "-90.11897149996602"
-    }
-  },
-  {
-    "service_request": "2024-1107692",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-27T15:49:29.000",
-    "date_modified": "2024-08-09T15:29:34.000",
-    "case_close_date": "2024-08-09T10:29:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3817 Octavia St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1107692",
-    "final_x": "3668845.60481",
-    "final_y": "529468.915841",
-    "longitude": "-90.10809772294161",
-    "latitude": "29.950234024544727",
-    "geocoded_column": {
-      "latitude": "29.950234024544727",
-      "longitude": "-90.10809772294161"
-    }
-  },
-  {
-    "service_request": "2024-1107606",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-27T13:27:17.000",
-    "date_modified": "2024-07-18T08:47:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4300 BLK Clio St",
-    "address_councildis": "B",
-    "status": "Reviewed",
-    "rowid": "1107606",
-    "final_x": "3671180.15695",
-    "final_y": "531732.32904",
-    "longitude": "-90.10064953573486",
-    "latitude": "29.956388817789843",
-    "geocoded_column": {
-      "latitude": "29.956388817789843",
-      "longitude": "-90.10064953573486"
-    }
-  },
-  {
-    "service_request": "2024-1107604",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-27T13:26:08.000",
-    "date_modified": "2024-07-18T08:41:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4200 BLK Clio St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1107604",
-    "final_x": "3671463.34995",
-    "final_y": "531554.59055",
-    "longitude": "-90.09976134625063",
-    "latitude": "29.955891715716955",
-    "geocoded_column": {
-      "latitude": "29.955891715716955",
-      "longitude": "-90.09976134625063"
-    }
-  },
-  {
-    "service_request": "2024-1107602",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-06-27T13:23:26.000",
-    "date_modified": "2024-07-15T08:34:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1200 BLK S Gayoso St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1107602",
-    "final_x": "3671224.61486",
-    "final_y": "531490.394156",
-    "longitude": "-90.10051737145903",
-    "latitude": "29.955722261725377",
-    "geocoded_column": {
-      "latitude": "29.955722261725377",
-      "longitude": "-90.10051737145903"
     }
   }
 ]
