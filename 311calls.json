@@ -14465,27 +14465,6 @@
     }
   },
   {
-    "service_request": "2024-1134524",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-09-23T13:35:04.000",
-    "date_modified": "2024-09-23T13:35:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "8421 Belfast St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1134524",
-    "final_x": "3664691.89728",
-    "final_y": "533241.496708",
-    "longitude": "-90.12108697871608",
-    "latitude": "29.96072886793286",
-    "geocoded_column": {
-      "latitude": "29.96072886793286",
-      "longitude": "-90.12108697871608"
-    }
-  },
-  {
     "service_request": "2024-1134525",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -14505,6 +14484,27 @@
     "geocoded_column": {
       "latitude": "30.032942035932845",
       "longitude": "-89.92079792303684"
+    }
+  },
+  {
+    "service_request": "2024-1134524",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-09-23T13:35:04.000",
+    "date_modified": "2024-09-23T13:35:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "8421 Belfast St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1134524",
+    "final_x": "3664691.89728",
+    "final_y": "533241.496708",
+    "longitude": "-90.12108697871608",
+    "latitude": "29.96072886793286",
+    "geocoded_column": {
+      "latitude": "29.96072886793286",
+      "longitude": "-90.12108697871608"
     }
   },
   {
