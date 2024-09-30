@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1136509",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-29T14:33:16.000",
+    "date_modified": "2024-09-29T14:33:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1550 S Lopez St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1136509",
+    "final_x": "3670222.66209",
+    "final_y": "530903.04845",
+    "longitude": "-90.10370109575243",
+    "latitude": "29.954136858133843",
+    "geocoded_column": {
+      "latitude": "29.954136858133843",
+      "longitude": "-90.10370109575243"
+    }
+  },
+  {
+    "service_request": "2024-1136498",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-09-29T12:24:53.000",
+    "date_modified": "2024-09-29T12:24:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2508 St Thomas St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1136498",
+    "final_x": "3678765.12904",
+    "final_y": "519722.78604",
+    "longitude": "-90.07711445836249",
+    "latitude": "29.923140000361535",
+    "geocoded_column": {
+      "latitude": "29.923140000361535",
+      "longitude": "-90.07711445836249"
+    }
+  },
+  {
     "service_request": "2024-1136448",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21655,50 +21697,6 @@
     "geocoded_column": {
       "latitude": "29.960968912325118",
       "longitude": "-90.01137353120926"
-    }
-  },
-  {
-    "service_request": "2024-1109561",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-05T09:18:58.000",
-    "date_modified": "2024-07-05T09:19:40.000",
-    "case_close_date": "2024-07-05T04:19:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5900 BLK Marais St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1109561",
-    "final_x": "3699141.1837",
-    "final_y": "533829.910802",
-    "longitude": "-90.01228206707707",
-    "latitude": "29.961299698248087",
-    "geocoded_column": {
-      "latitude": "29.961299698248087",
-      "longitude": "-90.01228206707707"
-    }
-  },
-  {
-    "service_request": "2024-1109549",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-05T08:59:40.000",
-    "date_modified": "2024-07-08T08:17:15.000",
-    "case_close_date": "2024-07-08T03:17:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5028 Magazine St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1109549",
-    "final_x": "3668384.23527",
-    "final_y": "518500.316407",
-    "longitude": "-90.10992426590174",
-    "latitude": "29.920087450877094",
-    "geocoded_column": {
-      "latitude": "29.920087450877094",
-      "longitude": "-90.10992426590174"
     }
   }
 ]
