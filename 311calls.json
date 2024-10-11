@@ -20169,6 +20169,28 @@
     }
   },
   {
+    "service_request": "2024-1139306",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-10-08T12:46:30.000",
+    "date_modified": "2024-10-08T12:46:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3059 Maurepas St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1139306",
+    "final_x": "3676698.84917",
+    "final_y": "540782.707851",
+    "longitude": "-90.08291145992182",
+    "latitude": "29.98110988013098",
+    "geocoded_column": {
+      "latitude": "29.98110988013098",
+      "longitude": "-90.08291145992182"
+    }
+  },
+  {
     "service_request": "2024-1139307",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20190,28 +20212,6 @@
     "geocoded_column": {
       "latitude": "30.03218815527107",
       "longitude": "-89.95643724039674"
-    }
-  },
-  {
-    "service_request": "2024-1139306",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-10-08T12:46:30.000",
-    "date_modified": "2024-10-08T12:46:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3059 Maurepas St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1139306",
-    "final_x": "3676698.84917",
-    "final_y": "540782.707851",
-    "longitude": "-90.08291145992182",
-    "latitude": "29.98110988013098",
-    "geocoded_column": {
-      "latitude": "29.98110988013098",
-      "longitude": "-90.08291145992182"
     }
   },
   {
