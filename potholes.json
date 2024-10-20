@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1142375",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-10-19T16:00:52.000",
+    "date_modified": "2024-10-19T16:00:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "939 St Mary St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1142375",
+    "final_x": "3680060.53045",
+    "final_y": "522525.12217",
+    "longitude": "-90.0729280706318",
+    "latitude": "29.930806393476256",
+    "geocoded_column": {
+      "latitude": "29.930806393476256",
+      "longitude": "-90.0729280706318"
+    }
+  },
+  {
+    "service_request": "2024-1142347",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-10-19T11:14:05.000",
+    "date_modified": "2024-10-19T11:14:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7003 St Charles Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1142347",
+    "final_x": "3663449.21357",
+    "final_y": "524441.038972",
+    "longitude": "-90.12530413507456",
+    "latitude": "29.93656653202403",
+    "geocoded_column": {
+      "latitude": "29.93656653202403",
+      "longitude": "-90.12530413507456"
+    }
+  },
+  {
     "service_request": "2024-1142242",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -42,37 +84,17 @@
     }
   },
   {
-    "service_request": "2024-1142222",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-18T13:57:53.000",
-    "date_modified": "2024-10-18T13:57:53.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8622 Gervais St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1142222",
-    "final_x": "3704048.17463",
-    "final_y": "562742.689952",
-    "longitude": "-89.99572096016718",
-    "latitude": "30.04064247218363",
-    "geocoded_column": {
-      "latitude": "30.04064247218363",
-      "longitude": "-89.99572096016718"
-    }
-  },
-  {
     "service_request": "2024-1142219",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-10-18T13:54:20.000",
-    "date_modified": "2024-10-18T13:54:20.000",
-    "request_status": "Pending",
+    "date_modified": "2024-10-19T10:36:32.000",
+    "case_close_date": "2024-10-19T05:36:32.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "8622 Gervais St",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1142219",
     "final_x": "3704048.17463",
     "final_y": "562742.689952",
@@ -255,12 +277,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-10-17T12:36:21.000",
-    "date_modified": "2024-10-17T12:36:21.000",
-    "request_status": "Pending",
+    "date_modified": "2024-10-19T11:27:34.000",
+    "case_close_date": "2024-10-19T06:27:34.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "10400 Dwyer Rd",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "1141878",
     "final_x": "3713869.68984",
     "final_y": "558074.414747",
@@ -2254,27 +2277,6 @@
     "geocoded_column": {
       "latitude": "30.029374314783933",
       "longitude": "-89.9494780949605"
-    }
-  },
-  {
-    "service_request": "2024-1139102",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-07T20:35:21.000",
-    "date_modified": "2024-10-07T20:35:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8620 Gervais St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1139102",
-    "final_x": "3704029.3722",
-    "final_y": "562731.296736",
-    "longitude": "-89.99578080201496",
-    "latitude": "30.04061174883874",
-    "geocoded_column": {
-      "latitude": "30.04061174883874",
-      "longitude": "-89.99578080201496"
     }
   },
   {
