@@ -1563,27 +1563,6 @@
     }
   },
   {
-    "service_request": "2024-1144586",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2024-10-28T15:20:41.000",
-    "date_modified": "2024-10-28T15:21:05.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "710 Park Blvd",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1144586",
-    "final_x": "3688175.70531",
-    "final_y": "525948.579453",
-    "longitude": "-90.04718837213834",
-    "latitude": "29.939971801490998",
-    "geocoded_column": {
-      "latitude": "29.939971801490998",
-      "longitude": "-90.04718837213834"
-    }
-  },
-  {
     "service_request": "2024-1144585",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -1603,6 +1582,27 @@
     "geocoded_column": {
       "latitude": "30.021337620275233",
       "longitude": "-89.98050411256139"
+    }
+  },
+  {
+    "service_request": "2024-1144586",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2024-10-28T15:20:41.000",
+    "date_modified": "2024-10-28T15:21:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "710 Park Blvd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1144586",
+    "final_x": "3688175.70531",
+    "final_y": "525948.579453",
+    "longitude": "-90.04718837213834",
+    "latitude": "29.939971801490998",
+    "geocoded_column": {
+      "latitude": "29.939971801490998",
+      "longitude": "-90.04718837213834"
     }
   },
   {
