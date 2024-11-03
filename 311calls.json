@@ -12796,27 +12796,6 @@
     }
   },
   {
-    "service_request": "2024-1145198",
-    "request_type": "Street and Traffic Signs",
-    "request_reason": "Street Name Sign Damaged or Missing",
-    "date_created": "2024-10-30T14:42:38.000",
-    "date_modified": "2024-10-30T14:42:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N BROAD ST & REPUBLIC ST",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1145198",
-    "final_x": "3680722.6",
-    "final_y": "542336.18",
-    "longitude": "-90.07014855729182",
-    "latitude": "29.985260035010125",
-    "geocoded_column": {
-      "latitude": "29.985260035010125",
-      "longitude": "-90.07014855729182"
-    }
-  },
-  {
     "service_request": "2024-1145199",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -12838,6 +12817,27 @@
     "geocoded_column": {
       "latitude": "30.05332585869509",
       "longitude": "-89.97221430063018"
+    }
+  },
+  {
+    "service_request": "2024-1145198",
+    "request_type": "Street and Traffic Signs",
+    "request_reason": "Street Name Sign Damaged or Missing",
+    "date_created": "2024-10-30T14:42:38.000",
+    "date_modified": "2024-10-30T14:42:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N BROAD ST & REPUBLIC ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1145198",
+    "final_x": "3680722.6",
+    "final_y": "542336.18",
+    "longitude": "-90.07014855729182",
+    "latitude": "29.985260035010125",
+    "geocoded_column": {
+      "latitude": "29.985260035010125",
+      "longitude": "-90.07014855729182"
     }
   },
   {
