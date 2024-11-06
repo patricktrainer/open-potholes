@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1146402",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-05T12:52:08.000",
+    "date_modified": "2024-11-05T12:52:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1639 Independence St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1146402",
+    "final_x": "3691537.72176",
+    "final_y": "537719.541768",
+    "longitude": "-90.0361533168936",
+    "latitude": "29.97223366161637",
+    "geocoded_column": {
+      "latitude": "29.97223366161637",
+      "longitude": "-90.0361533168936"
+    }
+  },
+  {
+    "service_request": "2024-1146399",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-05T12:50:17.000",
+    "date_modified": "2024-11-05T12:50:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2319 Prentiss Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1146399",
+    "final_x": "3684512.41442",
+    "final_y": "553974.389208",
+    "longitude": "-90.05776891814072",
+    "latitude": "30.017145497681515",
+    "geocoded_column": {
+      "latitude": "30.017145497681515",
+      "longitude": "-90.05776891814072"
+    }
+  },
+  {
     "service_request": "2024-1146181",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21666,50 +21708,6 @@
     "geocoded_column": {
       "latitude": "29.924582514019654",
       "longitude": "-90.12238417539382"
-    }
-  },
-  {
-    "service_request": "2024-1115211",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-24T04:41:33.000",
-    "date_modified": "2024-07-27T08:24:07.000",
-    "case_close_date": "2024-07-27T03:24:07.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6070 Chestnut St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1115211",
-    "final_x": "3664412.78983",
-    "final_y": "519991.592952",
-    "longitude": "-90.12241052146828",
-    "latitude": "29.92430399204139",
-    "geocoded_column": {
-      "latitude": "29.92430399204139",
-      "longitude": "-90.12241052146828"
-    }
-  },
-  {
-    "service_request": "2024-1115205",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-24T00:58:47.000",
-    "date_modified": "2024-07-26T08:55:48.000",
-    "case_close_date": "2024-07-26T03:55:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1112 Constantinople St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1115205",
-    "final_x": "3672348.95259",
-    "final_y": "519796.384952",
-    "longitude": "-90.09736540233975",
-    "latitude": "29.923534233550217",
-    "geocoded_column": {
-      "latitude": "29.923534233550217",
-      "longitude": "-90.09736540233975"
     }
   }
 ]
