@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2024-1147504",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-10T13:28:36.000",
+    "date_modified": "2024-11-10T13:28:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1000 BLK Saint Peter St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1147504",
+    "final_x": "3681526.70515",
+    "final_y": "533202.661729",
+    "longitude": "-90.06792731974187",
+    "latitude": "29.960121619601097",
+    "geocoded_column": {
+      "latitude": "29.960121619601097",
+      "longitude": "-90.06792731974187"
+    }
+  },
+  {
     "service_request": "2024-1147353",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -151,12 +172,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-07T16:15:31.000",
-    "date_modified": "2024-11-07T16:15:31.000",
-    "request_status": "Pending",
+    "date_modified": "2024-11-10T22:53:46.000",
+    "case_close_date": "2024-11-10T16:53:46.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "3281 Elmwood Park Dr",
     "address_councildis": "C",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1147085",
     "final_x": "3695196.68445",
     "final_y": "518005.091574",
@@ -282,12 +304,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-07T09:13:09.000",
-    "date_modified": "2024-11-07T09:13:09.000",
-    "request_status": "Pending",
+    "date_modified": "2024-11-10T22:41:45.000",
+    "case_close_date": "2024-11-10T16:41:45.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "8600 BLK Cohn St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1146875",
     "final_x": "3662171.97221",
     "final_y": "531508.182506",
@@ -21685,27 +21708,6 @@
     "geocoded_column": {
       "latitude": "29.92490447494246",
       "longitude": "-90.09963137110304"
-    }
-  },
-  {
-    "service_request": "2024-1115606",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-24T21:21:38.000",
-    "date_modified": "2024-07-29T19:54:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5600 Catina St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1115606",
-    "final_x": "3666566.80673",
-    "final_y": "544765.645583",
-    "longitude": "-90.11477935333389",
-    "latitude": "29.992361741051177",
-    "geocoded_column": {
-      "latitude": "29.992361741051177",
-      "longitude": "-90.11477935333389"
     }
   }
 ]
