@@ -1,5 +1,152 @@
 [
   {
+    "service_request": "2024-1148395",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T16:23:36.000",
+    "date_modified": "2024-11-13T16:23:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4800 BLK Calliope St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1148395",
+    "final_x": "3669547.29243",
+    "final_y": "533124.67304",
+    "longitude": "-90.10575849312993",
+    "latitude": "29.960265503992982",
+    "geocoded_column": {
+      "latitude": "29.960265503992982",
+      "longitude": "-90.10575849312993"
+    }
+  },
+  {
+    "service_request": "2024-1148318",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T13:42:58.000",
+    "date_modified": "2024-11-13T13:42:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "13733 Chef Menteur Hwy",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1148318",
+    "final_x": "3727514.7175",
+    "final_y": "560443.380638",
+    "longitude": "-89.92164946180709",
+    "latitude": "30.033546212632437",
+    "geocoded_column": {
+      "latitude": "30.033546212632437",
+      "longitude": "-89.92164946180709"
+    }
+  },
+  {
+    "service_request": "2024-1148312",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T13:22:59.000",
+    "date_modified": "2024-11-13T13:23:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "CANAL ST & N RENDON ST & S RENDON ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1148312",
+    "final_x": "3673613.9",
+    "final_y": "536487.98",
+    "longitude": "-90.09280199255224",
+    "latitude": "29.969393046876576",
+    "geocoded_column": {
+      "latitude": "29.969393046876576",
+      "longitude": "-90.09280199255224"
+    }
+  },
+  {
+    "service_request": "2024-1148300",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T12:53:32.000",
+    "date_modified": "2024-11-13T12:53:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2605 Laurel St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1148300",
+    "final_x": "3677911.05902",
+    "final_y": "520543.481848",
+    "longitude": "-90.07978208944988",
+    "latitude": "29.92542236622245",
+    "geocoded_column": {
+      "latitude": "29.92542236622245",
+      "longitude": "-90.07978208944988"
+    }
+  },
+  {
+    "service_request": "2024-1148191",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T08:49:04.000",
+    "date_modified": "2024-11-13T08:49:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1226 Royal St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1148191",
+    "final_x": "3683814.82351",
+    "final_y": "534069.084997",
+    "longitude": "-90.06067155317955",
+    "latitude": "29.96243430728358",
+    "geocoded_column": {
+      "latitude": "29.96243430728358",
+      "longitude": "-90.06067155317955"
+    }
+  },
+  {
+    "service_request": "2024-1148189",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T08:42:05.000",
+    "date_modified": "2024-11-13T08:42:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3646 Clermont Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1148189",
+    "final_x": "3685686.50754",
+    "final_y": "545897.594256",
+    "longitude": "-90.05434411795987",
+    "latitude": "29.994901253449516",
+    "geocoded_column": {
+      "latitude": "29.994901253449516",
+      "longitude": "-90.05434411795987"
+    }
+  },
+  {
+    "service_request": "2024-1148164",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-13T07:42:00.000",
+    "date_modified": "2024-11-13T07:42:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7230 Plum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1148164",
+    "final_x": "3664169.42503",
+    "final_y": "526875.436222",
+    "longitude": "-90.12294920360816",
+    "latitude": "29.94323944991664",
+    "geocoded_column": {
+      "latitude": "29.94323944991664",
+      "longitude": "-90.12294920360816"
+    }
+  },
+  {
     "service_request": "2024-1148144",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21547,160 +21694,6 @@
     "geocoded_column": {
       "latitude": "29.934399244441718",
       "longitude": "-90.10624508615116"
-    }
-  },
-  {
-    "service_request": "2024-1116055",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-26T09:54:25.000",
-    "date_modified": "2024-07-26T09:54:43.000",
-    "case_close_date": "2024-07-26T04:54:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4820 Coliseum St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1116055",
-    "final_x": "3669300.91553",
-    "final_y": "519603.765944",
-    "longitude": "-90.10699346021451",
-    "latitude": "29.92309464392775",
-    "geocoded_column": {
-      "latitude": "29.92309464392775",
-      "longitude": "-90.10699346021451"
-    }
-  },
-  {
-    "service_request": "2024-1116052",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-26T09:53:26.000",
-    "date_modified": "2024-07-26T09:53:56.000",
-    "case_close_date": "2024-07-26T04:53:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4703 Coliseum St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1116052",
-    "final_x": "3669787.94478",
-    "final_y": "519745.456184",
-    "longitude": "-90.10545129918127",
-    "latitude": "29.923469905564183",
-    "geocoded_column": {
-      "latitude": "29.923469905564183",
-      "longitude": "-90.10545129918127"
-    }
-  },
-  {
-    "service_request": "2024-1115982",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-26T01:21:49.000",
-    "date_modified": "2024-07-29T09:53:38.000",
-    "case_close_date": "2024-07-29T04:53:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4216 Chestnut St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1115982",
-    "final_x": "3671574.31393",
-    "final_y": "519539.203703",
-    "longitude": "-90.09981939416457",
-    "latitude": "29.922850019854593",
-    "geocoded_column": {
-      "latitude": "29.922850019854593",
-      "longitude": "-90.09981939416457"
-    }
-  },
-  {
-    "service_request": "2024-1115981",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-26T00:19:48.000",
-    "date_modified": "2024-08-09T17:45:09.000",
-    "case_close_date": "2024-08-09T12:45:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1501 General Taylor St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1115981",
-    "final_x": "3672757.23963",
-    "final_y": "520814.498105",
-    "longitude": "-90.09604188611411",
-    "latitude": "29.926321602463354",
-    "geocoded_column": {
-      "latitude": "29.926321602463354",
-      "longitude": "-90.09604188611411"
-    }
-  },
-  {
-    "service_request": "2024-1115966",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-25T20:04:23.000",
-    "date_modified": "2024-07-29T20:03:16.000",
-    "case_close_date": "2024-07-29T15:03:16.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8422 Green St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1115966",
-    "final_x": "3662181.77152",
-    "final_y": "530496.033858",
-    "longitude": "-90.12910462195475",
-    "latitude": "29.953252515640536",
-    "geocoded_column": {
-      "latitude": "29.953252515640536",
-      "longitude": "-90.12910462195475"
-    }
-  },
-  {
-    "service_request": "2024-1115961",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-25T18:15:13.000",
-    "date_modified": "2024-07-26T08:36:20.000",
-    "case_close_date": "2024-07-26T03:36:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5200 BLK Danneel St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1115961",
-    "final_x": "3668060.05328",
-    "final_y": "522163.577836",
-    "longitude": "-90.11082418753892",
-    "latitude": "29.93016977275902",
-    "geocoded_column": {
-      "latitude": "29.93016977275902",
-      "longitude": "-90.11082418753892"
-    }
-  },
-  {
-    "service_request": "2024-1115954",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-25T17:47:22.000",
-    "date_modified": "2024-07-26T08:38:28.000",
-    "case_close_date": "2024-07-26T03:38:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK Valence St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1115954",
-    "final_x": "3669784.65285",
-    "final_y": "520336.257015",
-    "longitude": "-90.1054417057675",
-    "latitude": "29.925094517046503",
-    "geocoded_column": {
-      "latitude": "29.925094517046503",
-      "longitude": "-90.1054417057675"
     }
   }
 ]
