@@ -18611,27 +18611,6 @@
     }
   },
   {
-    "service_request": "2024-1148184",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2024-11-13T08:36:17.000",
-    "date_modified": "2024-11-13T08:36:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8119 Oak St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1148184",
-    "final_x": "3661863.68237",
-    "final_y": "528517.147136",
-    "longitude": "-90.13017462602147",
-    "latitude": "29.947820400958737",
-    "geocoded_column": {
-      "latitude": "29.947820400958737",
-      "longitude": "-90.13017462602147"
-    }
-  },
-  {
     "service_request": "2024-1148185",
     "request_type": "Street and Traffic Signs",
     "request_reason": "Stop Sign Missing or Damaged",
@@ -18650,6 +18629,27 @@
     "geocoded_column": {
       "latitude": "29.9199033747488",
       "longitude": "-90.10389955475033"
+    }
+  },
+  {
+    "service_request": "2024-1148184",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2024-11-13T08:36:17.000",
+    "date_modified": "2024-11-13T08:36:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8119 Oak St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1148184",
+    "final_x": "3661863.68237",
+    "final_y": "528517.147136",
+    "longitude": "-90.13017462602147",
+    "latitude": "29.947820400958737",
+    "geocoded_column": {
+      "latitude": "29.947820400958737",
+      "longitude": "-90.13017462602147"
     }
   },
   {
