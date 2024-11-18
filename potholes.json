@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2024-1149183",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-17T14:56:24.000",
+    "date_modified": "2024-11-17T14:56:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "600 First St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1149183",
+    "final_x": "3679030.64898",
+    "final_y": "519985.956024",
+    "longitude": "-90.07626720005887",
+    "latitude": "29.923855625335953",
+    "geocoded_column": {
+      "latitude": "29.923855625335953",
+      "longitude": "-90.07626720005887"
+    }
+  },
+  {
+    "service_request": "2024-1149157",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-17T13:47:02.000",
+    "date_modified": "2024-11-17T13:47:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4301 Chef Menteur Hwy",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1149157",
+    "final_x": "3690442.7951",
+    "final_y": "549667.029588",
+    "longitude": "-90.03918511016305",
+    "latitude": "30.00511899115759",
+    "geocoded_column": {
+      "latitude": "30.00511899115759",
+      "longitude": "-90.03918511016305"
+    }
+  },
+  {
+    "service_request": "2024-1149136",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-17T11:30:10.000",
+    "date_modified": "2024-11-17T11:30:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2710 Clover St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1149136",
+    "final_x": "3687950.98953",
+    "final_y": "546614.243921",
+    "longitude": "-90.04716548332134",
+    "latitude": "29.996802086656253",
+    "geocoded_column": {
+      "latitude": "29.996802086656253",
+      "longitude": "-90.04716548332134"
+    }
+  },
+  {
+    "service_request": "2024-1149135",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-17T11:28:39.000",
+    "date_modified": "2024-11-17T11:28:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2710 Clover St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1149135",
+    "final_x": "3687950.98953",
+    "final_y": "546614.243921",
+    "longitude": "-90.04716548332134",
+    "latitude": "29.996802086656253",
+    "geocoded_column": {
+      "latitude": "29.996802086656253",
+      "longitude": "-90.04716548332134"
+    }
+  },
+  {
     "service_request": "2024-1149096",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21598,94 +21682,6 @@
     "geocoded_column": {
       "latitude": "29.924465378806524",
       "longitude": "-90.1000320136845"
-    }
-  },
-  {
-    "service_request": "2024-1116435",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-28T05:41:31.000",
-    "date_modified": "2024-08-06T16:03:19.000",
-    "case_close_date": "2024-08-06T11:03:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6018 Benjamin St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1116435",
-    "final_x": "3665453.14343",
-    "final_y": "522163.43609",
-    "longitude": "-90.11905381999654",
-    "latitude": "29.93024560339561",
-    "geocoded_column": {
-      "latitude": "29.93024560339561",
-      "longitude": "-90.11905381999654"
-    }
-  },
-  {
-    "service_request": "2024-1116434",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-28T05:40:29.000",
-    "date_modified": "2024-08-06T16:09:40.000",
-    "case_close_date": "2024-08-06T11:09:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6028 Benjamin St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1116434",
-    "final_x": "3665338.06842",
-    "final_y": "522201.69881",
-    "longitude": "-90.1194158153632",
-    "latitude": "29.930354166447213",
-    "geocoded_column": {
-      "latitude": "29.930354166447213",
-      "longitude": "-90.1194158153632"
-    }
-  },
-  {
-    "service_request": "2024-1116433",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-28T05:39:25.000",
-    "date_modified": "2024-10-16T12:19:40.000",
-    "case_close_date": "2024-10-16T07:19:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6033 Benjamin St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1116433",
-    "final_x": "3665306.09895",
-    "final_y": "522294.315706",
-    "longitude": "-90.1195136411945",
-    "latitude": "29.93060976484396",
-    "geocoded_column": {
-      "latitude": "29.93060976484396",
-      "longitude": "-90.1195136411945"
-    }
-  },
-  {
-    "service_request": "2024-1116430",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-27T23:23:08.000",
-    "date_modified": "2024-08-05T14:17:36.000",
-    "case_close_date": "2024-08-05T09:17:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1421 General Taylor St",
-    "address_councildis": "B",
-    "status": "Invalid Case",
-    "rowid": "1116430",
-    "final_x": "3672783.68392",
-    "final_y": "520716.466425",
-    "longitude": "-90.09596175059541",
-    "latitude": "29.926051261619584",
-    "geocoded_column": {
-      "latitude": "29.926051261619584",
-      "longitude": "-90.09596175059541"
     }
   }
 ]
