@@ -20683,27 +20683,6 @@
     }
   },
   {
-    "service_request": "2024-1148669",
-    "request_type": "Drainage",
-    "request_reason": "Catch Basin Clogged",
-    "date_created": "2024-11-14T15:15:37.000",
-    "date_modified": "2024-11-18T08:10:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1622 Frenchmen St",
-    "address_councildis": "D",
-    "status": "Scheduled",
-    "rowid": "1148669",
-    "final_x": "3684386.46421",
-    "final_y": "538306.270281",
-    "longitude": "-90.05871755317652",
-    "latitude": "29.974067628549363",
-    "geocoded_column": {
-      "latitude": "29.974067628549363",
-      "longitude": "-90.05871755317652"
-    }
-  },
-  {
     "service_request": "2024-1148668",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -20723,6 +20702,27 @@
     "geocoded_column": {
       "latitude": "29.962602214684683",
       "longitude": "-90.01094892373898"
+    }
+  },
+  {
+    "service_request": "2024-1148669",
+    "request_type": "Drainage",
+    "request_reason": "Catch Basin Clogged",
+    "date_created": "2024-11-14T15:15:37.000",
+    "date_modified": "2024-11-18T08:10:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1622 Frenchmen St",
+    "address_councildis": "D",
+    "status": "Scheduled",
+    "rowid": "1148669",
+    "final_x": "3684386.46421",
+    "final_y": "538306.270281",
+    "longitude": "-90.05871755317652",
+    "latitude": "29.974067628549363",
+    "geocoded_column": {
+      "latitude": "29.974067628549363",
+      "longitude": "-90.05871755317652"
     }
   },
   {
