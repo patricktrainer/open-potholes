@@ -1,5 +1,131 @@
 [
   {
+    "service_request": "2024-1150853",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-23T15:29:09.000",
+    "date_modified": "2024-11-23T15:29:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "9009 Belfast St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1150853",
+    "final_x": "3663196.74119",
+    "final_y": "534589.198213",
+    "longitude": "-90.12576356266692",
+    "latitude": "29.96447801622129",
+    "geocoded_column": {
+      "latitude": "29.96447801622129",
+      "longitude": "-90.12576356266692"
+    }
+  },
+  {
+    "service_request": "2024-1150835",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-23T14:06:35.000",
+    "date_modified": "2024-11-23T14:06:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK English Turn Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1150835",
+    "final_x": "3722098.10235",
+    "final_y": "511777.008058",
+    "longitude": "-89.9406355659266",
+    "latitude": "29.899914549797746",
+    "geocoded_column": {
+      "latitude": "29.899914549797746",
+      "longitude": "-89.9406355659266"
+    }
+  },
+  {
+    "service_request": "2024-1150805",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-23T12:24:19.000",
+    "date_modified": "2024-11-23T12:24:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1408 New York St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1150805",
+    "final_x": "3677804.35054",
+    "final_y": "555515.784089",
+    "longitude": "-90.07891035376242",
+    "latitude": "30.021587398625844",
+    "geocoded_column": {
+      "latitude": "30.021587398625844",
+      "longitude": "-90.07891035376242"
+    }
+  },
+  {
+    "service_request": "2024-1150804",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-23T12:21:06.000",
+    "date_modified": "2024-11-23T12:21:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "821 Upperline St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1150804",
+    "final_x": "3669071.97057",
+    "final_y": "518406.155254",
+    "longitude": "-90.10775658819068",
+    "latitude": "29.919808328851595",
+    "geocoded_column": {
+      "latitude": "29.919808328851595",
+      "longitude": "-90.10775658819068"
+    }
+  },
+  {
+    "service_request": "2024-1150787",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-23T09:56:44.000",
+    "date_modified": "2024-11-23T09:56:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1535 General Collins Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1150787",
+    "final_x": "3698426.70436",
+    "final_y": "525439.793533",
+    "longitude": "-90.01484311855248",
+    "latitude": "29.93825245434859",
+    "geocoded_column": {
+      "latitude": "29.93825245434859",
+      "longitude": "-90.01484311855248"
+    }
+  },
+  {
+    "service_request": "2024-1150773",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-23T07:49:57.000",
+    "date_modified": "2024-11-23T07:49:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8200 BLK Belfast St",
+    "address_councildis": "A",
+    "status": "Inspected",
+    "rowid": "1150773",
+    "final_x": "3665194.97043",
+    "final_y": "532722.509146",
+    "longitude": "-90.11951572583875",
+    "latitude": "29.95928717799982",
+    "geocoded_column": {
+      "latitude": "29.95928717799982",
+      "longitude": "-90.11951572583875"
+    }
+  },
+  {
     "service_request": "2024-1150734",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -1231,20 +1357,21 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-14T12:29:41.000",
-    "date_modified": "2024-11-14T12:29:41.000",
-    "request_status": "Pending",
+    "date_modified": "2024-11-23T07:45:54.000",
+    "case_close_date": "2024-11-23T01:45:54.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
-    "final_address": "8100 BLK Belfast St",
+    "final_address": "8134 Belfast St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1148599",
-    "final_x": "3665479.52563",
-    "final_y": "532463.425674",
-    "longitude": "-90.1186258381303",
-    "latitude": "29.958566491678166",
+    "final_x": "3665375.2761",
+    "final_y": "532509.500356",
+    "longitude": "-90.11895349014272",
+    "latitude": "29.958696220368196",
     "geocoded_column": {
-      "latitude": "29.958566491678166",
-      "longitude": "-90.1186258381303"
+      "latitude": "29.958696220368196",
+      "longitude": "-90.11895349014272"
     }
   },
   {
@@ -21556,138 +21683,6 @@
     "geocoded_column": {
       "latitude": "29.920861609793924",
       "longitude": "-90.11003153482064"
-    }
-  },
-  {
-    "service_request": "2024-1117104",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T10:30:39.000",
-    "date_modified": "2024-08-01T15:24:21.000",
-    "case_close_date": "2024-08-01T10:24:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1600 BLK Soniat St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1117104",
-    "final_x": "3668426.04172",
-    "final_y": "521247.442529",
-    "longitude": "-90.1096997017646",
-    "latitude": "29.927639950470635",
-    "geocoded_column": {
-      "latitude": "29.927639950470635",
-      "longitude": "-90.1096997017646"
-    }
-  },
-  {
-    "service_request": "2024-1117074",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T09:34:30.000",
-    "date_modified": "2024-07-30T09:36:30.000",
-    "case_close_date": "2024-07-30T04:36:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4800 BLK Chestnut St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1117074",
-    "final_x": "3669091.4436",
-    "final_y": "519330.34925",
-    "longitude": "-90.10766391646443",
-    "latitude": "29.92234899741362",
-    "geocoded_column": {
-      "latitude": "29.92234899741362",
-      "longitude": "-90.10766391646443"
-    }
-  },
-  {
-    "service_request": "2024-1117065",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T09:27:12.000",
-    "date_modified": "2024-08-03T09:02:10.000",
-    "case_close_date": "2024-08-03T04:02:10.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6026 Benjamin St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1117065",
-    "final_x": "3665368.24487",
-    "final_y": "522189.506042",
-    "longitude": "-90.11932096041569",
-    "latitude": "29.93031976110733",
-    "geocoded_column": {
-      "latitude": "29.93031976110733",
-      "longitude": "-90.11932096041569"
-    }
-  },
-  {
-    "service_request": "2024-1117019",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T08:12:23.000",
-    "date_modified": "2024-08-02T06:57:53.000",
-    "case_close_date": "2024-08-02T01:57:53.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5914 Pitt St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1117019",
-    "final_x": "3665555.07143",
-    "final_y": "521000.262969",
-    "longitude": "-90.11877097002066",
-    "latitude": "29.927044274420915",
-    "geocoded_column": {
-      "latitude": "29.927044274420915",
-      "longitude": "-90.11877097002066"
-    }
-  },
-  {
-    "service_request": "2024-1117007",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T06:28:57.000",
-    "date_modified": "2024-08-02T06:58:35.000",
-    "case_close_date": "2024-08-02T01:58:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "803 Webster St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1117007",
-    "final_x": "3664183.86996",
-    "final_y": "519499.531255",
-    "longitude": "-90.12314955027136",
-    "latitude": "29.922957626552666",
-    "geocoded_column": {
-      "latitude": "29.922957626552666",
-      "longitude": "-90.12314955027136"
-    }
-  },
-  {
-    "service_request": "2024-1117006",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T06:27:14.000",
-    "date_modified": "2024-08-02T07:00:12.000",
-    "case_close_date": "2024-08-02T02:00:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6070 Chestnut St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1117006",
-    "final_x": "3664412.78983",
-    "final_y": "519991.592952",
-    "longitude": "-90.12241052146828",
-    "latitude": "29.92430399204139",
-    "geocoded_column": {
-      "latitude": "29.92430399204139",
-      "longitude": "-90.12241052146828"
     }
   }
 ]
