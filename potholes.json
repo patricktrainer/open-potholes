@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2024-1150939",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-24T12:06:39.000",
+    "date_modified": "2024-11-24T12:06:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1 English Turn Prkwy",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1150939",
+    "final_x": "3713690.71429",
+    "final_y": "516301.512564",
+    "longitude": "-89.96699773956271",
+    "latitude": "29.912633659868995",
+    "geocoded_column": {
+      "latitude": "29.912633659868995",
+      "longitude": "-89.96699773956271"
+    }
+  },
+  {
+    "service_request": "2024-1150936",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-24T11:37:39.000",
+    "date_modified": "2024-11-24T11:37:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1 English Turn Prkwy",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1150936",
+    "final_x": "3713690.71429",
+    "final_y": "516301.512564",
+    "longitude": "-89.96699773956271",
+    "latitude": "29.912633659868995",
+    "geocoded_column": {
+      "latitude": "29.912633659868995",
+      "longitude": "-89.96699773956271"
+    }
+  },
+  {
+    "service_request": "2024-1150913",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-24T04:47:17.000",
+    "date_modified": "2024-11-24T04:47:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1234 Chartres St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1150913",
+    "final_x": "3684118.27682",
+    "final_y": "533877.608325",
+    "longitude": "-90.05972001252022",
+    "latitude": "29.961898541351673",
+    "geocoded_column": {
+      "latitude": "29.961898541351673",
+      "longitude": "-90.05972001252022"
+    }
+  },
+  {
     "service_request": "2024-1150853",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21621,68 +21684,6 @@
     "geocoded_column": {
       "latitude": "29.92141034088395",
       "longitude": "-89.98962695964268"
-    }
-  },
-  {
-    "service_request": "2024-1117135",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T11:16:32.000",
-    "date_modified": "2024-08-03T09:07:50.000",
-    "case_close_date": "2024-08-03T04:07:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1445 Nashville Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1117135",
-    "final_x": "3666126.15405",
-    "final_y": "521365.292345",
-    "longitude": "-90.11695597131158",
-    "latitude": "29.928031332760977",
-    "geocoded_column": {
-      "latitude": "29.928031332760977",
-      "longitude": "-90.11695597131158"
-    }
-  },
-  {
-    "service_request": "2024-1117125",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T10:56:51.000",
-    "date_modified": "2024-08-06T15:46:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7301 Mayo Blvd, New Orleans, Louisiana, 70126",
-    "status": "Inspected",
-    "rowid": "1117125",
-    "longitude": "0.0",
-    "latitude": "0.0",
-    "geocoded_column": {
-      "latitude": "0.0",
-      "longitude": "0.0"
-    }
-  },
-  {
-    "service_request": "2024-1117109",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T10:34:40.000",
-    "date_modified": "2024-07-30T10:35:43.000",
-    "case_close_date": "2024-07-30T05:35:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 BLK Soniat St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1117109",
-    "final_x": "3668347.25054",
-    "final_y": "518781.466162",
-    "longitude": "-90.11003153482064",
-    "latitude": "29.920861609793924",
-    "geocoded_column": {
-      "latitude": "29.920861609793924",
-      "longitude": "-90.11003153482064"
     }
   }
 ]
