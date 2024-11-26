@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1151157",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-25T11:30:10.000",
+    "date_modified": "2024-11-25T12:07:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8000 Trapier Ave",
+    "address_councildis": "E",
+    "status": "Inspected",
+    "rowid": "1151157",
+    "final_x": "3706041.08996",
+    "final_y": "564350.596257",
+    "longitude": "-89.98936312872227",
+    "latitude": "30.044999456955605",
+    "geocoded_column": {
+      "latitude": "30.044999456955605",
+      "longitude": "-89.98936312872227"
+    }
+  },
+  {
+    "service_request": "2024-1151133",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-11-25T10:55:25.000",
+    "date_modified": "2024-11-25T10:55:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "99 Allen Toussaint Blvd Stop 640",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1151133",
+    "final_x": "3666926.23591",
+    "final_y": "554930.44508",
+    "longitude": "-90.11330210539886",
+    "latitude": "30.02030089034647",
+    "geocoded_column": {
+      "latitude": "30.02030089034647",
+      "longitude": "-90.11330210539886"
+    }
+  },
+  {
     "service_request": "2024-1150939",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -102,27 +144,6 @@
     "geocoded_column": {
       "latitude": "29.899914549797746",
       "longitude": "-89.9406355659266"
-    }
-  },
-  {
-    "service_request": "2024-1150805",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-11-23T12:24:19.000",
-    "date_modified": "2024-11-23T12:24:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1408 New York St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1150805",
-    "final_x": "3677804.35054",
-    "final_y": "555515.784089",
-    "longitude": "-90.07891035376242",
-    "latitude": "30.021587398625844",
-    "geocoded_column": {
-      "latitude": "30.021587398625844",
-      "longitude": "-90.07891035376242"
     }
   },
   {
@@ -235,12 +256,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-22T14:45:44.000",
-    "date_modified": "2024-11-22T14:50:11.000",
+    "date_modified": "2024-11-25T15:02:27.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2813 St Thomas St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1150703",
     "final_x": "3677898.03432",
     "final_y": "519308.893367",
@@ -278,12 +299,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-22T10:13:38.000",
-    "date_modified": "2024-11-22T10:13:38.000",
+    "date_modified": "2024-11-25T15:00:28.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2900 LaSalle St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1150579",
     "final_x": "3673909.109",
     "final_y": "524531.732732",
@@ -1225,20 +1246,20 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-15T21:19:26.000",
-    "date_modified": "2024-11-15T21:19:26.000",
+    "date_modified": "2024-11-25T08:43:36.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "5901 Marshal Foch St",
+    "final_address": "907 Polk St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1149029",
-    "final_x": "3669857.18631",
-    "final_y": "546561.546321",
-    "longitude": "-90.10432480421605",
-    "latitude": "29.997203222552038",
+    "final_x": "3669916.1138",
+    "final_y": "547222.059281",
+    "longitude": "-90.10411627048727",
+    "latitude": "29.99901766621164",
     "geocoded_column": {
-      "latitude": "29.997203222552038",
-      "longitude": "-90.10432480421605"
+      "latitude": "29.99901766621164",
+      "longitude": "-90.10411627048727"
     }
   },
   {
@@ -1378,12 +1399,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-14T14:29:11.000",
-    "date_modified": "2024-11-14T14:29:12.000",
-    "request_status": "Pending",
+    "date_modified": "2024-11-25T07:33:28.000",
+    "case_close_date": "2024-11-25T01:33:28.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "BIENVILLE ST & CITY PARK AVE",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1148649",
     "final_x": "3668532.04",
     "final_y": "541273.78",
@@ -1399,12 +1421,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-11-14T13:19:48.000",
-    "date_modified": "2024-11-14T13:19:49.000",
-    "request_status": "Pending",
+    "date_modified": "2024-11-25T08:12:13.000",
+    "case_close_date": "2024-11-25T02:12:13.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "777 Walker St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Not Enough Information- Resubmittal Required",
     "rowid": "1148619",
     "final_x": "3669746.57594",
     "final_y": "553994.633496",
@@ -21662,28 +21685,6 @@
     "geocoded_column": {
       "latitude": "29.92349833836411",
       "longitude": "-90.00525741230996"
-    }
-  },
-  {
-    "service_request": "2024-1117205",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-07-30T13:11:13.000",
-    "date_modified": "2024-07-30T13:11:47.000",
-    "case_close_date": "2024-07-30T08:11:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "200 BLK Rhodes Ave",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1117205",
-    "final_x": "3706484.64506",
-    "final_y": "519408.222454",
-    "longitude": "-89.98962695964268",
-    "latitude": "29.92141034088395",
-    "geocoded_column": {
-      "latitude": "29.92141034088395",
-      "longitude": "-89.98962695964268"
     }
   }
 ]
