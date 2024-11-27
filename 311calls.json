@@ -3889,27 +3889,6 @@
     }
   },
   {
-    "service_request": "2024-1151430",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Recycling Cart",
-    "date_created": "2024-11-26T10:00:30.000",
-    "date_modified": "2024-11-26T10:00:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4704 Perrier St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1151430",
-    "final_x": "3669741.79246",
-    "final_y": "519922.352568",
-    "longitude": "-90.10559100215582",
-    "latitude": "29.923957674252904",
-    "geocoded_column": {
-      "latitude": "29.923957674252904",
-      "longitude": "-90.10559100215582"
-    }
-  },
-  {
     "service_request": "2024-1151431",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -3929,6 +3908,27 @@
     "geocoded_column": {
       "latitude": "29.974195795564512",
       "longitude": "-90.06794383146826"
+    }
+  },
+  {
+    "service_request": "2024-1151430",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Recycling Cart",
+    "date_created": "2024-11-26T10:00:30.000",
+    "date_modified": "2024-11-26T10:00:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4704 Perrier St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1151430",
+    "final_x": "3669741.79246",
+    "final_y": "519922.352568",
+    "longitude": "-90.10559100215582",
+    "latitude": "29.923957674252904",
+    "geocoded_column": {
+      "latitude": "29.923957674252904",
+      "longitude": "-90.10559100215582"
     }
   },
   {
@@ -20762,6 +20762,27 @@
     }
   },
   {
+    "service_request": "2024-1150661",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2024-11-22T12:55:48.000",
+    "date_modified": "2024-11-22T12:55:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1933 Dumaine St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1150661",
+    "final_x": "3679435.04034",
+    "final_y": "535825.814023",
+    "longitude": "-90.07444134355478",
+    "latitude": "29.967397744376477",
+    "geocoded_column": {
+      "latitude": "29.967397744376477",
+      "longitude": "-90.07444134355478"
+    }
+  },
+  {
     "service_request": "2024-1150660",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20783,27 +20804,6 @@
     "geocoded_column": {
       "latitude": "29.96668889486639",
       "longitude": "-90.12847789558951"
-    }
-  },
-  {
-    "service_request": "2024-1150661",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2024-11-22T12:55:48.000",
-    "date_modified": "2024-11-22T12:55:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1933 Dumaine St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1150661",
-    "final_x": "3679435.04034",
-    "final_y": "535825.814023",
-    "longitude": "-90.07444134355478",
-    "latitude": "29.967397744376477",
-    "geocoded_column": {
-      "latitude": "29.967397744376477",
-      "longitude": "-90.07444134355478"
     }
   },
   {
