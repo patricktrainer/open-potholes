@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1153689",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-08T16:07:17.000",
+    "date_modified": "2024-12-08T16:07:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2443 Dauphine St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1153689",
+    "final_x": "3686265.00246",
+    "final_y": "535349.080646",
+    "longitude": "-90.05288908041109",
+    "latitude": "29.96587879620598",
+    "geocoded_column": {
+      "latitude": "29.96587879620598",
+      "longitude": "-90.05288908041109"
+    }
+  },
+  {
+    "service_request": "2024-1153655",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-08T10:37:47.000",
+    "date_modified": "2024-12-08T10:37:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2300 BLK Prentiss Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1153655",
+    "final_x": "3684543.60036",
+    "final_y": "553918.171151",
+    "longitude": "-90.05767236096682",
+    "latitude": "30.016989964030568",
+    "geocoded_column": {
+      "latitude": "30.016989964030568",
+      "longitude": "-90.05767236096682"
+    }
+  },
+  {
     "service_request": "2024-1153591",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21640,49 +21682,6 @@
     "geocoded_column": {
       "latitude": "29.953815289693384",
       "longitude": "-90.0828181784778"
-    }
-  },
-  {
-    "service_request": "2024-1118644",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-03T17:05:37.000",
-    "date_modified": "2024-08-05T19:12:58.000",
-    "case_close_date": "2024-08-05T14:12:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "0 BLK Audubon Blvd",
-    "address_councildis": "A",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "1118644",
-    "final_x": "3665721.60225",
-    "final_y": "527591.816651",
-    "longitude": "-90.11802457989006",
-    "latitude": "29.945164090388623",
-    "geocoded_column": {
-      "latitude": "29.945164090388623",
-      "longitude": "-90.11802457989006"
-    }
-  },
-  {
-    "service_request": "2024-1118619",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-03T12:26:19.000",
-    "date_modified": "2024-11-08T11:54:22.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6132 Constance St",
-    "address_councildis": "A",
-    "status": "Scheduled",
-    "rowid": "1118619",
-    "final_x": "3663813.7152",
-    "final_y": "519142.300087",
-    "longitude": "-90.12432988809304",
-    "latitude": "29.92198609686308",
-    "geocoded_column": {
-      "latitude": "29.92198609686308",
-      "longitude": "-90.12432988809304"
     }
   }
 ]
