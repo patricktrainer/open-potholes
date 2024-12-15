@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2024-1155129",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-14T18:40:53.000",
+    "date_modified": "2024-12-14T18:40:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "EXPLORERS AVE & WAYFARER ST",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1155129",
+    "final_x": "3726039.6",
+    "final_y": "569814.68",
+    "longitude": "-89.92594718886609",
+    "latitude": "30.059363267068225",
+    "geocoded_column": {
+      "latitude": "30.059363267068225",
+      "longitude": "-89.92594718886609"
+    }
+  },
+  {
+    "service_request": "2024-1155128",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-14T18:37:25.000",
+    "date_modified": "2024-12-14T18:37:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "EXPLORERS AVE & ADVENTURE AVE",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1155128",
+    "final_x": "3726121.2",
+    "final_y": "570039.68",
+    "longitude": "-89.9256805237906",
+    "latitude": "30.059979165812603",
+    "geocoded_column": {
+      "latitude": "30.059979165812603",
+      "longitude": "-89.9256805237906"
+    }
+  },
+  {
+    "service_request": "2024-1155090",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-14T11:07:41.000",
+    "date_modified": "2024-12-14T11:07:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6075 Laurel St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1155090",
+    "final_x": "3663807.83123",
+    "final_y": "518463.264694",
+    "longitude": "-90.12437107649619",
+    "latitude": "29.920119132039794",
+    "geocoded_column": {
+      "latitude": "29.920119132039794",
+      "longitude": "-90.12437107649619"
+    }
+  },
+  {
     "service_request": "2024-1155068",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21619,71 +21682,6 @@
     "geocoded_column": {
       "latitude": "29.952875428495396",
       "longitude": "-90.13173078916114"
-    }
-  },
-  {
-    "service_request": "2024-1120963",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-12T13:17:08.000",
-    "date_modified": "2024-08-12T13:17:37.000",
-    "case_close_date": "2024-08-12T08:17:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "200 Nashville Ave",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1120963",
-    "final_x": "3665015.93229",
-    "final_y": "516962.020277",
-    "longitude": "-90.12060781735138",
-    "latitude": "29.91595607385399",
-    "geocoded_column": {
-      "latitude": "29.91595607385399",
-      "longitude": "-90.12060781735138"
-    }
-  },
-  {
-    "service_request": "2024-1120954",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-12T13:04:04.000",
-    "date_modified": "2024-08-12T13:08:30.000",
-    "case_close_date": "2024-08-12T08:08:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1137 Jefferson Ave",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1120954",
-    "final_x": "3667082.79764",
-    "final_y": "519734.216888",
-    "longitude": "-90.1139908477778",
-    "latitude": "29.92351843247646",
-    "geocoded_column": {
-      "latitude": "29.92351843247646",
-      "longitude": "-90.1139908477778"
-    }
-  },
-  {
-    "service_request": "2024-1120938",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-12T12:41:44.000",
-    "date_modified": "2024-08-12T12:43:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2418 Bristol Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1120938",
-    "final_x": "3702696.80119",
-    "final_y": "522121.831034",
-    "longitude": "-90.00148387377801",
-    "latitude": "29.928993420453512",
-    "geocoded_column": {
-      "latitude": "29.928993420453512",
-      "longitude": "-90.00148387377801"
     }
   }
 ]
