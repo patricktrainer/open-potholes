@@ -18783,30 +18783,6 @@
     }
   },
   {
-    "service_request": "2024-1154360",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-11T08:11:16.000",
-    "date_modified": "2024-12-13T14:57:51.000",
-    "case_close_date": "2024-12-13T08:57:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2713 Jackson Ave",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1154360",
-    "final_x": "3675017.73499",
-    "final_y": "527196.646591",
-    "longitude": "-90.08868729411675",
-    "latitude": "29.943803119334724",
-    "geocoded_column": {
-      "latitude": "29.943803119334724",
-      "longitude": "-90.08868729411675"
-    }
-  },
-  {
     "service_request": "2024-1154361",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -18828,6 +18804,30 @@
     "geocoded_column": {
       "latitude": "30.03934152473718",
       "longitude": "-89.95938220333058"
+    }
+  },
+  {
+    "service_request": "2024-1154360",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-11T08:11:16.000",
+    "date_modified": "2024-12-13T14:57:51.000",
+    "case_close_date": "2024-12-13T08:57:51.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2713 Jackson Ave",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1154360",
+    "final_x": "3675017.73499",
+    "final_y": "527196.646591",
+    "longitude": "-90.08868729411675",
+    "latitude": "29.943803119334724",
+    "geocoded_column": {
+      "latitude": "29.943803119334724",
+      "longitude": "-90.08868729411675"
     }
   },
   {
