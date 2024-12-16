@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2024-1155206",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-15T18:42:08.000",
+    "date_modified": "2024-12-15T18:42:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ETON ST & GENERAL MEYER AVE & SEAWARD CT",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1155206",
+    "final_x": "3704222.6",
+    "final_y": "522168.08",
+    "longitude": "-89.99666556416362",
+    "latitude": "29.92907173580962",
+    "geocoded_column": {
+      "latitude": "29.92907173580962",
+      "longitude": "-89.99666556416362"
+    }
+  },
+  {
     "service_request": "2024-1155129",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21660,28 +21681,6 @@
     "geocoded_column": {
       "latitude": "29.964304533597552",
       "longitude": "-90.11058760916033"
-    }
-  },
-  {
-    "service_request": "2024-1120978",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-12T13:32:25.000",
-    "date_modified": "2024-08-26T15:40:00.000",
-    "case_close_date": "2024-08-26T10:40:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "JEANNETTE ST & LEONIDAS ST",
-    "address_councildis": "A",
-    "status": "Question Answered",
-    "rowid": "1120978",
-    "final_x": "3661351.6",
-    "final_y": "530350.18",
-    "longitude": "-90.13173078916114",
-    "latitude": "29.952875428495396",
-    "geocoded_column": {
-      "latitude": "29.952875428495396",
-      "longitude": "-90.13173078916114"
     }
   }
 ]
