@@ -18783,30 +18783,6 @@
     }
   },
   {
-    "service_request": "2024-1154361",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-11T08:11:16.000",
-    "date_modified": "2024-12-12T16:20:59.000",
-    "case_close_date": "2024-12-12T10:20:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5800 W Louis Prima Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1154361",
-    "final_x": "3715550.73093",
-    "final_y": "562405.650975",
-    "longitude": "-89.95938220333058",
-    "latitude": "30.03934152473718",
-    "geocoded_column": {
-      "latitude": "30.03934152473718",
-      "longitude": "-89.95938220333058"
-    }
-  },
-  {
     "service_request": "2024-1154360",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -18828,6 +18804,30 @@
     "geocoded_column": {
       "latitude": "29.943803119334724",
       "longitude": "-90.08868729411675"
+    }
+  },
+  {
+    "service_request": "2024-1154361",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-11T08:11:16.000",
+    "date_modified": "2024-12-12T16:20:59.000",
+    "case_close_date": "2024-12-12T10:20:59.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5800 W Louis Prima Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1154361",
+    "final_x": "3715550.73093",
+    "final_y": "562405.650975",
+    "longitude": "-89.95938220333058",
+    "latitude": "30.03934152473718",
+    "geocoded_column": {
+      "latitude": "30.03934152473718",
+      "longitude": "-89.95938220333058"
     }
   },
   {
