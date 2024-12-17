@@ -2961,28 +2961,6 @@
     }
   },
   {
-    "service_request": "2024-1155463",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-16T13:50:47.000",
-    "date_modified": "2024-12-16T13:50:49.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7438 Strathmore Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1155463",
-    "final_x": "3714579.00427",
-    "final_y": "566719.191779",
-    "longitude": "-89.96228999951636",
-    "latitude": "30.051234013687996",
-    "geocoded_column": {
-      "latitude": "30.051234013687996",
-      "longitude": "-89.96228999951636"
-    }
-  },
-  {
     "service_request": "2024-1155462",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -3002,6 +2980,28 @@
     "geocoded_column": {
       "latitude": "29.965986476128005",
       "longitude": "-90.04894916549053"
+    }
+  },
+  {
+    "service_request": "2024-1155463",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-16T13:50:47.000",
+    "date_modified": "2024-12-16T13:50:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7438 Strathmore Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1155463",
+    "final_x": "3714579.00427",
+    "final_y": "566719.191779",
+    "longitude": "-89.96228999951636",
+    "latitude": "30.051234013687996",
+    "geocoded_column": {
+      "latitude": "30.051234013687996",
+      "longitude": "-89.96228999951636"
     }
   },
   {
@@ -14218,27 +14218,6 @@
     }
   },
   {
-    "service_request": "2024-1154941",
-    "request_type": "Utility Poles",
-    "request_reason": "Wires Sagging/Hanging Low",
-    "date_created": "2024-12-13T10:48:03.000",
-    "date_modified": "2024-12-13T10:48:06.000",
-    "request_status": "Pending",
-    "responsible_agency": "Utility Company Collective",
-    "final_address": "728 State St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1154941",
-    "final_x": "3664604.70048",
-    "final_y": "519125.433079",
-    "longitude": "-90.12183363190361",
-    "latitude": "29.921916745697676",
-    "geocoded_column": {
-      "latitude": "29.921916745697676",
-      "longitude": "-90.12183363190361"
-    }
-  },
-  {
     "service_request": "2024-1154942",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -14260,6 +14239,27 @@
     "geocoded_column": {
       "latitude": "30.03035108677177",
       "longitude": "-90.02034829835405"
+    }
+  },
+  {
+    "service_request": "2024-1154941",
+    "request_type": "Utility Poles",
+    "request_reason": "Wires Sagging/Hanging Low",
+    "date_created": "2024-12-13T10:48:03.000",
+    "date_modified": "2024-12-13T10:48:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Utility Company Collective",
+    "final_address": "728 State St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1154941",
+    "final_x": "3664604.70048",
+    "final_y": "519125.433079",
+    "longitude": "-90.12183363190361",
+    "latitude": "29.921916745697676",
+    "geocoded_column": {
+      "latitude": "29.921916745697676",
+      "longitude": "-90.12183363190361"
     }
   },
   {
