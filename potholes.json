@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2024-1156720",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-21T17:34:28.000",
+    "date_modified": "2024-12-21T17:34:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5676 Campus Blvd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1156720",
+    "final_x": "3688877.20323",
+    "final_y": "554244.054744",
+    "longitude": "-90.04396842060058",
+    "latitude": "30.01775265259329",
+    "geocoded_column": {
+      "latitude": "30.01775265259329",
+      "longitude": "-90.04396842060058"
+    }
+  },
+  {
+    "service_request": "2024-1156661",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-21T06:09:05.000",
+    "date_modified": "2024-12-21T06:09:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3822 Octavia St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1156661",
+    "final_x": "3668748.93102",
+    "final_y": "529530.563009",
+    "longitude": "-90.10840088796502",
+    "latitude": "29.950406376162874",
+    "geocoded_column": {
+      "latitude": "29.950406376162874",
+      "longitude": "-90.10840088796502"
+    }
+  },
+  {
     "service_request": "2024-1156556",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12634,12 +12676,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2024-10-05T17:38:56.000",
-    "date_modified": "2024-10-05T17:38:56.000",
-    "request_status": "Pending",
+    "date_modified": "2024-12-21T11:55:17.000",
+    "case_close_date": "2024-12-21T05:55:17.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "10 Independence St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Resolved",
     "rowid": "1138557",
     "final_x": "3692331.72713",
     "final_y": "540636.318731",
@@ -21648,49 +21691,6 @@
     "geocoded_column": {
       "latitude": "29.956775593498833",
       "longitude": "-90.11621502059326"
-    }
-  },
-  {
-    "service_request": "2024-1122662",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-17T09:09:49.000",
-    "date_modified": "2024-08-19T12:10:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2000 BLK Perdido St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1122662",
-    "final_x": "3676263.16089",
-    "final_y": "531632.148466",
-    "longitude": "-90.08460252915818",
-    "latitude": "29.95596201750877",
-    "geocoded_column": {
-      "latitude": "29.95596201750877",
-      "longitude": "-90.08460252915818"
-    }
-  },
-  {
-    "service_request": "2024-1122599",
-    "request_type": "Roads/Drainage",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-16T15:58:47.000",
-    "date_modified": "2024-08-17T07:58:18.000",
-    "case_close_date": "2024-08-17T02:58:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8004 Trapier Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1122599",
-    "final_x": "3705983.30711",
-    "final_y": "564455.410273",
-    "longitude": "-89.98954186352663",
-    "latitude": "30.045289517191495",
-    "geocoded_column": {
-      "latitude": "30.045289517191495",
-      "longitude": "-89.98954186352663"
     }
   }
 ]
