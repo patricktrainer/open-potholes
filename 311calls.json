@@ -2316,28 +2316,6 @@
     }
   },
   {
-    "service_request": "2024-1157084",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-23T14:38:47.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "733 Patterson St",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "1157084",
-    "final_x": "3687881.32156",
-    "final_y": "531403.226563",
-    "longitude": "-90.04792459572786",
-    "latitude": "29.954979301128315",
-    "geocoded_column": {
-      "latitude": "29.954979301128315",
-      "longitude": "-90.04792459572786"
-    }
-  },
-  {
     "service_request": "2024-1157009",
     "request_type": "Safety & Permits",
     "request_reason": "Zoning Enforcement",
@@ -4990,6 +4968,30 @@
     }
   },
   {
+    "service_request": "2024-1157030",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-24T08:27:54.000",
+    "case_close_date": "2024-12-24T02:27:54.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1778 Lafreniere St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1157030",
+    "final_x": "3681179.53493",
+    "final_y": "545212.848015",
+    "longitude": "-90.06860500237201",
+    "latitude": "29.993156000153814",
+    "geocoded_column": {
+      "latitude": "29.993156000153814",
+      "longitude": "-90.06860500237201"
+    }
+  },
+  {
     "service_request": "2024-1157031",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -5606,30 +5608,6 @@
     "geocoded_column": {
       "latitude": "29.99429096931",
       "longitude": "-90.10370914677738"
-    }
-  },
-  {
-    "service_request": "2024-1157030",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-24T08:27:54.000",
-    "case_close_date": "2024-12-24T02:27:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1778 Lafreniere St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1157030",
-    "final_x": "3681179.53493",
-    "final_y": "545212.848015",
-    "longitude": "-90.06860500237201",
-    "latitude": "29.993156000153814",
-    "geocoded_column": {
-      "latitude": "29.993156000153814",
-      "longitude": "-90.06860500237201"
     }
   },
   {
@@ -6306,6 +6284,28 @@
     }
   },
   {
+    "service_request": "2024-1157084",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-23T14:38:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "733 Patterson St",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "1157084",
+    "final_x": "3687881.32156",
+    "final_y": "531403.226563",
+    "longitude": "-90.04792459572786",
+    "latitude": "29.954979301128315",
+    "geocoded_column": {
+      "latitude": "29.954979301128315",
+      "longitude": "-90.04792459572786"
+    }
+  },
+  {
     "service_request": "2024-1156918",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Second Trash Cart",
@@ -6707,6 +6707,150 @@
     "geocoded_column": {
       "latitude": "30.010548914238353",
       "longitude": "-90.08058286265646"
+    }
+  },
+  {
+    "service_request": "2024-1156856",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-24T13:02:50.000",
+    "case_close_date": "2024-12-24T07:02:50.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7842 Mill St",
+    "address_councildis": "E",
+    "status": "Invalid Request",
+    "contractor": "Waste Pro",
+    "contractor_action": "Invalid Pick-Up",
+    "rowid": "1156856",
+    "final_x": "3696294.94109",
+    "final_y": "559811.482141",
+    "longitude": "-90.02032980704068",
+    "latitude": "30.032829365723323",
+    "geocoded_column": {
+      "latitude": "30.032829365723323",
+      "longitude": "-90.02032980704068"
+    }
+  },
+  {
+    "service_request": "2024-1156855",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-24T09:11:48.000",
+    "case_close_date": "2024-12-24T03:11:48.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "8221 Maple St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1156855",
+    "final_x": "3660641.50413",
+    "final_y": "527724.917183",
+    "longitude": "-90.13405972953204",
+    "latitude": "29.94567725147824",
+    "geocoded_column": {
+      "latitude": "29.94567725147824",
+      "longitude": "-90.13405972953204"
+    }
+  },
+  {
+    "service_request": "2024-1156853",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-24T15:12:29.000",
+    "case_close_date": "2024-12-24T09:12:29.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "8221 Maple St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1156853",
+    "final_x": "3660641.50413",
+    "final_y": "527724.917183",
+    "longitude": "-90.13405972953204",
+    "latitude": "29.94567725147824",
+    "geocoded_column": {
+      "latitude": "29.94567725147824",
+      "longitude": "-90.13405972953204"
+    }
+  },
+  {
+    "service_request": "2024-1156850",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-24T08:14:08.000",
+    "case_close_date": "2024-12-24T02:14:08.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "203 S Norman C Francis Prkwy",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1156850",
+    "final_x": "3672800.63688",
+    "final_y": "536457.517639",
+    "longitude": "-90.09537138660366",
+    "latitude": "29.969333470525434",
+    "geocoded_column": {
+      "latitude": "29.969333470525434",
+      "longitude": "-90.09537138660366"
+    }
+  },
+  {
+    "service_request": "2024-1156848",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-24T08:25:48.000",
+    "case_close_date": "2024-12-24T02:25:48.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1778 Lafreniere St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1156848",
+    "final_x": "3681179.53493",
+    "final_y": "545212.848015",
+    "longitude": "-90.06860500237201",
+    "latitude": "29.993156000153814",
+    "geocoded_column": {
+      "latitude": "29.993156000153814",
+      "longitude": "-90.06860500237201"
+    }
+  },
+  {
+    "service_request": "2024-1156846",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-24T08:38:52.000",
+    "case_close_date": "2024-12-24T02:38:52.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5220 Elysian Fields Ave",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1156846",
+    "final_x": "3683627.20021",
+    "final_y": "552061.821974",
+    "longitude": "-90.06063294956375",
+    "latitude": "30.011913701897274",
+    "geocoded_column": {
+      "latitude": "30.011913701897274",
+      "longitude": "-90.06063294956375"
     }
   },
   {
@@ -9391,150 +9535,6 @@
     "geocoded_column": {
       "latitude": "30.011963124447195",
       "longitude": "-90.11905006912215"
-    }
-  },
-  {
-    "service_request": "2024-1156846",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-24T08:38:52.000",
-    "case_close_date": "2024-12-24T02:38:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5220 Elysian Fields Ave",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1156846",
-    "final_x": "3683627.20021",
-    "final_y": "552061.821974",
-    "longitude": "-90.06063294956375",
-    "latitude": "30.011913701897274",
-    "geocoded_column": {
-      "latitude": "30.011913701897274",
-      "longitude": "-90.06063294956375"
-    }
-  },
-  {
-    "service_request": "2024-1156848",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-24T08:25:48.000",
-    "case_close_date": "2024-12-24T02:25:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1778 Lafreniere St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1156848",
-    "final_x": "3681179.53493",
-    "final_y": "545212.848015",
-    "longitude": "-90.06860500237201",
-    "latitude": "29.993156000153814",
-    "geocoded_column": {
-      "latitude": "29.993156000153814",
-      "longitude": "-90.06860500237201"
-    }
-  },
-  {
-    "service_request": "2024-1156850",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-24T08:14:08.000",
-    "case_close_date": "2024-12-24T02:14:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "203 S Norman C Francis Prkwy",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1156850",
-    "final_x": "3672800.63688",
-    "final_y": "536457.517639",
-    "longitude": "-90.09537138660366",
-    "latitude": "29.969333470525434",
-    "geocoded_column": {
-      "latitude": "29.969333470525434",
-      "longitude": "-90.09537138660366"
-    }
-  },
-  {
-    "service_request": "2024-1156853",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-24T15:12:29.000",
-    "case_close_date": "2024-12-24T09:12:29.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "8221 Maple St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1156853",
-    "final_x": "3660641.50413",
-    "final_y": "527724.917183",
-    "longitude": "-90.13405972953204",
-    "latitude": "29.94567725147824",
-    "geocoded_column": {
-      "latitude": "29.94567725147824",
-      "longitude": "-90.13405972953204"
-    }
-  },
-  {
-    "service_request": "2024-1156855",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-24T09:11:48.000",
-    "case_close_date": "2024-12-24T03:11:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "8221 Maple St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1156855",
-    "final_x": "3660641.50413",
-    "final_y": "527724.917183",
-    "longitude": "-90.13405972953204",
-    "latitude": "29.94567725147824",
-    "geocoded_column": {
-      "latitude": "29.94567725147824",
-      "longitude": "-90.13405972953204"
-    }
-  },
-  {
-    "service_request": "2024-1156856",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-24T13:02:50.000",
-    "case_close_date": "2024-12-24T07:02:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7842 Mill St",
-    "address_councildis": "E",
-    "status": "Invalid Request",
-    "contractor": "Waste Pro",
-    "contractor_action": "Invalid Pick-Up",
-    "rowid": "1156856",
-    "final_x": "3696294.94109",
-    "final_y": "559811.482141",
-    "longitude": "-90.02032980704068",
-    "latitude": "30.032829365723323",
-    "geocoded_column": {
-      "latitude": "30.032829365723323",
-      "longitude": "-90.02032980704068"
     }
   },
   {
