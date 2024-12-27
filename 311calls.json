@@ -7822,29 +7822,6 @@
     }
   },
   {
-    "service_request": "2024-1156946",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T08:40:22.000",
-    "case_close_date": "2024-12-26T02:40:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5750 Norland Ave",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "contractor": "Richards Disposal",
-    "rowid": "1156946",
-    "final_x": "3704919.4579",
-    "final_y": "520551.457272",
-    "longitude": "-89.99452536584013",
-    "latitude": "29.924604216106967",
-    "geocoded_column": {
-      "latitude": "29.924604216106967",
-      "longitude": "-89.99452536584013"
-    }
-  },
-  {
     "service_request": "2024-1157084",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -7936,30 +7913,6 @@
     }
   },
   {
-    "service_request": "2024-1157034",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:22:25.000",
-    "case_close_date": "2024-12-26T08:22:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1818 Napoleon Ave",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1157034",
-    "final_x": "3670650.28308",
-    "final_y": "521770.186426",
-    "longitude": "-90.10266056691204",
-    "latitude": "29.929011829867303",
-    "geocoded_column": {
-      "latitude": "29.929011829867303",
-      "longitude": "-90.10266056691204"
-    }
-  },
-  {
     "service_request": "2024-1157094",
     "request_type": "Traffic Signals",
     "request_reason": "Traffic Signal Malfunctioning or Damaged",
@@ -8043,6 +7996,30 @@
     "geocoded_column": {
       "latitude": "29.99291403492156",
       "longitude": "-90.05801805464287"
+    }
+  },
+  {
+    "service_request": "2024-1157034",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T14:22:25.000",
+    "case_close_date": "2024-12-26T08:22:25.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1818 Napoleon Ave",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1157034",
+    "final_x": "3670650.28308",
+    "final_y": "521770.186426",
+    "longitude": "-90.10266056691204",
+    "latitude": "29.929011829867303",
+    "geocoded_column": {
+      "latitude": "29.929011829867303",
+      "longitude": "-90.10266056691204"
     }
   },
   {
@@ -8153,28 +8130,6 @@
     }
   },
   {
-    "service_request": "2024-1157007",
-    "request_type": "Roads and Streets",
-    "request_reason": "Road Shoulder Damage",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T15:15:02.000",
-    "case_close_date": "2024-12-26T09:15:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1908 Alabo St",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1157007",
-    "final_x": "3699693.2506",
-    "final_y": "536630.728519",
-    "longitude": "-90.01043663707692",
-    "latitude": "29.968983430539822",
-    "geocoded_column": {
-      "latitude": "29.968983430539822",
-      "longitude": "-90.01043663707692"
-    }
-  },
-  {
     "service_request": "2024-1157077",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -8263,6 +8218,28 @@
     "geocoded_column": {
       "latitude": "29.99429096931",
       "longitude": "-90.10370914677738"
+    }
+  },
+  {
+    "service_request": "2024-1157007",
+    "request_type": "Roads and Streets",
+    "request_reason": "Road Shoulder Damage",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T15:15:02.000",
+    "case_close_date": "2024-12-26T09:15:02.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1908 Alabo St",
+    "address_councildis": "E",
+    "status": "Duplicate Request",
+    "rowid": "1157007",
+    "final_x": "3699693.2506",
+    "final_y": "536630.728519",
+    "longitude": "-90.01043663707692",
+    "latitude": "29.968983430539822",
+    "geocoded_column": {
+      "latitude": "29.968983430539822",
+      "longitude": "-90.01043663707692"
     }
   },
   {
@@ -8375,30 +8352,6 @@
     }
   },
   {
-    "service_request": "2024-1157016",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T15:04:26.000",
-    "case_close_date": "2024-12-26T09:04:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4743 Sandalwood St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1157016",
-    "final_x": "3712307.40862",
-    "final_y": "556160.016346",
-    "longitude": "-89.96986681973902",
-    "latitude": "30.022275043725532",
-    "geocoded_column": {
-      "latitude": "30.022275043725532",
-      "longitude": "-89.96986681973902"
-    }
-  },
-  {
     "service_request": "2024-1157020",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -8420,6 +8373,30 @@
     "geocoded_column": {
       "latitude": "29.976324094607264",
       "longitude": "-90.01849224178872"
+    }
+  },
+  {
+    "service_request": "2024-1157097",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T14:23:10.000",
+    "case_close_date": "2024-12-26T08:23:10.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4727 Prytania St",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1157097",
+    "final_x": "3669561.05991",
+    "final_y": "520236.588088",
+    "longitude": "-90.10615088835384",
+    "latitude": "29.92482704562592",
+    "geocoded_column": {
+      "latitude": "29.92482704562592",
+      "longitude": "-90.10615088835384"
     }
   },
   {
@@ -8912,6 +8889,49 @@
     }
   },
   {
+    "service_request": "2024-1156948",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-23T14:38:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5680 Tullis Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "contractor": "Legacy Professional Services",
+    "rowid": "1156948",
+    "final_x": "3704969.82443",
+    "final_y": "512636.909041",
+    "longitude": "-89.99465825684972",
+    "latitude": "29.902840312997704",
+    "geocoded_column": {
+      "latitude": "29.902840312997704",
+      "longitude": "-89.99465825684972"
+    }
+  },
+  {
+    "service_request": "2024-1156920",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-23T14:38:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3020 First St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1156920",
+    "final_x": "3673986.67118",
+    "final_y": "527598.939519",
+    "longitude": "-90.0919288852385",
+    "latitude": "29.944940047924202",
+    "geocoded_column": {
+      "latitude": "29.944940047924202",
+      "longitude": "-90.0919288852385"
+    }
+  },
+  {
     "service_request": "2024-1157090",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -8977,49 +8997,6 @@
     "geocoded_column": {
       "latitude": "29.93126181603711",
       "longitude": "-90.02006264439083"
-    }
-  },
-  {
-    "service_request": "2024-1156948",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-23T14:38:47.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5680 Tullis Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "contractor": "Legacy Professional Services",
-    "rowid": "1156948",
-    "final_x": "3704969.82443",
-    "final_y": "512636.909041",
-    "longitude": "-89.99465825684972",
-    "latitude": "29.902840312997704",
-    "geocoded_column": {
-      "latitude": "29.902840312997704",
-      "longitude": "-89.99465825684972"
-    }
-  },
-  {
-    "service_request": "2024-1156920",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-23T14:38:47.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3020 First St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1156920",
-    "final_x": "3673986.67118",
-    "final_y": "527598.939519",
-    "longitude": "-90.0919288852385",
-    "latitude": "29.944940047924202",
-    "geocoded_column": {
-      "latitude": "29.944940047924202",
-      "longitude": "-90.0919288852385"
     }
   },
   {
@@ -9111,28 +9088,6 @@
     }
   },
   {
-    "service_request": "2024-1157015",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T13:58:48.000",
-    "case_close_date": "2024-12-26T07:58:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "3335 First St",
-    "address_councildis": "B",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1157015",
-    "final_x": "3673518.66235",
-    "final_y": "528564.086016",
-    "longitude": "-90.09337355915193",
-    "latitude": "29.947607816933534",
-    "geocoded_column": {
-      "latitude": "29.947607816933534",
-      "longitude": "-90.09337355915193"
-    }
-  },
-  {
     "service_request": "2024-1156996",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -9198,6 +9153,52 @@
     }
   },
   {
+    "service_request": "2024-1157015",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T13:58:48.000",
+    "case_close_date": "2024-12-26T07:58:48.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "3335 First St",
+    "address_councildis": "B",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1157015",
+    "final_x": "3673518.66235",
+    "final_y": "528564.086016",
+    "longitude": "-90.09337355915193",
+    "latitude": "29.947607816933534",
+    "geocoded_column": {
+      "latitude": "29.947607816933534",
+      "longitude": "-90.09337355915193"
+    }
+  },
+  {
+    "service_request": "2024-1156961",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T15:00:32.000",
+    "case_close_date": "2024-12-26T09:00:32.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "11341 N Parkwood Ct",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1156961",
+    "final_x": "3716932.57445",
+    "final_y": "559625.744285",
+    "longitude": "-89.95512089138047",
+    "latitude": "30.031652271027017",
+    "geocoded_column": {
+      "latitude": "30.031652271027017",
+      "longitude": "-89.95512089138047"
+    }
+  },
+  {
     "service_request": "2024-1156924",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -9240,76 +9241,6 @@
     "geocoded_column": {
       "latitude": "29.96412809813914",
       "longitude": "-90.06660584706263"
-    }
-  },
-  {
-    "service_request": "2024-1157019",
-    "request_type": "Drainage",
-    "request_reason": "Catch Basin Damaged",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:03:12.000",
-    "case_close_date": "2024-12-26T08:03:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3410 Bacchus Dr",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1157019",
-    "final_x": "3710215.36024",
-    "final_y": "518130.025974",
-    "longitude": "-89.97789856844449",
-    "latitude": "29.91777492537386",
-    "geocoded_column": {
-      "latitude": "29.91777492537386",
-      "longitude": "-89.97789856844449"
-    }
-  },
-  {
-    "service_request": "2024-1156986",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T15:26:10.000",
-    "case_close_date": "2024-12-26T09:26:10.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4782 Galahad Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1156986",
-    "final_x": "3707108.61732",
-    "final_y": "555759.967513",
-    "longitude": "-89.9863084391622",
-    "latitude": "30.02134413713325",
-    "geocoded_column": {
-      "latitude": "30.02134413713325",
-      "longitude": "-89.9863084391622"
-    }
-  },
-  {
-    "service_request": "2024-1156961",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T15:00:32.000",
-    "case_close_date": "2024-12-26T09:00:32.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "11341 N Parkwood Ct",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1156961",
-    "final_x": "3716932.57445",
-    "final_y": "559625.744285",
-    "longitude": "-89.95512089138047",
-    "latitude": "30.031652271027017",
-    "geocoded_column": {
-      "latitude": "30.031652271027017",
-      "longitude": "-89.95512089138047"
     }
   },
   {
@@ -9375,6 +9306,52 @@
     "geocoded_column": {
       "latitude": "30.060969377117353",
       "longitude": "-89.95606611630517"
+    }
+  },
+  {
+    "service_request": "2024-1157019",
+    "request_type": "Drainage",
+    "request_reason": "Catch Basin Damaged",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T14:03:12.000",
+    "case_close_date": "2024-12-26T08:03:12.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3410 Bacchus Dr",
+    "address_councildis": "C",
+    "status": "Duplicate Request",
+    "rowid": "1157019",
+    "final_x": "3710215.36024",
+    "final_y": "518130.025974",
+    "longitude": "-89.97789856844449",
+    "latitude": "29.91777492537386",
+    "geocoded_column": {
+      "latitude": "29.91777492537386",
+      "longitude": "-89.97789856844449"
+    }
+  },
+  {
+    "service_request": "2024-1156986",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T15:26:10.000",
+    "case_close_date": "2024-12-26T09:26:10.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4782 Galahad Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1156986",
+    "final_x": "3707108.61732",
+    "final_y": "555759.967513",
+    "longitude": "-89.9863084391622",
+    "latitude": "30.02134413713325",
+    "geocoded_column": {
+      "latitude": "30.02134413713325",
+      "longitude": "-89.9863084391622"
     }
   },
   {
@@ -9555,6 +9532,28 @@
     }
   },
   {
+    "service_request": "2024-1156953",
+    "request_type": "Healthy Homes",
+    "request_reason": "Healthy Homes",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T11:32:33.000",
+    "case_close_date": "2024-12-26T05:32:33.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "800 N Rendon St",
+    "address_councildis": "A",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1156953",
+    "final_x": "3675266.9147",
+    "final_y": "538565.199561",
+    "longitude": "-90.08751030988446",
+    "latitude": "29.975055381610208",
+    "geocoded_column": {
+      "latitude": "29.975055381610208",
+      "longitude": "-90.08751030988446"
+    }
+  },
+  {
     "service_request": "2024-1156932",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -9574,74 +9573,6 @@
     "geocoded_column": {
       "latitude": "29.99416861967791",
       "longitude": "-90.06247656904715"
-    }
-  },
-  {
-    "service_request": "2024-1157099",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T07:48:34.000",
-    "case_close_date": "2024-12-26T01:48:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5101 Press Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1157099",
-    "final_x": "3689500.76297",
-    "final_y": "552140.78959",
-    "longitude": "-90.04207310937704",
-    "latitude": "30.011950143830347",
-    "geocoded_column": {
-      "latitude": "30.011950143830347",
-      "longitude": "-90.04207310937704"
-    }
-  },
-  {
-    "service_request": "2024-1157011",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T13:35:23.000",
-    "case_close_date": "2024-12-26T07:35:23.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "3335 First St",
-    "address_councildis": "B",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1157011",
-    "final_x": "3673518.66235",
-    "final_y": "528564.086016",
-    "longitude": "-90.09337355915193",
-    "latitude": "29.947607816933534",
-    "geocoded_column": {
-      "latitude": "29.947607816933534",
-      "longitude": "-90.09337355915193"
-    }
-  },
-  {
-    "service_request": "2024-1156980",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:58:46.000",
-    "case_close_date": "2024-12-26T08:58:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5276 Bullard Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1156980",
-    "final_x": "3718289.37631",
-    "final_y": "560069.012829",
-    "longitude": "-89.95081648026229",
-    "latitude": "30.032826138404516",
-    "geocoded_column": {
-      "latitude": "30.032826138404516",
-      "longitude": "-89.95081648026229"
     }
   },
   {
@@ -9711,6 +9642,50 @@
     "geocoded_column": {
       "latitude": "29.924847191772628",
       "longitude": "-90.1202664376933"
+    }
+  },
+  {
+    "service_request": "2024-1157099",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T07:48:34.000",
+    "case_close_date": "2024-12-26T01:48:34.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5101 Press Dr",
+    "address_councildis": "D",
+    "status": "Duplicate Request",
+    "rowid": "1157099",
+    "final_x": "3689500.76297",
+    "final_y": "552140.78959",
+    "longitude": "-90.04207310937704",
+    "latitude": "30.011950143830347",
+    "geocoded_column": {
+      "latitude": "30.011950143830347",
+      "longitude": "-90.04207310937704"
+    }
+  },
+  {
+    "service_request": "2024-1157011",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T13:35:23.000",
+    "case_close_date": "2024-12-26T07:35:23.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "3335 First St",
+    "address_councildis": "B",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1157011",
+    "final_x": "3673518.66235",
+    "final_y": "528564.086016",
+    "longitude": "-90.09337355915193",
+    "latitude": "29.947607816933534",
+    "geocoded_column": {
+      "latitude": "29.947607816933534",
+      "longitude": "-90.09337355915193"
     }
   },
   {
@@ -9990,6 +9965,52 @@
     }
   },
   {
+    "service_request": "2024-1157063",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-23T14:38:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "WOODLAND HWY & WOODLAND BRIDGE",
+    "address_councildis": "C",
+    "status": "Pending",
+    "contractor": "Legacy Professional Services",
+    "rowid": "1157063",
+    "final_x": "3709979.12",
+    "final_y": "513096.06",
+    "longitude": "-89.97883206998961",
+    "latitude": "29.90394095003731",
+    "geocoded_column": {
+      "latitude": "29.90394095003731",
+      "longitude": "-89.97883206998961"
+    }
+  },
+  {
+    "service_request": "2024-1157043",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T14:21:39.000",
+    "case_close_date": "2024-12-26T08:21:39.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1818 Napoleon Ave",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1157043",
+    "final_x": "3670650.28308",
+    "final_y": "521770.186426",
+    "longitude": "-90.10266056691204",
+    "latitude": "29.929011829867303",
+    "geocoded_column": {
+      "latitude": "29.929011829867303",
+      "longitude": "-90.10266056691204"
+    }
+  },
+  {
     "service_request": "2024-1157023",
     "request_type": "Roads and Streets",
     "request_reason": "Street Subsidence (Sinking)",
@@ -10011,25 +10032,25 @@
     }
   },
   {
-    "service_request": "2024-1157063",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
+    "service_request": "2024-1156972",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
     "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-23T14:38:47.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "WOODLAND HWY & WOODLAND BRIDGE",
-    "address_councildis": "C",
-    "status": "Pending",
-    "contractor": "Legacy Professional Services",
-    "rowid": "1157063",
-    "final_x": "3709979.12",
-    "final_y": "513096.06",
-    "longitude": "-89.97883206998961",
-    "latitude": "29.90394095003731",
+    "date_modified": "2024-12-26T14:47:47.000",
+    "case_close_date": "2024-12-26T08:47:47.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "9701 Andover Dr",
+    "address_councildis": "E",
+    "status": "Wrong Agency",
+    "rowid": "1156972",
+    "final_x": "3708291.69611",
+    "final_y": "561739.296095",
+    "longitude": "-89.98234751522462",
+    "latitude": "30.037746646103546",
     "geocoded_column": {
-      "latitude": "29.90394095003731",
-      "longitude": "-89.97883206998961"
+      "latitude": "30.037746646103546",
+      "longitude": "-89.98234751522462"
     }
   },
   {
@@ -10079,30 +10100,6 @@
     }
   },
   {
-    "service_request": "2024-1157043",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:21:39.000",
-    "case_close_date": "2024-12-26T08:21:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1818 Napoleon Ave",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1157043",
-    "final_x": "3670650.28308",
-    "final_y": "521770.186426",
-    "longitude": "-90.10266056691204",
-    "latitude": "29.929011829867303",
-    "geocoded_column": {
-      "latitude": "29.929011829867303",
-      "longitude": "-90.10266056691204"
-    }
-  },
-  {
     "service_request": "2024-1156947",
     "request_type": "Drainage",
     "request_reason": "Drainage Manhole Cover Missing or Damaged",
@@ -10122,30 +10119,6 @@
     "geocoded_column": {
       "latitude": "30.00186382505861",
       "longitude": "-90.06194537643219"
-    }
-  },
-  {
-    "service_request": "2024-1156921",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T15:02:46.000",
-    "case_close_date": "2024-12-26T09:02:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4659 Nottingham Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1156921",
-    "final_x": "3716517.27263",
-    "final_y": "556476.09961",
-    "longitude": "-89.95655284089473",
-    "latitude": "30.0230057346418",
-    "geocoded_column": {
-      "latitude": "30.0230057346418",
-      "longitude": "-89.95655284089473"
     }
   },
   {
@@ -10410,6 +10383,30 @@
     "geocoded_column": {
       "latitude": "30.011913701897274",
       "longitude": "-90.06063294956375"
+    }
+  },
+  {
+    "service_request": "2024-1157030",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-24T08:27:54.000",
+    "case_close_date": "2024-12-24T02:27:54.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1778 Lafreniere St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1157030",
+    "final_x": "3681179.53493",
+    "final_y": "545212.848015",
+    "longitude": "-90.06860500237201",
+    "latitude": "29.993156000153814",
+    "geocoded_column": {
+      "latitude": "29.993156000153814",
+      "longitude": "-90.06860500237201"
     }
   },
   {
@@ -10989,27 +10986,27 @@
     }
   },
   {
-    "service_request": "2024-1157097",
+    "service_request": "2024-1157016",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
     "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:23:10.000",
-    "case_close_date": "2024-12-26T08:23:10.000",
+    "date_modified": "2024-12-26T15:04:26.000",
+    "case_close_date": "2024-12-26T09:04:26.000",
     "request_status": "Closed",
     "responsible_agency": "Department of Sanitation",
-    "final_address": "4727 Prytania St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1157097",
-    "final_x": "3669561.05991",
-    "final_y": "520236.588088",
-    "longitude": "-90.10615088835384",
-    "latitude": "29.92482704562592",
+    "final_address": "4743 Sandalwood St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1157016",
+    "final_x": "3712307.40862",
+    "final_y": "556160.016346",
+    "longitude": "-89.96986681973902",
+    "latitude": "30.022275043725532",
     "geocoded_column": {
-      "latitude": "29.92482704562592",
-      "longitude": "-90.10615088835384"
+      "latitude": "30.022275043725532",
+      "longitude": "-89.96986681973902"
     }
   },
   {
@@ -11061,47 +11058,27 @@
     }
   },
   {
-    "service_request": "2024-1156972",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
+    "service_request": "2024-1156980",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
     "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:47:47.000",
-    "case_close_date": "2024-12-26T08:47:47.000",
+    "date_modified": "2024-12-26T14:58:46.000",
+    "case_close_date": "2024-12-26T08:58:46.000",
     "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "9701 Andover Dr",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5276 Bullard Ave",
     "address_councildis": "E",
-    "status": "Wrong Agency",
-    "rowid": "1156972",
-    "final_x": "3708291.69611",
-    "final_y": "561739.296095",
-    "longitude": "-89.98234751522462",
-    "latitude": "30.037746646103546",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1156980",
+    "final_x": "3718289.37631",
+    "final_y": "560069.012829",
+    "longitude": "-89.95081648026229",
+    "latitude": "30.032826138404516",
     "geocoded_column": {
-      "latitude": "30.037746646103546",
-      "longitude": "-89.98234751522462"
-    }
-  },
-  {
-    "service_request": "2024-1156953",
-    "request_type": "Healthy Homes",
-    "request_reason": "Healthy Homes",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T11:32:33.000",
-    "case_close_date": "2024-12-26T05:32:33.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "800 N Rendon St",
-    "address_councildis": "A",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1156953",
-    "final_x": "3675266.9147",
-    "final_y": "538565.199561",
-    "longitude": "-90.08751030988446",
-    "latitude": "29.975055381610208",
-    "geocoded_column": {
-      "latitude": "29.975055381610208",
-      "longitude": "-90.08751030988446"
+      "latitude": "30.032826138404516",
+      "longitude": "-89.95081648026229"
     }
   },
   {
@@ -11153,6 +11130,30 @@
     }
   },
   {
+    "service_request": "2024-1156921",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T15:02:46.000",
+    "case_close_date": "2024-12-26T09:02:46.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4659 Nottingham Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1156921",
+    "final_x": "3716517.27263",
+    "final_y": "556476.09961",
+    "longitude": "-89.95655284089473",
+    "latitude": "30.0230057346418",
+    "geocoded_column": {
+      "latitude": "30.0230057346418",
+      "longitude": "-89.95655284089473"
+    }
+  },
+  {
     "service_request": "2024-1157093",
     "request_type": "Road Striping",
     "request_reason": "Crosswalks",
@@ -11193,30 +11194,6 @@
     "geocoded_column": {
       "latitude": "29.99429096931",
       "longitude": "-90.10370914677738"
-    }
-  },
-  {
-    "service_request": "2024-1157030",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-24T08:27:54.000",
-    "case_close_date": "2024-12-24T02:27:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1778 Lafreniere St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1157030",
-    "final_x": "3681179.53493",
-    "final_y": "545212.848015",
-    "longitude": "-90.06860500237201",
-    "latitude": "29.993156000153814",
-    "geocoded_column": {
-      "latitude": "29.993156000153814",
-      "longitude": "-90.06860500237201"
     }
   },
   {
@@ -11281,6 +11258,30 @@
     "geocoded_column": {
       "latitude": "30.014136951511542",
       "longitude": "-90.0014967688695"
+    }
+  },
+  {
+    "service_request": "2024-1156979",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T15:15:54.000",
+    "case_close_date": "2024-12-26T09:15:54.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5645 Norgate Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1156979",
+    "final_x": "3707889.50366",
+    "final_y": "558112.012891",
+    "longitude": "-89.98375354321249",
+    "latitude": "30.027786079190175",
+    "geocoded_column": {
+      "latitude": "30.027786079190175",
+      "longitude": "-89.98375354321249"
     }
   },
   {
@@ -11349,27 +11350,25 @@
     }
   },
   {
-    "service_request": "2024-1156979",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
+    "service_request": "2024-1156952",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
     "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T15:15:54.000",
-    "case_close_date": "2024-12-26T09:15:54.000",
+    "date_modified": "2024-12-26T14:46:48.000",
+    "case_close_date": "2024-12-26T08:46:48.000",
     "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5645 Norgate Dr",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "6901 Bundy Rd",
     "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1156979",
-    "final_x": "3707889.50366",
-    "final_y": "558112.012891",
-    "longitude": "-89.98375354321249",
-    "latitude": "30.027786079190175",
+    "status": "Wrong Agency",
+    "rowid": "1156952",
+    "final_x": "3707837.15224",
+    "final_y": "560896.339294",
+    "longitude": "-89.98381534679261",
+    "latitude": "30.035443576501855",
     "geocoded_column": {
-      "latitude": "30.027786079190175",
-      "longitude": "-89.98375354321249"
+      "latitude": "30.035443576501855",
+      "longitude": "-89.98381534679261"
     }
   },
   {
@@ -11462,28 +11461,6 @@
     }
   },
   {
-    "service_request": "2024-1156952",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T14:46:48.000",
-    "case_close_date": "2024-12-26T08:46:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "6901 Bundy Rd",
-    "address_councildis": "E",
-    "status": "Wrong Agency",
-    "rowid": "1156952",
-    "final_x": "3707837.15224",
-    "final_y": "560896.339294",
-    "longitude": "-89.98381534679261",
-    "latitude": "30.035443576501855",
-    "geocoded_column": {
-      "latitude": "30.035443576501855",
-      "longitude": "-89.98381534679261"
-    }
-  },
-  {
     "service_request": "2024-1156966",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -11545,6 +11522,28 @@
     "geocoded_column": {
       "latitude": "30.02625611543815",
       "longitude": "-90.00065015558431"
+    }
+  },
+  {
+    "service_request": "2024-1157081",
+    "request_type": "Healthy Homes",
+    "request_reason": "Healthy Homes",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T11:20:21.000",
+    "case_close_date": "2024-12-26T05:20:21.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "1929 Industry St",
+    "address_councildis": "D",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1157081",
+    "final_x": "3682480.95106",
+    "final_y": "542807.928333",
+    "longitude": "-90.0645781679481",
+    "latitude": "29.986503759905002",
+    "geocoded_column": {
+      "latitude": "29.986503759905002",
+      "longitude": "-90.0645781679481"
     }
   },
   {
@@ -11657,50 +11656,6 @@
     }
   },
   {
-    "service_request": "2024-1157081",
-    "request_type": "Healthy Homes",
-    "request_reason": "Healthy Homes",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T11:20:21.000",
-    "case_close_date": "2024-12-26T05:20:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "1929 Industry St",
-    "address_councildis": "D",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1157081",
-    "final_x": "3682480.95106",
-    "final_y": "542807.928333",
-    "longitude": "-90.0645781679481",
-    "latitude": "29.986503759905002",
-    "geocoded_column": {
-      "latitude": "29.986503759905002",
-      "longitude": "-90.0645781679481"
-    }
-  },
-  {
-    "service_request": "2024-1157051",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2024-12-26T12:48:46.000",
-    "case_close_date": "2024-12-26T06:48:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "4900 Ray Ave",
-    "address_councildis": "E",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1157051",
-    "final_x": "3698661.13949",
-    "final_y": "555209.258777",
-    "longitude": "-90.01302003391768",
-    "latitude": "30.02010024896179",
-    "geocoded_column": {
-      "latitude": "30.02010024896179",
-      "longitude": "-90.01302003391768"
-    }
-  },
-  {
     "service_request": "2024-1157057",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -11742,6 +11697,51 @@
     "geocoded_column": {
       "latitude": "30.033909044392352",
       "longitude": "-90.00731896953855"
+    }
+  },
+  {
+    "service_request": "2024-1157051",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T12:48:46.000",
+    "case_close_date": "2024-12-26T06:48:46.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "4900 Ray Ave",
+    "address_councildis": "E",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1157051",
+    "final_x": "3698661.13949",
+    "final_y": "555209.258777",
+    "longitude": "-90.01302003391768",
+    "latitude": "30.02010024896179",
+    "geocoded_column": {
+      "latitude": "30.02010024896179",
+      "longitude": "-90.01302003391768"
+    }
+  },
+  {
+    "service_request": "2024-1156946",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2024-12-26T08:40:22.000",
+    "case_close_date": "2024-12-26T02:40:22.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5750 Norland Ave",
+    "address_councildis": "C",
+    "status": "Duplicate Request",
+    "contractor": "Richards Disposal",
+    "rowid": "1156946",
+    "final_x": "3704919.4579",
+    "final_y": "520551.457272",
+    "longitude": "-89.99452536584013",
+    "latitude": "29.924604216106967",
+    "geocoded_column": {
+      "latitude": "29.924604216106967",
+      "longitude": "-89.99452536584013"
     }
   },
   {
@@ -12283,27 +12283,6 @@
     }
   },
   {
-    "service_request": "2024-1156837",
-    "request_type": "Drainage",
-    "request_reason": "Catch Basin Damaged",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T15:20:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3410 Bacchus Dr",
-    "address_councildis": "C",
-    "status": "Wrong Agency",
-    "rowid": "1156837",
-    "final_x": "3710215.36024",
-    "final_y": "518130.025974",
-    "longitude": "-89.97789856844449",
-    "latitude": "29.91777492537386",
-    "geocoded_column": {
-      "latitude": "29.91777492537386",
-      "longitude": "-89.97789856844449"
-    }
-  },
-  {
     "service_request": "2024-1156768",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -12369,6 +12348,28 @@
     }
   },
   {
+    "service_request": "2024-1156897",
+    "request_type": "Healthy Homes",
+    "request_reason": "Healthy Homes",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T11:39:25.000",
+    "case_close_date": "2024-12-26T05:39:25.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "2521 Elder St Apt 1A",
+    "address_councildis": "D",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1156897",
+    "final_x": "3686749.79529",
+    "final_y": "545802.53",
+    "longitude": "-90.0509886803202",
+    "latitude": "29.99460718404991",
+    "geocoded_column": {
+      "latitude": "29.99460718404991",
+      "longitude": "-90.0509886803202"
+    }
+  },
+  {
     "service_request": "2024-1156741",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12411,28 +12412,6 @@
     "geocoded_column": {
       "latitude": "30.032281539518777",
       "longitude": "-90.01421960768695"
-    }
-  },
-  {
-    "service_request": "2024-1156897",
-    "request_type": "Healthy Homes",
-    "request_reason": "Healthy Homes",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T11:39:25.000",
-    "case_close_date": "2024-12-26T05:39:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "2521 Elder St Apt 1A",
-    "address_councildis": "D",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1156897",
-    "final_x": "3686749.79529",
-    "final_y": "545802.53",
-    "longitude": "-90.0509886803202",
-    "latitude": "29.99460718404991",
-    "geocoded_column": {
-      "latitude": "29.99460718404991",
-      "longitude": "-90.0509886803202"
     }
   },
   {
@@ -12499,6 +12478,28 @@
     "geocoded_column": {
       "latitude": "29.96412809813914",
       "longitude": "-90.06660584706263"
+    }
+  },
+  {
+    "service_request": "2024-1156917",
+    "request_type": "Roads and Streets",
+    "request_reason": "Push-up/Pavement Expansion",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T07:56:20.000",
+    "case_close_date": "2024-12-26T01:56:20.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5101 Press Dr",
+    "address_councildis": "D",
+    "status": "Duplicate Request",
+    "rowid": "1156917",
+    "final_x": "3689500.76297",
+    "final_y": "552140.78959",
+    "longitude": "-90.04207310937704",
+    "latitude": "30.011950143830347",
+    "geocoded_column": {
+      "latitude": "30.011950143830347",
+      "longitude": "-90.04207310937704"
     }
   },
   {
@@ -12727,73 +12728,6 @@
     }
   },
   {
-    "service_request": "2024-1156882",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T08:14:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "600 BLK N Broad St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1156882",
-    "final_x": "3676411.44045",
-    "final_y": "536496.197136",
-    "longitude": "-90.08396684646866",
-    "latitude": "29.96933206503225",
-    "geocoded_column": {
-      "latitude": "29.96933206503225",
-      "longitude": "-90.08396684646866"
-    }
-  },
-  {
-    "service_request": "2024-1156762",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T12:31:52.000",
-    "case_close_date": "2024-12-26T06:31:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3231 Gibson St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1156762",
-    "final_x": "3679075.97653",
-    "final_y": "544340.235983",
-    "longitude": "-90.07528005391815",
-    "latitude": "29.99082029791938",
-    "geocoded_column": {
-      "latitude": "29.99082029791938",
-      "longitude": "-90.07528005391815"
-    }
-  },
-  {
-    "service_request": "2024-1156771",
-    "request_type": "Healthy Homes",
-    "request_reason": "Healthy Homes",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T12:17:53.000",
-    "case_close_date": "2024-12-26T06:17:53.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "800 N Rendon St",
-    "address_councildis": "A",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1156771",
-    "final_x": "3675266.9147",
-    "final_y": "538565.199561",
-    "longitude": "-90.08751030988446",
-    "latitude": "29.975055381610208",
-    "geocoded_column": {
-      "latitude": "29.975055381610208",
-      "longitude": "-90.08751030988446"
-    }
-  },
-  {
     "service_request": "2024-1156784",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -12858,6 +12792,51 @@
     "geocoded_column": {
       "latitude": "30.060969377117353",
       "longitude": "-89.95606611630517"
+    }
+  },
+  {
+    "service_request": "2024-1156882",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T08:14:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "600 BLK N Broad St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1156882",
+    "final_x": "3676411.44045",
+    "final_y": "536496.197136",
+    "longitude": "-90.08396684646866",
+    "latitude": "29.96933206503225",
+    "geocoded_column": {
+      "latitude": "29.96933206503225",
+      "longitude": "-90.08396684646866"
+    }
+  },
+  {
+    "service_request": "2024-1156762",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T12:31:52.000",
+    "case_close_date": "2024-12-26T06:31:52.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3231 Gibson St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1156762",
+    "final_x": "3679075.97653",
+    "final_y": "544340.235983",
+    "longitude": "-90.07528005391815",
+    "latitude": "29.99082029791938",
+    "geocoded_column": {
+      "latitude": "29.99082029791938",
+      "longitude": "-90.07528005391815"
     }
   },
   {
@@ -13081,28 +13060,6 @@
     "geocoded_column": {
       "latitude": "30.027458962272966",
       "longitude": "-89.99209148649571"
-    }
-  },
-  {
-    "service_request": "2024-1156825",
-    "request_type": "Roads and Streets",
-    "request_reason": "Road Shoulder Damage",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T15:12:12.000",
-    "case_close_date": "2024-12-26T09:12:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1908 Alabo St",
-    "address_councildis": "E",
-    "status": "Captured by Project",
-    "rowid": "1156825",
-    "final_x": "3699693.2506",
-    "final_y": "536630.728519",
-    "longitude": "-90.01043663707692",
-    "latitude": "29.968983430539822",
-    "geocoded_column": {
-      "latitude": "29.968983430539822",
-      "longitude": "-90.01043663707692"
     }
   },
   {
@@ -13653,6 +13610,28 @@
     }
   },
   {
+    "service_request": "2024-1156899",
+    "request_type": "Healthy Homes",
+    "request_reason": "Healthy Homes",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T12:15:28.000",
+    "case_close_date": "2024-12-26T06:15:28.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "1929 Industry St",
+    "address_councildis": "D",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1156899",
+    "final_x": "3682480.95106",
+    "final_y": "542807.928333",
+    "longitude": "-90.0645781679481",
+    "latitude": "29.986503759905002",
+    "geocoded_column": {
+      "latitude": "29.986503759905002",
+      "longitude": "-90.0645781679481"
+    }
+  },
+  {
     "service_request": "2024-1156830",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -14003,6 +13982,30 @@
     "geocoded_column": {
       "latitude": "30.037746646103546",
       "longitude": "-89.98234751522462"
+    }
+  },
+  {
+    "service_request": "2024-1156915",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T14:18:48.000",
+    "case_close_date": "2024-12-26T08:18:48.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4727 Prytania St",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1156915",
+    "final_x": "3669561.05991",
+    "final_y": "520236.588088",
+    "longitude": "-90.10615088835384",
+    "latitude": "29.92482704562592",
+    "geocoded_column": {
+      "latitude": "29.92482704562592",
+      "longitude": "-90.10615088835384"
     }
   },
   {
@@ -14923,52 +14926,6 @@
     }
   },
   {
-    "service_request": "2024-1156915",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T14:18:48.000",
-    "case_close_date": "2024-12-26T08:18:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4727 Prytania St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1156915",
-    "final_x": "3669561.05991",
-    "final_y": "520236.588088",
-    "longitude": "-90.10615088835384",
-    "latitude": "29.92482704562592",
-    "geocoded_column": {
-      "latitude": "29.92482704562592",
-      "longitude": "-90.10615088835384"
-    }
-  },
-  {
-    "service_request": "2024-1156917",
-    "request_type": "Roads and Streets",
-    "request_reason": "Push-up/Pavement Expansion",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T07:56:20.000",
-    "case_close_date": "2024-12-26T01:56:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5101 Press Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1156917",
-    "final_x": "3689500.76297",
-    "final_y": "552140.78959",
-    "longitude": "-90.04207310937704",
-    "latitude": "30.011950143830347",
-    "geocoded_column": {
-      "latitude": "30.011950143830347",
-      "longitude": "-90.04207310937704"
-    }
-  },
-  {
     "service_request": "2024-1156898",
     "request_type": "Healthy Homes",
     "request_reason": "Healthy Homes",
@@ -14988,28 +14945,6 @@
     "geocoded_column": {
       "latitude": "29.99460718404991",
       "longitude": "-90.0509886803202"
-    }
-  },
-  {
-    "service_request": "2024-1156899",
-    "request_type": "Healthy Homes",
-    "request_reason": "Healthy Homes",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T12:15:28.000",
-    "case_close_date": "2024-12-26T06:15:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "1929 Industry St",
-    "address_councildis": "D",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1156899",
-    "final_x": "3682480.95106",
-    "final_y": "542807.928333",
-    "longitude": "-90.0645781679481",
-    "latitude": "29.986503759905002",
-    "geocoded_column": {
-      "latitude": "29.986503759905002",
-      "longitude": "-90.0645781679481"
     }
   },
   {
@@ -15037,6 +14972,27 @@
     }
   },
   {
+    "service_request": "2024-1156837",
+    "request_type": "Drainage",
+    "request_reason": "Catch Basin Damaged",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T15:20:13.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3410 Bacchus Dr",
+    "address_councildis": "C",
+    "status": "Wrong Agency",
+    "rowid": "1156837",
+    "final_x": "3710215.36024",
+    "final_y": "518130.025974",
+    "longitude": "-89.97789856844449",
+    "latitude": "29.91777492537386",
+    "geocoded_column": {
+      "latitude": "29.91777492537386",
+      "longitude": "-89.97789856844449"
+    }
+  },
+  {
     "service_request": "2024-1156839",
     "request_type": "Street and Traffic Signs",
     "request_reason": "One Way Sign Missing or Damaged",
@@ -15056,6 +15012,28 @@
     "geocoded_column": {
       "latitude": "29.927734279295464",
       "longitude": "-90.13189469890942"
+    }
+  },
+  {
+    "service_request": "2024-1156825",
+    "request_type": "Roads and Streets",
+    "request_reason": "Road Shoulder Damage",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T15:12:12.000",
+    "case_close_date": "2024-12-26T09:12:12.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1908 Alabo St",
+    "address_councildis": "E",
+    "status": "Captured by Project",
+    "rowid": "1156825",
+    "final_x": "3699693.2506",
+    "final_y": "536630.728519",
+    "longitude": "-90.01043663707692",
+    "latitude": "29.968983430539822",
+    "geocoded_column": {
+      "latitude": "29.968983430539822",
+      "longitude": "-90.01043663707692"
     }
   },
   {
@@ -15080,6 +15058,28 @@
     "geocoded_column": {
       "latitude": "29.962110477143725",
       "longitude": "-90.07926462782333"
+    }
+  },
+  {
+    "service_request": "2024-1156771",
+    "request_type": "Healthy Homes",
+    "request_reason": "Healthy Homes",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T12:17:53.000",
+    "case_close_date": "2024-12-26T06:17:53.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "800 N Rendon St",
+    "address_councildis": "A",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1156771",
+    "final_x": "3675266.9147",
+    "final_y": "538565.199561",
+    "longitude": "-90.08751030988446",
+    "latitude": "29.975055381610208",
+    "geocoded_column": {
+      "latitude": "29.975055381610208",
+      "longitude": "-90.08751030988446"
     }
   },
   {
@@ -15262,51 +15262,6 @@
     }
   },
   {
-    "service_request": "2024-1156764",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T13:58:08.000",
-    "case_close_date": "2024-12-26T07:58:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5750 Norland Ave",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "rowid": "1156764",
-    "final_x": "3704919.4579",
-    "final_y": "520551.457272",
-    "longitude": "-89.99452536584013",
-    "latitude": "29.924604216106967",
-    "geocoded_column": {
-      "latitude": "29.924604216106967",
-      "longitude": "-89.99452536584013"
-    }
-  },
-  {
-    "service_request": "2024-1156765",
-    "request_type": "Drainage",
-    "request_reason": "Drainage Manhole Cover Missing or Damaged",
-    "date_created": "2024-12-23T14:37:18.000",
-    "date_modified": "2024-12-26T10:30:54.000",
-    "case_close_date": "2024-12-26T04:30:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MANDOLIN ST & TOURO ST",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1156765",
-    "final_x": "3683252.4",
-    "final_y": "548402.68",
-    "longitude": "-90.06194537643219",
-    "latitude": "30.00186382505861",
-    "geocoded_column": {
-      "latitude": "30.00186382505861",
-      "longitude": "-90.06194537643219"
-    }
-  },
-  {
     "service_request": "2024-1156789",
     "request_type": "Street and Traffic Signs",
     "request_reason": "Stop Sign Missing or Damaged",
@@ -15410,6 +15365,51 @@
     "geocoded_column": {
       "latitude": "29.965529216295362",
       "longitude": "-90.01496562721007"
+    }
+  },
+  {
+    "service_request": "2024-1156764",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T13:58:08.000",
+    "case_close_date": "2024-12-26T07:58:08.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5750 Norland Ave",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "rowid": "1156764",
+    "final_x": "3704919.4579",
+    "final_y": "520551.457272",
+    "longitude": "-89.99452536584013",
+    "latitude": "29.924604216106967",
+    "geocoded_column": {
+      "latitude": "29.924604216106967",
+      "longitude": "-89.99452536584013"
+    }
+  },
+  {
+    "service_request": "2024-1156765",
+    "request_type": "Drainage",
+    "request_reason": "Drainage Manhole Cover Missing or Damaged",
+    "date_created": "2024-12-23T14:37:18.000",
+    "date_modified": "2024-12-26T10:30:54.000",
+    "case_close_date": "2024-12-26T04:30:54.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "MANDOLIN ST & TOURO ST",
+    "address_councildis": "D",
+    "status": "Referred to External Agency",
+    "rowid": "1156765",
+    "final_x": "3683252.4",
+    "final_y": "548402.68",
+    "longitude": "-90.06194537643219",
+    "latitude": "30.00186382505861",
+    "geocoded_column": {
+      "latitude": "30.00186382505861",
+      "longitude": "-90.06194537643219"
     }
   },
   {
