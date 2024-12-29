@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2024-1157834",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-28T20:24:51.000",
+    "date_modified": "2024-12-28T20:24:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1925 N Roman St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1157834",
+    "final_x": "3683897.15906",
+    "final_y": "538865.728393",
+    "longitude": "-90.06024325686748",
+    "latitude": "29.97562090046909",
+    "geocoded_column": {
+      "latitude": "29.97562090046909",
+      "longitude": "-90.06024325686748"
+    }
+  },
+  {
     "service_request": "2024-1157624",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21679,27 +21700,6 @@
     "geocoded_column": {
       "latitude": "30.021520946194936",
       "longitude": "-90.00069317721669"
-    }
-  },
-  {
-    "service_request": "2024-1123900",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-21T15:25:33.000",
-    "date_modified": "2024-12-22T17:26:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5800 Magazine St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1123900",
-    "final_x": "3665435.85991",
-    "final_y": "518996.852855",
-    "longitude": "-90.11921430236751",
-    "latitude": "29.921539000406398",
-    "geocoded_column": {
-      "latitude": "29.921539000406398",
-      "longitude": "-90.11921430236751"
     }
   }
 ]
