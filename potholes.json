@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1159728",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-05T21:19:45.000",
+    "date_modified": "2025-01-05T21:19:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "717 Louque Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1159728",
+    "final_x": "3668379.20698",
+    "final_y": "543588.681166",
+    "longitude": "-90.1090940343409",
+    "latitude": "29.989072370131886",
+    "geocoded_column": {
+      "latitude": "29.989072370131886",
+      "longitude": "-90.1090940343409"
+    }
+  },
+  {
+    "service_request": "2025-1159685",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-05T13:32:16.000",
+    "date_modified": "2025-01-05T13:32:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3829 Tchoupitoulas St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1159685",
+    "final_x": "3673494.56923",
+    "final_y": "517745.590582",
+    "longitude": "-90.093819137729",
+    "latitude": "29.91786117632578",
+    "geocoded_column": {
+      "latitude": "29.91786117632578",
+      "longitude": "-90.093819137729"
+    }
+  },
+  {
+    "service_request": "2025-1159661",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-05T10:23:41.000",
+    "date_modified": "2025-01-05T10:23:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ARABELLA ST & PATTON ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1159661",
+    "final_x": "3665688.0",
+    "final_y": "518278.38",
+    "longitude": "-90.11844244815435",
+    "latitude": "29.919556076530732",
+    "geocoded_column": {
+      "latitude": "29.919556076530732",
+      "longitude": "-90.11844244815435"
+    }
+  },
+  {
     "service_request": "2025-1159629",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21635,71 +21698,6 @@
     "geocoded_column": {
       "latitude": "30.016511879060033",
       "longitude": "-90.06531356623819"
-    }
-  },
-  {
-    "service_request": "2024-1124439",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-23T11:06:28.000",
-    "date_modified": "2024-12-22T17:25:07.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "10800 Dwyer Rd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1124439",
-    "final_x": "3715241.43653",
-    "final_y": "558245.526812",
-    "longitude": "-89.96051716827257",
-    "latitude": "30.027913045607406",
-    "geocoded_column": {
-      "latitude": "30.027913045607406",
-      "longitude": "-89.96051716827257"
-    }
-  },
-  {
-    "service_request": "2024-1124424",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-23T10:41:37.000",
-    "date_modified": "2024-12-22T17:19:26.000",
-    "case_close_date": "2024-08-27T16:27:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "726 Louque Pl",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1124424",
-    "final_x": "3668444.11348",
-    "final_y": "543495.275342",
-    "longitude": "-90.10889216615112",
-    "latitude": "29.98881362905192",
-    "geocoded_column": {
-      "latitude": "29.98881362905192",
-      "longitude": "-90.10889216615112"
-    }
-  },
-  {
-    "service_request": "2024-1124412",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-08-23T10:20:57.000",
-    "date_modified": "2024-12-22T17:22:49.000",
-    "case_close_date": "2024-08-23T05:21:16.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3200 BLK Marais St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1124412",
-    "final_x": "3689785.7654",
-    "final_y": "536174.82606",
-    "longitude": "-90.04174126441755",
-    "latitude": "29.968040655792453",
-    "geocoded_column": {
-      "latitude": "29.968040655792453",
-      "longitude": "-90.04174126441755"
     }
   }
 ]
