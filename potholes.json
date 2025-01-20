@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1163415",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-19T17:24:40.000",
+    "date_modified": "2025-01-19T17:24:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "PAINTERS ST & SELMA ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1163415",
+    "final_x": "3686126.9",
+    "final_y": "551533.98",
+    "longitude": "-90.05275398739751",
+    "latitude": "30.010385750239823",
+    "geocoded_column": {
+      "latitude": "30.010385750239823",
+      "longitude": "-90.05275398739751"
+    }
+  },
+  {
+    "service_request": "2025-1163389",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-19T12:34:59.000",
+    "date_modified": "2025-01-19T12:35:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3701 General De Gaulle Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1163389",
+    "final_x": "3697090.93354",
+    "final_y": "519918.8302",
+    "longitude": "-90.01926014262975",
+    "latitude": "29.923113895449703",
+    "geocoded_column": {
+      "latitude": "29.923113895449703",
+      "longitude": "-90.01926014262975"
+    }
+  },
+  {
     "service_request": "2025-1163210",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21647,50 +21689,6 @@
     "geocoded_column": {
       "latitude": "29.93487876066106",
       "longitude": "-90.11316420347997"
-    }
-  },
-  {
-    "service_request": "2024-1132115",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-16T16:25:16.000",
-    "date_modified": "2024-12-22T17:06:20.000",
-    "case_close_date": "2024-09-17T09:22:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1201 Farragut St",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1132115",
-    "final_x": "3692326.33347",
-    "final_y": "526881.288766",
-    "longitude": "-90.03405088407331",
-    "latitude": "29.94240767668299",
-    "geocoded_column": {
-      "latitude": "29.94240767668299",
-      "longitude": "-90.03405088407331"
-    }
-  },
-  {
-    "service_request": "2024-1132039",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-16T14:47:24.000",
-    "date_modified": "2024-12-22T17:10:58.000",
-    "case_close_date": "2024-09-18T14:23:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6000 BLK Constance St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1132039",
-    "final_x": "3664297.78784",
-    "final_y": "518991.241989",
-    "longitude": "-90.12280690478909",
-    "latitude": "29.921556681266853",
-    "geocoded_column": {
-      "latitude": "29.921556681266853",
-      "longitude": "-90.12280690478909"
     }
   }
 ]
