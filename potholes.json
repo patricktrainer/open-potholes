@@ -1,5 +1,69 @@
 [
   {
+    "service_request": "2025-1163499",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-20T19:53:44.000",
+    "date_modified": "2025-01-20T19:53:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3206 S Carrollton Ave, New Orleans, Louisiana, 70118",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1163499",
+    "final_x": "3666792.05511",
+    "final_y": "533717.672325",
+    "longitude": "-90.1144390688708",
+    "latitude": "29.961976933011908",
+    "geocoded_column": {
+      "latitude": "29.961976933011908",
+      "longitude": "-90.1144390688708"
+    }
+  },
+  {
+    "service_request": "2025-1163494",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-20T17:20:17.000",
+    "date_modified": "2025-01-20T17:22:05.000",
+    "case_close_date": "2025-01-20T11:22:04.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK Diagonal Dr",
+    "address_councildis": "A",
+    "status": "Invalid Case",
+    "rowid": "1163494",
+    "final_x": "3672892.80411",
+    "final_y": "547169.914962",
+    "longitude": "-90.09471461621612",
+    "latitude": "29.998786147538326",
+    "geocoded_column": {
+      "latitude": "29.998786147538326",
+      "longitude": "-90.09471461621612"
+    }
+  },
+  {
+    "service_request": "2025-1163492",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-20T17:10:18.000",
+    "date_modified": "2025-01-20T17:10:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "227 Stafford Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1163492",
+    "final_x": "3665774.19175",
+    "final_y": "554012.834328",
+    "longitude": "-90.11697300250992",
+    "latitude": "30.017811461762367",
+    "geocoded_column": {
+      "latitude": "30.017811461762367",
+      "longitude": "-90.11697300250992"
+    }
+  },
+  {
     "service_request": "2025-1163415",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21624,71 +21688,6 @@
     "geocoded_column": {
       "latitude": "29.976178961758293",
       "longitude": "-90.08001464963719"
-    }
-  },
-  {
-    "service_request": "2024-1132247",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-17T08:50:44.000",
-    "date_modified": "2024-12-22T17:13:26.000",
-    "case_close_date": "2024-09-22T16:30:55.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1127 Crete St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1132247",
-    "final_x": "3677579.27682",
-    "final_y": "538946.068618",
-    "longitude": "-90.08019411278619",
-    "latitude": "29.97603330803299",
-    "geocoded_column": {
-      "latitude": "29.97603330803299",
-      "longitude": "-90.08019411278619"
-    }
-  },
-  {
-    "service_request": "2024-1132158",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-16T18:19:30.000",
-    "date_modified": "2024-12-22T17:10:48.000",
-    "case_close_date": "2024-09-17T09:57:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "625 Olivier St",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1132158",
-    "final_x": "3687245.97455",
-    "final_y": "529272.816577",
-    "longitude": "-90.05000611937857",
-    "latitude": "29.949140986081456",
-    "geocoded_column": {
-      "latitude": "29.949140986081456",
-      "longitude": "-90.05000611937857"
-    }
-  },
-  {
-    "service_request": "2024-1132133",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-16T16:50:12.000",
-    "date_modified": "2024-12-22T17:11:41.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2113 Joseph St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1132133",
-    "final_x": "3667300.65274",
-    "final_y": "523868.041467",
-    "longitude": "-90.11316420347997",
-    "latitude": "29.93487876066106",
-    "geocoded_column": {
-      "latitude": "29.93487876066106",
-      "longitude": "-90.11316420347997"
     }
   }
 ]
