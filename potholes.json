@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1163809",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-25T10:33:11.000",
+    "date_modified": "2025-01-25T10:33:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1408 Melpomene St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1163809",
+    "final_x": "3679913.65851",
+    "final_y": "525039.457149",
+    "longitude": "-90.07330444052477",
+    "latitude": "29.937724426869373",
+    "geocoded_column": {
+      "latitude": "29.937724426869373",
+      "longitude": "-90.07330444052477"
+    }
+  },
+  {
     "service_request": "2025-1163747",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21661,28 +21682,6 @@
     "geocoded_column": {
       "latitude": "29.94984830572591",
       "longitude": "-90.1287859435016"
-    }
-  },
-  {
-    "service_request": "2024-1132341",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-17T10:34:10.000",
-    "date_modified": "2024-12-22T17:13:42.000",
-    "case_close_date": "2024-09-17T05:34:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "800 General Taylor St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1132341",
-    "final_x": "3673162.68334",
-    "final_y": "518654.880567",
-    "longitude": "-90.09483569849948",
-    "latitude": "29.920371301569737",
-    "geocoded_column": {
-      "latitude": "29.920371301569737",
-      "longitude": "-90.09483569849948"
     }
   }
 ]
