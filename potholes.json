@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1163880",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-01-26T09:20:11.000",
+    "date_modified": "2025-01-26T09:20:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "800 BLK Alvar St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1163880",
+    "final_x": "3691250.41733",
+    "final_y": "534414.849921",
+    "longitude": "-90.03717872851009",
+    "latitude": "29.963155862707318",
+    "geocoded_column": {
+      "latitude": "29.963155862707318",
+      "longitude": "-90.03717872851009"
+    }
+  },
+  {
     "service_request": "2025-1163809",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21660,28 +21681,6 @@
     "geocoded_column": {
       "latitude": "29.950840070833188",
       "longitude": "-90.12952028405246"
-    }
-  },
-  {
-    "service_request": "2024-1132368",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-17T11:04:50.000",
-    "date_modified": "2024-12-22T17:10:39.000",
-    "case_close_date": "2024-09-17T06:05:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK Dublin St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1132368",
-    "final_x": "3662295.69834",
-    "final_y": "529259.191925",
-    "longitude": "-90.1287859435016",
-    "latitude": "29.94984830572591",
-    "geocoded_column": {
-      "latitude": "29.94984830572591",
-      "longitude": "-90.1287859435016"
     }
   }
 ]
