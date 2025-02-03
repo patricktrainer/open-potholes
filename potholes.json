@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1165972",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-02T21:16:26.000",
+    "date_modified": "2025-02-02T21:16:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "920 Brooklyn Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1165972",
+    "final_x": "3686312.58825",
+    "final_y": "528111.502719",
+    "longitude": "-90.05299419496325",
+    "latitude": "29.94597647941581",
+    "geocoded_column": {
+      "latitude": "29.94597647941581",
+      "longitude": "-90.05299419496325"
+    }
+  },
+  {
+    "service_request": "2025-1165913",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-02T12:05:19.000",
+    "date_modified": "2025-02-02T12:05:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2310 Marengo St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1165913",
+    "final_x": "3671652.53339",
+    "final_y": "523559.117371",
+    "longitude": "-90.09943584087627",
+    "latitude": "29.933901177005133",
+    "geocoded_column": {
+      "latitude": "29.933901177005133",
+      "longitude": "-90.09943584087627"
+    }
+  },
+  {
+    "service_request": "2025-1165891",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-02T08:51:22.000",
+    "date_modified": "2025-02-02T08:51:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ARABELLA ST & PATTON ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1165891",
+    "final_x": "3665688.0",
+    "final_y": "518278.38",
+    "longitude": "-90.11844244815435",
+    "latitude": "29.919556076530732",
+    "geocoded_column": {
+      "latitude": "29.919556076530732",
+      "longitude": "-90.11844244815435"
+    }
+  },
+  {
     "service_request": "2025-1165757",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21633,72 +21696,6 @@
     "geocoded_column": {
       "latitude": "29.978198424303887",
       "longitude": "-90.06942765770205"
-    }
-  },
-  {
-    "service_request": "2024-1134938",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-24T11:50:06.000",
-    "date_modified": "2024-12-22T17:09:13.000",
-    "case_close_date": "2024-09-25T03:50:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2439 Prentiss Ave",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1134938",
-    "final_x": "3685482.26908",
-    "final_y": "554077.25148",
-    "longitude": "-90.05470095252564",
-    "latitude": "30.01739860887074",
-    "geocoded_column": {
-      "latitude": "30.01739860887074",
-      "longitude": "-90.05470095252564"
-    }
-  },
-  {
-    "service_request": "2024-1134929",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-24T11:40:50.000",
-    "date_modified": "2024-12-22T17:07:02.000",
-    "case_close_date": "2024-09-25T05:05:14.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1723 Clouet St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1134929",
-    "final_x": "3689650.25161",
-    "final_y": "538464.996745",
-    "longitude": "-90.04208771839876",
-    "latitude": "29.974342018257058",
-    "geocoded_column": {
-      "latitude": "29.974342018257058",
-      "longitude": "-90.04208771839876"
-    }
-  },
-  {
-    "service_request": "2024-1134839",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-24T09:38:20.000",
-    "date_modified": "2024-12-22T17:07:16.000",
-    "case_close_date": "2024-09-24T04:38:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2900 BLK Laurel St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1134839",
-    "final_x": "3676902.26657",
-    "final_y": "519846.606748",
-    "longitude": "-90.08299053978018",
-    "latitude": "29.92353649275888",
-    "geocoded_column": {
-      "latitude": "29.92353649275888",
-      "longitude": "-90.08299053978018"
     }
   }
 ]
