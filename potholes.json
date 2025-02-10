@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1167642",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-09T17:01:56.000",
+    "date_modified": "2025-02-09T17:01:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7200 BLK Plum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1167642",
+    "final_x": "3664232.06258",
+    "final_y": "526869.529382",
+    "longitude": "-90.12275163722116",
+    "latitude": "29.943221388506775",
+    "geocoded_column": {
+      "latitude": "29.943221388506775",
+      "longitude": "-90.12275163722116"
+    }
+  },
+  {
     "service_request": "2025-1167496",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21677,28 +21698,6 @@
     "geocoded_column": {
       "latitude": "30.015041918907794",
       "longitude": "-90.05539065098371"
-    }
-  },
-  {
-    "service_request": "2024-1136160",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-09-27T10:52:12.000",
-    "date_modified": "2024-12-22T17:03:41.000",
-    "case_close_date": "2024-10-02T08:42:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5400 BLK Magazine St",
-    "address_councildis": "A",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "1136160",
-    "final_x": "3666587.98109",
-    "final_y": "518799.389682",
-    "longitude": "-90.11558416657391",
-    "latitude": "29.92096242108648",
-    "geocoded_column": {
-      "latitude": "29.92096242108648",
-      "longitude": "-90.11558416657391"
     }
   }
 ]
