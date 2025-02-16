@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1169195",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-15T15:57:36.000",
+    "date_modified": "2025-02-15T15:57:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2315 Joliet St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1169195",
+    "final_x": "3663642.94599",
+    "final_y": "532284.778243",
+    "longitude": "-90.12443125221093",
+    "latitude": "29.958128676534663",
+    "geocoded_column": {
+      "latitude": "29.958128676534663",
+      "longitude": "-90.12443125221093"
+    }
+  },
+  {
+    "service_request": "2025-1169182",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-15T13:39:04.000",
+    "date_modified": "2025-02-15T13:39:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "212 Norland Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1169182",
+    "final_x": "3706613.75281",
+    "final_y": "520470.194744",
+    "longitude": "-89.98918010316903",
+    "latitude": "29.92432623069721",
+    "geocoded_column": {
+      "latitude": "29.92432623069721",
+      "longitude": "-89.98918010316903"
+    }
+  },
+  {
     "service_request": "2025-1169138",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -277,20 +319,20 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-02-14T16:29:16.000",
-    "date_modified": "2025-02-14T16:29:18.000",
+    "date_modified": "2025-02-15T09:47:19.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "7350 Newcastle St",
+    "final_address": "7358 Newcastle St",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1169108",
-    "final_x": "3697368.40349",
-    "final_y": "558599.560732",
-    "longitude": "-90.0169815864481",
-    "latitude": "30.02946318135517",
+    "final_x": "3697348.65405",
+    "final_y": "558656.393372",
+    "longitude": "-90.01704193092431",
+    "latitude": "30.029620073160416",
     "geocoded_column": {
-      "latitude": "30.02946318135517",
-      "longitude": "-90.0169815864481"
+      "latitude": "30.029620073160416",
+      "longitude": "-90.01704193092431"
     }
   },
   {
@@ -319,12 +361,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-02-14T14:59:08.000",
-    "date_modified": "2025-02-14T14:59:10.000",
+    "date_modified": "2025-02-15T11:45:57.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2303 Prentiss Ave, New Orleans, Louisiana, 70122",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1169081",
     "final_x": "3684417.23298",
     "final_y": "553965.034008",
@@ -21651,50 +21693,6 @@
     "geocoded_column": {
       "latitude": "29.923201950080696",
       "longitude": "-90.11934139586084"
-    }
-  },
-  {
-    "service_request": "2024-1137385",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-01T14:56:58.000",
-    "date_modified": "2024-12-22T17:07:17.000",
-    "case_close_date": "2024-10-08T00:53:55.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "200 BLK S Solomon St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1137385",
-    "final_x": "3670219.33374",
-    "final_y": "538242.937737",
-    "longitude": "-90.10346284464782",
-    "latitude": "29.974319206480768",
-    "geocoded_column": {
-      "latitude": "29.974319206480768",
-      "longitude": "-90.10346284464782"
-    }
-  },
-  {
-    "service_request": "2024-1137364",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-01T14:33:13.000",
-    "date_modified": "2024-12-22T17:02:38.000",
-    "case_close_date": "2024-10-02T02:45:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1918 Onzaga St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1137364",
-    "final_x": "3681369.943",
-    "final_y": "538761.029193",
-    "longitude": "-90.06822855038578",
-    "latitude": "29.975409978730752",
-    "geocoded_column": {
-      "latitude": "29.975409978730752",
-      "longitude": "-90.06822855038578"
     }
   }
 ]
