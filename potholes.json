@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1169275",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-16T18:09:45.000",
+    "date_modified": "2025-02-16T18:09:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2457 Mendez St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1169275",
+    "final_x": "3685629.43663",
+    "final_y": "553608.711831",
+    "longitude": "-90.05425248827592",
+    "latitude": "30.016105780725653",
+    "geocoded_column": {
+      "latitude": "30.016105780725653",
+      "longitude": "-90.05425248827592"
+    }
+  },
+  {
+    "service_request": "2025-1169251",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-16T12:48:45.000",
+    "date_modified": "2025-02-16T12:48:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8300 Pritchard Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1169251",
+    "final_x": "3665464.46919",
+    "final_y": "533372.97818",
+    "longitude": "-90.1186429355144",
+    "latitude": "29.961067901980247",
+    "geocoded_column": {
+      "latitude": "29.961067901980247",
+      "longitude": "-90.1186429355144"
+    }
+  },
+  {
+    "service_request": "2025-1169221",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-02-16T03:20:36.000",
+    "date_modified": "2025-02-16T03:20:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "319 N Murat St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1169221",
+    "final_x": "3670282.56782",
+    "final_y": "540223.669963",
+    "longitude": "-90.10319597762414",
+    "latitude": "29.979763683687846",
+    "geocoded_column": {
+      "latitude": "29.979763683687846",
+      "longitude": "-90.10319597762414"
+    }
+  },
+  {
     "service_request": "2025-1169195",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21627,72 +21690,6 @@
     "geocoded_column": {
       "latitude": "29.94515407027903",
       "longitude": "-90.12002097345568"
-    }
-  },
-  {
-    "service_request": "2024-1137437",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-01T16:52:20.000",
-    "date_modified": "2024-12-22T17:01:00.000",
-    "case_close_date": "2024-10-08T01:02:33.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7110 Birch St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1137437",
-    "final_x": "3665021.67802",
-    "final_y": "527576.673151",
-    "longitude": "-90.12023497528963",
-    "latitude": "29.945142844479758",
-    "geocoded_column": {
-      "latitude": "29.945142844479758",
-      "longitude": "-90.12023497528963"
-    }
-  },
-  {
-    "service_request": "2024-1137394",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-01T15:14:55.000",
-    "date_modified": "2024-12-22T17:02:28.000",
-    "case_close_date": "2024-10-03T04:09:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "815 Constance St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1137394",
-    "final_x": "3681381.27093",
-    "final_y": "527583.852159",
-    "longitude": "-90.0685824125184",
-    "latitude": "29.944676206790593",
-    "geocoded_column": {
-      "latitude": "29.944676206790593",
-      "longitude": "-90.0685824125184"
-    }
-  },
-  {
-    "service_request": "2024-1137388",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-01T15:04:14.000",
-    "date_modified": "2024-12-22T17:04:25.000",
-    "case_close_date": "2024-10-08T03:50:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "923 Eleonore St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1137388",
-    "final_x": "3665389.19463",
-    "final_y": "519601.136376",
-    "longitude": "-90.11934139586084",
-    "latitude": "29.923201950080696",
-    "geocoded_column": {
-      "latitude": "29.923201950080696",
-      "longitude": "-90.11934139586084"
     }
   }
 ]
