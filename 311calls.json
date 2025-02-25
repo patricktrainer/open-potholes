@@ -3514,28 +3514,6 @@
     }
   },
   {
-    "service_request": "2025-1171026",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-02-24T13:15:15.000",
-    "date_modified": "2025-02-24T13:15:19.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4662 Tulip St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1171026",
-    "final_x": "3702036.31857",
-    "final_y": "553910.919383",
-    "longitude": "-90.00240325560208",
-    "latitude": "30.016422944250582",
-    "geocoded_column": {
-      "latitude": "30.016422944250582",
-      "longitude": "-90.00240325560208"
-    }
-  },
-  {
     "service_request": "2025-1171027",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -3555,6 +3533,28 @@
     "geocoded_column": {
       "latitude": "30.032826138404516",
       "longitude": "-89.95081648026229"
+    }
+  },
+  {
+    "service_request": "2025-1171026",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-02-24T13:15:15.000",
+    "date_modified": "2025-02-24T13:15:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4662 Tulip St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1171026",
+    "final_x": "3702036.31857",
+    "final_y": "553910.919383",
+    "longitude": "-90.00240325560208",
+    "latitude": "30.016422944250582",
+    "geocoded_column": {
+      "latitude": "30.016422944250582",
+      "longitude": "-90.00240325560208"
     }
   },
   {
