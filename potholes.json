@@ -1,5 +1,44 @@
 [
   {
+    "service_request": "2025-1177896",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-03-23T18:22:38.000",
+    "date_modified": "2025-03-23T18:22:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3415 Louisiana Avenue Pkwy, New Orleans, Louisiana, 70125",
+    "status": "Pending",
+    "rowid": "1177896",
+    "longitude": "0.0",
+    "latitude": "0.0",
+    "geocoded_column": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    }
+  },
+  {
+    "service_request": "2025-1177865",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-03-23T13:42:39.000",
+    "date_modified": "2025-03-23T13:42:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4624 Eastern St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1177865",
+    "final_x": "3688009.85743",
+    "final_y": "550045.560596",
+    "longitude": "-90.04685782613565",
+    "latitude": "30.00623514454681",
+    "geocoded_column": {
+      "latitude": "30.00623514454681",
+      "longitude": "-90.04685782613565"
+    }
+  },
+  {
     "service_request": "2025-1177814",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -13789,27 +13828,6 @@
     }
   },
   {
-    "service_request": "2024-1156931",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2025-02-24T09:02:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1300 BLK Governor Nicholls St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1156931",
-    "final_x": "3681826.96931",
-    "final_y": "535392.138977",
-    "longitude": "-90.06690273516458",
-    "latitude": "29.966132811388",
-    "geocoded_column": {
-      "latitude": "29.966132811388",
-      "longitude": "-90.06690273516458"
-    }
-  },
-  {
     "service_request": "2024-1156927",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -13828,6 +13846,27 @@
     "geocoded_column": {
       "latitude": "29.955430266709932",
       "longitude": "-90.07462158618955"
+    }
+  },
+  {
+    "service_request": "2024-1156931",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2025-02-24T09:02:09.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1300 BLK Governor Nicholls St",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "rowid": "1156931",
+    "final_x": "3681826.96931",
+    "final_y": "535392.138977",
+    "longitude": "-90.06690273516458",
+    "latitude": "29.966132811388",
+    "geocoded_column": {
+      "latitude": "29.966132811388",
+      "longitude": "-90.06690273516458"
     }
   },
   {
@@ -21612,50 +21651,6 @@
     "geocoded_column": {
       "latitude": "29.975965023044992",
       "longitude": "-90.0967644441871"
-    }
-  },
-  {
-    "service_request": "2024-1144939",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-29T16:35:59.000",
-    "date_modified": "2024-12-22T16:52:27.000",
-    "case_close_date": "2024-10-30T03:19:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2515 Franklin Ave",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1144939",
-    "final_x": "3687643.94108",
-    "final_y": "541802.575116",
-    "longitude": "-90.0483058921285",
-    "latitude": "29.983581193511274",
-    "geocoded_column": {
-      "latitude": "29.983581193511274",
-      "longitude": "-90.0483058921285"
-    }
-  },
-  {
-    "service_request": "2024-1144932",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-10-29T16:25:48.000",
-    "date_modified": "2024-12-22T16:50:15.000",
-    "case_close_date": "2024-11-04T02:24:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "307 S Olympia St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1144932",
-    "final_x": "3668829.3099",
-    "final_y": "538940.521994",
-    "longitude": "-90.10782931795029",
-    "latitude": "29.976278279126632",
-    "geocoded_column": {
-      "latitude": "29.976278279126632",
-      "longitude": "-90.10782931795029"
     }
   }
 ]
