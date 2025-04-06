@@ -15430,27 +15430,6 @@
     }
   },
   {
-    "service_request": "2024-1156931",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2025-02-24T09:02:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1300 BLK Governor Nicholls St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1156931",
-    "final_x": "3681826.96931",
-    "final_y": "535392.138977",
-    "longitude": "-90.06690273516458",
-    "latitude": "29.966132811388",
-    "geocoded_column": {
-      "latitude": "29.966132811388",
-      "longitude": "-90.06690273516458"
-    }
-  },
-  {
     "service_request": "2024-1156927",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -15469,6 +15448,27 @@
     "geocoded_column": {
       "latitude": "29.955430266709932",
       "longitude": "-90.07462158618955"
+    }
+  },
+  {
+    "service_request": "2024-1156931",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2025-02-24T09:02:09.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1300 BLK Governor Nicholls St",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "rowid": "1156931",
+    "final_x": "3681826.96931",
+    "final_y": "535392.138977",
+    "longitude": "-90.06690273516458",
+    "latitude": "29.966132811388",
+    "geocoded_column": {
+      "latitude": "29.966132811388",
+      "longitude": "-90.06690273516458"
     }
   },
   {
