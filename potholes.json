@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1181797",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-06T22:17:51.000",
+    "date_modified": "2025-04-06T22:17:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3489 Wall Blvd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1181797",
+    "final_x": "3696210.55101",
+    "final_y": "523768.064187",
+    "longitude": "-90.02190009244144",
+    "latitude": "29.93372570663259",
+    "geocoded_column": {
+      "latitude": "29.93372570663259",
+      "longitude": "-90.02190009244144"
+    }
+  },
+  {
+    "service_request": "2025-1181730",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-06T13:37:14.000",
+    "date_modified": "2025-04-06T13:37:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2523 General Ogden St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1181730",
+    "final_x": "3663163.60679",
+    "final_y": "533837.597061",
+    "longitude": "-90.12589321009868",
+    "latitude": "29.962412319072588",
+    "geocoded_column": {
+      "latitude": "29.962412319072588",
+      "longitude": "-90.12589321009868"
+    }
+  },
+  {
     "service_request": "2025-1181560",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21583,50 +21625,6 @@
     "geocoded_column": {
       "latitude": "29.92588324177793",
       "longitude": "-90.08909234135399"
-    }
-  },
-  {
-    "service_request": "2024-1148395",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-11-13T16:23:36.000",
-    "date_modified": "2024-12-22T16:48:19.000",
-    "case_close_date": "2024-11-18T08:25:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4800 BLK Calliope St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1148395",
-    "final_x": "3669547.29243",
-    "final_y": "533124.67304",
-    "longitude": "-90.10575849312993",
-    "latitude": "29.960265503992982",
-    "geocoded_column": {
-      "latitude": "29.960265503992982",
-      "longitude": "-90.10575849312993"
-    }
-  },
-  {
-    "service_request": "2024-1148318",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-11-13T13:42:58.000",
-    "date_modified": "2024-12-22T16:45:47.000",
-    "case_close_date": "2024-11-15T06:25:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "13733 Chef Menteur Hwy",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1148318",
-    "final_x": "3727514.7175",
-    "final_y": "560443.380638",
-    "longitude": "-89.92164946180709",
-    "latitude": "30.033546212632437",
-    "geocoded_column": {
-      "latitude": "30.033546212632437",
-      "longitude": "-89.92164946180709"
     }
   }
 ]
