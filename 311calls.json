@@ -13946,27 +13946,6 @@
     }
   },
   {
-    "service_request": "2025-1182789",
-    "request_type": "Street and Traffic Signs",
-    "request_reason": "Traffic or Parking Sign Damaged or Missing",
-    "date_created": "2025-04-10T08:17:17.000",
-    "date_modified": "2025-04-10T08:17:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2336 St Charles Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1182789",
-    "final_x": "3677090.95016",
-    "final_y": "523214.746363",
-    "longitude": "-90.08227885307645",
-    "latitude": "29.93279211848816",
-    "geocoded_column": {
-      "latitude": "29.93279211848816",
-      "longitude": "-90.08227885307645"
-    }
-  },
-  {
     "service_request": "2025-1182788",
     "request_type": "Street and Traffic Signs",
     "request_reason": "Traffic or Parking Sign Damaged or Missing",
@@ -13978,6 +13957,27 @@
     "address_councildis": "B",
     "status": "Pending",
     "rowid": "1182788",
+    "final_x": "3677090.95016",
+    "final_y": "523214.746363",
+    "longitude": "-90.08227885307645",
+    "latitude": "29.93279211848816",
+    "geocoded_column": {
+      "latitude": "29.93279211848816",
+      "longitude": "-90.08227885307645"
+    }
+  },
+  {
+    "service_request": "2025-1182789",
+    "request_type": "Street and Traffic Signs",
+    "request_reason": "Traffic or Parking Sign Damaged or Missing",
+    "date_created": "2025-04-10T08:17:17.000",
+    "date_modified": "2025-04-10T08:17:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2336 St Charles Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1182789",
     "final_x": "3677090.95016",
     "final_y": "523214.746363",
     "longitude": "-90.08227885307645",
