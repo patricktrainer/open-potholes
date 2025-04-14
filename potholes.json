@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1183496",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-13T14:09:43.000",
+    "date_modified": "2025-04-13T14:09:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "13415 Curran Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1183496",
+    "final_x": "3716815.36792",
+    "final_y": "570862.823207",
+    "longitude": "-89.95506413984445",
+    "latitude": "30.06255352163054",
+    "geocoded_column": {
+      "latitude": "30.06255352163054",
+      "longitude": "-89.95506413984445"
+    }
+  },
+  {
+    "service_request": "2025-1183476",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-13T11:41:26.000",
+    "date_modified": "2025-04-13T11:41:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1225 N Dupre St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1183476",
+    "final_x": "3676991.10126",
+    "final_y": "539498.372746",
+    "longitude": "-90.08203269412525",
+    "latitude": "29.97756962870873",
+    "geocoded_column": {
+      "latitude": "29.97756962870873",
+      "longitude": "-90.08203269412525"
+    }
+  },
+  {
     "service_request": "2025-1183389",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -16621,27 +16663,6 @@
     }
   },
   {
-    "service_request": "2024-1156927",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-23T14:38:47.000",
-    "date_modified": "2025-02-24T09:02:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1200 BLK Cleveland Ave",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1156927",
-    "final_x": "3679425.77759",
-    "final_y": "531473.364662",
-    "longitude": "-90.07462158618955",
-    "latitude": "29.955430266709932",
-    "geocoded_column": {
-      "latitude": "29.955430266709932",
-      "longitude": "-90.07462158618955"
-    }
-  },
-  {
     "service_request": "2024-1156931",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -16660,6 +16681,27 @@
     "geocoded_column": {
       "latitude": "29.966132811388",
       "longitude": "-90.06690273516458"
+    }
+  },
+  {
+    "service_request": "2024-1156927",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2024-12-23T14:38:47.000",
+    "date_modified": "2025-02-24T09:02:09.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1200 BLK Cleveland Ave",
+    "address_councildis": "B",
+    "status": "Resolved",
+    "rowid": "1156927",
+    "final_x": "3679425.77759",
+    "final_y": "531473.364662",
+    "longitude": "-90.07462158618955",
+    "latitude": "29.955430266709932",
+    "geocoded_column": {
+      "latitude": "29.955430266709932",
+      "longitude": "-90.07462158618955"
     }
   },
   {
@@ -21551,49 +21593,6 @@
     "geocoded_column": {
       "latitude": "29.97030686635561",
       "longitude": "-90.1049584153925"
-    }
-  },
-  {
-    "service_request": "2024-1150469",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-11-21T15:53:59.000",
-    "date_modified": "2024-12-22T16:43:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7901 Pompano St",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1150469",
-    "final_x": "3700298.91882",
-    "final_y": "561491.217119",
-    "longitude": "-90.00761555137743",
-    "latitude": "30.037321221032563",
-    "geocoded_column": {
-      "latitude": "30.037321221032563",
-      "longitude": "-90.00761555137743"
-    }
-  },
-  {
-    "service_request": "2024-1150459",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-11-21T15:39:49.000",
-    "date_modified": "2024-12-22T16:43:25.000",
-    "case_close_date": "2024-11-22T08:53:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3525 Oliver St",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1150459",
-    "final_x": "3714231.53791",
-    "final_y": "517536.985718",
-    "longitude": "-89.9652442069486",
-    "latitude": "29.916013031996602",
-    "geocoded_column": {
-      "latitude": "29.916013031996602",
-      "longitude": "-89.9652442069486"
     }
   }
 ]
