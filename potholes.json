@@ -1,23 +1,44 @@
 [
   {
-    "service_request": "2025-1184943",
+    "service_request": "2025-1185026",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
-    "date_created": "2025-04-17T20:51:45.000",
-    "date_modified": "2025-04-17T20:51:46.000",
+    "date_created": "2025-04-18T14:17:21.000",
+    "date_modified": "2025-04-18T14:17:23.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "4438 Elba St",
-    "address_councildis": "B",
+    "final_address": "1019 Leonidas St",
+    "address_councildis": "A",
     "status": "Pending",
-    "rowid": "1184943",
-    "final_x": "3669550.25198",
-    "final_y": "530490.593922",
-    "longitude": "-90.10583825371941",
-    "latitude": "29.95302256762158",
+    "rowid": "1185026",
+    "final_x": "3660309.71443",
+    "final_y": "529141.27648",
+    "longitude": "-90.13506053919541",
+    "latitude": "29.949581332348835",
     "geocoded_column": {
-      "latitude": "29.95302256762158",
-      "longitude": "-90.10583825371941"
+      "latitude": "29.949581332348835",
+      "longitude": "-90.13506053919541"
+    }
+  },
+  {
+    "service_request": "2025-1185015",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-18T13:26:54.000",
+    "date_modified": "2025-04-18T13:26:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "447 Amethyst St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1185015",
+    "final_x": "3667768.83956",
+    "final_y": "556760.056154",
+    "longitude": "-90.11057803785924",
+    "latitude": "30.025306974831338",
+    "geocoded_column": {
+      "latitude": "30.025306974831338",
+      "longitude": "-90.11057803785924"
     }
   },
   {
@@ -21574,28 +21595,6 @@
     "geocoded_column": {
       "latitude": "29.973028911836995",
       "longitude": "-90.10650434633183"
-    }
-  },
-  {
-    "service_request": "2024-1152358",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-02T13:50:38.000",
-    "date_modified": "2024-12-22T16:40:50.000",
-    "case_close_date": "2024-12-03T08:17:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CHICKASAW ST & ALVAR ST",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1152358",
-    "final_x": "3693393.7",
-    "final_y": "547391.88",
-    "longitude": "-90.02994437957409",
-    "latitude": "29.99877119549668",
-    "geocoded_column": {
-      "latitude": "29.99877119549668",
-      "longitude": "-90.02994437957409"
     }
   }
 ]
