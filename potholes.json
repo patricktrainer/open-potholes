@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1185168",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-19T23:00:15.000",
+    "date_modified": "2025-04-19T23:00:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1929 Upperline St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1185168",
+    "final_x": "3669139.84071",
+    "final_y": "522030.830394",
+    "longitude": "-90.10741994594748",
+    "latitude": "29.92977303826869",
+    "geocoded_column": {
+      "latitude": "29.92977303826869",
+      "longitude": "-90.10741994594748"
+    }
+  },
+  {
+    "service_request": "2025-1185152",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-19T18:36:50.000",
+    "date_modified": "2025-04-19T18:36:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7252 Lakeshore Dr, New Orleans, Louisiana, 70124",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1185152",
+    "final_x": "3666800.08052",
+    "final_y": "555252.519961",
+    "longitude": "-90.11368988696351",
+    "latitude": "30.021190175136482",
+    "geocoded_column": {
+      "latitude": "30.021190175136482",
+      "longitude": "-90.11368988696351"
+    }
+  },
+  {
+    "service_request": "2025-1185120",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-19T13:26:43.000",
+    "date_modified": "2025-04-19T13:26:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "W Roadway St, New Orleans, Louisiana, 70124",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1185120",
+    "final_x": "3665122.97287",
+    "final_y": "555715.893913",
+    "longitude": "-90.11897358276227",
+    "latitude": "30.022513267951545",
+    "geocoded_column": {
+      "latitude": "30.022513267951545",
+      "longitude": "-90.11897358276227"
+    }
+  },
+  {
     "service_request": "2025-1185026",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21531,70 +21594,6 @@
     "geocoded_column": {
       "latitude": "30.004088631325295",
       "longitude": "-90.0107779462199"
-    }
-  },
-  {
-    "service_request": "2024-1152522",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-03T08:57:35.000",
-    "date_modified": "2024-12-22T16:39:18.000",
-    "case_close_date": "2024-12-04T02:22:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "REPUBLIC ST & GENTILLY BLVD",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1152522",
-    "final_x": "3680555.28",
-    "final_y": "544398.78",
-    "longitude": "-90.07060525623797",
-    "latitude": "29.99093653136114",
-    "geocoded_column": {
-      "latitude": "29.99093653136114",
-      "longitude": "-90.07060525623797"
-    }
-  },
-  {
-    "service_request": "2024-1152379",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-02T14:25:51.000",
-    "date_modified": "2024-12-22T16:40:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1318 S Salcedo St Apt 101",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1152379",
-    "final_x": "3670847.20321",
-    "final_y": "531367.71885",
-    "longitude": "-90.10171327087775",
-    "latitude": "29.955396105027063",
-    "geocoded_column": {
-      "latitude": "29.955396105027063",
-      "longitude": "-90.10171327087775"
-    }
-  },
-  {
-    "service_request": "2024-1152376",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-02T14:20:11.000",
-    "date_modified": "2024-12-22T16:39:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4309 Baudin St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1152376",
-    "final_x": "3669261.43252",
-    "final_y": "537763.413512",
-    "longitude": "-90.10650434633183",
-    "latitude": "29.973028911836995",
-    "geocoded_column": {
-      "latitude": "29.973028911836995",
-      "longitude": "-90.10650434633183"
     }
   }
 ]
