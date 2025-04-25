@@ -14556,6 +14556,27 @@
     }
   },
   {
+    "service_request": "2025-1186118",
+    "request_type": "Drainage",
+    "request_reason": "Street Flooding",
+    "date_created": "2025-04-23T08:39:47.000",
+    "date_modified": "2025-04-23T08:39:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Sewerage & Water Board",
+    "final_address": "1220 Kentucky St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1186118",
+    "final_x": "3693371.87683",
+    "final_y": "535459.909702",
+    "longitude": "-90.03044191338068",
+    "latitude": "29.965963252942615",
+    "geocoded_column": {
+      "latitude": "29.965963252942615",
+      "longitude": "-90.03044191338068"
+    }
+  },
+  {
     "service_request": "2025-1186119",
     "request_type": "Drainage",
     "request_reason": "Street Flooding",
@@ -14609,27 +14630,6 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1186120",
-    "final_x": "3693371.87683",
-    "final_y": "535459.909702",
-    "longitude": "-90.03044191338068",
-    "latitude": "29.965963252942615",
-    "geocoded_column": {
-      "latitude": "29.965963252942615",
-      "longitude": "-90.03044191338068"
-    }
-  },
-  {
-    "service_request": "2025-1186118",
-    "request_type": "Drainage",
-    "request_reason": "Street Flooding",
-    "date_created": "2025-04-23T08:39:47.000",
-    "date_modified": "2025-04-23T08:39:49.000",
-    "request_status": "Pending",
-    "responsible_agency": "Sewerage & Water Board",
-    "final_address": "1220 Kentucky St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1186118",
     "final_x": "3693371.87683",
     "final_y": "535459.909702",
     "longitude": "-90.03044191338068",
