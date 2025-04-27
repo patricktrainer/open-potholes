@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1187161",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-26T19:05:39.000",
+    "date_modified": "2025-04-26T19:05:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8620 Gervais St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1187161",
+    "final_x": "3704029.3722",
+    "final_y": "562731.296736",
+    "longitude": "-89.99578080201496",
+    "latitude": "30.04061174883874",
+    "geocoded_column": {
+      "latitude": "30.04061174883874",
+      "longitude": "-89.99578080201496"
+    }
+  },
+  {
+    "service_request": "2025-1187156",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-26T17:50:18.000",
+    "date_modified": "2025-04-26T17:50:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4425 Elba St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1187156",
+    "final_x": "3669625.56519",
+    "final_y": "530538.860034",
+    "longitude": "-90.10559881397727",
+    "latitude": "29.953153064930127",
+    "geocoded_column": {
+      "latitude": "29.953153064930127",
+      "longitude": "-90.10559881397727"
+    }
+  },
+  {
+    "service_request": "2025-1187155",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-26T17:49:05.000",
+    "date_modified": "2025-04-26T17:49:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2676 Jasmine St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1187155",
+    "final_x": "3687634.77852",
+    "final_y": "548097.290002",
+    "longitude": "-90.0481118273831",
+    "latitude": "30.000889682708436",
+    "geocoded_column": {
+      "latitude": "30.000889682708436",
+      "longitude": "-90.0481118273831"
+    }
+  },
+  {
     "service_request": "2025-1186996",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -25,12 +88,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-04-25T12:16:42.000",
-    "date_modified": "2025-04-25T12:16:43.000",
-    "request_status": "Pending",
+    "date_modified": "2025-04-26T14:40:52.000",
+    "case_close_date": "2025-04-26T09:40:51.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "333 Girod St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1186927",
     "final_x": "3681881.54223",
     "final_y": "528244.71168",
@@ -21527,71 +21591,6 @@
     "geocoded_column": {
       "latitude": "29.951143116126183",
       "longitude": "-90.04971245477537"
-    }
-  },
-  {
-    "service_request": "2024-1153360",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-06T09:12:57.000",
-    "date_modified": "2024-12-22T16:40:39.000",
-    "case_close_date": "2024-12-11T00:13:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1534 General Collins Ave",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1153360",
-    "final_x": "3698619.38442",
-    "final_y": "525432.733181",
-    "longitude": "-90.01423506967855",
-    "latitude": "29.938226943086566",
-    "geocoded_column": {
-      "latitude": "29.938226943086566",
-      "longitude": "-90.01423506967855"
-    }
-  },
-  {
-    "service_request": "2024-1153358",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-06T09:10:48.000",
-    "date_modified": "2024-12-22T16:39:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "201 Woodland Dr",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1153358",
-    "final_x": "3705502.35915",
-    "final_y": "521379.757305",
-    "longitude": "-89.99265476577432",
-    "latitude": "29.926863012443192",
-    "geocoded_column": {
-      "latitude": "29.926863012443192",
-      "longitude": "-89.99265476577432"
-    }
-  },
-  {
-    "service_request": "2024-1153356",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-06T09:10:07.000",
-    "date_modified": "2024-12-22T16:38:30.000",
-    "case_close_date": "2024-12-09T03:05:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2404 Marengo St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1153356",
-    "final_x": "3671619.98382",
-    "final_y": "523861.575739",
-    "longitude": "-90.09952831718444",
-    "latitude": "29.934733803572747",
-    "geocoded_column": {
-      "latitude": "29.934733803572747",
-      "longitude": "-90.09952831718444"
     }
   }
 ]
