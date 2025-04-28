@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1187214",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-27T11:54:19.000",
+    "date_modified": "2025-04-27T11:54:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5400 York St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1187214",
+    "final_x": "3668910.59194",
+    "final_y": "528597.642688",
+    "longitude": "-90.10792194782219",
+    "latitude": "29.94783639672505",
+    "geocoded_column": {
+      "latitude": "29.94783639672505",
+      "longitude": "-90.10792194782219"
+    }
+  },
+  {
     "service_request": "2025-1187161",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21569,28 +21590,6 @@
     "geocoded_column": {
       "latitude": "30.002381863453223",
       "longitude": "-90.04170756871416"
-    }
-  },
-  {
-    "service_request": "2024-1153366",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-06T09:18:14.000",
-    "date_modified": "2024-12-22T16:38:30.000",
-    "case_close_date": "2024-12-06T03:19:06.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "438 Olivier St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1153366",
-    "final_x": "3687330.81442",
-    "final_y": "530001.904705",
-    "longitude": "-90.04971245477537",
-    "latitude": "29.951143116126183",
-    "geocoded_column": {
-      "latitude": "29.951143116126183",
-      "longitude": "-90.04971245477537"
     }
   }
 ]
