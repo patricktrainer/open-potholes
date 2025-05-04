@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1189138",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-03T17:26:35.000",
+    "date_modified": "2025-05-03T17:26:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2519 N Roman St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1189138",
+    "final_x": "3687142.48642",
+    "final_y": "539112.912842",
+    "longitude": "-90.04998489595131",
+    "latitude": "29.97620102649558",
+    "geocoded_column": {
+      "latitude": "29.97620102649558",
+      "longitude": "-90.04998489595131"
+    }
+  },
+  {
+    "service_request": "2025-1189094",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-03T09:33:51.000",
+    "date_modified": "2025-05-03T09:33:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2823 DAbadie St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1189094",
+    "final_x": "3678836.79349",
+    "final_y": "541334.72462",
+    "longitude": "-90.07613973818152",
+    "latitude": "29.982563409864547",
+    "geocoded_column": {
+      "latitude": "29.982563409864547",
+      "longitude": "-90.07613973818152"
+    }
+  },
+  {
     "service_request": "2025-1189010",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21527,49 +21569,6 @@
     "geocoded_column": {
       "latitude": "29.989605869657318",
       "longitude": "-90.10524210923342"
-    }
-  },
-  {
-    "service_request": "2024-1153883",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-09T13:05:12.000",
-    "date_modified": "2024-12-22T16:37:42.000",
-    "case_close_date": "2024-12-09T08:48:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2515 Myrtle St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1153883",
-    "final_x": "3686623.55695",
-    "final_y": "546061.801872",
-    "longitude": "-90.05137828794435",
-    "latitude": "29.995323972588047",
-    "geocoded_column": {
-      "latitude": "29.995323972588047",
-      "longitude": "-90.05137828794435"
-    }
-  },
-  {
-    "service_request": "2024-1153882",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-09T13:03:18.000",
-    "date_modified": "2024-12-22T16:37:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2535 Myrtle St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1153882",
-    "final_x": "3686833.64463",
-    "final_y": "546072.322192",
-    "longitude": "-90.05071427139369",
-    "latitude": "29.995346435136863",
-    "geocoded_column": {
-      "latitude": "29.995346435136863",
-      "longitude": "-90.05071427139369"
     }
   }
 ]
