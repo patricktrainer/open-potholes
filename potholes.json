@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1189226",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-04T17:41:55.000",
+    "date_modified": "2025-05-04T17:41:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1119 Erato St Unit C",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1189226",
+    "final_x": "3680470.26581",
+    "final_y": "525721.752509",
+    "longitude": "-90.071523468014",
+    "latitude": "29.939583670870277",
+    "geocoded_column": {
+      "latitude": "29.939583670870277",
+      "longitude": "-90.071523468014"
+    }
+  },
+  {
     "service_request": "2025-1189138",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21547,28 +21568,6 @@
     "geocoded_column": {
       "latitude": "30.015020182472156",
       "longitude": "-90.00346182426422"
-    }
-  },
-  {
-    "service_request": "2024-1153893",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-09T13:31:55.000",
-    "date_modified": "2024-12-22T16:37:42.000",
-    "case_close_date": "2024-12-09T07:33:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "905 Navarre St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1153893",
-    "final_x": "3669596.44865",
-    "final_y": "543795.73083",
-    "longitude": "-90.10524210923342",
-    "latitude": "29.989605869657318",
-    "geocoded_column": {
-      "latitude": "29.989605869657318",
-      "longitude": "-90.10524210923342"
     }
   }
 ]
