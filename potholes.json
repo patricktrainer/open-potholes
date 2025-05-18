@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2025-1192906",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-17T14:06:06.000",
+    "date_modified": "2025-05-17T14:06:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5516 Wingate Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1192906",
+    "final_x": "3681314.02076",
+    "final_y": "553275.696023",
+    "longitude": "-90.06789890999057",
+    "latitude": "30.015321858409916",
+    "geocoded_column": {
+      "latitude": "30.015321858409916",
+      "longitude": "-90.06789890999057"
+    }
+  },
+  {
+    "service_request": "2025-1192884",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-17T12:03:28.000",
+    "date_modified": "2025-05-17T12:03:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2500 BLK Jefferson Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1192884",
+    "final_x": "3668082.03978",
+    "final_y": "524824.5338",
+    "longitude": "-90.11066514501218",
+    "latitude": "29.93748590528278",
+    "geocoded_column": {
+      "latitude": "29.93748590528278",
+      "longitude": "-90.11066514501218"
+    }
+  },
+  {
+    "service_request": "2025-1192874",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-17T10:34:11.000",
+    "date_modified": "2025-05-17T10:34:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "220 S St Patrick St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1192874",
+    "final_x": "3668761.08289",
+    "final_y": "539315.531914",
+    "longitude": "-90.10803213454084",
+    "latitude": "29.977311436311158",
+    "geocoded_column": {
+      "latitude": "29.977311436311158",
+      "longitude": "-90.10803213454084"
+    }
+  },
+  {
+    "service_request": "2025-1192859",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-17T06:42:58.000",
+    "date_modified": "2025-05-17T06:43:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "18 W Park Pl",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1192859",
+    "final_x": "3670117.60206",
+    "final_y": "543765.082126",
+    "longitude": "-90.10359696627691",
+    "latitude": "29.98950622741276",
+    "geocoded_column": {
+      "latitude": "29.98950622741276",
+      "longitude": "-90.10359696627691"
+    }
+  },
+  {
     "service_request": "2025-1192823",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21501,93 +21585,6 @@
     "geocoded_column": {
       "latitude": "29.955596040854758",
       "longitude": "-90.11838409173271"
-    }
-  },
-  {
-    "service_request": "2024-1155899",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-17T21:38:05.000",
-    "date_modified": "2025-01-28T09:20:42.000",
-    "case_close_date": "2025-01-28T03:20:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7916 Nelson St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1155899",
-    "final_x": "3665567.52672",
-    "final_y": "531384.066435",
-    "longitude": "-90.11838409173271",
-    "latitude": "29.955596040854758",
-    "geocoded_column": {
-      "latitude": "29.955596040854758",
-      "longitude": "-90.11838409173271"
-    }
-  },
-  {
-    "service_request": "2024-1155898",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-17T21:35:14.000",
-    "date_modified": "2025-01-28T09:20:16.000",
-    "case_close_date": "2025-01-28T03:20:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7916 Nelson St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1155898",
-    "final_x": "3665567.52672",
-    "final_y": "531384.066435",
-    "longitude": "-90.11838409173271",
-    "latitude": "29.955596040854758",
-    "geocoded_column": {
-      "latitude": "29.955596040854758",
-      "longitude": "-90.11838409173271"
-    }
-  },
-  {
-    "service_request": "2024-1155847",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-17T15:50:59.000",
-    "date_modified": "2024-12-22T16:35:32.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK Leda St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1155847",
-    "final_x": "3675562.32928",
-    "final_y": "541272.810943",
-    "longitude": "-90.08648426151437",
-    "latitude": "29.982491548426346",
-    "geocoded_column": {
-      "latitude": "29.982491548426346",
-      "longitude": "-90.08648426151437"
-    }
-  },
-  {
-    "service_request": "2024-1155819",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-17T14:47:52.000",
-    "date_modified": "2024-12-22T16:34:56.000",
-    "case_close_date": "2024-12-17T09:08:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3941 Piedmont Dr",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1155819",
-    "final_x": "3685387.14588",
-    "final_y": "547243.187025",
-    "longitude": "-90.05524235424207",
-    "latitude": "29.998610335142036",
-    "geocoded_column": {
-      "latitude": "29.998610335142036",
-      "longitude": "-90.05524235424207"
     }
   }
 ]
