@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1193046",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-18T21:28:52.000",
+    "date_modified": "2025-05-18T21:28:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8912 Curran Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1193046",
+    "final_x": "3705111.6442",
+    "final_y": "563001.017632",
+    "longitude": "-89.99235051149796",
+    "latitude": "30.041318592994163",
+    "geocoded_column": {
+      "latitude": "30.041318592994163",
+      "longitude": "-89.99235051149796"
+    }
+  },
+  {
+    "service_request": "2025-1193031",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-18T18:45:53.000",
+    "date_modified": "2025-05-18T18:45:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1020 Euterpe St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1193031",
+    "final_x": "3680468.36021",
+    "final_y": "524126.649468",
+    "longitude": "-90.07158493796615",
+    "latitude": "29.935197723856458",
+    "geocoded_column": {
+      "latitude": "29.935197723856458",
+      "longitude": "-90.07158493796615"
+    }
+  },
+  {
+    "service_request": "2025-1193019",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-05-18T16:32:15.000",
+    "date_modified": "2025-05-18T16:32:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N DERBIGNY ST & PAULINE ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1193019",
+    "final_x": "3691771.3",
+    "final_y": "537701.38",
+    "longitude": "-90.03541628975135",
+    "latitude": "29.972176450252547",
+    "geocoded_column": {
+      "latitude": "29.972176450252547",
+      "longitude": "-90.03541628975135"
+    }
+  },
+  {
     "service_request": "2025-1192906",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21520,71 +21583,6 @@
     "geocoded_column": {
       "latitude": "29.919227233012123",
       "longitude": "-90.08686674415947"
-    }
-  },
-  {
-    "service_request": "2024-1155958",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-18T09:11:02.000",
-    "date_modified": "2024-12-22T16:35:20.000",
-    "case_close_date": "2024-12-18T03:11:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2300 Annunciation St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1155958",
-    "final_x": "3679203.73576",
-    "final_y": "520930.837817",
-    "longitude": "-90.07568809075114",
-    "latitude": "29.926448519865996",
-    "geocoded_column": {
-      "latitude": "29.926448519865996",
-      "longitude": "-90.07568809075114"
-    }
-  },
-  {
-    "service_request": "2024-1155920",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-18T08:01:26.000",
-    "date_modified": "2024-12-22T16:35:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6900 BLK Foch Rd",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1155920",
-    "final_x": "3696485.5312",
-    "final_y": "556872.003826",
-    "longitude": "-90.01983401017722",
-    "latitude": "30.024740917478915",
-    "geocoded_column": {
-      "latitude": "30.024740917478915",
-      "longitude": "-90.01983401017722"
-    }
-  },
-  {
-    "service_request": "2024-1155900",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2024-12-17T21:39:10.000",
-    "date_modified": "2025-01-28T09:21:04.000",
-    "case_close_date": "2025-01-28T03:21:03.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7916 Nelson St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1155900",
-    "final_x": "3665567.52672",
-    "final_y": "531384.066435",
-    "longitude": "-90.11838409173271",
-    "latitude": "29.955596040854758",
-    "geocoded_column": {
-      "latitude": "29.955596040854758",
-      "longitude": "-90.11838409173271"
     }
   }
 ]
