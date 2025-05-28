@@ -16057,28 +16057,6 @@
     }
   },
   {
-    "service_request": "2025-1194859",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-05-24T19:58:47.000",
-    "date_modified": "2025-05-24T19:58:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5211 Kim Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1194859",
-    "final_x": "3727720.14515",
-    "final_y": "564274.958241",
-    "longitude": "-89.92085104000682",
-    "latitude": "30.0440745007233",
-    "geocoded_column": {
-      "latitude": "30.0440745007233",
-      "longitude": "-89.92085104000682"
-    }
-  },
-  {
     "service_request": "2025-1194860",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -16093,6 +16071,28 @@
     "contractor": "Waste Pro",
     "contractor_action": "Duplicate",
     "rowid": "1194860",
+    "final_x": "3727720.14515",
+    "final_y": "564274.958241",
+    "longitude": "-89.92085104000682",
+    "latitude": "30.0440745007233",
+    "geocoded_column": {
+      "latitude": "30.0440745007233",
+      "longitude": "-89.92085104000682"
+    }
+  },
+  {
+    "service_request": "2025-1194859",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-05-24T19:58:47.000",
+    "date_modified": "2025-05-24T19:58:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5211 Kim Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1194859",
     "final_x": "3727720.14515",
     "final_y": "564274.958241",
     "longitude": "-89.92085104000682",
