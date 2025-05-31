@@ -7743,28 +7743,6 @@
     }
   },
   {
-    "service_request": "2025-1196350",
-    "request_type": "General Services",
-    "request_reason": "General Service Request",
-    "date_created": "2025-05-29T19:41:27.000",
-    "date_modified": "2025-05-30T16:35:41.000",
-    "case_close_date": "2025-05-30T11:35:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Orleans Parish Communication District",
-    "final_address": "2357 St Thomas St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1196350",
-    "final_x": "3679235.88066",
-    "final_y": "520115.927864",
-    "longitude": "-90.07561485439388",
-    "latitude": "29.924206813004698",
-    "geocoded_column": {
-      "latitude": "29.924206813004698",
-      "longitude": "-90.07561485439388"
-    }
-  },
-  {
     "service_request": "2025-1196349",
     "request_type": "General Services",
     "request_reason": "General Service Request",
@@ -7777,6 +7755,28 @@
     "address_councildis": "B",
     "status": "Question Answered.",
     "rowid": "1196349",
+    "final_x": "3679235.88066",
+    "final_y": "520115.927864",
+    "longitude": "-90.07561485439388",
+    "latitude": "29.924206813004698",
+    "geocoded_column": {
+      "latitude": "29.924206813004698",
+      "longitude": "-90.07561485439388"
+    }
+  },
+  {
+    "service_request": "2025-1196350",
+    "request_type": "General Services",
+    "request_reason": "General Service Request",
+    "date_created": "2025-05-29T19:41:27.000",
+    "date_modified": "2025-05-30T16:35:41.000",
+    "case_close_date": "2025-05-30T11:35:40.000",
+    "request_status": "Closed",
+    "responsible_agency": "Orleans Parish Communication District",
+    "final_address": "2357 St Thomas St",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "rowid": "1196350",
     "final_x": "3679235.88066",
     "final_y": "520115.927864",
     "longitude": "-90.07561485439388",
@@ -19162,27 +19162,6 @@
     }
   },
   {
-    "service_request": "2025-1195821",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-05-28T13:13:00.000",
-    "date_modified": "2025-05-28T14:40:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3633 Lancaster St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1195821",
-    "final_x": "3709767.96241",
-    "final_y": "517323.973173",
-    "longitude": "-89.97934080676978",
-    "latitude": "29.915573106349097",
-    "geocoded_column": {
-      "latitude": "29.915573106349097",
-      "longitude": "-89.97934080676978"
-    }
-  },
-  {
     "service_request": "2025-1195820",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -19202,6 +19181,27 @@
     "geocoded_column": {
       "latitude": "30.018140670057292",
       "longitude": "-90.01992491864705"
+    }
+  },
+  {
+    "service_request": "2025-1195821",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-05-28T13:13:00.000",
+    "date_modified": "2025-05-28T14:40:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3633 Lancaster St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1195821",
+    "final_x": "3709767.96241",
+    "final_y": "517323.973173",
+    "longitude": "-89.97934080676978",
+    "latitude": "29.915573106349097",
+    "geocoded_column": {
+      "latitude": "29.915573106349097",
+      "longitude": "-89.97934080676978"
     }
   },
   {
