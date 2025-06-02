@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1196966",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-01T20:02:59.000",
+    "date_modified": "2025-06-01T20:03:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "703 N Broad St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1196966",
+    "final_x": "3676607.6059",
+    "final_y": "536951.748488",
+    "longitude": "-90.08333164576663",
+    "latitude": "29.970578793399966",
+    "geocoded_column": {
+      "latitude": "29.970578793399966",
+      "longitude": "-90.08333164576663"
+    }
+  },
+  {
+    "service_request": "2025-1196918",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-01T14:15:53.000",
+    "date_modified": "2025-06-01T14:15:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1825 Bordeaux St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1196918",
+    "final_x": "3669330.97505",
+    "final_y": "521651.715897",
+    "longitude": "-90.1068293767773",
+    "latitude": "29.928724970225012",
+    "geocoded_column": {
+      "latitude": "29.928724970225012",
+      "longitude": "-90.1068293767773"
+    }
+  },
+  {
     "service_request": "2025-1196845",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21536,49 +21578,6 @@
     "geocoded_column": {
       "latitude": "29.919556076530732",
       "longitude": "-90.11844244815435"
-    }
-  },
-  {
-    "service_request": "2025-1159629",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-04T19:21:14.000",
-    "date_modified": "2025-01-06T09:01:21.000",
-    "case_close_date": "2025-01-06T03:01:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11300 BLK Lake Forest Blvd",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1159629",
-    "final_x": "3720154.87527",
-    "final_y": "562479.576272",
-    "longitude": "-89.9448291072418",
-    "latitude": "30.03939218659508",
-    "geocoded_column": {
-      "latitude": "30.03939218659508",
-      "longitude": "-89.9448291072418"
-    }
-  },
-  {
-    "service_request": "2025-1159626",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-04T18:08:00.000",
-    "date_modified": "2025-01-09T09:50:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2500 BLK Eton St",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1159626",
-    "final_x": "3704066.99275",
-    "final_y": "521853.381606",
-    "longitude": "-89.99716836644185",
-    "latitude": "29.928211415227466",
-    "geocoded_column": {
-      "latitude": "29.928211415227466",
-      "longitude": "-89.99716836644185"
     }
   }
 ]
