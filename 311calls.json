@@ -13475,28 +13475,6 @@
     }
   },
   {
-    "service_request": "2025-1196349",
-    "request_type": "General Services",
-    "request_reason": "General Service Request",
-    "date_created": "2025-05-29T19:41:27.000",
-    "date_modified": "2025-05-30T16:35:10.000",
-    "case_close_date": "2025-05-30T11:35:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Orleans Parish Communication District",
-    "final_address": "2357 St Thomas St",
-    "address_councildis": "B",
-    "status": "Question Answered.",
-    "rowid": "1196349",
-    "final_x": "3679235.88066",
-    "final_y": "520115.927864",
-    "longitude": "-90.07561485439388",
-    "latitude": "29.924206813004698",
-    "geocoded_column": {
-      "latitude": "29.924206813004698",
-      "longitude": "-90.07561485439388"
-    }
-  },
-  {
     "service_request": "2025-1196350",
     "request_type": "General Services",
     "request_reason": "General Service Request",
@@ -13509,6 +13487,28 @@
     "address_councildis": "B",
     "status": "Duplicate Request",
     "rowid": "1196350",
+    "final_x": "3679235.88066",
+    "final_y": "520115.927864",
+    "longitude": "-90.07561485439388",
+    "latitude": "29.924206813004698",
+    "geocoded_column": {
+      "latitude": "29.924206813004698",
+      "longitude": "-90.07561485439388"
+    }
+  },
+  {
+    "service_request": "2025-1196349",
+    "request_type": "General Services",
+    "request_reason": "General Service Request",
+    "date_created": "2025-05-29T19:41:27.000",
+    "date_modified": "2025-05-30T16:35:10.000",
+    "case_close_date": "2025-05-30T11:35:09.000",
+    "request_status": "Closed",
+    "responsible_agency": "Orleans Parish Communication District",
+    "final_address": "2357 St Thomas St",
+    "address_councildis": "B",
+    "status": "Question Answered.",
+    "rowid": "1196349",
     "final_x": "3679235.88066",
     "final_y": "520115.927864",
     "longitude": "-90.07561485439388",
