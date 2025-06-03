@@ -14280,27 +14280,6 @@
     }
   },
   {
-    "service_request": "2025-1196862",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2025-06-01T09:29:52.000",
-    "date_modified": "2025-06-02T09:14:22.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "0 BLK Acadiana Pl",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1196862",
-    "final_x": "3725131.4083",
-    "final_y": "564393.680055",
-    "longitude": "-89.92902788187175",
-    "latitude": "30.04448842646984",
-    "geocoded_column": {
-      "latitude": "30.04448842646984",
-      "longitude": "-89.92902788187175"
-    }
-  },
-  {
     "service_request": "2025-1196861",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -14312,6 +14291,27 @@
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "1196861",
+    "final_x": "3725131.4083",
+    "final_y": "564393.680055",
+    "longitude": "-89.92902788187175",
+    "latitude": "30.04448842646984",
+    "geocoded_column": {
+      "latitude": "30.04448842646984",
+      "longitude": "-89.92902788187175"
+    }
+  },
+  {
+    "service_request": "2025-1196862",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2025-06-01T09:29:52.000",
+    "date_modified": "2025-06-02T09:14:22.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "0 BLK Acadiana Pl",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1196862",
     "final_x": "3725131.4083",
     "final_y": "564393.680055",
     "longitude": "-89.92902788187175",
