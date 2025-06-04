@@ -6856,6 +6856,27 @@
     }
   },
   {
+    "service_request": "2025-1197621",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2025-06-03T10:18:24.000",
+    "date_modified": "2025-06-03T10:18:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "310 Porteous St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1197621",
+    "final_x": "3667688.3714",
+    "final_y": "551411.994709",
+    "longitude": "-90.11101257649825",
+    "latitude": "30.010604056164855",
+    "geocoded_column": {
+      "latitude": "30.010604056164855",
+      "longitude": "-90.11101257649825"
+    }
+  },
+  {
     "service_request": "2025-1197622",
     "request_type": "Parks & Parkways",
     "request_reason": "Park Maintenance/Clean Up",
@@ -6875,27 +6896,6 @@
     "geocoded_column": {
       "latitude": "29.9619888555857",
       "longitude": "-90.04087316542454"
-    }
-  },
-  {
-    "service_request": "2025-1197621",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2025-06-03T10:18:24.000",
-    "date_modified": "2025-06-03T10:18:35.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "310 Porteous St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1197621",
-    "final_x": "3667688.3714",
-    "final_y": "551411.994709",
-    "longitude": "-90.11101257649825",
-    "latitude": "30.010604056164855",
-    "geocoded_column": {
-      "latitude": "30.010604056164855",
-      "longitude": "-90.11101257649825"
     }
   },
   {
@@ -7876,6 +7876,28 @@
     }
   },
   {
+    "service_request": "2025-1197575",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2025-06-03T09:05:10.000",
+    "date_modified": "2025-06-03T09:05:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "145 Pinewood Ct",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "1197575",
+    "final_x": "3695834.54787",
+    "final_y": "523401.953147",
+    "longitude": "-90.02310032605288",
+    "latitude": "29.93273085444177",
+    "geocoded_column": {
+      "latitude": "29.93273085444177",
+      "longitude": "-90.02310032605288"
+    }
+  },
+  {
     "service_request": "2025-1197574",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -7889,28 +7911,6 @@
     "status": "Resolved",
     "contractor": "Richards Disposal",
     "rowid": "1197574",
-    "final_x": "3695834.54787",
-    "final_y": "523401.953147",
-    "longitude": "-90.02310032605288",
-    "latitude": "29.93273085444177",
-    "geocoded_column": {
-      "latitude": "29.93273085444177",
-      "longitude": "-90.02310032605288"
-    }
-  },
-  {
-    "service_request": "2025-1197575",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2025-06-03T09:05:10.000",
-    "date_modified": "2025-06-03T09:05:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "145 Pinewood Ct",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "1197575",
     "final_x": "3695834.54787",
     "final_y": "523401.953147",
     "longitude": "-90.02310032605288",
@@ -8206,27 +8206,6 @@
     }
   },
   {
-    "service_request": "2025-1197559",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2025-06-03T08:46:09.000",
-    "date_modified": "2025-06-03T08:46:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2515 N Robertson St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1197559",
-    "final_x": "3687288.30722",
-    "final_y": "538023.855753",
-    "longitude": "-90.04956288792248",
-    "latitude": "29.973202010735335",
-    "geocoded_column": {
-      "latitude": "29.973202010735335",
-      "longitude": "-90.04956288792248"
-    }
-  },
-  {
     "service_request": "2025-1197560",
     "request_type": "Safety & Permits",
     "request_reason": "Zoning Enforcement",
@@ -8247,6 +8226,27 @@
     "geocoded_column": {
       "latitude": "29.99534950770661",
       "longitude": "-90.05778931241468"
+    }
+  },
+  {
+    "service_request": "2025-1197559",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2025-06-03T08:46:09.000",
+    "date_modified": "2025-06-03T08:46:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2515 N Robertson St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1197559",
+    "final_x": "3687288.30722",
+    "final_y": "538023.855753",
+    "longitude": "-90.04956288792248",
+    "latitude": "29.973202010735335",
+    "geocoded_column": {
+      "latitude": "29.973202010735335",
+      "longitude": "-90.04956288792248"
     }
   },
   {
