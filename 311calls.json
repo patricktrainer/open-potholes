@@ -6884,27 +6884,6 @@
     }
   },
   {
-    "service_request": "2025-1201749",
-    "request_type": "Roads and Streets",
-    "request_reason": "Curb Damage",
-    "date_created": "2025-06-17T09:16:04.000",
-    "date_modified": "2025-06-17T09:16:05.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "131 N Clark St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1201749",
-    "final_x": "3673029.28507",
-    "final_y": "537294.77108",
-    "longitude": "-90.0946207122657",
-    "latitude": "29.971628840095168",
-    "geocoded_column": {
-      "latitude": "29.971628840095168",
-      "longitude": "-90.0946207122657"
-    }
-  },
-  {
     "service_request": "2025-1201748",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -6923,6 +6902,27 @@
     "geocoded_column": {
       "latitude": "29.93195664904832",
       "longitude": "-90.10011826938208"
+    }
+  },
+  {
+    "service_request": "2025-1201749",
+    "request_type": "Roads and Streets",
+    "request_reason": "Curb Damage",
+    "date_created": "2025-06-17T09:16:04.000",
+    "date_modified": "2025-06-17T09:16:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "131 N Clark St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1201749",
+    "final_x": "3673029.28507",
+    "final_y": "537294.77108",
+    "longitude": "-90.0946207122657",
+    "latitude": "29.971628840095168",
+    "geocoded_column": {
+      "latitude": "29.971628840095168",
+      "longitude": "-90.0946207122657"
     }
   },
   {
