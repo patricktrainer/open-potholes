@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1202907",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-20T15:49:09.000",
+    "date_modified": "2025-06-20T15:57:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "13912 Linden St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1202907",
+    "final_x": "3718123.25125",
+    "final_y": "572149.565608",
+    "longitude": "-89.95088085805945",
+    "latitude": "30.066048204368066",
+    "geocoded_column": {
+      "latitude": "30.066048204368066",
+      "longitude": "-89.95088085805945"
+    }
+  },
+  {
+    "service_request": "2025-1202896",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-20T15:30:52.000",
+    "date_modified": "2025-06-20T15:30:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1117 Eighth St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1202896",
+    "final_x": "3676060.2891",
+    "final_y": "520354.601976",
+    "longitude": "-90.08563089175246",
+    "latitude": "29.92495855181211",
+    "geocoded_column": {
+      "latitude": "29.92495855181211",
+      "longitude": "-90.08563089175246"
+    }
+  },
+  {
     "service_request": "2025-1202578",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -1535,12 +1577,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-06-06T11:13:32.000",
-    "date_modified": "2025-06-06T11:13:34.000",
-    "request_status": "Pending",
+    "date_modified": "2025-06-20T07:44:19.000",
+    "case_close_date": "2025-06-20T02:44:18.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "5300 Memphis St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1198817",
     "final_x": "3668607.50721",
     "final_y": "542266.721869",
@@ -9052,12 +9095,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-04-10T10:57:51.000",
-    "date_modified": "2025-04-10T10:57:52.000",
+    "date_modified": "2025-06-20T07:43:16.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "7900 BLK Freret St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1182882",
     "final_x": "3661943.77975",
     "final_y": "527440.371088",
@@ -21587,49 +21630,6 @@
     "geocoded_column": {
       "latitude": "29.936520614151217",
       "longitude": "-90.0743233561039"
-    }
-  },
-  {
-    "service_request": "2025-1162979",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-16T20:55:37.000",
-    "date_modified": "2025-01-16T20:55:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5022 Bienville Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1162979",
-    "final_x": "3668525.61684",
-    "final_y": "541220.048524",
-    "longitude": "-90.10871152985209",
-    "latitude": "29.98255513463126",
-    "geocoded_column": {
-      "latitude": "29.98255513463126",
-      "longitude": "-90.10871152985209"
-    }
-  },
-  {
-    "service_request": "2025-1162881",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-16T14:56:08.000",
-    "date_modified": "2025-01-16T14:56:44.000",
-    "case_close_date": "2025-01-16T08:56:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 BLK Nunez St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1162881",
-    "final_x": "3686937.14052",
-    "final_y": "528133.49667",
-    "longitude": "-90.0510214994184",
-    "latitude": "29.94601775165775",
-    "geocoded_column": {
-      "latitude": "29.94601775165775",
-      "longitude": "-90.0510214994184"
     }
   }
 ]
