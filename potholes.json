@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1202970",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-21T10:24:57.000",
+    "date_modified": "2025-06-21T10:24:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "821 Commerce St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1202970",
+    "final_x": "3681948.71439",
+    "final_y": "527364.505087",
+    "longitude": "-90.06679848104791",
+    "latitude": "29.944055841685184",
+    "geocoded_column": {
+      "latitude": "29.944055841685184",
+      "longitude": "-90.06679848104791"
+    }
+  },
+  {
     "service_request": "2025-1202907",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21608,28 +21629,6 @@
     "geocoded_column": {
       "latitude": "29.91587004902829",
       "longitude": "-89.96523421100453"
-    }
-  },
-  {
-    "service_request": "2025-1162983",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-16T22:00:54.000",
-    "date_modified": "2025-01-17T07:49:14.000",
-    "case_close_date": "2025-01-17T01:49:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1419 Euterpe St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1162983",
-    "final_x": "3679595.76719",
-    "final_y": "524598.160124",
-    "longitude": "-90.0743233561039",
-    "latitude": "29.936520614151217",
-    "geocoded_column": {
-      "latitude": "29.936520614151217",
-      "longitude": "-90.0743233561039"
     }
   }
 ]
