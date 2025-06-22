@@ -107,27 +107,6 @@
     }
   },
   {
-    "service_request": "2025-1203029",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Recycling Cart",
-    "date_created": "2025-06-21T21:35:35.000",
-    "date_modified": "2025-06-21T21:35:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1224 Pace Blvd",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1203029",
-    "final_x": "3694517.61277",
-    "final_y": "526695.26803",
-    "longitude": "-90.02713924809281",
-    "latitude": "29.941827680558",
-    "geocoded_column": {
-      "latitude": "29.941827680558",
-      "longitude": "-90.02713924809281"
-    }
-  },
-  {
     "service_request": "2025-1203028",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Recycling Cart",
@@ -139,6 +118,27 @@
     "address_councildis": "C",
     "status": "Pending",
     "rowid": "1203028",
+    "final_x": "3694517.61277",
+    "final_y": "526695.26803",
+    "longitude": "-90.02713924809281",
+    "latitude": "29.941827680558",
+    "geocoded_column": {
+      "latitude": "29.941827680558",
+      "longitude": "-90.02713924809281"
+    }
+  },
+  {
+    "service_request": "2025-1203029",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Recycling Cart",
+    "date_created": "2025-06-21T21:35:35.000",
+    "date_modified": "2025-06-21T21:35:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1224 Pace Blvd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1203029",
     "final_x": "3694517.61277",
     "final_y": "526695.26803",
     "longitude": "-90.02713924809281",
