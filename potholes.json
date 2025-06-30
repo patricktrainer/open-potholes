@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1205015",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-29T07:33:44.000",
+    "date_modified": "2025-06-29T07:33:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "641 LeeS Ln",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1205015",
+    "final_x": "3697387.78333",
+    "final_y": "525157.978173",
+    "longitude": "-90.01813328406685",
+    "latitude": "29.937510389887606",
+    "geocoded_column": {
+      "latitude": "29.937510389887606",
+      "longitude": "-90.01813328406685"
+    }
+  },
+  {
     "service_request": "2025-1204986",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21574,28 +21595,6 @@
     "geocoded_column": {
       "latitude": "29.94914375120296",
       "longitude": "-90.10527492662457"
-    }
-  },
-  {
-    "service_request": "2025-1164439",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-27T22:43:06.000",
-    "date_modified": "2025-01-30T08:05:14.000",
-    "case_close_date": "2025-01-30T02:05:14.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6300 BLK Tchoupitoulas St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1164439",
-    "final_x": "3662372.87469",
-    "final_y": "518283.696488",
-    "longitude": "-90.12890652736745",
-    "latitude": "29.91966692751641",
-    "geocoded_column": {
-      "latitude": "29.91966692751641",
-      "longitude": "-90.12890652736745"
     }
   }
 ]
