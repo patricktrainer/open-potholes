@@ -1,23 +1,65 @@
 [
   {
+    "service_request": "2025-1206205",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-02T17:28:37.000",
+    "date_modified": "2025-07-02T17:28:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "936 Second St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1206205",
+    "final_x": "3678021.14229",
+    "final_y": "520946.387577",
+    "longitude": "-90.07942067266964",
+    "latitude": "29.92652691401077",
+    "geocoded_column": {
+      "latitude": "29.92652691401077",
+      "longitude": "-90.07942067266964"
+    }
+  },
+  {
+    "service_request": "2025-1206095",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-02T13:09:17.000",
+    "date_modified": "2025-07-02T13:09:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "10300 Almonaster Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1206095",
+    "final_x": "3714326.50808",
+    "final_y": "551661.614485",
+    "longitude": "-89.96365693637878",
+    "latitude": "30.009839987485808",
+    "geocoded_column": {
+      "latitude": "30.009839987485808",
+      "longitude": "-89.96365693637878"
+    }
+  },
+  {
     "service_request": "2025-1205874",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-01T18:24:07.000",
-    "date_modified": "2025-07-01T18:24:09.000",
+    "date_modified": "2025-07-02T07:32:19.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "6953 Virgilian St",
+    "final_address": "6200 Dorothea St",
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1205874",
-    "final_x": "3696937.47421",
-    "final_y": "556820.00841",
-    "longitude": "-90.01840783924877",
-    "latitude": "30.02458369710448",
+    "final_x": "3696382.07139",
+    "final_y": "557404.555739",
+    "longitude": "-90.0201416386758",
+    "latitude": "30.026208493116286",
     "geocoded_column": {
-      "latitude": "30.02458369710448",
-      "longitude": "-90.01840783924877"
+      "latitude": "30.026208493116286",
+      "longitude": "-90.0201416386758"
     }
   },
   {
@@ -21551,50 +21593,6 @@
     "geocoded_column": {
       "latitude": "29.96184806655065",
       "longitude": "-90.07967329086657"
-    }
-  },
-  {
-    "service_request": "2025-1164902",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-29T08:52:49.000",
-    "date_modified": "2025-01-31T07:26:05.000",
-    "case_close_date": "2025-01-31T01:26:03.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3300 BLK Trafalgar St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1164902",
-    "final_x": "3677876.6862",
-    "final_y": "543187.738543",
-    "longitude": "-90.07910817150272",
-    "latitude": "29.98768748388999",
-    "geocoded_column": {
-      "latitude": "29.98768748388999",
-      "longitude": "-90.07910817150272"
-    }
-  },
-  {
-    "service_request": "2025-1164890",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-29T08:21:16.000",
-    "date_modified": "2025-01-31T07:23:47.000",
-    "case_close_date": "2025-01-31T01:23:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "WILLOW ST & FERRY PL",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1164890",
-    "final_x": "3660217.4",
-    "final_y": "530906.98",
-    "longitude": "-90.13529372815174",
-    "latitude": "29.954439105437718",
-    "geocoded_column": {
-      "latitude": "29.954439105437718",
-      "longitude": "-90.13529372815174"
     }
   }
 ]
