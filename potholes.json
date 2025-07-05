@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1206582",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-04T21:01:31.000",
+    "date_modified": "2025-07-04T21:01:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5118 Elysian Fields Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1206582",
+    "final_x": "3683663.5133",
+    "final_y": "551696.309461",
+    "longitude": "-90.06053104884565",
+    "latitude": "30.010907566328843",
+    "geocoded_column": {
+      "latitude": "30.010907566328843",
+      "longitude": "-90.06053104884565"
+    }
+  },
+  {
     "service_request": "2025-1206507",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21559,28 +21580,6 @@
     "address_councildis": "B",
     "status": "Duplicate Request",
     "rowid": "1165042",
-    "final_x": "3672136.1032",
-    "final_y": "531990.955163",
-    "longitude": "-90.09762216121877",
-    "latitude": "29.957071641710726",
-    "geocoded_column": {
-      "latitude": "29.957071641710726",
-      "longitude": "-90.09762216121877"
-    }
-  },
-  {
-    "service_request": "2025-1165041",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-29T13:20:31.000",
-    "date_modified": "2025-01-31T08:04:32.000",
-    "case_close_date": "2025-01-31T02:04:29.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4000 BLK Euphrosine St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1165041",
     "final_x": "3672136.1032",
     "final_y": "531990.955163",
     "longitude": "-90.09762216121877",
