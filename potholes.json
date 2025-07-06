@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1206602",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-05T09:45:40.000",
+    "date_modified": "2025-07-05T09:45:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1733 Spain St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1206602",
+    "final_x": "3685973.7949",
+    "final_y": "538870.819337",
+    "longitude": "-90.05368450002632",
+    "latitude": "29.975571293888404",
+    "geocoded_column": {
+      "latitude": "29.975571293888404",
+      "longitude": "-90.05368450002632"
+    }
+  },
+  {
     "service_request": "2025-1206582",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -172,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-03T10:02:06.000",
-    "date_modified": "2025-07-03T10:02:09.000",
+    "date_modified": "2025-07-05T07:40:29.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "GENERAL MEYER AVE & HORACE ST",
@@ -193,7 +214,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-03T09:22:44.000",
-    "date_modified": "2025-07-03T09:22:46.000",
+    "date_modified": "2025-07-05T07:42:18.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2853 Livaudais St",
@@ -21565,28 +21586,6 @@
     "geocoded_column": {
       "latitude": "29.96619583074592",
       "longitude": "-90.11915269425826"
-    }
-  },
-  {
-    "service_request": "2025-1165042",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-29T13:22:27.000",
-    "date_modified": "2025-01-31T08:05:17.000",
-    "case_close_date": "2025-01-31T02:05:16.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4000 BLK Euphrosine St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1165042",
-    "final_x": "3672136.1032",
-    "final_y": "531990.955163",
-    "longitude": "-90.09762216121877",
-    "latitude": "29.957071641710726",
-    "geocoded_column": {
-      "latitude": "29.957071641710726",
-      "longitude": "-90.09762216121877"
     }
   }
 ]
