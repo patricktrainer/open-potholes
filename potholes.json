@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1206690",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-06T11:11:49.000",
+    "date_modified": "2025-07-06T11:11:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5328 Eastern St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1206690",
+    "final_x": "3687813.01161",
+    "final_y": "552550.995798",
+    "longitude": "-90.04739087807874",
+    "latitude": "30.013130248712788",
+    "geocoded_column": {
+      "latitude": "30.013130248712788",
+      "longitude": "-90.04739087807874"
+    }
+  },
+  {
+    "service_request": "2025-1206674",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-06T00:02:19.000",
+    "date_modified": "2025-07-06T00:02:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "41 Winners Cir",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1206674",
+    "final_x": "3715781.78943",
+    "final_y": "570200.939879",
+    "longitude": "-89.95835638172908",
+    "latitude": "30.060767760390632",
+    "geocoded_column": {
+      "latitude": "30.060767760390632",
+      "longitude": "-89.95835638172908"
+    }
+  },
+  {
     "service_request": "2025-1206602",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21543,49 +21585,6 @@
     "geocoded_column": {
       "latitude": "29.959097009403244",
       "longitude": "-90.0772550277696"
-    }
-  },
-  {
-    "service_request": "2025-1165061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-29T13:58:49.000",
-    "date_modified": "2025-01-30T11:59:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2828 St Thomas St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1165061",
-    "final_x": "3677838.77096",
-    "final_y": "519172.218231",
-    "longitude": "-90.08005762556182",
-    "latitude": "29.921654010196182",
-    "geocoded_column": {
-      "latitude": "29.921654010196182",
-      "longitude": "-90.08005762556182"
-    }
-  },
-  {
-    "service_request": "2025-1165045",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-29T13:24:58.000",
-    "date_modified": "2025-01-29T13:25:24.000",
-    "case_close_date": "2025-01-29T07:25:23.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3208 Monroe St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1165045",
-    "final_x": "3665283.30112",
-    "final_y": "535235.982534",
-    "longitude": "-90.11915269425826",
-    "latitude": "29.96619583074592",
-    "geocoded_column": {
-      "latitude": "29.96619583074592",
-      "longitude": "-90.11915269425826"
     }
   }
 ]
