@@ -1,10 +1,136 @@
 [
   {
+    "service_request": "2025-1207615",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-08T18:28:40.000",
+    "date_modified": "2025-07-08T18:28:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2236 Joliet St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1207615",
+    "final_x": "3663449.85543",
+    "final_y": "532185.555139",
+    "longitude": "-90.12504428556004",
+    "latitude": "29.957861445407953",
+    "geocoded_column": {
+      "latitude": "29.957861445407953",
+      "longitude": "-90.12504428556004"
+    }
+  },
+  {
+    "service_request": "2025-1207603",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-08T17:11:19.000",
+    "date_modified": "2025-07-08T17:11:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6700 BLK Colbert St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1207603",
+    "final_x": "3667876.86729",
+    "final_y": "552442.555664",
+    "longitude": "-90.11038229293759",
+    "latitude": "30.01343220694541",
+    "geocoded_column": {
+      "latitude": "30.01343220694541",
+      "longitude": "-90.11038229293759"
+    }
+  },
+  {
+    "service_request": "2025-1207498",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-08T13:26:37.000",
+    "date_modified": "2025-07-08T13:26:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2626 Myrtle St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1207498",
+    "final_x": "3687399.69609",
+    "final_y": "546049.892624",
+    "longitude": "-90.04892696937502",
+    "latitude": "29.99526732743274",
+    "geocoded_column": {
+      "latitude": "29.99526732743274",
+      "longitude": "-90.04892696937502"
+    }
+  },
+  {
+    "service_request": "2025-1207461",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-08T12:22:24.000",
+    "date_modified": "2025-07-08T12:22:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "325 S Hennessey St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1207461",
+    "final_x": "3669642.09806",
+    "final_y": "538172.349769",
+    "longitude": "-90.10528828541594",
+    "latitude": "29.97414213668305",
+    "geocoded_column": {
+      "latitude": "29.97414213668305",
+      "longitude": "-90.10528828541594"
+    }
+  },
+  {
+    "service_request": "2025-1207394",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-08T10:41:53.000",
+    "date_modified": "2025-07-08T10:41:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "327 S Hennessey St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1207394",
+    "final_x": "3669626.3851",
+    "final_y": "538144.520201",
+    "longitude": "-90.10533885263914",
+    "latitude": "29.97406607777711",
+    "geocoded_column": {
+      "latitude": "29.97406607777711",
+      "longitude": "-90.10533885263914"
+    }
+  },
+  {
+    "service_request": "2025-1207344",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-08T09:35:55.000",
+    "date_modified": "2025-07-08T09:51:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "MEMORIAL PARK DR & IDAHO ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1207344",
+    "final_x": "3693150.1",
+    "final_y": "520827.88",
+    "longitude": "-90.03166718853367",
+    "latitude": "29.925737156781242",
+    "geocoded_column": {
+      "latitude": "29.925737156781242",
+      "longitude": "-90.03166718853367"
+    }
+  },
+  {
     "service_request": "2025-1207272",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-07T22:05:56.000",
-    "date_modified": "2025-07-07T22:05:58.000",
+    "date_modified": "2025-07-08T06:28:37.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "622 Valence St",
@@ -67,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-07T12:37:31.000",
-    "date_modified": "2025-07-07T12:37:33.000",
+    "date_modified": "2025-07-08T07:02:51.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3200 BLK Homer St",
@@ -109,7 +235,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-07T10:01:35.000",
-    "date_modified": "2025-07-07T10:01:36.000",
+    "date_modified": "2025-07-08T07:04:04.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "700 BLK Lafayette St",
@@ -21450,138 +21576,6 @@
     "geocoded_column": {
       "latitude": "29.9219689674454",
       "longitude": "-90.07999423582415"
-    }
-  },
-  {
-    "service_request": "2025-1165286",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-30T10:11:10.000",
-    "date_modified": "2025-06-18T09:16:43.000",
-    "case_close_date": "2025-06-18T04:16:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6600 Beauregard Ave",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1165286",
-    "final_x": "3676248.39054",
-    "final_y": "556514.359834",
-    "longitude": "-90.08379236766326",
-    "latitude": "30.024379865637474",
-    "geocoded_column": {
-      "latitude": "30.024379865637474",
-      "longitude": "-90.08379236766326"
-    }
-  },
-  {
-    "service_request": "2025-1165282",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-30T10:07:56.000",
-    "date_modified": "2025-06-18T09:16:46.000",
-    "case_close_date": "2025-06-18T04:16:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6604 Beauregard Ave",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1165282",
-    "final_x": "3676249.57493",
-    "final_y": "556634.847066",
-    "longitude": "-90.08378447343473",
-    "latitude": "30.02471112625314",
-    "geocoded_column": {
-      "latitude": "30.02471112625314",
-      "longitude": "-90.08378447343473"
-    }
-  },
-  {
-    "service_request": "2025-1165273",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-30T09:59:25.000",
-    "date_modified": "2025-06-18T09:16:47.000",
-    "case_close_date": "2025-06-18T04:16:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6604 Beauregard Ave",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1165273",
-    "final_x": "3676249.57493",
-    "final_y": "556634.847066",
-    "longitude": "-90.08378447343473",
-    "latitude": "30.02471112625314",
-    "geocoded_column": {
-      "latitude": "30.02471112625314",
-      "longitude": "-90.08378447343473"
-    }
-  },
-  {
-    "service_request": "2025-1165269",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-30T09:51:17.000",
-    "date_modified": "2025-01-30T09:52:10.000",
-    "case_close_date": "2025-01-30T03:52:10.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5005 Coliseum St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1165269",
-    "final_x": "3668636.66676",
-    "final_y": "519683.681976",
-    "longitude": "-90.10908754921915",
-    "latitude": "29.923333918865346",
-    "geocoded_column": {
-      "latitude": "29.923333918865346",
-      "longitude": "-90.10908754921915"
-    }
-  },
-  {
-    "service_request": "2025-1165260",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-30T09:46:09.000",
-    "date_modified": "2025-01-30T09:46:37.000",
-    "case_close_date": "2025-01-30T03:46:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4841 Coliseum St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1165260",
-    "final_x": "3669093.90612",
-    "final_y": "519669.683064",
-    "longitude": "-90.10764468545268",
-    "latitude": "29.923281985474773",
-    "geocoded_column": {
-      "latitude": "29.923281985474773",
-      "longitude": "-90.10764468545268"
-    }
-  },
-  {
-    "service_request": "2025-1165258",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-01-30T09:34:16.000",
-    "date_modified": "2025-01-30T09:34:42.000",
-    "case_close_date": "2025-01-30T03:34:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4800 Coliseum St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1165258",
-    "final_x": "3669412.62439",
-    "final_y": "519637.502456",
-    "longitude": "-90.1066396972397",
-    "latitude": "29.92318412073648",
-    "geocoded_column": {
-      "latitude": "29.92318412073648",
-      "longitude": "-90.1066396972397"
     }
   }
 ]
