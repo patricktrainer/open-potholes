@@ -21360,6 +21360,28 @@
     }
   },
   {
+    "service_request": "2025-1207055",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Return Recycling Cart",
+    "date_created": "2025-07-07T12:58:28.000",
+    "date_modified": "2025-07-09T11:59:27.000",
+    "case_close_date": "2025-07-09T06:59:26.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "18 Fairway Oaks Dr",
+    "address_councildis": "C",
+    "status": "Duplicate Request",
+    "rowid": "1207055",
+    "final_x": "3716147.82373",
+    "final_y": "515636.828404",
+    "longitude": "-89.9592676520781",
+    "latitude": "29.910725221188216",
+    "geocoded_column": {
+      "latitude": "29.910725221188216",
+      "longitude": "-89.9592676520781"
+    }
+  },
+  {
     "service_request": "2025-1207056",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -21381,28 +21403,6 @@
     "geocoded_column": {
       "latitude": "29.999811715932992",
       "longitude": "-90.11182041073776"
-    }
-  },
-  {
-    "service_request": "2025-1207055",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Return Recycling Cart",
-    "date_created": "2025-07-07T12:58:28.000",
-    "date_modified": "2025-07-09T11:59:27.000",
-    "case_close_date": "2025-07-09T06:59:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "18 Fairway Oaks Dr",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1207055",
-    "final_x": "3716147.82373",
-    "final_y": "515636.828404",
-    "longitude": "-89.9592676520781",
-    "latitude": "29.910725221188216",
-    "geocoded_column": {
-      "latitude": "29.910725221188216",
-      "longitude": "-89.9592676520781"
     }
   },
   {
