@@ -21248,6 +21248,27 @@
     }
   },
   {
+    "service_request": "2025-1207437",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Recycling Cart",
+    "date_created": "2025-07-08T11:44:13.000",
+    "date_modified": "2025-07-08T11:44:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6430 General Haig St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1207437",
+    "final_x": "3670737.62625",
+    "final_y": "550115.481556",
+    "longitude": "-90.1014228220325",
+    "latitude": "30.006949308761314",
+    "geocoded_column": {
+      "latitude": "30.006949308761314",
+      "longitude": "-90.1014228220325"
+    }
+  },
+  {
     "service_request": "2025-1207436",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -21269,27 +21290,6 @@
     "geocoded_column": {
       "latitude": "29.918273363576176",
       "longitude": "-90.09531747320457"
-    }
-  },
-  {
-    "service_request": "2025-1207437",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Recycling Cart",
-    "date_created": "2025-07-08T11:44:13.000",
-    "date_modified": "2025-07-08T11:44:15.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6430 General Haig St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1207437",
-    "final_x": "3670737.62625",
-    "final_y": "550115.481556",
-    "longitude": "-90.1014228220325",
-    "latitude": "30.006949308761314",
-    "geocoded_column": {
-      "latitude": "30.006949308761314",
-      "longitude": "-90.1014228220325"
     }
   },
   {
