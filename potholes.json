@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1208555",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-11T10:43:09.000",
+    "date_modified": "2025-07-11T10:43:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4642 Lancelot Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1208555",
+    "final_x": "3707450.76107",
+    "final_y": "554762.100376",
+    "longitude": "-89.98526446306875",
+    "latitude": "30.018589325762672",
+    "geocoded_column": {
+      "latitude": "30.018589325762672",
+      "longitude": "-89.98526446306875"
+    }
+  },
+  {
+    "service_request": "2025-1208449",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-11T08:13:09.000",
+    "date_modified": "2025-07-11T08:13:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3100 Fern St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1208449",
+    "final_x": "3667250.59226",
+    "final_y": "533101.800324",
+    "longitude": "-90.11301178693775",
+    "latitude": "29.96027006791954",
+    "geocoded_column": {
+      "latitude": "29.96027006791954",
+      "longitude": "-90.11301178693775"
+    }
+  },
+  {
     "service_request": "2025-1208400",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21519,50 +21561,6 @@
     "geocoded_column": {
       "latitude": "29.934826962024086",
       "longitude": "-90.11318273799907"
-    }
-  },
-  {
-    "service_request": "2025-1166129",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-03T10:49:42.000",
-    "date_modified": "2025-02-05T07:28:53.000",
-    "case_close_date": "2025-02-05T01:28:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2900 Belmont St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1166129",
-    "final_x": "3672583.18523",
-    "final_y": "525902.505469",
-    "longitude": "-90.0964179474923",
-    "latitude": "29.940317143895243",
-    "geocoded_column": {
-      "latitude": "29.940317143895243",
-      "longitude": "-90.0964179474923"
-    }
-  },
-  {
-    "service_request": "2025-1166118",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-03T10:41:49.000",
-    "date_modified": "2025-02-05T07:20:42.000",
-    "case_close_date": "2025-02-05T01:20:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2117 Simon Bolivar Ave",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1166118",
-    "final_x": "3676369.6651",
-    "final_y": "525688.373693",
-    "longitude": "-90.08447078387601",
-    "latitude": "29.939615417700516",
-    "geocoded_column": {
-      "latitude": "29.939615417700516",
-      "longitude": "-90.08447078387601"
     }
   }
 ]
