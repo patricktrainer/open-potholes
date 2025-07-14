@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1208874",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-13T09:35:47.000",
+    "date_modified": "2025-07-13T09:35:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6182 Pontchartrain Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1208874",
+    "final_x": "3666098.60788",
+    "final_y": "548804.903507",
+    "longitude": "-90.11612276902565",
+    "latitude": "30.00348199552517",
+    "geocoded_column": {
+      "latitude": "30.00348199552517",
+      "longitude": "-90.11612276902565"
+    }
+  },
+  {
     "service_request": "2025-1208555",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21539,28 +21560,6 @@
     "geocoded_column": {
       "latitude": "29.950234024544727",
       "longitude": "-90.10809772294161"
-    }
-  },
-  {
-    "service_request": "2025-1166156",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-03T11:13:36.000",
-    "date_modified": "2025-02-05T19:54:53.000",
-    "case_close_date": "2025-02-05T13:54:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2111 Joseph St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1166156",
-    "final_x": "3667294.98305",
-    "final_y": "523849.143035",
-    "longitude": "-90.11318273799907",
-    "latitude": "29.934826962024086",
-    "geocoded_column": {
-      "latitude": "29.934826962024086",
-      "longitude": "-90.11318273799907"
     }
   }
 ]
