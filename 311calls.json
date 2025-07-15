@@ -15023,29 +15023,6 @@
     }
   },
   {
-    "service_request": "2025-1208716",
-    "request_type": "Drainage",
-    "request_reason": "Street Flooding",
-    "date_created": "2025-07-11T16:09:54.000",
-    "date_modified": "2025-07-14T11:36:47.000",
-    "case_close_date": "2025-07-14T06:36:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Sewerage & Water Board",
-    "final_address": "7300 Mayo Rd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "contractor_action": "Completed",
-    "rowid": "1208716",
-    "final_x": "3701018.39492",
-    "final_y": "559752.956573",
-    "longitude": "-90.00540551847341",
-    "latitude": "30.03251877250949",
-    "geocoded_column": {
-      "latitude": "30.03251877250949",
-      "longitude": "-90.00540551847341"
-    }
-  },
-  {
     "service_request": "2025-1208715",
     "request_type": "Drainage",
     "request_reason": "Street Flooding",
@@ -15059,6 +15036,29 @@
     "status": "Pending",
     "contractor_action": "Completed",
     "rowid": "1208715",
+    "final_x": "3701018.39492",
+    "final_y": "559752.956573",
+    "longitude": "-90.00540551847341",
+    "latitude": "30.03251877250949",
+    "geocoded_column": {
+      "latitude": "30.03251877250949",
+      "longitude": "-90.00540551847341"
+    }
+  },
+  {
+    "service_request": "2025-1208716",
+    "request_type": "Drainage",
+    "request_reason": "Street Flooding",
+    "date_created": "2025-07-11T16:09:54.000",
+    "date_modified": "2025-07-14T11:36:47.000",
+    "case_close_date": "2025-07-14T06:36:46.000",
+    "request_status": "Closed",
+    "responsible_agency": "Sewerage & Water Board",
+    "final_address": "7300 Mayo Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "contractor_action": "Completed",
+    "rowid": "1208716",
     "final_x": "3701018.39492",
     "final_y": "559752.956573",
     "longitude": "-90.00540551847341",
