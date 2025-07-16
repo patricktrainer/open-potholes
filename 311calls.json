@@ -1403,27 +1403,6 @@
     }
   },
   {
-    "service_request": "2025-1209780",
-    "request_type": "Drainage",
-    "request_reason": "Catch Basin Clogged",
-    "date_created": "2025-07-15T16:35:29.000",
-    "date_modified": "2025-07-15T16:35:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Sewerage & Water Board",
-    "final_address": "1201 Riviera Ave",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1209780",
-    "final_x": "3676821.97435",
-    "final_y": "550909.154965",
-    "longitude": "-90.0821733380724",
-    "latitude": "30.008950360000725",
-    "geocoded_column": {
-      "latitude": "30.008950360000725",
-      "longitude": "-90.0821733380724"
-    }
-  },
-  {
     "service_request": "2025-1209776",
     "request_type": "Drainage",
     "request_reason": "Catch Basin Clogged",
@@ -1435,6 +1414,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1209776",
+    "final_x": "3676821.97435",
+    "final_y": "550909.154965",
+    "longitude": "-90.0821733380724",
+    "latitude": "30.008950360000725",
+    "geocoded_column": {
+      "latitude": "30.008950360000725",
+      "longitude": "-90.0821733380724"
+    }
+  },
+  {
+    "service_request": "2025-1209780",
+    "request_type": "Drainage",
+    "request_reason": "Catch Basin Clogged",
+    "date_created": "2025-07-15T16:35:29.000",
+    "date_modified": "2025-07-15T16:35:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Sewerage & Water Board",
+    "final_address": "1201 Riviera Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1209780",
     "final_x": "3676821.97435",
     "final_y": "550909.154965",
     "longitude": "-90.0821733380724",
