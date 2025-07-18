@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1210437",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-17T15:09:45.000",
+    "date_modified": "2025-07-17T15:09:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1841 Shirley Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1210437",
+    "final_x": "3692863.26934",
+    "final_y": "522620.820794",
+    "longitude": "-90.03250836970275",
+    "latitude": "29.930676093255094",
+    "geocoded_column": {
+      "latitude": "29.930676093255094",
+      "longitude": "-90.03250836970275"
+    }
+  },
+  {
+    "service_request": "2025-1210425",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-17T14:45:06.000",
+    "date_modified": "2025-07-17T14:45:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1031 Lamanche St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1210425",
+    "final_x": "3698349.2008",
+    "final_y": "533486.820228",
+    "longitude": "-90.01479546156801",
+    "latitude": "29.960381404082295",
+    "geocoded_column": {
+      "latitude": "29.960381404082295",
+      "longitude": "-90.01479546156801"
+    }
+  },
+  {
+    "service_request": "2025-1210421",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-17T14:36:57.000",
+    "date_modified": "2025-07-17T14:36:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "614 Ricks Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1210421",
+    "final_x": "3687818.17116",
+    "final_y": "524647.27174",
+    "longitude": "-90.0483632303643",
+    "latitude": "29.93640467492406",
+    "geocoded_column": {
+      "latitude": "29.93640467492406",
+      "longitude": "-90.0483632303643"
+    }
+  },
+  {
     "service_request": "2025-1210253",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -299,12 +362,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-15T14:58:30.000",
-    "date_modified": "2025-07-15T14:58:32.000",
+    "date_modified": "2025-07-17T07:21:30.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2800 Fourth St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1209716",
     "final_x": "3673794.5259",
     "final_y": "526262.830782",
@@ -2569,12 +2632,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-06-23T10:55:47.000",
-    "date_modified": "2025-06-24T06:37:15.000",
-    "request_status": "Pending",
+    "date_modified": "2025-07-17T10:08:36.000",
+    "case_close_date": "2025-07-17T05:08:35.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "3019 St Thomas St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1203278",
     "final_x": "3677226.12846",
     "final_y": "518786.720055",
@@ -21546,72 +21610,6 @@
     "geocoded_column": {
       "latitude": "29.97246645480263",
       "longitude": "-90.07816047939468"
-    }
-  },
-  {
-    "service_request": "2025-1167244",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-06T16:26:23.000",
-    "date_modified": "2025-02-10T07:13:39.000",
-    "case_close_date": "2025-02-10T01:13:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "124 S Dupre St",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1167244",
-    "final_x": "3674506.78459",
-    "final_y": "535421.034694",
-    "longitude": "-90.09001874922411",
-    "latitude": "29.966432697639334",
-    "geocoded_column": {
-      "latitude": "29.966432697639334",
-      "longitude": "-90.09001874922411"
-    }
-  },
-  {
-    "service_request": "2025-1167232",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-06T16:02:47.000",
-    "date_modified": "2025-02-07T09:58:50.000",
-    "case_close_date": "2025-02-07T03:58:49.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PINE ST & FRERET ST",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1167232",
-    "final_x": "3663527.3",
-    "final_y": "526066.38",
-    "longitude": "-90.12500350071613",
-    "latitude": "29.94103343893924",
-    "geocoded_column": {
-      "latitude": "29.94103343893924",
-      "longitude": "-90.12500350071613"
-    }
-  },
-  {
-    "service_request": "2025-1167174",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-06T13:25:35.000",
-    "date_modified": "2025-02-07T09:01:12.000",
-    "case_close_date": "2025-02-07T03:01:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4105 Orleans Ave",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1167174",
-    "final_x": "3672696.66657",
-    "final_y": "540255.549259",
-    "longitude": "-90.09557016636619",
-    "latitude": "29.97977985723724",
-    "geocoded_column": {
-      "latitude": "29.97977985723724",
-      "longitude": "-90.09557016636619"
     }
   }
 ]
