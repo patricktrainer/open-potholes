@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1210883",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-19T17:05:49.000",
+    "date_modified": "2025-07-19T17:05:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1013 Bellecastle St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1210883",
+    "final_x": "3667748.63533",
+    "final_y": "519117.913079",
+    "longitude": "-90.11190977613047",
+    "latitude": "29.921804291927955",
+    "geocoded_column": {
+      "latitude": "29.921804291927955",
+      "longitude": "-90.11190977613047"
+    }
+  },
+  {
+    "service_request": "2025-1210843",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-19T10:11:42.000",
+    "date_modified": "2025-07-19T10:11:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2725 Lapeyrouse St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1210843",
+    "final_x": "3678643.81243",
+    "final_y": "540541.450187",
+    "longitude": "-90.07677674483078",
+    "latitude": "29.980388000958428",
+    "geocoded_column": {
+      "latitude": "29.980388000958428",
+      "longitude": "-90.07677674483078"
+    }
+  },
+  {
     "service_request": "2025-1210795",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -25,20 +67,20 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-07-18T16:22:18.000",
-    "date_modified": "2025-07-18T16:22:20.000",
+    "date_modified": "2025-07-19T09:31:58.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "4300 BLK Werner Dr",
+    "final_address": "7943 Chef Menteur Hwy",
     "address_councildis": "E",
     "status": "Pending",
     "rowid": "1210792",
-    "final_x": "3704971.63005",
-    "final_y": "553271.488061",
-    "longitude": "-89.99315264124357",
-    "latitude": "30.014570679404642",
+    "final_x": "3704946.93246",
+    "final_y": "552956.207191",
+    "longitude": "-89.99324232291549",
+    "latitude": "30.01370457208125",
     "geocoded_column": {
-      "latitude": "30.014570679404642",
-      "longitude": "-89.99315264124357"
+      "latitude": "30.01370457208125",
+      "longitude": "-89.99324232291549"
     }
   },
   {
@@ -21563,50 +21605,6 @@
     "geocoded_column": {
       "latitude": "29.97798679017948",
       "longitude": "-90.03169960643476"
-    }
-  },
-  {
-    "service_request": "2025-1167492",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-07T16:45:54.000",
-    "date_modified": "2025-02-07T16:46:21.000",
-    "case_close_date": "2025-02-07T10:46:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2820 Calhoun St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1167492",
-    "final_x": "3666603.53844",
-    "final_y": "527104.485631",
-    "longitude": "-90.1152563774034",
-    "latitude": "29.943798337317492",
-    "geocoded_column": {
-      "latitude": "29.943798337317492",
-      "longitude": "-90.1152563774034"
-    }
-  },
-  {
-    "service_request": "2025-1167490",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-07T16:29:40.000",
-    "date_modified": "2025-02-10T21:29:05.000",
-    "case_close_date": "2025-02-10T15:29:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "NASHVILLE AVE & CUCULLU ST",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1167490",
-    "final_x": "3667363.6",
-    "final_y": "525858.18",
-    "longitude": "-90.11289856041329",
-    "latitude": "29.94034916002391",
-    "geocoded_column": {
-      "latitude": "29.94034916002391",
-      "longitude": "-90.11289856041329"
     }
   }
 ]
