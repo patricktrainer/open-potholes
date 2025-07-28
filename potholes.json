@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1212879",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-27T12:05:43.000",
+    "date_modified": "2025-07-27T12:05:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5808 Orleans Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1212879",
+    "final_x": "3670724.15515",
+    "final_y": "545846.088464",
+    "longitude": "-90.10161037228227",
+    "latitude": "29.995210363979112",
+    "geocoded_column": {
+      "latitude": "29.995210363979112",
+      "longitude": "-90.10161037228227"
+    }
+  },
+  {
     "service_request": "2025-1212820",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21571,28 +21592,6 @@
     "geocoded_column": {
       "latitude": "29.92782179829652",
       "longitude": "-90.00189791086179"
-    }
-  },
-  {
-    "service_request": "2025-1169081",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-14T14:59:08.000",
-    "date_modified": "2025-02-24T07:18:24.000",
-    "case_close_date": "2025-02-24T01:18:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2303 Prentiss Ave, New Orleans, Louisiana, 70122",
-    "address_councildis": "D",
-    "status": "Captured by Project",
-    "rowid": "1169081",
-    "final_x": "3684417.23298",
-    "final_y": "553965.034008",
-    "longitude": "-90.05806998113111",
-    "latitude": "30.017122687406996",
-    "geocoded_column": {
-      "latitude": "30.017122687406996",
-      "longitude": "-90.05806998113111"
     }
   }
 ]
