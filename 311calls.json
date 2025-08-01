@@ -17131,6 +17131,29 @@
     }
   },
   {
+    "service_request": "2025-1213684",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2025-07-29T15:15:38.000",
+    "date_modified": "2025-07-31T13:24:14.000",
+    "case_close_date": "2025-07-31T08:24:13.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "707 Sumner St",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "rowid": "1213684",
+    "final_x": "3691130.91427",
+    "final_y": "528842.172736",
+    "longitude": "-90.03775507886056",
+    "latitude": "29.947836651977987",
+    "geocoded_column": {
+      "latitude": "29.947836651977987",
+      "longitude": "-90.03775507886056"
+    }
+  },
+  {
     "service_request": "2025-1213683",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -17152,29 +17175,6 @@
     "geocoded_column": {
       "latitude": "29.92580603324055",
       "longitude": "-90.12096775408406"
-    }
-  },
-  {
-    "service_request": "2025-1213684",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2025-07-29T15:15:38.000",
-    "date_modified": "2025-07-31T13:24:14.000",
-    "case_close_date": "2025-07-31T08:24:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "707 Sumner St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "rowid": "1213684",
-    "final_x": "3691130.91427",
-    "final_y": "528842.172736",
-    "longitude": "-90.03775507886056",
-    "latitude": "29.947836651977987",
-    "geocoded_column": {
-      "latitude": "29.947836651977987",
-      "longitude": "-90.03775507886056"
     }
   },
   {
