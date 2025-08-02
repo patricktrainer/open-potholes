@@ -17372,30 +17372,6 @@
     }
   },
   {
-    "service_request": "2025-1213952",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-07-30T11:49:47.000",
-    "date_modified": "2025-08-01T13:34:06.000",
-    "case_close_date": "2025-08-01T08:34:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1529 Conery St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1213952",
-    "final_x": "3675883.60353",
-    "final_y": "522180.465274",
-    "longitude": "-90.08612589564892",
-    "latitude": "29.929984373268443",
-    "geocoded_column": {
-      "latitude": "29.929984373268443",
-      "longitude": "-90.08612589564892"
-    }
-  },
-  {
     "service_request": "2025-1213953",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -17410,6 +17386,30 @@
     "contractor": "IV Waste",
     "contractor_action": "Completed",
     "rowid": "1213953",
+    "final_x": "3675883.60353",
+    "final_y": "522180.465274",
+    "longitude": "-90.08612589564892",
+    "latitude": "29.929984373268443",
+    "geocoded_column": {
+      "latitude": "29.929984373268443",
+      "longitude": "-90.08612589564892"
+    }
+  },
+  {
+    "service_request": "2025-1213952",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-07-30T11:49:47.000",
+    "date_modified": "2025-08-01T13:34:06.000",
+    "case_close_date": "2025-08-01T08:34:05.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1529 Conery St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1213952",
     "final_x": "3675883.60353",
     "final_y": "522180.465274",
     "longitude": "-90.08612589564892",
