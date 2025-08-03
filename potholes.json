@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1214826",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-02T18:27:30.000",
+    "date_modified": "2025-08-02T18:27:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5226 Conti St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1214826",
+    "final_x": "3668428.6955",
+    "final_y": "541800.77422",
+    "longitude": "-90.10899805779543",
+    "latitude": "29.9841547811201",
+    "geocoded_column": {
+      "latitude": "29.9841547811201",
+      "longitude": "-90.10899805779543"
+    }
+  },
+  {
+    "service_request": "2025-1214824",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-02T18:13:00.000",
+    "date_modified": "2025-08-02T18:13:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1300 Richland Rd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1214824",
+    "final_x": "3698275.4296",
+    "final_y": "526291.108286",
+    "longitude": "-90.01528978848724",
+    "latitude": "29.94059805962883",
+    "geocoded_column": {
+      "latitude": "29.94059805962883",
+      "longitude": "-90.01528978848724"
+    }
+  },
+  {
     "service_request": "2025-1214647",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21633,50 +21675,6 @@
     "geocoded_column": {
       "latitude": "29.928549422360586",
       "longitude": "-90.09085331802083"
-    }
-  },
-  {
-    "service_request": "2025-1169437",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-17T11:08:25.000",
-    "date_modified": "2025-02-17T11:08:56.000",
-    "case_close_date": "2025-02-17T05:08:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4300 BLK Saint Charles Ave",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1169437",
-    "final_x": "3671190.93744",
-    "final_y": "520921.157749",
-    "longitude": "-90.1009826496916",
-    "latitude": "29.926661295009893",
-    "geocoded_column": {
-      "latitude": "29.926661295009893",
-      "longitude": "-90.1009826496916"
-    }
-  },
-  {
-    "service_request": "2025-1169434",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-17T11:06:34.000",
-    "date_modified": "2025-02-17T11:06:56.000",
-    "case_close_date": "2025-02-17T05:06:55.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1500 BLK Brooklyn Ave",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1169434",
-    "final_x": "3686326.28118",
-    "final_y": "525792.643084",
-    "longitude": "-90.05303276745123",
-    "latitude": "29.93959997927668",
-    "geocoded_column": {
-      "latitude": "29.93959997927668",
-      "longitude": "-90.05303276745123"
     }
   }
 ]
