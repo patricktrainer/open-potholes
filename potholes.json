@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1214944",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-03T19:40:03.000",
+    "date_modified": "2025-08-03T19:40:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "11040 Yardley Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1214944",
+    "final_x": "3712157.56082",
+    "final_y": "563807.114529",
+    "longitude": "-89.97005281575592",
+    "latitude": "30.043306422813252",
+    "geocoded_column": {
+      "latitude": "30.043306422813252",
+      "longitude": "-89.97005281575592"
+    }
+  },
+  {
+    "service_request": "2025-1214897",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-03T13:06:52.000",
+    "date_modified": "2025-08-03T13:06:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7321 Green St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1214897",
+    "final_x": "3664774.87936",
+    "final_y": "528255.59424",
+    "longitude": "-90.1209915193309",
+    "latitude": "29.947016841162572",
+    "geocoded_column": {
+      "latitude": "29.947016841162572",
+      "longitude": "-90.1209915193309"
+    }
+  },
+  {
     "service_request": "2025-1214826",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21631,50 +21673,6 @@
     "geocoded_column": {
       "latitude": "29.961615441525588",
       "longitude": "-90.07847537593818"
-    }
-  },
-  {
-    "service_request": "2025-1169450",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-17T11:19:59.000",
-    "date_modified": "2025-02-18T17:04:35.000",
-    "case_close_date": "2025-02-18T11:04:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5540 Catina St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1169450",
-    "final_x": "3666546.70081",
-    "final_y": "544278.612495",
-    "longitude": "-90.11485922394952",
-    "latitude": "29.991023154153257",
-    "geocoded_column": {
-      "latitude": "29.991023154153257",
-      "longitude": "-90.11485922394952"
-    }
-  },
-  {
-    "service_request": "2025-1169439",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-17T11:09:49.000",
-    "date_modified": "2025-02-17T11:10:14.000",
-    "case_close_date": "2025-02-17T05:10:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3300 BLK Saint Charles Ave",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1169439",
-    "final_x": "3674391.91955",
-    "final_y": "521642.397776",
-    "longitude": "-90.09085331802083",
-    "latitude": "29.928549422360586",
-    "geocoded_column": {
-      "latitude": "29.928549422360586",
-      "longitude": "-90.09085331802083"
     }
   }
 ]
