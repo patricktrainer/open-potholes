@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1216957",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-10T16:24:28.000",
+    "date_modified": "2025-08-10T16:24:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "738 Toulouse St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1216957",
+    "final_x": "3682055.2004",
+    "final_y": "532311.350531",
+    "longitude": "-90.06628956898791",
+    "latitude": "29.957654758842732",
+    "geocoded_column": {
+      "latitude": "29.957654758842732",
+      "longitude": "-90.06628956898791"
+    }
+  },
+  {
+    "service_request": "2025-1216898",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-10T04:45:43.000",
+    "date_modified": "2025-08-10T04:45:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "14373 Sai Gon Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1216898",
+    "final_x": "3730006.41651",
+    "final_y": "563187.498912",
+    "longitude": "-89.91366810459232",
+    "latitude": "30.041006752533193",
+    "geocoded_column": {
+      "latitude": "30.041006752533193",
+      "longitude": "-89.91366810459232"
+    }
+  },
+  {
     "service_request": "2025-1216806",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21625,49 +21667,6 @@
     "geocoded_column": {
       "latitude": "29.923079338063165",
       "longitude": "-90.07225605235607"
-    }
-  },
-  {
-    "service_request": "2025-1170308",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-20T07:28:01.000",
-    "date_modified": "2025-02-24T11:31:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8838 Oak St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1170308",
-    "final_x": "3659853.15699",
-    "final_y": "530213.490113",
-    "longitude": "-90.13646674367425",
-    "latitude": "29.95254269735273",
-    "geocoded_column": {
-      "latitude": "29.95254269735273",
-      "longitude": "-90.13646674367425"
-    }
-  },
-  {
-    "service_request": "2025-1170293",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-20T00:04:09.000",
-    "date_modified": "2025-03-01T10:01:19.000",
-    "case_close_date": "2025-03-01T04:01:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1501 Philip St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1170293",
-    "final_x": "3677663.6221",
-    "final_y": "523219.030715",
-    "longitude": "-90.0804708238745",
-    "latitude": "29.932786694139413",
-    "geocoded_column": {
-      "latitude": "29.932786694139413",
-      "longitude": "-90.0804708238745"
     }
   }
 ]
