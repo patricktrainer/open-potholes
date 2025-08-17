@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1218965",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-16T12:34:52.000",
+    "date_modified": "2025-08-16T12:34:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3034 Urquhart St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1218965",
+    "final_x": "3688976.94057",
+    "final_y": "536751.722632",
+    "longitude": "-90.04427505969794",
+    "latitude": "29.96965196314151",
+    "geocoded_column": {
+      "latitude": "29.96965196314151",
+      "longitude": "-90.04427505969794"
+    }
+  },
+  {
     "service_request": "2025-1218916",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -67,20 +88,20 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-15T12:57:49.000",
-    "date_modified": "2025-08-15T12:57:50.000",
+    "date_modified": "2025-08-16T12:50:21.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "LOUIS XIV ST & HARRISON AVE",
+    "final_address": "600 BLK Harrison Ave",
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "1218815",
-    "final_x": "3668255.6",
-    "final_y": "549270.98",
-    "longitude": "-90.10929273673351",
-    "latitude": "30.00470036359114",
+    "final_x": "3668506.39294",
+    "final_y": "549248.510871",
+    "longitude": "-90.10850118853503",
+    "latitude": "30.004631212383213",
     "geocoded_column": {
-      "latitude": "30.00470036359114",
-      "longitude": "-90.10929273673351"
+      "latitude": "30.004631212383213",
+      "longitude": "-90.10850118853503"
     }
   },
   {
@@ -21631,28 +21652,6 @@
     "geocoded_column": {
       "latitude": "29.974118163755072",
       "longitude": "-90.10049609646374"
-    }
-  },
-  {
-    "service_request": "2025-1171668",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-02-26T13:12:47.000",
-    "date_modified": "2025-02-26T13:13:20.000",
-    "case_close_date": "2025-02-26T07:13:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4143 Canal St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1171668",
-    "final_x": "3670930.69281",
-    "final_y": "538702.312841",
-    "longitude": "-90.10120059877731",
-    "latitude": "29.975561319226305",
-    "geocoded_column": {
-      "latitude": "29.975561319226305",
-      "longitude": "-90.10120059877731"
     }
   }
 ]
