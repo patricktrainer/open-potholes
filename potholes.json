@@ -1,10 +1,31 @@
 [
   {
+    "service_request": "2025-1222468",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-29T08:24:28.000",
+    "date_modified": "2025-08-29T08:24:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2608 S Claiborne Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1222468",
+    "final_x": "3673664.45396",
+    "final_y": "526921.32563",
+    "longitude": "-90.09296938451182",
+    "latitude": "29.943086427048723",
+    "geocoded_column": {
+      "latitude": "29.943086427048723",
+      "longitude": "-90.09296938451182"
+    }
+  },
+  {
     "service_request": "2025-1222433",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-28T18:46:01.000",
-    "date_modified": "2025-08-28T18:46:02.000",
+    "date_modified": "2025-08-29T08:57:56.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1220 Felicity St",
@@ -46,7 +67,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-28T15:36:05.000",
-    "date_modified": "2025-08-28T15:36:07.000",
+    "date_modified": "2025-08-29T09:04:36.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5500 BLK S Liberty St",
@@ -67,12 +88,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-28T15:16:15.000",
-    "date_modified": "2025-08-28T15:16:18.000",
+    "date_modified": "2025-08-29T09:06:12.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "8501 N Interstate 10 Service Rd",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1222385",
     "final_x": "3704755.23332",
     "final_y": "559450.599453",
@@ -88,7 +109,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-28T13:38:25.000",
-    "date_modified": "2025-08-28T13:38:27.000",
+    "date_modified": "2025-08-29T09:08:32.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2035 Nashville Ave",
@@ -109,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-28T13:10:19.000",
-    "date_modified": "2025-08-28T13:10:21.000",
+    "date_modified": "2025-08-29T09:13:58.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "0 BLK Clubhouse Dr",
@@ -130,7 +151,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-28T10:31:22.000",
-    "date_modified": "2025-08-28T10:33:06.000",
+    "date_modified": "2025-08-29T09:16:18.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2225 Dante St",
@@ -21608,28 +21629,6 @@
     "geocoded_column": {
       "latitude": "29.926746262776504",
       "longitude": "-90.11606682870062"
-    }
-  },
-  {
-    "service_request": "2025-1173590",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T10:05:06.000",
-    "date_modified": "2025-03-07T10:15:45.000",
-    "case_close_date": "2025-03-07T04:15:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1500 BLK Urania St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1173590",
-    "final_x": "3678872.489",
-    "final_y": "524234.553025",
-    "longitude": "-90.07661936421088",
-    "latitude": "29.935542646643395",
-    "geocoded_column": {
-      "latitude": "29.935542646643395",
-      "longitude": "-90.07661936421088"
     }
   }
 ]
