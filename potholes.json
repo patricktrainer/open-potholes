@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1222635",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-08-30T12:28:50.000",
+    "date_modified": "2025-08-30T12:28:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4800 Odin St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1222635",
+    "final_x": "3691361.29852",
+    "final_y": "553810.554135",
+    "longitude": "-90.03613518126076",
+    "latitude": "30.016483594497515",
+    "geocoded_column": {
+      "latitude": "30.016483594497515",
+      "longitude": "-90.03613518126076"
+    }
+  },
+  {
     "service_request": "2025-1222468",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21607,28 +21628,6 @@
     "geocoded_column": {
       "latitude": "29.924549953457085",
       "longitude": "-89.9949340473757"
-    }
-  },
-  {
-    "service_request": "2025-1173603",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T10:26:36.000",
-    "date_modified": "2025-03-07T10:26:57.000",
-    "case_close_date": "2025-03-07T04:26:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5600 BLK Pitt St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1173603",
-    "final_x": "3666412.74752",
-    "final_y": "520900.983904",
-    "longitude": "-90.11606682870062",
-    "latitude": "29.926746262776504",
-    "geocoded_column": {
-      "latitude": "29.926746262776504",
-      "longitude": "-90.11606682870062"
     }
   }
 ]
