@@ -1,5 +1,131 @@
 [
   {
+    "service_request": "2025-1223303",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-02T18:04:24.000",
+    "date_modified": "2025-09-02T18:04:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4023 Baudin St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1223303",
+    "final_x": "3670451.71233",
+    "final_y": "536855.264072",
+    "longitude": "-90.10277600267167",
+    "latitude": "29.97049671069583",
+    "geocoded_column": {
+      "latitude": "29.97049671069583",
+      "longitude": "-90.10277600267167"
+    }
+  },
+  {
+    "service_request": "2025-1223241",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-02T15:40:11.000",
+    "date_modified": "2025-09-02T15:40:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4200 BLK Woodland Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1223241",
+    "final_x": "3705356.91963",
+    "final_y": "515207.520554",
+    "longitude": "-89.99334173028917",
+    "latitude": "29.909896175211966",
+    "geocoded_column": {
+      "latitude": "29.909896175211966",
+      "longitude": "-89.99334173028917"
+    }
+  },
+  {
+    "service_request": "2025-1223109",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-02T12:32:00.000",
+    "date_modified": "2025-09-02T12:32:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "PRESS DR & STEPHEN GIRARD AVE",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1223109",
+    "final_x": "3689866.5",
+    "final_y": "549818.78",
+    "longitude": "-90.04100033489858",
+    "latitude": "30.005554133628365",
+    "geocoded_column": {
+      "latitude": "30.005554133628365",
+      "longitude": "-90.04100033489858"
+    }
+  },
+  {
+    "service_request": "2025-1223008",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-02T10:31:05.000",
+    "date_modified": "2025-09-02T11:14:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1437 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1223008",
+    "final_x": "3680250.69083",
+    "final_y": "524248.413052",
+    "longitude": "-90.07226788886763",
+    "latitude": "29.93553912229929",
+    "geocoded_column": {
+      "latitude": "29.93553912229929",
+      "longitude": "-90.07226788886763"
+    }
+  },
+  {
+    "service_request": "2025-1222958",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-02T09:38:04.000",
+    "date_modified": "2025-09-02T09:38:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2300 BLK Florida Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1222958",
+    "final_x": "3685415.12585",
+    "final_y": "542652.7675",
+    "longitude": "-90.0553157046729",
+    "latitude": "29.98598746230791",
+    "geocoded_column": {
+      "latitude": "29.98598746230791",
+      "longitude": "-90.0553157046729"
+    }
+  },
+  {
+    "service_request": "2025-1222928",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-02T09:03:39.000",
+    "date_modified": "2025-09-02T09:03:40.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2933 St Claude Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1222928",
+    "final_x": "3688419.68278",
+    "final_y": "536249.861255",
+    "longitude": "-90.04605272941363",
+    "latitude": "29.968289246157475",
+    "geocoded_column": {
+      "latitude": "29.968289246157475",
+      "longitude": "-90.04605272941363"
+    }
+  },
+  {
     "service_request": "2025-1222857",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -25,12 +151,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-09-01T16:55:54.000",
-    "date_modified": "2025-09-01T16:55:55.000",
+    "date_modified": "2025-09-02T08:28:14.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1022 Euterpe St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1222849",
     "final_x": "3680456.88277",
     "final_y": "524129.475516",
@@ -67,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-29T08:24:28.000",
-    "date_modified": "2025-08-29T08:24:29.000",
+    "date_modified": "2025-09-02T09:53:59.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2608 S Claiborne Ave",
@@ -21498,136 +21624,6 @@
     "geocoded_column": {
       "latitude": "30.005393804103146",
       "longitude": "-90.10046056791519"
-    }
-  },
-  {
-    "service_request": "2025-1173728",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T14:09:39.000",
-    "date_modified": "2025-08-13T16:29:54.000",
-    "case_close_date": "2025-08-13T11:29:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9900 Lake Forest Blvd",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1173728",
-    "final_x": "3710667.91704",
-    "final_y": "559443.510493",
-    "longitude": "-89.97492416188922",
-    "latitude": "30.031356899132575",
-    "geocoded_column": {
-      "latitude": "30.031356899132575",
-      "longitude": "-89.97492416188922"
-    }
-  },
-  {
-    "service_request": "2025-1173724",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T14:04:00.000",
-    "date_modified": "2025-08-13T16:31:16.000",
-    "case_close_date": "2025-08-13T11:31:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9951 Lake Forest Blvd",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1173724",
-    "final_x": "3710888.08561",
-    "final_y": "559885.788637",
-    "longitude": "-89.9742118493147",
-    "latitude": "30.032565810015807",
-    "geocoded_column": {
-      "latitude": "30.032565810015807",
-      "longitude": "-89.9742118493147"
-    }
-  },
-  {
-    "service_request": "2025-1173711",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T13:31:15.000",
-    "date_modified": "2025-03-07T13:31:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1318 S Salcedo St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1173711",
-    "final_x": "3670812.37831",
-    "final_y": "531391.603843",
-    "longitude": "-90.10182242494716",
-    "latitude": "29.955462810077623",
-    "geocoded_column": {
-      "latitude": "29.955462810077623",
-      "longitude": "-90.10182242494716"
-    }
-  },
-  {
-    "service_request": "2025-1173693",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T12:51:09.000",
-    "date_modified": "2025-03-10T17:00:47.000",
-    "case_close_date": "2025-03-10T12:00:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8801 Colapissa St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1173693",
-    "final_x": "3664706.46151",
-    "final_y": "535120.409862",
-    "longitude": "-90.12097821082436",
-    "latitude": "29.96589483849363",
-    "geocoded_column": {
-      "latitude": "29.96589483849363",
-      "longitude": "-90.12097821082436"
-    }
-  },
-  {
-    "service_request": "2025-1173690",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T12:46:41.000",
-    "date_modified": "2025-04-03T09:26:07.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4900 Arts St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1173690",
-    "final_x": "3685836.88066",
-    "final_y": "550906.412245",
-    "longitude": "-90.05369240862267",
-    "latitude": "30.008669076781548",
-    "geocoded_column": {
-      "latitude": "30.008669076781548",
-      "longitude": "-90.05369240862267"
-    }
-  },
-  {
-    "service_request": "2025-1173689",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-07T12:46:09.000",
-    "date_modified": "2025-03-10T16:58:07.000",
-    "case_close_date": "2025-03-10T11:58:06.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "300 Millaudon St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1173689",
-    "final_x": "3661454.2983",
-    "final_y": "524202.44006",
-    "longitude": "-90.1316100976416",
-    "latitude": "29.935968140324718",
-    "geocoded_column": {
-      "latitude": "29.935968140324718",
-      "longitude": "-90.1316100976416"
     }
   }
 ]
