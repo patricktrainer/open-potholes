@@ -15721,28 +15721,6 @@
     }
   },
   {
-    "service_request": "2025-1222944",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2025-09-02T09:18:11.000",
-    "date_modified": "2025-09-02T10:13:47.000",
-    "case_close_date": "2025-09-02T05:13:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "2205 Alvar St",
-    "address_councildis": "D",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1222944",
-    "final_x": "3692587.93251",
-    "final_y": "539593.512586",
-    "longitude": "-90.0327694122913",
-    "latitude": "29.977353681201784",
-    "geocoded_column": {
-      "latitude": "29.977353681201784",
-      "longitude": "-90.0327694122913"
-    }
-  },
-  {
     "service_request": "2025-1222945",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -15762,6 +15740,28 @@
     "geocoded_column": {
       "latitude": "29.97543151389688",
       "longitude": "-90.04916805093364"
+    }
+  },
+  {
+    "service_request": "2025-1222944",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2025-09-02T09:18:11.000",
+    "date_modified": "2025-09-02T10:13:47.000",
+    "case_close_date": "2025-09-02T05:13:46.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "2205 Alvar St",
+    "address_councildis": "D",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1222944",
+    "final_x": "3692587.93251",
+    "final_y": "539593.512586",
+    "longitude": "-90.0327694122913",
+    "latitude": "29.977353681201784",
+    "geocoded_column": {
+      "latitude": "29.977353681201784",
+      "longitude": "-90.0327694122913"
     }
   },
   {
