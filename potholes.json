@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1224341",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-06T18:06:01.000",
+    "date_modified": "2025-09-06T18:06:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "826 Belleville St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1224341",
+    "final_x": "3687851.18659",
+    "final_y": "528499.4208",
+    "longitude": "-90.04812259407588",
+    "latitude": "29.946995759977685",
+    "geocoded_column": {
+      "latitude": "29.946995759977685",
+      "longitude": "-90.04812259407588"
+    }
+  },
+  {
     "service_request": "2025-1224211",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21590,28 +21611,6 @@
     "geocoded_column": {
       "latitude": "30.008669076781548",
       "longitude": "-90.05369240862267"
-    }
-  },
-  {
-    "service_request": "2025-1174731",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-11T16:14:54.000",
-    "date_modified": "2025-03-12T10:20:36.000",
-    "case_close_date": "2025-03-12T05:20:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "941 Harmony St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1174731",
-    "final_x": "3676019.55547",
-    "final_y": "519626.210616",
-    "longitude": "-90.08578450853823",
-    "latitude": "29.92295693029005",
-    "geocoded_column": {
-      "latitude": "29.92295693029005",
-      "longitude": "-90.08578450853823"
     }
   }
 ]
