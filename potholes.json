@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1224417",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-07T20:59:29.000",
+    "date_modified": "2025-09-07T20:59:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1926 Dante St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1224417",
+    "final_x": "3663191.08666",
+    "final_y": "530871.592514",
+    "longitude": "-90.1259051287768",
+    "latitude": "29.95425597486963",
+    "geocoded_column": {
+      "latitude": "29.95425597486963",
+      "longitude": "-90.1259051287768"
+    }
+  },
+  {
     "service_request": "2025-1224341",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21589,28 +21610,6 @@
     "geocoded_column": {
       "latitude": "29.991698128870073",
       "longitude": "-90.03302040840545"
-    }
-  },
-  {
-    "service_request": "2025-1175008",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-12T14:13:08.000",
-    "date_modified": "2025-08-12T15:25:04.000",
-    "case_close_date": "2025-06-18T04:16:29.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4900 Arts St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1175008",
-    "final_x": "3685836.88066",
-    "final_y": "550906.412245",
-    "longitude": "-90.05369240862267",
-    "latitude": "30.008669076781548",
-    "geocoded_column": {
-      "latitude": "30.008669076781548",
-      "longitude": "-90.05369240862267"
     }
   }
 ]
