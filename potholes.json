@@ -1,5 +1,110 @@
 [
   {
+    "service_request": "2025-1225400",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-10T15:21:12.000",
+    "date_modified": "2025-09-10T15:21:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "DABADIE ST & N DUPRE ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1225400",
+    "final_x": "3678968.3",
+    "final_y": "541195.98",
+    "longitude": "-90.07572918497063",
+    "latitude": "29.98217794235479",
+    "geocoded_column": {
+      "latitude": "29.98217794235479",
+      "longitude": "-90.07572918497063"
+    }
+  },
+  {
+    "service_request": "2025-1225397",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-10T15:01:06.000",
+    "date_modified": "2025-09-10T15:01:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2125 Milan St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1225397",
+    "final_x": "3671444.80846",
+    "final_y": "522900.375099",
+    "longitude": "-90.10011400311846",
+    "latitude": "29.932095997181392",
+    "geocoded_column": {
+      "latitude": "29.932095997181392",
+      "longitude": "-90.10011400311846"
+    }
+  },
+  {
+    "service_request": "2025-1225388",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-10T14:55:45.000",
+    "date_modified": "2025-09-10T14:55:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2125 Amelia St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1225388",
+    "final_x": "3672703.1538",
+    "final_y": "523133.529339",
+    "longitude": "-90.09613357805861",
+    "latitude": "29.93269979709029",
+    "geocoded_column": {
+      "latitude": "29.93269979709029",
+      "longitude": "-90.09613357805861"
+    }
+  },
+  {
+    "service_request": "2025-1225371",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-10T14:18:49.000",
+    "date_modified": "2025-09-10T14:18:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3224 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1225371",
+    "final_x": "3675621.98414",
+    "final_y": "519838.166776",
+    "longitude": "-90.0870322105671",
+    "latitude": "29.92355163770679",
+    "geocoded_column": {
+      "latitude": "29.92355163770679",
+      "longitude": "-90.0870322105671"
+    }
+  },
+  {
+    "service_request": "2025-1225272",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-10T10:58:38.000",
+    "date_modified": "2025-09-10T10:58:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2425 Louisiana Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1225272",
+    "final_x": "3673053.30817",
+    "final_y": "524372.171068",
+    "longitude": "-90.0949859072879",
+    "latitude": "29.936095259883786",
+    "geocoded_column": {
+      "latitude": "29.936095259883786",
+      "longitude": "-90.0949859072879"
+    }
+  },
+  {
     "service_request": "2025-1225141",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -25,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-09-09T14:25:54.000",
-    "date_modified": "2025-09-09T14:25:55.000",
+    "date_modified": "2025-09-10T08:32:28.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1442 Delachaise St",
@@ -67,7 +172,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-09-09T12:18:39.000",
-    "date_modified": "2025-09-09T12:18:40.000",
+    "date_modified": "2025-09-10T08:47:22.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "CYPRESS ACRES DR & WESTPARK CT & WESTPARK DR",
@@ -88,12 +193,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-09-09T07:25:06.000",
-    "date_modified": "2025-09-09T07:25:08.000",
+    "date_modified": "2025-09-10T09:15:52.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2218 Columbus St",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1224844",
     "final_x": "3679872.49103",
     "final_y": "538555.570953",
@@ -1015,7 +1120,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-08-27T10:28:03.000",
-    "date_modified": "2025-08-28T08:19:03.000",
+    "date_modified": "2025-09-10T10:16:59.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2012 Mazant St",
@@ -21496,115 +21601,6 @@
     "geocoded_column": {
       "latitude": "30.010828586362184",
       "longitude": "-90.06801010488252"
-    }
-  },
-  {
-    "service_request": "2025-1175692",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-14T17:54:31.000",
-    "date_modified": "2025-03-19T07:17:06.000",
-    "case_close_date": "2025-03-19T02:17:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7517 Freret St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1175692",
-    "final_x": "3662964.28512",
-    "final_y": "526566.345214",
-    "longitude": "-90.12676442849933",
-    "latitude": "29.942424497249064",
-    "geocoded_column": {
-      "latitude": "29.942424497249064",
-      "longitude": "-90.12676442849933"
-    }
-  },
-  {
-    "service_request": "2025-1175673",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-14T16:09:40.000",
-    "date_modified": "2025-07-24T09:40:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PAINTERS ST & MENDEZ ST",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1175673",
-    "final_x": "3686190.3",
-    "final_y": "553614.18",
-    "longitude": "-90.05248021810927",
-    "latitude": "30.016103589288058",
-    "geocoded_column": {
-      "latitude": "30.016103589288058",
-      "longitude": "-90.05248021810927"
-    }
-  },
-  {
-    "service_request": "2025-1175665",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-14T15:43:35.000",
-    "date_modified": "2025-03-19T07:16:03.000",
-    "case_close_date": "2025-03-19T02:16:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2115 Joseph St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1175665",
-    "final_x": "3667307.59213",
-    "final_y": "523902.726844",
-    "longitude": "-90.11314112976541",
-    "latitude": "29.9349739311684",
-    "geocoded_column": {
-      "latitude": "29.9349739311684",
-      "longitude": "-90.11314112976541"
-    }
-  },
-  {
-    "service_request": "2025-1175623",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-14T14:09:45.000",
-    "date_modified": "2025-07-24T09:40:45.000",
-    "case_close_date": "2025-05-08T11:13:53.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7385 W Roadway St, New Orleans, Louisiana, 70124",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1175623",
-    "final_x": "3664983.52032",
-    "final_y": "556072.045721",
-    "longitude": "-90.11940229917495",
-    "latitude": "30.023496622586272",
-    "geocoded_column": {
-      "latitude": "30.023496622586272",
-      "longitude": "-90.11940229917495"
-    }
-  },
-  {
-    "service_request": "2025-1175519",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-14T10:29:48.000",
-    "date_modified": "2025-07-24T09:40:46.000",
-    "case_close_date": "2025-06-18T04:16:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7252 Lakeshore Dr, New Orleans, Louisiana, 70124",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1175519",
-    "final_x": "3666800.08052",
-    "final_y": "555252.519961",
-    "longitude": "-90.11368988696351",
-    "latitude": "30.021190175136482",
-    "geocoded_column": {
-      "latitude": "30.021190175136482",
-      "longitude": "-90.11368988696351"
     }
   }
 ]
