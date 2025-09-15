@@ -1,5 +1,110 @@
 [
   {
+    "service_request": "2025-1226151",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-14T18:53:49.000",
+    "date_modified": "2025-09-14T18:53:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2437 Jefferson Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1226151",
+    "final_x": "3668116.93569",
+    "final_y": "524615.125628",
+    "longitude": "-90.11056203085063",
+    "latitude": "29.93690907616735",
+    "geocoded_column": {
+      "latitude": "29.93690907616735",
+      "longitude": "-90.11056203085063"
+    }
+  },
+  {
+    "service_request": "2025-1226150",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-14T18:53:48.000",
+    "date_modified": "2025-09-14T18:53:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2437 Jefferson Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1226150",
+    "final_x": "3668116.93569",
+    "final_y": "524615.125628",
+    "longitude": "-90.11056203085063",
+    "latitude": "29.93690907616735",
+    "geocoded_column": {
+      "latitude": "29.93690907616735",
+      "longitude": "-90.11056203085063"
+    }
+  },
+  {
+    "service_request": "2025-1226149",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-14T18:50:49.000",
+    "date_modified": "2025-09-14T18:50:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2437 Jefferson Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1226149",
+    "final_x": "3668116.93569",
+    "final_y": "524615.125628",
+    "longitude": "-90.11056203085063",
+    "latitude": "29.93690907616735",
+    "geocoded_column": {
+      "latitude": "29.93690907616735",
+      "longitude": "-90.11056203085063"
+    }
+  },
+  {
+    "service_request": "2025-1226148",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-14T18:50:48.000",
+    "date_modified": "2025-09-14T18:50:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2437 Jefferson Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1226148",
+    "final_x": "3668116.93569",
+    "final_y": "524615.125628",
+    "longitude": "-90.11056203085063",
+    "latitude": "29.93690907616735",
+    "geocoded_column": {
+      "latitude": "29.93690907616735",
+      "longitude": "-90.11056203085063"
+    }
+  },
+  {
+    "service_request": "2025-1226132",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-14T17:01:10.000",
+    "date_modified": "2025-09-14T17:01:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4601 S Galvez St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1226132",
+    "final_x": "3669385.34746",
+    "final_y": "527509.803391",
+    "longitude": "-90.10645972796786",
+    "latitude": "29.94483122361329",
+    "geocoded_column": {
+      "latitude": "29.94483122361329",
+      "longitude": "-90.10645972796786"
+    }
+  },
+  {
     "service_request": "2025-1225934",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21491,115 +21596,6 @@
     "geocoded_column": {
       "latitude": "29.984590459556806",
       "longitude": "-90.0702986595725"
-    }
-  },
-  {
-    "service_request": "2025-1176422",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-18T06:52:47.000",
-    "date_modified": "2025-05-08T15:48:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "14700 Intracoastal Dr",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1176422",
-    "final_x": "3733702.09312",
-    "final_y": "559352.480413",
-    "longitude": "-89.90214006857092",
-    "latitude": "30.030335640598434",
-    "geocoded_column": {
-      "latitude": "30.030335640598434",
-      "longitude": "-89.90214006857092"
-    }
-  },
-  {
-    "service_request": "2025-1176421",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-18T06:32:25.000",
-    "date_modified": "2025-03-21T09:55:02.000",
-    "case_close_date": "2025-03-21T04:55:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "15200 Chef Menteur Hwy",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1176421",
-    "final_x": "3735386.96071",
-    "final_y": "563315.568288",
-    "longitude": "-89.89665894821108",
-    "latitude": "30.041174492727475",
-    "geocoded_column": {
-      "latitude": "30.041174492727475",
-      "longitude": "-89.89665894821108"
-    }
-  },
-  {
-    "service_request": "2025-1176215",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-17T13:34:29.000",
-    "date_modified": "2025-07-15T13:59:52.000",
-    "case_close_date": "2025-03-20T02:04:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1032 Michael St",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1176215",
-    "final_x": "3697298.53687",
-    "final_y": "527432.718527",
-    "longitude": "-90.01833262281956",
-    "latitude": "29.943767953003267",
-    "geocoded_column": {
-      "latitude": "29.943767953003267",
-      "longitude": "-90.01833262281956"
-    }
-  },
-  {
-    "service_request": "2025-1176205",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-17T13:20:09.000",
-    "date_modified": "2025-03-20T08:25:43.000",
-    "case_close_date": "2025-03-20T03:25:43.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "734 Jefferson Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1176205",
-    "final_x": "3666512.67489",
-    "final_y": "518165.675062",
-    "longitude": "-90.1158431294325",
-    "latitude": "29.919222105117242",
-    "geocoded_column": {
-      "latitude": "29.919222105117242",
-      "longitude": "-90.1158431294325"
-    }
-  },
-  {
-    "service_request": "2025-1176140",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-17T11:49:19.000",
-    "date_modified": "2025-03-21T09:56:03.000",
-    "case_close_date": "2025-03-21T04:56:03.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "15200 Chef Menteur Hwy",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1176140",
-    "final_x": "3735386.96071",
-    "final_y": "563315.568288",
-    "longitude": "-89.89665894821108",
-    "latitude": "30.041174492727475",
-    "geocoded_column": {
-      "latitude": "30.041174492727475",
-      "longitude": "-89.89665894821108"
     }
   }
 ]
