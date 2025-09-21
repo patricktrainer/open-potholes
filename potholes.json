@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1227719",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-20T16:11:18.000",
+    "date_modified": "2025-09-20T16:11:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4800 Odin St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1227719",
+    "final_x": "3691361.29852",
+    "final_y": "553810.554135",
+    "longitude": "-90.03613518126076",
+    "latitude": "30.016483594497515",
+    "geocoded_column": {
+      "latitude": "30.016483594497515",
+      "longitude": "-90.03613518126076"
+    }
+  },
+  {
     "service_request": "2025-1227661",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21683,28 +21704,6 @@
     "geocoded_column": {
       "latitude": "29.975494702137535",
       "longitude": "-90.05617159581877"
-    }
-  },
-  {
-    "service_request": "2025-1177791",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-22T14:56:37.000",
-    "date_modified": "2025-08-04T08:51:26.000",
-    "case_close_date": "2025-08-04T03:51:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2119 Joseph St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1177791",
-    "final_x": "3667316.93921",
-    "final_y": "523946.11174",
-    "longitude": "-90.11311016244554",
-    "latitude": "29.9350929520648",
-    "geocoded_column": {
-      "latitude": "29.9350929520648",
-      "longitude": "-90.11311016244554"
     }
   }
 ]
