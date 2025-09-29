@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1229553",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-28T19:11:30.000",
+    "date_modified": "2025-09-28T19:11:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "530 Harrison Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1229553",
+    "final_x": "3668197.98324",
+    "final_y": "549190.083603",
+    "longitude": "-90.10947748974516",
+    "latitude": "30.00447961889947",
+    "geocoded_column": {
+      "latitude": "30.00447961889947",
+      "longitude": "-90.10947748974516"
+    }
+  },
+  {
+    "service_request": "2025-1229547",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-09-28T18:13:24.000",
+    "date_modified": "2025-09-28T18:13:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5145 Arts St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1229547",
+    "final_x": "3685852.72278",
+    "final_y": "552013.745878",
+    "longitude": "-90.05360328626975",
+    "latitude": "30.011713353654727",
+    "geocoded_column": {
+      "latitude": "30.011713353654727",
+      "longitude": "-90.05360328626975"
+    }
+  },
+  {
     "service_request": "2025-1229328",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21649,50 +21691,6 @@
     "geocoded_column": {
       "latitude": "30.00653168441902",
       "longitude": "-90.08289848429477"
-    }
-  },
-  {
-    "service_request": "2025-1179205",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-27T15:19:56.000",
-    "date_modified": "2025-03-28T09:08:48.000",
-    "case_close_date": "2025-03-28T01:26:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PHILIP ST & TCHOUPITOULAS ST",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1179205",
-    "final_x": "3680272.5",
-    "final_y": "519585.08",
-    "longitude": "-90.07236105151854",
-    "latitude": "29.92271582713938",
-    "geocoded_column": {
-      "latitude": "29.92271582713938",
-      "longitude": "-90.07236105151854"
-    }
-  },
-  {
-    "service_request": "2025-1179175",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-27T14:24:24.000",
-    "date_modified": "2025-08-01T15:29:01.000",
-    "case_close_date": "2025-08-01T10:29:00.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK General Taylor St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1179175",
-    "final_x": "3672728.58626",
-    "final_y": "520628.52546",
-    "longitude": "-90.09613867555285",
-    "latitude": "29.92581108809533",
-    "geocoded_column": {
-      "latitude": "29.92581108809533",
-      "longitude": "-90.09613867555285"
     }
   }
 ]
