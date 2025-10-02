@@ -16253,6 +16253,27 @@
     }
   },
   {
+    "service_request": "2025-1229797",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2025-09-29T14:04:38.000",
+    "date_modified": "2025-09-30T08:35:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2234 Constance St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1229797",
+    "final_x": "3678855.60296",
+    "final_y": "521567.782969",
+    "longitude": "-90.07676499944124",
+    "latitude": "29.928210413081743",
+    "geocoded_column": {
+      "latitude": "29.928210413081743",
+      "longitude": "-90.07676499944124"
+    }
+  },
+  {
     "service_request": "2025-1229798",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -16272,27 +16293,6 @@
     "geocoded_column": {
       "latitude": "30.013840301257122",
       "longitude": "-90.0327645566834"
-    }
-  },
-  {
-    "service_request": "2025-1229797",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2025-09-29T14:04:38.000",
-    "date_modified": "2025-09-30T08:35:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2234 Constance St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1229797",
-    "final_x": "3678855.60296",
-    "final_y": "521567.782969",
-    "longitude": "-90.07676499944124",
-    "latitude": "29.928210413081743",
-    "geocoded_column": {
-      "latitude": "29.928210413081743",
-      "longitude": "-90.07676499944124"
     }
   },
   {
