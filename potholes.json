@@ -1,15 +1,78 @@
 [
   {
+    "service_request": "2025-1230826",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-02T23:48:57.000",
+    "date_modified": "2025-10-02T23:48:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5215 Pratt Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1230826",
+    "final_x": "3680543.19515",
+    "final_y": "551576.287381",
+    "longitude": "-90.07039353934051",
+    "latitude": "30.010672483896563",
+    "geocoded_column": {
+      "latitude": "30.010672483896563",
+      "longitude": "-90.07039353934051"
+    }
+  },
+  {
+    "service_request": "2025-1230763",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-02T15:11:21.000",
+    "date_modified": "2025-10-02T15:11:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4301 S Derbigny St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1230763",
+    "final_x": "3670670.58695",
+    "final_y": "526313.509822",
+    "longitude": "-90.10244240190839",
+    "latitude": "29.941503904039614",
+    "geocoded_column": {
+      "latitude": "29.941503904039614",
+      "longitude": "-90.10244240190839"
+    }
+  },
+  {
+    "service_request": "2025-1230628",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-02T10:07:29.000",
+    "date_modified": "2025-10-02T10:07:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3600 BLK MacArthur Blvd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1230628",
+    "final_x": "3697252.0697",
+    "final_y": "520458.622912",
+    "longitude": "-90.0187319518489",
+    "latitude": "29.92459305922843",
+    "geocoded_column": {
+      "latitude": "29.92459305922843",
+      "longitude": "-90.0187319518489"
+    }
+  },
+  {
     "service_request": "2025-1230317",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-01T10:07:54.000",
-    "date_modified": "2025-10-01T10:07:56.000",
+    "date_modified": "2025-10-02T09:34:22.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5601 Norgate Dr",
     "address_councildis": "E",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1230317",
     "final_x": "3707495.75608",
     "final_y": "558036.203931",
@@ -25,7 +88,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-01T08:06:54.000",
-    "date_modified": "2025-10-01T08:06:56.000",
+    "date_modified": "2025-10-02T09:37:39.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1222 Jena St",
@@ -17475,7 +17538,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-05-02T16:13:45.000",
-    "date_modified": "2025-06-16T10:42:12.000",
+    "date_modified": "2025-10-02T13:29:14.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5231 Wickfield Dr",
@@ -21611,72 +21674,6 @@
     "geocoded_column": {
       "latitude": "29.9733523193546",
       "longitude": "-90.01202804449794"
-    }
-  },
-  {
-    "service_request": "2025-1180171",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-31T22:00:54.000",
-    "date_modified": "2025-04-08T09:25:48.000",
-    "case_close_date": "2025-04-08T04:25:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "832 Arabella St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1180171",
-    "final_x": "3665840.41786",
-    "final_y": "519194.953271",
-    "longitude": "-90.11793065068923",
-    "latitude": "29.92207192127979",
-    "geocoded_column": {
-      "latitude": "29.92207192127979",
-      "longitude": "-90.11793065068923"
-    }
-  },
-  {
-    "service_request": "2025-1180170",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-31T21:53:40.000",
-    "date_modified": "2025-04-01T08:47:31.000",
-    "case_close_date": "2025-04-01T03:47:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "832 Arabella St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1180170",
-    "final_x": "3665840.41786",
-    "final_y": "519194.953271",
-    "longitude": "-90.11793065068923",
-    "latitude": "29.92207192127979",
-    "geocoded_column": {
-      "latitude": "29.92207192127979",
-      "longitude": "-90.11793065068923"
-    }
-  },
-  {
-    "service_request": "2025-1180167",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-03-31T21:37:40.000",
-    "date_modified": "2025-05-08T16:24:19.000",
-    "case_close_date": "2025-05-08T11:24:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "832 Arabella St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1180167",
-    "final_x": "3665840.41786",
-    "final_y": "519194.953271",
-    "longitude": "-90.11793065068923",
-    "latitude": "29.92207192127979",
-    "geocoded_column": {
-      "latitude": "29.92207192127979",
-      "longitude": "-90.11793065068923"
     }
   }
 ]
