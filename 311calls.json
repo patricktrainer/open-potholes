@@ -8422,27 +8422,6 @@
     }
   },
   {
-    "service_request": "2025-1230783",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Park Maintenance/Clean Up",
-    "date_created": "2025-10-02T16:01:37.000",
-    "date_modified": "2025-10-02T16:01:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "5749 Congress Dr",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1230783",
-    "final_x": "3691303.1638",
-    "final_y": "555228.271961",
-    "longitude": "-90.03626815584708",
-    "latitude": "30.020383598964248",
-    "geocoded_column": {
-      "latitude": "30.020383598964248",
-      "longitude": "-90.03626815584708"
-    }
-  },
-  {
     "service_request": "2025-1230784",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -8464,6 +8443,27 @@
     "geocoded_column": {
       "latitude": "30.00780308074532",
       "longitude": "-90.04280502285768"
+    }
+  },
+  {
+    "service_request": "2025-1230783",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Park Maintenance/Clean Up",
+    "date_created": "2025-10-02T16:01:37.000",
+    "date_modified": "2025-10-02T16:01:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "5749 Congress Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1230783",
+    "final_x": "3691303.1638",
+    "final_y": "555228.271961",
+    "longitude": "-90.03626815584708",
+    "latitude": "30.020383598964248",
+    "geocoded_column": {
+      "latitude": "30.020383598964248",
+      "longitude": "-90.03626815584708"
     }
   },
   {
