@@ -13928,27 +13928,6 @@
     }
   },
   {
-    "service_request": "2025-1231244",
-    "request_type": "Street and Traffic Signs",
-    "request_reason": "Additional Signage Request",
-    "date_created": "2025-10-06T09:26:35.000",
-    "date_modified": "2025-10-06T09:26:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BRUXELLES ST & FOY ST",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1231244",
-    "final_x": "3680000.4",
-    "final_y": "546647.08",
-    "longitude": "-90.07227983022638",
-    "latitude": "29.997135364176792",
-    "geocoded_column": {
-      "latitude": "29.997135364176792",
-      "longitude": "-90.07227983022638"
-    }
-  },
-  {
     "service_request": "2025-1231245",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -13969,6 +13948,27 @@
     "geocoded_column": {
       "latitude": "29.902308469607934",
       "longitude": "-90.00590075460867"
+    }
+  },
+  {
+    "service_request": "2025-1231244",
+    "request_type": "Street and Traffic Signs",
+    "request_reason": "Additional Signage Request",
+    "date_created": "2025-10-06T09:26:35.000",
+    "date_modified": "2025-10-06T09:26:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "BRUXELLES ST & FOY ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1231244",
+    "final_x": "3680000.4",
+    "final_y": "546647.08",
+    "longitude": "-90.07227983022638",
+    "latitude": "29.997135364176792",
+    "geocoded_column": {
+      "latitude": "29.997135364176792",
+      "longitude": "-90.07227983022638"
     }
   },
   {
@@ -14950,27 +14950,6 @@
     }
   },
   {
-    "service_request": "2025-1231199",
-    "request_type": "Mosquito, Termite & Rodent Control",
-    "request_reason": "Rodent Complaint (Mice & Rats)",
-    "date_created": "2025-10-06T08:09:55.000",
-    "date_modified": "2025-10-06T08:09:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Mosquito, Termite & Rodent Control Board",
-    "final_address": "3316 Mistletoe St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1231199",
-    "final_x": "3664227.832",
-    "final_y": "536667.572935",
-    "longitude": "-90.12243808172433",
-    "latitude": "29.97016294265596",
-    "geocoded_column": {
-      "latitude": "29.97016294265596",
-      "longitude": "-90.12243808172433"
-    }
-  },
-  {
     "service_request": "2025-1231198",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -14989,6 +14968,27 @@
     "geocoded_column": {
       "latitude": "29.936072917472828",
       "longitude": "-90.09711732080588"
+    }
+  },
+  {
+    "service_request": "2025-1231199",
+    "request_type": "Mosquito, Termite & Rodent Control",
+    "request_reason": "Rodent Complaint (Mice & Rats)",
+    "date_created": "2025-10-06T08:09:55.000",
+    "date_modified": "2025-10-06T08:09:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Mosquito, Termite & Rodent Control Board",
+    "final_address": "3316 Mistletoe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1231199",
+    "final_x": "3664227.832",
+    "final_y": "536667.572935",
+    "longitude": "-90.12243808172433",
+    "latitude": "29.97016294265596",
+    "geocoded_column": {
+      "latitude": "29.97016294265596",
+      "longitude": "-90.12243808172433"
     }
   },
   {
@@ -17024,27 +17024,6 @@
     }
   },
   {
-    "service_request": "2025-1231100",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2025-10-04T11:59:02.000",
-    "date_modified": "2025-10-06T09:59:30.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "920 Poeyfarre St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1231100",
-    "final_x": "3681386.82191",
-    "final_y": "526445.697534",
-    "longitude": "-90.0686045498335",
-    "latitude": "29.941546493588717",
-    "geocoded_column": {
-      "latitude": "29.941546493588717",
-      "longitude": "-90.0686045498335"
-    }
-  },
-  {
     "service_request": "2025-1231099",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -17056,6 +17035,27 @@
     "address_councildis": "B",
     "status": "Pending",
     "rowid": "1231099",
+    "final_x": "3681386.82191",
+    "final_y": "526445.697534",
+    "longitude": "-90.0686045498335",
+    "latitude": "29.941546493588717",
+    "geocoded_column": {
+      "latitude": "29.941546493588717",
+      "longitude": "-90.0686045498335"
+    }
+  },
+  {
+    "service_request": "2025-1231100",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2025-10-04T11:59:02.000",
+    "date_modified": "2025-10-06T09:59:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "920 Poeyfarre St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1231100",
     "final_x": "3681386.82191",
     "final_y": "526445.697534",
     "longitude": "-90.0686045498335",
