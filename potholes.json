@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1232783",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-11T13:37:40.000",
+    "date_modified": "2025-10-11T13:37:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1529 Burdette St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1232783",
+    "final_x": "3663697.06906",
+    "final_y": "528538.737472",
+    "longitude": "-90.12438515039544",
+    "latitude": "29.94782670625401",
+    "geocoded_column": {
+      "latitude": "29.94782670625401",
+      "longitude": "-90.12438515039544"
+    }
+  },
+  {
     "service_request": "2025-1232734",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21628,28 +21649,6 @@
     "geocoded_column": {
       "latitude": "29.925264648070964",
       "longitude": "-90.03723169979754"
-    }
-  },
-  {
-    "service_request": "2025-1182187",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-08T09:37:49.000",
-    "date_modified": "2025-05-08T15:50:31.000",
-    "case_close_date": "2025-05-08T10:50:30.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MONTICELLO AVE & COLAPISSA ST & LIVINGSTON ST",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1182187",
-    "final_x": "3662928.1",
-    "final_y": "536686.08",
-    "longitude": "-90.1265421748744",
-    "latitude": "29.970251534229494",
-    "geocoded_column": {
-      "latitude": "29.970251534229494",
-      "longitude": "-90.1265421748744"
     }
   }
 ]
