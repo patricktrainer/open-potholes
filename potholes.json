@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1232855",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-12T18:00:04.000",
+    "date_modified": "2025-10-12T18:00:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "714 Barracks St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1232855",
+    "final_x": "3683754.16431",
+    "final_y": "534250.958533",
+    "longitude": "-90.06085672809527",
+    "latitude": "29.962936249375144",
+    "geocoded_column": {
+      "latitude": "29.962936249375144",
+      "longitude": "-90.06085672809527"
+    }
+  },
+  {
     "service_request": "2025-1232783",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21628,27 +21649,6 @@
     "geocoded_column": {
       "latitude": "30.034626506331836",
       "longitude": "-89.98831406510975"
-    }
-  },
-  {
-    "service_request": "2025-1182188",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-08T09:38:09.000",
-    "date_modified": "2025-06-16T10:44:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MARR AVE & DONNER RD",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1182188",
-    "final_x": "3691389.5",
-    "final_y": "520636.08",
-    "longitude": "-90.03723169979754",
-    "latitude": "29.925264648070964",
-    "geocoded_column": {
-      "latitude": "29.925264648070964",
-      "longitude": "-90.03723169979754"
     }
   }
 ]
