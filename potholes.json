@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1232942",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-13T10:29:01.000",
+    "date_modified": "2025-10-13T10:29:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4341 Alba Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1232942",
+    "final_x": "3761691.69321",
+    "final_y": "572743.674025",
+    "longitude": "-89.81313368679389",
+    "latitude": "30.06616440488415",
+    "geocoded_column": {
+      "latitude": "30.06616440488415",
+      "longitude": "-89.81313368679389"
+    }
+  },
+  {
+    "service_request": "2025-1232896",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-13T07:18:41.000",
+    "date_modified": "2025-10-13T07:18:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1721 Bartholomew St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1232896",
+    "final_x": "3692448.45968",
+    "final_y": "537732.160328",
+    "longitude": "-90.03327661165235",
+    "latitude": "29.97223997712032",
+    "geocoded_column": {
+      "latitude": "29.97223997712032",
+      "longitude": "-90.03327661165235"
+    }
+  },
+  {
     "service_request": "2025-1232855",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21605,50 +21647,6 @@
     "geocoded_column": {
       "latitude": "29.967596907713936",
       "longitude": "-90.11765381863592"
-    }
-  },
-  {
-    "service_request": "2025-1182227",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-08T10:46:21.000",
-    "date_modified": "2025-05-29T11:01:50.000",
-    "case_close_date": "2025-05-29T06:01:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1500 BLK France St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1182227",
-    "final_x": "3692805.8427",
-    "final_y": "536837.512399",
-    "longitude": "-90.03218002432396",
-    "latitude": "29.96976885846778",
-    "geocoded_column": {
-      "latitude": "29.96976885846778",
-      "longitude": "-90.03218002432396"
-    }
-  },
-  {
-    "service_request": "2025-1182210",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-08T10:23:05.000",
-    "date_modified": "2025-05-29T12:49:41.000",
-    "case_close_date": "2025-05-29T07:49:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7012 Boston Dr",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1182210",
-    "final_x": "3706417.25649",
-    "final_y": "560582.48515",
-    "longitude": "-89.98831406510975",
-    "latitude": "30.034626506331836",
-    "geocoded_column": {
-      "latitude": "30.034626506331836",
-      "longitude": "-89.98831406510975"
     }
   }
 ]
