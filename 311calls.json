@@ -19264,6 +19264,27 @@
     }
   },
   {
+    "service_request": "2025-1232191",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2025-10-08T20:49:53.000",
+    "date_modified": "2025-10-09T10:12:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1544 Camp St Apt 1",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1232191",
+    "final_x": "3679740.23746",
+    "final_y": "523493.006267",
+    "longitude": "-90.07390560661462",
+    "latitude": "29.933477440084502",
+    "geocoded_column": {
+      "latitude": "29.933477440084502",
+      "longitude": "-90.07390560661462"
+    }
+  },
+  {
     "service_request": "2025-1232194",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -19317,27 +19338,6 @@
     "address_councildis": "B",
     "status": "Pending",
     "rowid": "1232192",
-    "final_x": "3679740.23746",
-    "final_y": "523493.006267",
-    "longitude": "-90.07390560661462",
-    "latitude": "29.933477440084502",
-    "geocoded_column": {
-      "latitude": "29.933477440084502",
-      "longitude": "-90.07390560661462"
-    }
-  },
-  {
-    "service_request": "2025-1232191",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2025-10-08T20:49:53.000",
-    "date_modified": "2025-10-09T10:12:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1544 Camp St Apt 1",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1232191",
     "final_x": "3679740.23746",
     "final_y": "523493.006267",
     "longitude": "-90.07390560661462",
