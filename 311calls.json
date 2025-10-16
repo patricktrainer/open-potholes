@@ -15538,29 +15538,6 @@
     }
   },
   {
-    "service_request": "2025-1233095",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2025-10-13T22:29:15.000",
-    "date_modified": "2025-10-15T14:34:13.000",
-    "case_close_date": "2025-10-15T09:34:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2009 Easter Ln",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "rowid": "1233095",
-    "final_x": "3699456.68426",
-    "final_y": "524091.773372",
-    "longitude": "-90.01164048477729",
-    "latitude": "29.93451323858267",
-    "geocoded_column": {
-      "latitude": "29.93451323858267",
-      "longitude": "-90.01164048477729"
-    }
-  },
-  {
     "service_request": "2025-1233096",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -15582,6 +15559,29 @@
     "geocoded_column": {
       "latitude": "30.001882350374473",
       "longitude": "-90.04945133785537"
+    }
+  },
+  {
+    "service_request": "2025-1233095",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2025-10-13T22:29:15.000",
+    "date_modified": "2025-10-15T14:34:13.000",
+    "case_close_date": "2025-10-15T09:34:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2009 Easter Ln",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "rowid": "1233095",
+    "final_x": "3699456.68426",
+    "final_y": "524091.773372",
+    "longitude": "-90.01164048477729",
+    "latitude": "29.93451323858267",
+    "geocoded_column": {
+      "latitude": "29.93451323858267",
+      "longitude": "-90.01164048477729"
     }
   },
   {
