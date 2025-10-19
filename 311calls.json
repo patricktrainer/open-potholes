@@ -13322,6 +13322,27 @@
     }
   },
   {
+    "service_request": "2025-1233759",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-15T15:29:34.000",
+    "date_modified": "2025-10-16T09:21:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3011 Dauphine St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1233759",
+    "final_x": "3688262.0438",
+    "final_y": "534998.617158",
+    "longitude": "-90.04659493272945",
+    "latitude": "29.964853630314995",
+    "geocoded_column": {
+      "latitude": "29.964853630314995",
+      "longitude": "-90.04659493272945"
+    }
+  },
+  {
     "service_request": "2025-1233760",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -13343,27 +13364,6 @@
     "geocoded_column": {
       "latitude": "29.926690800471036",
       "longitude": "-90.0032952142542"
-    }
-  },
-  {
-    "service_request": "2025-1233759",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-10-15T15:29:34.000",
-    "date_modified": "2025-10-16T09:21:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3011 Dauphine St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1233759",
-    "final_x": "3688262.0438",
-    "final_y": "534998.617158",
-    "longitude": "-90.04659493272945",
-    "latitude": "29.964853630314995",
-    "geocoded_column": {
-      "latitude": "29.964853630314995",
-      "longitude": "-90.04659493272945"
     }
   },
   {
