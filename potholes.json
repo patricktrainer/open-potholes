@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1234364",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-18T15:33:45.000",
+    "date_modified": "2025-10-18T15:33:47.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6107 Chartres St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1234364",
+    "final_x": "3698881.82237",
+    "final_y": "531547.981763",
+    "longitude": "-90.01318410040936",
+    "latitude": "29.955033422890633",
+    "geocoded_column": {
+      "latitude": "29.955033422890633",
+      "longitude": "-90.01318410040936"
+    }
+  },
+  {
+    "service_request": "2025-1234321",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-18T07:55:28.000",
+    "date_modified": "2025-10-18T07:55:30.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4601 S Galvez St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1234321",
+    "final_x": "3669385.34746",
+    "final_y": "527509.803391",
+    "longitude": "-90.10645972796786",
+    "latitude": "29.94483122361329",
+    "geocoded_column": {
+      "latitude": "29.94483122361329",
+      "longitude": "-90.10645972796786"
+    }
+  },
+  {
     "service_request": "2025-1234263",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -10536,6 +10578,27 @@
     }
   },
   {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -10548,27 +10611,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21680,50 +21722,6 @@
     "geocoded_column": {
       "latitude": "30.04211057129501",
       "longitude": "-89.92772214029468"
-    }
-  },
-  {
-    "service_request": "2025-1182672",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-09T15:17:28.000",
-    "date_modified": "2025-05-29T11:26:49.000",
-    "case_close_date": "2025-05-29T06:26:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "14718 Curran Rd",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1182672",
-    "final_x": "3720197.2021",
-    "final_y": "573690.898666",
-    "longitude": "-89.9442658249985",
-    "latitude": "30.070217256340257",
-    "geocoded_column": {
-      "latitude": "30.070217256340257",
-      "longitude": "-89.9442658249985"
-    }
-  },
-  {
-    "service_request": "2025-1182655",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-09T15:03:56.000",
-    "date_modified": "2025-05-29T11:27:36.000",
-    "case_close_date": "2025-05-29T06:27:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5128 E Nemours St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1182655",
-    "final_x": "3726957.02829",
-    "final_y": "562928.787104",
-    "longitude": "-89.92331514563416",
-    "latitude": "30.04039893322366",
-    "geocoded_column": {
-      "latitude": "30.04039893322366",
-      "longitude": "-89.92331514563416"
     }
   }
 ]
