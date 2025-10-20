@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1234431",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-19T15:06:50.000",
+    "date_modified": "2025-10-19T15:06:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3281 Elmwood Park Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1234431",
+    "final_x": "3695196.68445",
+    "final_y": "518005.091574",
+    "longitude": "-90.02530848919453",
+    "latitude": "29.91791135770806",
+    "geocoded_column": {
+      "latitude": "29.91791135770806",
+      "longitude": "-90.02530848919453"
+    }
+  },
+  {
     "service_request": "2025-1234364",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21700,28 +21721,6 @@
     "geocoded_column": {
       "latitude": "29.92533119423876",
       "longitude": "-90.02738799445169"
-    }
-  },
-  {
-    "service_request": "2025-1182686",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-09T15:39:19.000",
-    "date_modified": "2025-05-29T11:25:37.000",
-    "case_close_date": "2025-05-29T06:25:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5400 BLK Grand Bayou Dr",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1182686",
-    "final_x": "3725555.10889",
-    "final_y": "563534.070226",
-    "longitude": "-89.92772214029468",
-    "latitude": "30.04211057129501",
-    "geocoded_column": {
-      "latitude": "30.04211057129501",
-      "longitude": "-89.92772214029468"
     }
   }
 ]
