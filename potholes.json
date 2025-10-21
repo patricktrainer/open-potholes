@@ -4,7 +4,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-19T15:06:50.000",
-    "date_modified": "2025-10-19T15:06:52.000",
+    "date_modified": "2025-10-20T07:42:07.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3281 Elmwood Park Dr",
@@ -25,7 +25,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-18T15:33:45.000",
-    "date_modified": "2025-10-18T15:33:47.000",
+    "date_modified": "2025-10-20T07:45:44.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "6107 Chartres St",
@@ -46,12 +46,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-18T07:55:28.000",
-    "date_modified": "2025-10-18T07:55:30.000",
+    "date_modified": "2025-10-20T09:24:28.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4601 S Galvez St",
     "address_councildis": "B",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1234321",
     "final_x": "3669385.34746",
     "final_y": "527509.803391",
@@ -63,37 +63,17 @@
     }
   },
   {
-    "service_request": "2025-1234263",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-10-17T15:33:10.000",
-    "date_modified": "2025-10-17T15:59:16.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3519 Republic St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1234263",
-    "final_x": "3680519.45103",
-    "final_y": "545372.028944",
-    "longitude": "-90.07068455482127",
-    "latitude": "29.99361370809165",
-    "geocoded_column": {
-      "latitude": "29.99361370809165",
-      "longitude": "-90.07068455482127"
-    }
-  },
-  {
     "service_request": "2025-1234244",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-17T14:42:44.000",
-    "date_modified": "2025-10-17T14:42:45.000",
-    "request_status": "Pending",
+    "date_modified": "2025-10-20T09:18:51.000",
+    "case_close_date": "2025-10-20T04:18:50.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "ABUNDANCE ST & FRANKLIN AVE",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1234244",
     "final_x": "3687294.8",
     "final_y": "543898.98",
@@ -123,48 +103,6 @@
     "geocoded_column": {
       "latitude": "30.0119486224346",
       "longitude": "-90.07973785670349"
-    }
-  },
-  {
-    "service_request": "2025-1234203",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-10-17T12:48:30.000",
-    "date_modified": "2025-10-17T12:48:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N CLAIBORNE AVE & FRANKLIN AVE",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1234203",
-    "final_x": "3687527.2",
-    "final_y": "538355.38",
-    "longitude": "-90.04879668107014",
-    "latitude": "29.974106224369567",
-    "geocoded_column": {
-      "latitude": "29.974106224369567",
-      "longitude": "-90.04879668107014"
-    }
-  },
-  {
-    "service_request": "2025-1234193",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-10-17T12:16:53.000",
-    "date_modified": "2025-10-17T12:16:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2834 Laurel St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1234193",
-    "final_x": "3677248.75739",
-    "final_y": "520025.161528",
-    "longitude": "-90.08189064040052",
-    "latitude": "29.924017059756583",
-    "geocoded_column": {
-      "latitude": "29.924017059756583",
-      "longitude": "-90.08189064040052"
     }
   },
   {
@@ -21721,6 +21659,72 @@
     "geocoded_column": {
       "latitude": "29.92533119423876",
       "longitude": "-90.02738799445169"
+    }
+  },
+  {
+    "service_request": "2025-1182686",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-09T15:39:19.000",
+    "date_modified": "2025-05-29T11:25:37.000",
+    "case_close_date": "2025-05-29T06:25:36.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5400 BLK Grand Bayou Dr",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "1182686",
+    "final_x": "3725555.10889",
+    "final_y": "563534.070226",
+    "longitude": "-89.92772214029468",
+    "latitude": "30.04211057129501",
+    "geocoded_column": {
+      "latitude": "30.04211057129501",
+      "longitude": "-89.92772214029468"
+    }
+  },
+  {
+    "service_request": "2025-1182672",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-09T15:17:28.000",
+    "date_modified": "2025-05-29T11:26:49.000",
+    "case_close_date": "2025-05-29T06:26:48.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "14718 Curran Rd",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "1182672",
+    "final_x": "3720197.2021",
+    "final_y": "573690.898666",
+    "longitude": "-89.9442658249985",
+    "latitude": "30.070217256340257",
+    "geocoded_column": {
+      "latitude": "30.070217256340257",
+      "longitude": "-89.9442658249985"
+    }
+  },
+  {
+    "service_request": "2025-1182655",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-04-09T15:03:56.000",
+    "date_modified": "2025-05-29T11:27:36.000",
+    "case_close_date": "2025-05-29T06:27:35.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5128 E Nemours St",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "1182655",
+    "final_x": "3726957.02829",
+    "final_y": "562928.787104",
+    "longitude": "-89.92331514563416",
+    "latitude": "30.04039893322366",
+    "geocoded_column": {
+      "latitude": "30.04039893322366",
+      "longitude": "-89.92331514563416"
     }
   }
 ]
