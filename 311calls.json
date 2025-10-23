@@ -2117,28 +2117,6 @@
     }
   },
   {
-    "service_request": "2025-1235202",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-10-22T14:10:16.000",
-    "date_modified": "2025-10-22T14:10:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1310 Esplanade Ave",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1235202",
-    "final_x": "3681997.86172",
-    "final_y": "535921.137031",
-    "longitude": "-90.06634458951216",
-    "latitude": "29.96758217952165",
-    "geocoded_column": {
-      "latitude": "29.96758217952165",
-      "longitude": "-90.06634458951216"
-    }
-  },
-  {
     "service_request": "2025-1235203",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -2151,6 +2129,28 @@
     "status": "Assigned to Contractor",
     "contractor": "IV Waste",
     "rowid": "1235203",
+    "final_x": "3681997.86172",
+    "final_y": "535921.137031",
+    "longitude": "-90.06634458951216",
+    "latitude": "29.96758217952165",
+    "geocoded_column": {
+      "latitude": "29.96758217952165",
+      "longitude": "-90.06634458951216"
+    }
+  },
+  {
+    "service_request": "2025-1235202",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-10-22T14:10:16.000",
+    "date_modified": "2025-10-22T14:10:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1310 Esplanade Ave",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1235202",
     "final_x": "3681997.86172",
     "final_y": "535921.137031",
     "longitude": "-90.06634458951216",
