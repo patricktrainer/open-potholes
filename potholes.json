@@ -1,5 +1,110 @@
 [
   {
+    "service_request": "2025-1235251",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-22T15:41:06.000",
+    "date_modified": "2025-10-22T15:41:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Tricou St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1235251",
+    "final_x": "3699675.35754",
+    "final_y": "531817.918083",
+    "longitude": "-90.01066859071906",
+    "latitude": "29.95575048945024",
+    "geocoded_column": {
+      "latitude": "29.95575048945024",
+      "longitude": "-90.01066859071906"
+    }
+  },
+  {
+    "service_request": "2025-1235233",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-22T14:52:47.000",
+    "date_modified": "2025-10-22T14:52:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK Bordeaux St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1235233",
+    "final_x": "3669362.16846",
+    "final_y": "520920.670873",
+    "longitude": "-90.10675560902236",
+    "latitude": "29.926713911304653",
+    "geocoded_column": {
+      "latitude": "29.926713911304653",
+      "longitude": "-90.10675560902236"
+    }
+  },
+  {
+    "service_request": "2025-1235232",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-22T14:51:50.000",
+    "date_modified": "2025-10-22T14:51:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK Upperline St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1235232",
+    "final_x": "3669068.6697",
+    "final_y": "520909.335594",
+    "longitude": "-90.10768249076149",
+    "latitude": "29.926691378536937",
+    "geocoded_column": {
+      "latitude": "29.926691378536937",
+      "longitude": "-90.10768249076149"
+    }
+  },
+  {
+    "service_request": "2025-1235141",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-22T11:22:28.000",
+    "date_modified": "2025-10-22T11:22:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "97 Versailles Blvd",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1235141",
+    "final_x": "3668141.30516",
+    "final_y": "531018.050114",
+    "longitude": "-90.1102693276304",
+    "latitude": "29.954514326348324",
+    "geocoded_column": {
+      "latitude": "29.954514326348324",
+      "longitude": "-90.1102693276304"
+    }
+  },
+  {
+    "service_request": "2025-1235068",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-22T08:32:36.000",
+    "date_modified": "2025-10-22T08:35:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4914 Spain St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1235068",
+    "final_x": "3684897.58639",
+    "final_y": "550986.659797",
+    "longitude": "-90.05665711294914",
+    "latitude": "30.00891853799589",
+    "geocoded_column": {
+      "latitude": "30.00891853799589",
+      "longitude": "-90.05665711294914"
+    }
+  },
+  {
     "service_request": "2025-1235030",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -25,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-21T15:48:43.000",
-    "date_modified": "2025-10-21T15:48:44.000",
+    "date_modified": "2025-10-22T07:54:05.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "221 S Gayoso St",
@@ -88,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-21T09:49:47.000",
-    "date_modified": "2025-10-21T09:49:49.000",
+    "date_modified": "2025-10-22T08:07:49.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1039 Toulouse St",
@@ -21611,115 +21716,6 @@
     "geocoded_column": {
       "latitude": "29.934351442914235",
       "longitude": "-90.10624104487638"
-    }
-  },
-  {
-    "service_request": "2025-1182947",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-10T13:31:22.000",
-    "date_modified": "2025-10-15T14:19:21.000",
-    "case_close_date": "2025-10-15T09:19:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7901 Pompano St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1182947",
-    "final_x": "3700298.91882",
-    "final_y": "561491.217119",
-    "longitude": "-90.00761555137743",
-    "latitude": "30.037321221032563",
-    "geocoded_column": {
-      "latitude": "30.037321221032563",
-      "longitude": "-90.00761555137743"
-    }
-  },
-  {
-    "service_request": "2025-1182942",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-10T13:25:34.000",
-    "date_modified": "2025-06-16T10:44:49.000",
-    "case_close_date": "2025-06-16T05:44:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4311 Werner Dr",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1182942",
-    "final_x": "3705058.91876",
-    "final_y": "553039.397143",
-    "longitude": "-89.9928854322284",
-    "latitude": "30.01392971087774",
-    "geocoded_column": {
-      "latitude": "30.01392971087774",
-      "longitude": "-89.9928854322284"
-    }
-  },
-  {
-    "service_request": "2025-1182882",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-10T10:57:51.000",
-    "date_modified": "2025-07-24T09:39:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7900 BLK Freret St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1182882",
-    "final_x": "3661943.77975",
-    "final_y": "527440.371088",
-    "longitude": "-90.12995743077889",
-    "latitude": "29.944857298185056",
-    "geocoded_column": {
-      "latitude": "29.944857298185056",
-      "longitude": "-90.12995743077889"
-    }
-  },
-  {
-    "service_request": "2025-1182879",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-10T10:56:49.000",
-    "date_modified": "2025-05-08T16:16:13.000",
-    "case_close_date": "2025-05-08T11:16:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7800 BLK Freret St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1182879",
-    "final_x": "3662193.9154",
-    "final_y": "527212.942737",
-    "longitude": "-90.12917521875384",
-    "latitude": "29.94422471717271",
-    "geocoded_column": {
-      "latitude": "29.94422471717271",
-      "longitude": "-90.12917521875384"
-    }
-  },
-  {
-    "service_request": "2025-1182875",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-10T10:47:44.000",
-    "date_modified": "2025-04-11T08:17:47.000",
-    "case_close_date": "2025-04-11T03:17:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "426 Hay Pl",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1182875",
-    "final_x": "3664925.09607",
-    "final_y": "554214.226264",
-    "longitude": "-90.11964908758338",
-    "latitude": "30.018389975502856",
-    "geocoded_column": {
-      "latitude": "30.018389975502856",
-      "longitude": "-90.11964908758338"
     }
   }
 ]
