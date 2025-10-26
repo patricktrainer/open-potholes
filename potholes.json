@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1235784",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-25T10:52:27.000",
+    "date_modified": "2025-10-25T10:52:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1325 Feliciana St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1235784",
+    "final_x": "3688995.74095",
+    "final_y": "537000.439048",
+    "longitude": "-90.04420684973056",
+    "latitude": "29.970335264399914",
+    "geocoded_column": {
+      "latitude": "29.970335264399914",
+      "longitude": "-90.04420684973056"
+    }
+  },
+  {
     "service_request": "2025-1235725",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21690,28 +21711,6 @@
     "geocoded_column": {
       "latitude": "29.966662785153982",
       "longitude": "-90.11216797278922"
-    }
-  },
-  {
-    "service_request": "2025-1183352",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-12T07:56:19.000",
-    "date_modified": "2025-05-23T10:13:14.000",
-    "case_close_date": "2025-05-01T03:51:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4959 Arts St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1183352",
-    "final_x": "3685909.16418",
-    "final_y": "551315.350165",
-    "longitude": "-90.05344961104716",
-    "latitude": "30.0097912871415",
-    "geocoded_column": {
-      "latitude": "30.0097912871415",
-      "longitude": "-90.05344961104716"
     }
   }
 ]
