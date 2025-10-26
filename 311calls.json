@@ -1678,27 +1678,6 @@
     }
   },
   {
-    "service_request": "2025-1235754",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2025-10-24T16:51:12.000",
-    "date_modified": "2025-10-24T16:51:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1723 Nie Prkwy",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1235754",
-    "final_x": "3701147.1201",
-    "final_y": "524454.590076",
-    "longitude": "-90.00629059023235",
-    "latitude": "29.935457135121954",
-    "geocoded_column": {
-      "latitude": "29.935457135121954",
-      "longitude": "-90.00629059023235"
-    }
-  },
-  {
     "service_request": "2025-1235755",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Recycling Cart",
@@ -1710,6 +1689,27 @@
     "address_councildis": "C",
     "status": "Pending",
     "rowid": "1235755",
+    "final_x": "3701147.1201",
+    "final_y": "524454.590076",
+    "longitude": "-90.00629059023235",
+    "latitude": "29.935457135121954",
+    "geocoded_column": {
+      "latitude": "29.935457135121954",
+      "longitude": "-90.00629059023235"
+    }
+  },
+  {
+    "service_request": "2025-1235754",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2025-10-24T16:51:12.000",
+    "date_modified": "2025-10-24T16:51:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1723 Nie Prkwy",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1235754",
     "final_x": "3701147.1201",
     "final_y": "524454.590076",
     "longitude": "-90.00629059023235",
