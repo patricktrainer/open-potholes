@@ -1,10 +1,136 @@
 [
   {
+    "service_request": "2025-1236975",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-30T19:53:04.000",
+    "date_modified": "2025-10-30T19:53:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5222 Conti St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1236975",
+    "final_x": "3668442.91834",
+    "final_y": "541767.11534",
+    "longitude": "-90.10895427014516",
+    "latitude": "29.984061812754728",
+    "geocoded_column": {
+      "latitude": "29.984061812754728",
+      "longitude": "-90.10895427014516"
+    }
+  },
+  {
+    "service_request": "2025-1236952",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-30T16:54:55.000",
+    "date_modified": "2025-10-30T16:54:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4700 Music St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1236952",
+    "final_x": "3685568.96022",
+    "final_y": "550244.547924",
+    "longitude": "-90.05456219053077",
+    "latitude": "30.006857414968323",
+    "geocoded_column": {
+      "latitude": "30.006857414968323",
+      "longitude": "-90.05456219053077"
+    }
+  },
+  {
+    "service_request": "2025-1236912",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-30T14:56:04.000",
+    "date_modified": "2025-10-30T14:56:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "COHN ST & JOLIET ST",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1236912",
+    "final_x": "3662560.0",
+    "final_y": "531153.98",
+    "longitude": "-90.1278884777534",
+    "latitude": "29.955050719554876",
+    "geocoded_column": {
+      "latitude": "29.955050719554876",
+      "longitude": "-90.1278884777534"
+    }
+  },
+  {
+    "service_request": "2025-1236863",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-30T12:55:48.000",
+    "date_modified": "2025-10-30T12:57:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ST CLAUDE AVE & MONTEGUT ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1236863",
+    "final_x": "3688432.8",
+    "final_y": "536141.18",
+    "longitude": "-90.04601516073829",
+    "latitude": "29.96799000552181",
+    "geocoded_column": {
+      "latitude": "29.96799000552181",
+      "longitude": "-90.04601516073829"
+    }
+  },
+  {
+    "service_request": "2025-1236799",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-30T10:37:42.000",
+    "date_modified": "2025-10-30T10:37:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8601 Leake Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1236799",
+    "final_x": "3660208.80339",
+    "final_y": "529136.21248",
+    "longitude": "-90.13537932999203",
+    "latitude": "29.949570309269692",
+    "geocoded_column": {
+      "latitude": "29.949570309269692",
+      "longitude": "-90.13537932999203"
+    }
+  },
+  {
+    "service_request": "2025-1236778",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-30T09:55:29.000",
+    "date_modified": "2025-10-30T09:55:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2118 Milan St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1236778",
+    "final_x": "3671360.24033",
+    "final_y": "522904.945403",
+    "longitude": "-90.10038082159966",
+    "latitude": "29.932111066447636",
+    "geocoded_column": {
+      "latitude": "29.932111066447636",
+      "longitude": "-90.10038082159966"
+    }
+  },
+  {
     "service_request": "2025-1236561",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-29T11:32:41.000",
-    "date_modified": "2025-10-29T11:32:43.000",
+    "date_modified": "2025-10-30T08:49:58.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2100 BLK Urquhart St",
@@ -46,7 +172,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-29T10:47:30.000",
-    "date_modified": "2025-10-29T10:47:31.000",
+    "date_modified": "2025-10-30T12:47:30.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5703 N Claiborne Ave",
@@ -67,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-29T09:55:47.000",
-    "date_modified": "2025-10-29T09:55:51.000",
+    "date_modified": "2025-10-30T12:45:06.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2014 Fats Domino Ave",
@@ -21570,137 +21696,6 @@
     "geocoded_column": {
       "latitude": "30.023130040841377",
       "longitude": "-90.06789702126659"
-    }
-  },
-  {
-    "service_request": "2025-1184090",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-15T10:31:13.000",
-    "date_modified": "2025-05-29T11:22:53.000",
-    "case_close_date": "2025-05-29T06:22:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2206 Music St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1184090",
-    "final_x": "3686488.60937",
-    "final_y": "540577.248075",
-    "longitude": "-90.05199831130344",
-    "latitude": "29.980247553402712",
-    "geocoded_column": {
-      "latitude": "29.980247553402712",
-      "longitude": "-90.05199831130344"
-    }
-  },
-  {
-    "service_request": "2025-1184055",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-15T09:18:05.000",
-    "date_modified": "2025-05-14T09:49:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7200 BLK Wales St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1184055",
-    "final_x": "3699435.19132",
-    "final_y": "561063.83829",
-    "longitude": "-90.0103607067274",
-    "latitude": "30.036173544422933",
-    "geocoded_column": {
-      "latitude": "30.036173544422933",
-      "longitude": "-90.0103607067274"
-    }
-  },
-  {
-    "service_request": "2025-1184040",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-15T08:46:52.000",
-    "date_modified": "2025-04-16T10:19:31.000",
-    "case_close_date": "2025-04-16T05:19:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3463 Gentilly Blvd",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1184040",
-    "final_x": "3685338.25935",
-    "final_y": "548711.897171",
-    "longitude": "-90.05534503929485",
-    "latitude": "30.00265025788235",
-    "geocoded_column": {
-      "latitude": "30.00265025788235",
-      "longitude": "-90.05534503929485"
-    }
-  },
-  {
-    "service_request": "2025-1183978",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-14T18:38:09.000",
-    "date_modified": "2025-04-17T08:17:48.000",
-    "case_close_date": "2025-04-17T03:17:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4438 Elba St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1183978",
-    "final_x": "3669550.25198",
-    "final_y": "530490.593922",
-    "longitude": "-90.10583825371941",
-    "latitude": "29.95302256762158",
-    "geocoded_column": {
-      "latitude": "29.95302256762158",
-      "longitude": "-90.10583825371941"
-    }
-  },
-  {
-    "service_request": "2025-1183958",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-14T17:25:35.000",
-    "date_modified": "2025-04-15T09:04:49.000",
-    "case_close_date": "2025-04-15T04:04:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3000 Orleans Ave",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1183958",
-    "final_x": "3675717.68494",
-    "final_y": "537739.356104",
-    "longitude": "-90.08611504916018",
-    "latitude": "29.972771110258197",
-    "geocoded_column": {
-      "latitude": "29.972771110258197",
-      "longitude": "-90.08611504916018"
-    }
-  },
-  {
-    "service_request": "2025-1183936",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-14T16:20:54.000",
-    "date_modified": "2025-08-01T09:56:39.000",
-    "case_close_date": "2025-08-01T04:56:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1204 Henry Clay Ave",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1183936",
-    "final_x": "3664258.10964",
-    "final_y": "520916.620281",
-    "longitude": "-90.12286794854776",
-    "latitude": "29.926852020722908",
-    "geocoded_column": {
-      "latitude": "29.926852020722908",
-      "longitude": "-90.12286794854776"
     }
   }
 ]
