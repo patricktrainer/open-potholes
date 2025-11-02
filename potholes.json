@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1237193",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-01T11:58:55.000",
+    "date_modified": "2025-11-01T11:58:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1500 BLK Valence St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1237193",
+    "final_x": "3669759.05087",
+    "final_y": "520585.29884",
+    "longitude": "-90.1055140993079",
+    "latitude": "29.925780057160143",
+    "geocoded_column": {
+      "latitude": "29.925780057160143",
+      "longitude": "-90.1055140993079"
+    }
+  },
+  {
     "service_request": "2025-1236975",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -11339,6 +11360,27 @@
     }
   },
   {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -11351,27 +11393,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21674,28 +21695,6 @@
     "geocoded_column": {
       "latitude": "29.93473472639579",
       "longitude": "-90.11061764516978"
-    }
-  },
-  {
-    "service_request": "2025-1184092",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-15T10:33:22.000",
-    "date_modified": "2025-08-01T15:42:51.000",
-    "case_close_date": "2025-08-01T10:42:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6240 Wainwright Dr",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1184092",
-    "final_x": "3681283.2612",
-    "final_y": "556115.072346",
-    "longitude": "-90.06789702126659",
-    "latitude": "30.023130040841377",
-    "geocoded_column": {
-      "latitude": "30.023130040841377",
-      "longitude": "-90.06789702126659"
     }
   }
 ]
