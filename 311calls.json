@@ -1213,27 +1213,6 @@
     }
   },
   {
-    "service_request": "2025-1237278",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2025-11-02T11:28:42.000",
-    "date_modified": "2025-11-02T11:28:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1217 Marigny St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1237278",
-    "final_x": "3685406.43221",
-    "final_y": "536864.146376",
-    "longitude": "-90.05554705830127",
-    "latitude": "29.970071053947187",
-    "geocoded_column": {
-      "latitude": "29.970071053947187",
-      "longitude": "-90.05554705830127"
-    }
-  },
-  {
     "service_request": "2025-1237272",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -1266,6 +1245,27 @@
     "address_councildis": "C",
     "status": "Pending",
     "rowid": "1237267",
+    "final_x": "3685406.43221",
+    "final_y": "536864.146376",
+    "longitude": "-90.05554705830127",
+    "latitude": "29.970071053947187",
+    "geocoded_column": {
+      "latitude": "29.970071053947187",
+      "longitude": "-90.05554705830127"
+    }
+  },
+  {
+    "service_request": "2025-1237278",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2025-11-02T11:28:42.000",
+    "date_modified": "2025-11-02T11:28:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1217 Marigny St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1237278",
     "final_x": "3685406.43221",
     "final_y": "536864.146376",
     "longitude": "-90.05554705830127",
