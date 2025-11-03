@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1237263",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-02T10:56:03.000",
+    "date_modified": "2025-11-02T10:56:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5710 St Bernard Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1237263",
+    "final_x": "3676761.79445",
+    "final_y": "553418.291159",
+    "longitude": "-90.0822769154463",
+    "latitude": "30.015851392177428",
+    "geocoded_column": {
+      "latitude": "30.015851392177428",
+      "longitude": "-90.0822769154463"
+    }
+  },
+  {
+    "service_request": "2025-1237252",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-02T07:06:36.000",
+    "date_modified": "2025-11-02T07:06:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1333 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1237252",
+    "final_x": "3662515.43635",
+    "final_y": "528731.596352",
+    "longitude": "-90.12810964781309",
+    "latitude": "29.948391233872897",
+    "geocoded_column": {
+      "latitude": "29.948391233872897",
+      "longitude": "-90.12810964781309"
+    }
+  },
+  {
     "service_request": "2025-1237193",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -11360,27 +11402,6 @@
     }
   },
   {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -11393,6 +11414,27 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21651,50 +21693,6 @@
     "geocoded_column": {
       "latitude": "30.011991509166286",
       "longitude": "-90.04174790890369"
-    }
-  },
-  {
-    "service_request": "2025-1184212",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-15T13:26:06.000",
-    "date_modified": "2025-04-21T07:46:58.000",
-    "case_close_date": "2025-04-21T02:46:57.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1000 BLK S Rendon St",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1184212",
-    "final_x": "3671007.67599",
-    "final_y": "532921.574693",
-    "longitude": "-90.1011537926659",
-    "latitude": "29.959663950198024",
-    "geocoded_column": {
-      "latitude": "29.959663950198024",
-      "longitude": "-90.1011537926659"
-    }
-  },
-  {
-    "service_request": "2025-1184109",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-15T10:47:17.000",
-    "date_modified": "2025-05-02T07:40:53.000",
-    "case_close_date": "2025-05-02T02:40:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2230 Valmont St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1184109",
-    "final_x": "3668107.75905",
-    "final_y": "523824.262843",
-    "longitude": "-90.11061764516978",
-    "latitude": "29.93473472639579",
-    "geocoded_column": {
-      "latitude": "29.93473472639579",
-      "longitude": "-90.11061764516978"
     }
   }
 ]
