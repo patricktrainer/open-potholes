@@ -1,10 +1,52 @@
 [
   {
+    "service_request": "2025-1237968",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-04T16:17:05.000",
+    "date_modified": "2025-11-04T16:17:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4300 BLK Mithra St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1237968",
+    "final_x": "3689881.39317",
+    "final_y": "553198.824164",
+    "longitude": "-90.0408328335802",
+    "latitude": "30.014847547988246",
+    "geocoded_column": {
+      "latitude": "30.014847547988246",
+      "longitude": "-90.0408328335802"
+    }
+  },
+  {
+    "service_request": "2025-1237745",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-04T08:37:13.000",
+    "date_modified": "2025-11-04T08:37:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1623 Erie St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1237745",
+    "final_x": "3690131.57718",
+    "final_y": "522227.741434",
+    "longitude": "-90.04114589008502",
+    "latitude": "29.929680246891973",
+    "geocoded_column": {
+      "latitude": "29.929680246891973",
+      "longitude": "-90.04114589008502"
+    }
+  },
+  {
     "service_request": "2025-1237620",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-03T14:32:24.000",
-    "date_modified": "2025-11-03T14:32:26.000",
+    "date_modified": "2025-11-04T09:04:15.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "ELYSIAN FIELDS AV OVER & ELYSIAN FIELDS AVE & ABUNDANCE ST",
@@ -46,7 +88,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-03T10:33:54.000",
-    "date_modified": "2025-11-03T10:33:57.000",
+    "date_modified": "2025-11-04T09:55:51.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5200 BLK N Claiborne Ave",
@@ -67,7 +109,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-03T08:53:25.000",
-    "date_modified": "2025-11-03T08:53:27.000",
+    "date_modified": "2025-11-04T09:53:38.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2339 General Taylor St",
@@ -21648,50 +21690,6 @@
     "geocoded_column": {
       "latitude": "29.998585998170707",
       "longitude": "-90.12052650292928"
-    }
-  },
-  {
-    "service_request": "2025-1184484",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-16T11:52:32.000",
-    "date_modified": "2025-04-21T07:37:39.000",
-    "case_close_date": "2025-04-21T02:37:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4500 BLK Louisa Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1184484",
-    "final_x": "3690920.54004",
-    "final_y": "550802.225611",
-    "longitude": "-90.0376352650914",
-    "latitude": "30.008225517560387",
-    "geocoded_column": {
-      "latitude": "30.008225517560387",
-      "longitude": "-90.0376352650914"
-    }
-  },
-  {
-    "service_request": "2025-1184388",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-16T08:30:30.000",
-    "date_modified": "2025-04-17T08:27:53.000",
-    "case_close_date": "2025-04-17T03:27:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8300 Pritchard Pl",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1184388",
-    "final_x": "3665464.46919",
-    "final_y": "533372.97818",
-    "longitude": "-90.1186429355144",
-    "latitude": "29.961067901980247",
-    "geocoded_column": {
-      "latitude": "29.961067901980247",
-      "longitude": "-90.1186429355144"
     }
   }
 ]
