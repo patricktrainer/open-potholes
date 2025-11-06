@@ -1,5 +1,110 @@
 [
   {
+    "service_request": "2025-1238298",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-05T17:54:16.000",
+    "date_modified": "2025-11-05T17:54:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2138 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1238298",
+    "final_x": "3666074.94823",
+    "final_y": "529440.890753",
+    "longitude": "-90.11684697109479",
+    "latitude": "29.950238136447012",
+    "geocoded_column": {
+      "latitude": "29.950238136447012",
+      "longitude": "-90.11684697109479"
+    }
+  },
+  {
+    "service_request": "2025-1238190",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-05T13:46:43.000",
+    "date_modified": "2025-11-05T13:46:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2636 Valence St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1238190",
+    "final_x": "3669311.40001",
+    "final_y": "524579.39174",
+    "longitude": "-90.10679224143358",
+    "latitude": "29.936775716468127",
+    "geocoded_column": {
+      "latitude": "29.936775716468127",
+      "longitude": "-90.10679224143358"
+    }
+  },
+  {
+    "service_request": "2025-1238074",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-05T09:49:02.000",
+    "date_modified": "2025-11-05T09:49:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3230 Byrne Pl",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1238074",
+    "final_x": "3690885.39516",
+    "final_y": "540104.844747",
+    "longitude": "-90.03812831591664",
+    "latitude": "29.978812687939882",
+    "geocoded_column": {
+      "latitude": "29.978812687939882",
+      "longitude": "-90.03812831591664"
+    }
+  },
+  {
+    "service_request": "2025-1238041",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-05T08:52:49.000",
+    "date_modified": "2025-11-05T08:52:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N CLAIBORNE AVE & LAMANCHE ST",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1238041",
+    "final_x": "3698830.4",
+    "final_y": "535418.08",
+    "longitude": "-90.01320568145701",
+    "latitude": "29.965676445091372",
+    "geocoded_column": {
+      "latitude": "29.965676445091372",
+      "longitude": "-90.01320568145701"
+    }
+  },
+  {
+    "service_request": "2025-1238040",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-05T08:51:52.000",
+    "date_modified": "2025-11-05T08:51:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4301 Rayne Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1238040",
+    "final_x": "3679842.09339",
+    "final_y": "548015.187602",
+    "longitude": "-90.0727323676644",
+    "latitude": "30.000901963764",
+    "geocoded_column": {
+      "latitude": "30.000901963764",
+      "longitude": "-90.0727323676644"
+    }
+  },
+  {
     "service_request": "2025-1237968",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -25,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-04T08:37:13.000",
-    "date_modified": "2025-11-04T08:37:14.000",
+    "date_modified": "2025-11-05T08:03:21.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1623 Erie St",
@@ -403,7 +508,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-28T16:14:29.000",
-    "date_modified": "2025-10-29T08:45:33.000",
+    "date_modified": "2025-11-05T15:13:04.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5700 N Claiborne Ave",
@@ -12922,6 +13027,27 @@
     }
   },
   {
+    "service_request": "2025-1203727",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-06-24T11:27:59.000",
+    "date_modified": "2025-11-05T10:04:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6127 Milne Blvd",
+    "address_councildis": "A",
+    "status": "Inspected",
+    "rowid": "1203727",
+    "final_x": "3667168.36301",
+    "final_y": "548360.369618",
+    "longitude": "-90.11275818986977",
+    "latitude": "30.002228391322394",
+    "geocoded_column": {
+      "latitude": "30.002228391322394",
+      "longitude": "-90.11275818986977"
+    }
+  },
+  {
     "service_request": "2025-1203697",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -14281,7 +14407,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-06-12T14:42:31.000",
-    "date_modified": "2025-10-15T14:20:43.000",
+    "date_modified": "2025-11-05T09:46:23.000",
     "case_close_date": "2025-10-15T09:20:42.000",
     "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
@@ -21559,137 +21685,6 @@
     "geocoded_column": {
       "latitude": "30.022513267951545",
       "longitude": "-90.11897358276227"
-    }
-  },
-  {
-    "service_request": "2025-1185026",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-18T14:17:21.000",
-    "date_modified": "2025-04-21T13:24:40.000",
-    "case_close_date": "2025-04-21T08:24:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1019 Leonidas St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1185026",
-    "final_x": "3660309.71443",
-    "final_y": "529141.27648",
-    "longitude": "-90.13506053919541",
-    "latitude": "29.949581332348835",
-    "geocoded_column": {
-      "latitude": "29.949581332348835",
-      "longitude": "-90.13506053919541"
-    }
-  },
-  {
-    "service_request": "2025-1185015",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-18T13:26:54.000",
-    "date_modified": "2025-04-21T09:57:02.000",
-    "case_close_date": "2025-04-21T04:57:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "447 Amethyst St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1185015",
-    "final_x": "3667768.83956",
-    "final_y": "556760.056154",
-    "longitude": "-90.11057803785924",
-    "latitude": "30.025306974831338",
-    "geocoded_column": {
-      "latitude": "30.025306974831338",
-      "longitude": "-90.11057803785924"
-    }
-  },
-  {
-    "service_request": "2025-1184846",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-17T13:52:52.000",
-    "date_modified": "2025-04-22T07:28:07.000",
-    "case_close_date": "2025-04-22T02:28:06.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3001 General De Gaulle Dr",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1184846",
-    "final_x": "3694363.83555",
-    "final_y": "521399.135609",
-    "longitude": "-90.0278152634043",
-    "latitude": "29.927269947819376",
-    "geocoded_column": {
-      "latitude": "29.927269947819376",
-      "longitude": "-90.0278152634043"
-    }
-  },
-  {
-    "service_request": "2025-1184741",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-17T10:21:05.000",
-    "date_modified": "2025-04-21T07:54:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1100 Michael St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1184741",
-    "final_x": "3697294.67165",
-    "final_y": "527332.925823",
-    "longitude": "-90.01834844210458",
-    "latitude": "29.94349367977194",
-    "geocoded_column": {
-      "latitude": "29.94349367977194",
-      "longitude": "-90.01834844210458"
-    }
-  },
-  {
-    "service_request": "2025-1184712",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-17T09:41:06.000",
-    "date_modified": "2025-07-03T09:01:47.000",
-    "case_close_date": "2025-07-03T04:01:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "13800 Old Gentilly Rd",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1184712",
-    "final_x": "3727435.23309",
-    "final_y": "556225.911066",
-    "longitude": "-89.92206478628862",
-    "latitude": "30.02195259142992",
-    "geocoded_column": {
-      "latitude": "30.02195259142992",
-      "longitude": "-89.92206478628862"
-    }
-  },
-  {
-    "service_request": "2025-1184490",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-16T12:02:09.000",
-    "date_modified": "2025-08-12T15:25:00.000",
-    "case_close_date": "2025-05-08T10:50:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5888 Marcia Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1184490",
-    "final_x": "3664723.65696",
-    "final_y": "547009.738513",
-    "longitude": "-90.12052650292928",
-    "latitude": "29.998585998170707",
-    "geocoded_column": {
-      "latitude": "29.998585998170707",
-      "longitude": "-90.12052650292928"
     }
   }
 ]
