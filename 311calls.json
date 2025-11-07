@@ -8592,6 +8592,28 @@
     }
   },
   {
+    "service_request": "2025-1238167",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2025-11-05T12:50:38.000",
+    "date_modified": "2025-11-05T12:50:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4803 Reynes St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1238167",
+    "final_x": "3699152.77207",
+    "final_y": "555253.636313",
+    "longitude": "-90.01146502166142",
+    "latitude": "30.020206684698046",
+    "geocoded_column": {
+      "latitude": "30.020206684698046",
+      "longitude": "-90.01146502166142"
+    }
+  },
+  {
     "service_request": "2025-1238166",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -8613,28 +8635,6 @@
     "geocoded_column": {
       "latitude": "30.016563103004007",
       "longitude": "-90.01413512093087"
-    }
-  },
-  {
-    "service_request": "2025-1238167",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2025-11-05T12:50:38.000",
-    "date_modified": "2025-11-05T12:50:39.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4803 Reynes St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1238167",
-    "final_x": "3699152.77207",
-    "final_y": "555253.636313",
-    "longitude": "-90.01146502166142",
-    "latitude": "30.020206684698046",
-    "geocoded_column": {
-      "latitude": "30.020206684698046",
-      "longitude": "-90.01146502166142"
     }
   },
   {
