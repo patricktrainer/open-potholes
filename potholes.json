@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1238791",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-08T01:13:18.000",
+    "date_modified": "2025-11-08T01:13:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2736 Jefferson Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1238791",
+    "final_x": "3668160.47591",
+    "final_y": "525608.107709",
+    "longitude": "-90.1103911132468",
+    "latitude": "29.939638179848625",
+    "geocoded_column": {
+      "latitude": "29.939638179848625",
+      "longitude": "-90.1103911132468"
+    }
+  },
+  {
     "service_request": "2025-1238767",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21658,28 +21679,6 @@
     "geocoded_column": {
       "latitude": "29.92666884806118",
       "longitude": "-90.11958616606896"
-    }
-  },
-  {
-    "service_request": "2025-1185648",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-21T19:50:31.000",
-    "date_modified": "2025-04-25T07:02:07.000",
-    "case_close_date": "2025-04-25T02:02:06.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1432 Euterpe Street ",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1185648",
-    "final_x": "3679465.75432",
-    "final_y": "524606.888828",
-    "longitude": "-90.07473350916707",
-    "latitude": "29.93654854256797",
-    "geocoded_column": {
-      "latitude": "29.93654854256797",
-      "longitude": "-90.07473350916707"
     }
   }
 ]
