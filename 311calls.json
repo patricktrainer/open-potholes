@@ -12023,27 +12023,6 @@
     }
   },
   {
-    "service_request": "2025-1239200",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2025-11-10T16:51:34.000",
-    "date_modified": "2025-11-10T16:51:36.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "3231 Laurel St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1239200",
-    "final_x": "3675915.05397",
-    "final_y": "519268.069495",
-    "longitude": "-90.0861266846423",
-    "latitude": "29.921975285711703",
-    "geocoded_column": {
-      "latitude": "29.921975285711703",
-      "longitude": "-90.0861266846423"
-    }
-  },
-  {
     "service_request": "2025-1239199",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -12065,6 +12044,27 @@
     "geocoded_column": {
       "latitude": "29.95101603102012",
       "longitude": "-90.11949887749869"
+    }
+  },
+  {
+    "service_request": "2025-1239200",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2025-11-10T16:51:34.000",
+    "date_modified": "2025-11-10T16:51:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "3231 Laurel St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1239200",
+    "final_x": "3675915.05397",
+    "final_y": "519268.069495",
+    "longitude": "-90.0861266846423",
+    "latitude": "29.921975285711703",
+    "geocoded_column": {
+      "latitude": "29.921975285711703",
+      "longitude": "-90.0861266846423"
     }
   },
   {
@@ -14671,30 +14671,6 @@
     }
   },
   {
-    "service_request": "2025-1239080",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-11-10T12:24:35.000",
-    "date_modified": "2025-11-12T12:30:40.000",
-    "case_close_date": "2025-11-12T06:30:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "8843 Curran Rd",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1239080",
-    "final_x": "3704876.26455",
-    "final_y": "562995.372384",
-    "longitude": "-89.99309459811128",
-    "latitude": "30.041310642959235",
-    "geocoded_column": {
-      "latitude": "30.041310642959235",
-      "longitude": "-89.99309459811128"
-    }
-  },
-  {
     "service_request": "2025-1239081",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -14716,6 +14692,30 @@
     "geocoded_column": {
       "latitude": "30.015295306094735",
       "longitude": "-90.11881354211772"
+    }
+  },
+  {
+    "service_request": "2025-1239080",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-11-10T12:24:35.000",
+    "date_modified": "2025-11-12T12:30:40.000",
+    "case_close_date": "2025-11-12T06:30:39.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "8843 Curran Rd",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1239080",
+    "final_x": "3704876.26455",
+    "final_y": "562995.372384",
+    "longitude": "-89.99309459811128",
+    "latitude": "30.041310642959235",
+    "geocoded_column": {
+      "latitude": "30.041310642959235",
+      "longitude": "-89.99309459811128"
     }
   },
   {
