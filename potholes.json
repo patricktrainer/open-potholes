@@ -1,10 +1,52 @@
 [
   {
+    "service_request": "2025-1239946",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-13T14:56:56.000",
+    "date_modified": "2025-11-13T14:56:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "425 Webster St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1239946",
+    "final_x": "3663739.21651",
+    "final_y": "518263.443062",
+    "longitude": "-90.12459431494443",
+    "latitude": "29.91957167522273",
+    "geocoded_column": {
+      "latitude": "29.91957167522273",
+      "longitude": "-90.12459431494443"
+    }
+  },
+  {
+    "service_request": "2025-1239838",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-13T10:59:32.000",
+    "date_modified": "2025-11-13T10:59:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "600 Camp St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1239838",
+    "final_x": "3681024.58856",
+    "final_y": "528713.486592",
+    "longitude": "-90.06966923094112",
+    "latitude": "29.947793143402315",
+    "geocoded_column": {
+      "latitude": "29.947793143402315",
+      "longitude": "-90.06966923094112"
+    }
+  },
+  {
     "service_request": "2025-1239729",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-12T17:11:31.000",
-    "date_modified": "2025-11-12T17:11:33.000",
+    "date_modified": "2025-11-13T08:21:36.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1212 Pine St",
@@ -67,7 +109,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-12T11:49:45.000",
-    "date_modified": "2025-11-12T11:49:47.000",
+    "date_modified": "2025-11-13T11:01:47.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "CAMP ST & JACKSON AVE",
@@ -88,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-12T09:50:20.000",
-    "date_modified": "2025-11-12T09:50:22.000",
+    "date_modified": "2025-11-13T11:09:46.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2352 Marais St",
@@ -1364,6 +1406,27 @@
     "geocoded_column": {
       "latitude": "29.92173174561753",
       "longitude": "-90.02852414213847"
+    }
+  },
+  {
+    "service_request": "2025-1235626",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-10-24T10:28:45.000",
+    "date_modified": "2025-11-13T11:51:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "625 English Turn Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1235626",
+    "final_x": "3715382.65714",
+    "final_y": "515809.215668",
+    "longitude": "-89.96167614840944",
+    "latitude": "29.911224433386455",
+    "geocoded_column": {
+      "latitude": "29.911224433386455",
+      "longitude": "-89.96167614840944"
     }
   },
   {
@@ -21601,71 +21664,6 @@
     "geocoded_column": {
       "latitude": "30.049095949592893",
       "longitude": "-89.973030419559"
-    }
-  },
-  {
-    "service_request": "2025-1186630",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-24T12:34:33.000",
-    "date_modified": "2025-04-25T08:40:19.000",
-    "case_close_date": "2025-04-25T03:40:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "232 Lake Marina Ave",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1186630",
-    "final_x": "3666001.5442",
-    "final_y": "555381.200665",
-    "longitude": "-90.1162087291086",
-    "latitude": "30.021567348518722",
-    "geocoded_column": {
-      "latitude": "30.021567348518722",
-      "longitude": "-90.1162087291086"
-    }
-  },
-  {
-    "service_request": "2025-1186618",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-24T12:14:08.000",
-    "date_modified": "2025-06-16T10:43:35.000",
-    "case_close_date": "2025-06-16T05:43:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "700 BLK Pleasant St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1186618",
-    "final_x": "3676154.01839",
-    "final_y": "518689.816739",
-    "longitude": "-90.08539225318196",
-    "latitude": "29.920378122632254",
-    "geocoded_column": {
-      "latitude": "29.920378122632254",
-      "longitude": "-90.08539225318196"
-    }
-  },
-  {
-    "service_request": "2025-1186614",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-24T11:58:52.000",
-    "date_modified": "2025-06-16T10:43:35.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6444 Orleans Ave",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1186614",
-    "final_x": "3671121.04167",
-    "final_y": "550241.212372",
-    "longitude": "-90.10020723196149",
-    "latitude": "30.00728368428354",
-    "geocoded_column": {
-      "latitude": "30.00728368428354",
-      "longitude": "-90.10020723196149"
     }
   }
 ]
