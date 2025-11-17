@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1240392",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-16T15:23:22.000",
+    "date_modified": "2025-11-16T15:23:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6052 Constance St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1240392",
+    "final_x": "3664176.32333",
+    "final_y": "518990.588855",
+    "longitude": "-90.12319033906333",
+    "latitude": "29.921558413224126",
+    "geocoded_column": {
+      "latitude": "29.921558413224126",
+      "longitude": "-90.12319033906333"
+    }
+  },
+  {
+    "service_request": "2025-1240371",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-16T11:53:54.000",
+    "date_modified": "2025-11-16T11:53:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1527 Baronne St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1240371",
+    "final_x": "3678265.31586",
+    "final_y": "525836.314685",
+    "longitude": "-90.07848083699317",
+    "latitude": "29.939965259827677",
+    "geocoded_column": {
+      "latitude": "29.939965259827677",
+      "longitude": "-90.07848083699317"
+    }
+  },
+  {
     "service_request": "2025-1240292",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12393,6 +12435,27 @@
     }
   },
   {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12405,27 +12468,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21612,50 +21654,6 @@
     "geocoded_column": {
       "latitude": "29.91954764044729",
       "longitude": "-90.10430833733331"
-    }
-  },
-  {
-    "service_request": "2025-1187357",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-28T09:29:23.000",
-    "date_modified": "2025-06-16T10:43:13.000",
-    "case_close_date": "2025-06-16T05:43:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7640 Fieldston Rd",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1187357",
-    "final_x": "3700359.4769",
-    "final_y": "560753.383966",
-    "longitude": "-90.00745115603563",
-    "latitude": "30.035290540209623",
-    "geocoded_column": {
-      "latitude": "30.035290540209623",
-      "longitude": "-90.00745115603563"
-    }
-  },
-  {
-    "service_request": "2025-1187291",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-04-28T08:08:14.000",
-    "date_modified": "2025-06-18T09:16:27.000",
-    "case_close_date": "2025-06-18T04:16:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2300 BLK Fats Domino Ave",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1187291",
-    "final_x": "3699270.48758",
-    "final_y": "538446.75918",
-    "longitude": "-90.01170559277736",
-    "latitude": "29.97399027410025",
-    "geocoded_column": {
-      "latitude": "29.97399027410025",
-      "longitude": "-90.01170559277736"
     }
   }
 ]
