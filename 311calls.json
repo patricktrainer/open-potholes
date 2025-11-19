@@ -12401,28 +12401,6 @@
     }
   },
   {
-    "service_request": "2025-1240449",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-11-17T08:25:20.000",
-    "date_modified": "2025-11-17T08:27:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "535 Henry Clay Ave",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1240449",
-    "final_x": "3663556.55539",
-    "final_y": "518848.400503",
-    "longitude": "-90.12515141929805",
-    "latitude": "29.921185423024117",
-    "geocoded_column": {
-      "latitude": "29.921185423024117",
-      "longitude": "-90.12515141929805"
-    }
-  },
-  {
     "service_request": "2025-1240450",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -12442,6 +12420,28 @@
     "geocoded_column": {
       "latitude": "30.01355275016171",
       "longitude": "-90.01993209171201"
+    }
+  },
+  {
+    "service_request": "2025-1240449",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-11-17T08:25:20.000",
+    "date_modified": "2025-11-17T08:27:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "535 Henry Clay Ave",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1240449",
+    "final_x": "3663556.55539",
+    "final_y": "518848.400503",
+    "longitude": "-90.12515141929805",
+    "latitude": "29.921185423024117",
+    "geocoded_column": {
+      "latitude": "29.921185423024117",
+      "longitude": "-90.12515141929805"
     }
   },
   {
@@ -16570,30 +16570,6 @@
     }
   },
   {
-    "service_request": "2025-1240255",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-11-14T20:27:20.000",
-    "date_modified": "2025-11-18T12:24:52.000",
-    "case_close_date": "2025-11-18T06:24:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3101 De Soto St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1240255",
-    "final_x": "3676398.66939",
-    "final_y": "539890.937994",
-    "longitude": "-90.08389027651855",
-    "latitude": "29.978666824010915",
-    "geocoded_column": {
-      "latitude": "29.978666824010915",
-      "longitude": "-90.08389027651855"
-    }
-  },
-  {
     "service_request": "2025-1240254",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -16608,6 +16584,30 @@
     "contractor": "IV Waste",
     "contractor_action": "Completed",
     "rowid": "1240254",
+    "final_x": "3676398.66939",
+    "final_y": "539890.937994",
+    "longitude": "-90.08389027651855",
+    "latitude": "29.978666824010915",
+    "geocoded_column": {
+      "latitude": "29.978666824010915",
+      "longitude": "-90.08389027651855"
+    }
+  },
+  {
+    "service_request": "2025-1240255",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-11-14T20:27:20.000",
+    "date_modified": "2025-11-18T12:24:52.000",
+    "case_close_date": "2025-11-18T06:24:51.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3101 De Soto St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1240255",
     "final_x": "3676398.66939",
     "final_y": "539890.937994",
     "longitude": "-90.08389027651855",
