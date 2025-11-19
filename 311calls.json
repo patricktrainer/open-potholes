@@ -5282,28 +5282,6 @@
     }
   },
   {
-    "service_request": "2025-1240514",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-11-17T10:00:09.000",
-    "date_modified": "2025-11-17T10:00:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2366 Beck St",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "1240514",
-    "final_x": "3700356.72861",
-    "final_y": "521879.629306",
-    "longitude": "-90.00887980769949",
-    "latitude": "29.92840203135869",
-    "geocoded_column": {
-      "latitude": "29.92840203135869",
-      "longitude": "-90.00887980769949"
-    }
-  },
-  {
     "service_request": "2025-1240513",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -5316,6 +5294,28 @@
     "status": "Assigned to Contractor",
     "contractor": "Richards Disposal",
     "rowid": "1240513",
+    "final_x": "3700356.72861",
+    "final_y": "521879.629306",
+    "longitude": "-90.00887980769949",
+    "latitude": "29.92840203135869",
+    "geocoded_column": {
+      "latitude": "29.92840203135869",
+      "longitude": "-90.00887980769949"
+    }
+  },
+  {
+    "service_request": "2025-1240514",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-11-17T10:00:09.000",
+    "date_modified": "2025-11-17T10:00:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2366 Beck St",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "1240514",
     "final_x": "3700356.72861",
     "final_y": "521879.629306",
     "longitude": "-90.00887980769949",
@@ -17154,30 +17154,6 @@
     }
   },
   {
-    "service_request": "2025-1239961",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Second Trash Cart",
-    "date_created": "2025-11-13T15:43:48.000",
-    "date_modified": "2025-11-17T09:44:45.000",
-    "case_close_date": "2025-11-17T03:44:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3026 N Rampart St",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1239961",
-    "final_x": "3688546.33507",
-    "final_y": "535619.671686",
-    "longitude": "-90.04567512178262",
-    "latitude": "29.96655253221309",
-    "geocoded_column": {
-      "latitude": "29.96655253221309",
-      "longitude": "-90.04567512178262"
-    }
-  },
-  {
     "service_request": "2025-1239962",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Second Trash Cart",
@@ -17192,6 +17168,30 @@
     "contractor": "IV Waste",
     "contractor_action": "Completed",
     "rowid": "1239962",
+    "final_x": "3688546.33507",
+    "final_y": "535619.671686",
+    "longitude": "-90.04567512178262",
+    "latitude": "29.96655253221309",
+    "geocoded_column": {
+      "latitude": "29.96655253221309",
+      "longitude": "-90.04567512178262"
+    }
+  },
+  {
+    "service_request": "2025-1239961",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Second Trash Cart",
+    "date_created": "2025-11-13T15:43:48.000",
+    "date_modified": "2025-11-17T09:44:45.000",
+    "case_close_date": "2025-11-17T03:44:44.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3026 N Rampart St",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1239961",
     "final_x": "3688546.33507",
     "final_y": "535619.671686",
     "longitude": "-90.04567512178262",
