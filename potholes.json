@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1241834",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-22T15:44:11.000",
+    "date_modified": "2025-11-22T15:44:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3285 Potomac St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1241834",
+    "final_x": "3694882.31549",
+    "final_y": "517536.244342",
+    "longitude": "-90.02631765520378",
+    "latitude": "29.916632049428795",
+    "geocoded_column": {
+      "latitude": "29.916632049428795",
+      "longitude": "-90.02631765520378"
+    }
+  },
+  {
     "service_request": "2025-1241793",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21625,28 +21646,6 @@
     "geocoded_column": {
       "latitude": "29.919721839450503",
       "longitude": "-89.98617827522777"
-    }
-  },
-  {
-    "service_request": "2025-1188543",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-01T10:08:48.000",
-    "date_modified": "2025-05-05T13:57:42.000",
-    "case_close_date": "2025-05-05T08:57:40.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8400 BLK Pritchard Pl",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1188543",
-    "final_x": "3665138.35801",
-    "final_y": "533722.132803",
-    "longitude": "-90.11966106061604",
-    "latitude": "29.962037464398687",
-    "geocoded_column": {
-      "latitude": "29.962037464398687",
-      "longitude": "-90.11966106061604"
     }
   }
 ]
