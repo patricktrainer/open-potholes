@@ -1,10 +1,73 @@
 [
   {
+    "service_request": "2025-1242437",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-25T17:02:11.000",
+    "date_modified": "2025-11-25T17:02:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6656 Argonne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1242437",
+    "final_x": "3670506.56283",
+    "final_y": "551641.339157",
+    "longitude": "-90.10210101692682",
+    "latitude": "30.011151709108024",
+    "geocoded_column": {
+      "latitude": "30.011151709108024",
+      "longitude": "-90.10210101692682"
+    }
+  },
+  {
+    "service_request": "2025-1242436",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-25T17:02:10.000",
+    "date_modified": "2025-11-25T17:02:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6656 Argonne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1242436",
+    "final_x": "3670506.56283",
+    "final_y": "551641.339157",
+    "longitude": "-90.10210101692682",
+    "latitude": "30.011151709108024",
+    "geocoded_column": {
+      "latitude": "30.011151709108024",
+      "longitude": "-90.10210101692682"
+    }
+  },
+  {
+    "service_request": "2025-1242433",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-25T16:53:33.000",
+    "date_modified": "2025-11-25T16:53:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "OAK ST & S CARROLLTON AVE",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1242433",
+    "final_x": "3661989.2",
+    "final_y": "528349.78",
+    "longitude": "-90.12978386560482",
+    "latitude": "29.947356570354405",
+    "geocoded_column": {
+      "latitude": "29.947356570354405",
+      "longitude": "-90.12978386560482"
+    }
+  },
+  {
     "service_request": "2025-1242168",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-24T16:48:08.000",
-    "date_modified": "2025-11-24T16:48:09.000",
+    "date_modified": "2025-11-25T09:01:44.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3319 N Dorgenois St",
@@ -109,7 +172,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-24T09:21:50.000",
-    "date_modified": "2025-11-24T09:21:52.000",
+    "date_modified": "2025-11-25T10:18:28.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1235 Pine St",
@@ -21576,72 +21639,6 @@
     "geocoded_column": {
       "latitude": "29.935149302439058",
       "longitude": "-90.11336779142604"
-    }
-  },
-  {
-    "service_request": "2025-1188862",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-02T11:22:27.000",
-    "date_modified": "2025-08-01T13:46:37.000",
-    "case_close_date": "2025-08-01T08:46:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2715 Dauphine St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1188862",
-    "final_x": "3687266.37154",
-    "final_y": "535246.418182",
-    "longitude": "-90.04973042805301",
-    "latitude": "29.965565703449986",
-    "geocoded_column": {
-      "latitude": "29.965565703449986",
-      "longitude": "-90.04973042805301"
-    }
-  },
-  {
-    "service_request": "2025-1188791",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-02T08:47:40.000",
-    "date_modified": "2025-08-04T14:04:59.000",
-    "case_close_date": "2025-05-05T07:07:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4501 Press Dr",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1188791",
-    "final_x": "3689935.03292",
-    "final_y": "549944.906132",
-    "longitude": "-90.04077932993188",
-    "latitude": "30.0058988087592",
-    "geocoded_column": {
-      "latitude": "30.0058988087592",
-      "longitude": "-90.04077932993188"
-    }
-  },
-  {
-    "service_request": "2025-1188753",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-02T07:05:51.000",
-    "date_modified": "2025-05-02T07:21:46.000",
-    "case_close_date": "2025-05-02T02:21:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3700 S Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1188753",
-    "final_x": "3667976.38733",
-    "final_y": "535091.405126",
-    "longitude": "-90.1106528293013",
-    "latitude": "29.965719548754926",
-    "geocoded_column": {
-      "latitude": "29.965719548754926",
-      "longitude": "-90.1106528293013"
     }
   }
 ]
