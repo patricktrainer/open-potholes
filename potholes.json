@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1242728",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-28T14:04:48.000",
+    "date_modified": "2025-11-28T14:04:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5400 BLK S Claiborne Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1242728",
+    "final_x": "3668279.95901",
+    "final_y": "526449.139803",
+    "longitude": "-90.10998553870277",
+    "latitude": "29.941947239736635",
+    "geocoded_column": {
+      "latitude": "29.941947239736635",
+      "longitude": "-90.10998553870277"
+    }
+  },
+  {
     "service_request": "2025-1242485",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21618,28 +21639,6 @@
     "geocoded_column": {
       "latitude": "29.973134950453353",
       "longitude": "-90.02983616929531"
-    }
-  },
-  {
-    "service_request": "2025-1188899",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-02T12:21:42.000",
-    "date_modified": "2025-05-07T08:59:59.000",
-    "case_close_date": "2025-05-07T03:59:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2100 BLK Joseph St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1188899",
-    "final_x": "3667235.12481",
-    "final_y": "523965.734008",
-    "longitude": "-90.11336779142604",
-    "latitude": "29.935149302439058",
-    "geocoded_column": {
-      "latitude": "29.935149302439058",
-      "longitude": "-90.11336779142604"
     }
   }
 ]
