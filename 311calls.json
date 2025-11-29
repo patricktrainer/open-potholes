@@ -2731,27 +2731,6 @@
     }
   },
   {
-    "service_request": "2025-1242560",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2025-11-26T11:46:47.000",
-    "date_modified": "2025-11-26T11:46:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1432 Elysian Fields Ave",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1242560",
-    "final_x": "3684806.99849",
-    "final_y": "537672.522696",
-    "longitude": "-90.05741169984833",
-    "latitude": "29.972312174249257",
-    "geocoded_column": {
-      "latitude": "29.972312174249257",
-      "longitude": "-90.05741169984833"
-    }
-  },
-  {
     "service_request": "2025-1242559",
     "request_type": "Trash/Recycling",
     "request_reason": "Illegal Dumping",
@@ -2763,6 +2742,27 @@
     "address_councildis": "C",
     "status": "Pending",
     "rowid": "1242559",
+    "final_x": "3684806.99849",
+    "final_y": "537672.522696",
+    "longitude": "-90.05741169984833",
+    "latitude": "29.972312174249257",
+    "geocoded_column": {
+      "latitude": "29.972312174249257",
+      "longitude": "-90.05741169984833"
+    }
+  },
+  {
+    "service_request": "2025-1242560",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2025-11-26T11:46:47.000",
+    "date_modified": "2025-11-26T11:46:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1432 Elysian Fields Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1242560",
     "final_x": "3684806.99849",
     "final_y": "537672.522696",
     "longitude": "-90.05741169984833",
