@@ -6402,27 +6402,6 @@
     }
   },
   {
-    "service_request": "2025-1242956",
-    "request_type": "Safety & Permits",
-    "request_reason": "Licenses & Permits",
-    "date_created": "2025-12-01T08:40:12.000",
-    "date_modified": "2025-12-01T08:40:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Safety and Permits",
-    "final_address": "233 Decatur St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1242956",
-    "final_x": "3682188.17468",
-    "final_y": "530779.769218",
-    "longitude": "-90.06592316937477",
-    "latitude": "29.95343938670711",
-    "geocoded_column": {
-      "latitude": "29.95343938670711",
-      "longitude": "-90.06592316937477"
-    }
-  },
-  {
     "service_request": "2025-1242955",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -6442,6 +6421,27 @@
     "geocoded_column": {
       "latitude": "29.94285780061473",
       "longitude": "-90.07963518190569"
+    }
+  },
+  {
+    "service_request": "2025-1242956",
+    "request_type": "Safety & Permits",
+    "request_reason": "Licenses & Permits",
+    "date_created": "2025-12-01T08:40:12.000",
+    "date_modified": "2025-12-01T08:40:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Safety and Permits",
+    "final_address": "233 Decatur St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1242956",
+    "final_x": "3682188.17468",
+    "final_y": "530779.769218",
+    "longitude": "-90.06592316937477",
+    "latitude": "29.95343938670711",
+    "geocoded_column": {
+      "latitude": "29.95343938670711",
+      "longitude": "-90.06592316937477"
     }
   },
   {
