@@ -1,10 +1,52 @@
 [
   {
+    "service_request": "2025-1243240",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-01T18:45:00.000",
+    "date_modified": "2025-12-01T18:45:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "429 39Th St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1243240",
+    "final_x": "3664776.31642",
+    "final_y": "553105.258839",
+    "longitude": "-90.12015627688646",
+    "latitude": "30.015345036027778",
+    "geocoded_column": {
+      "latitude": "30.015345036027778",
+      "longitude": "-90.12015627688646"
+    }
+  },
+  {
+    "service_request": "2025-1243114",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-01T12:25:42.000",
+    "date_modified": "2025-12-01T12:25:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5900 BLK Peoples Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1243114",
+    "final_x": "3687820.85726",
+    "final_y": "555119.756018",
+    "longitude": "-90.04727499956579",
+    "latitude": "30.020193148218556",
+    "geocoded_column": {
+      "latitude": "30.020193148218556",
+      "longitude": "-90.04727499956579"
+    }
+  },
+  {
     "service_request": "2025-1242728",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-11-28T14:04:48.000",
-    "date_modified": "2025-11-28T14:04:50.000",
+    "date_modified": "2025-12-01T10:17:44.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5400 BLK S Claiborne Ave",
@@ -21595,50 +21637,6 @@
     "geocoded_column": {
       "latitude": "29.982563409864547",
       "longitude": "-90.07613973818152"
-    }
-  },
-  {
-    "service_request": "2025-1189010",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-02T16:13:45.000",
-    "date_modified": "2025-10-03T10:04:16.000",
-    "case_close_date": "2025-10-03T05:04:16.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5231 Wickfield Dr",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1189010",
-    "final_x": "3681364.4966",
-    "final_y": "551826.45551",
-    "longitude": "-90.0677900026785",
-    "latitude": "30.01133543954822",
-    "geocoded_column": {
-      "latitude": "30.01133543954822",
-      "longitude": "-90.0677900026785"
-    }
-  },
-  {
-    "service_request": "2025-1188923",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-02T12:54:04.000",
-    "date_modified": "2025-08-01T16:38:36.000",
-    "case_close_date": "2025-08-01T11:38:34.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N PRIEUR ST & POLAND AVE",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1188923",
-    "final_x": "3693534.0",
-    "final_y": "538069.98",
-    "longitude": "-90.02983616929531",
-    "latitude": "29.973134950453353",
-    "geocoded_column": {
-      "latitude": "29.973134950453353",
-      "longitude": "-90.02983616929531"
     }
   }
 ]
