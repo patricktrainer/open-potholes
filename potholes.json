@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2025-1243723",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-03T16:48:13.000",
+    "date_modified": "2025-12-03T16:48:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "UNION ST & BARONNE ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1243723",
+    "final_x": "3680077.9",
+    "final_y": "530140.68",
+    "longitude": "-90.07260872083961",
+    "latitude": "29.951746119626073",
+    "geocoded_column": {
+      "latitude": "29.951746119626073",
+      "longitude": "-90.07260872083961"
+    }
+  },
+  {
+    "service_request": "2025-1243563",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-03T10:08:09.000",
+    "date_modified": "2025-12-03T10:08:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "817 Arabella St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1243563",
+    "final_x": "3665903.99904",
+    "final_y": "519074.647223",
+    "longitude": "-90.117733979404",
+    "latitude": "29.921739262844678",
+    "geocoded_column": {
+      "latitude": "29.921739262844678",
+      "longitude": "-90.117733979404"
+    }
+  },
+  {
+    "service_request": "2025-1243542",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-03T09:25:34.000",
+    "date_modified": "2025-12-03T09:25:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "500 Camp St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1243542",
+    "final_x": "3681172.2934",
+    "final_y": "529143.03968",
+    "longitude": "-90.06918790551748",
+    "latitude": "29.94896979018441",
+    "geocoded_column": {
+      "latitude": "29.94896979018441",
+      "longitude": "-90.06918790551748"
+    }
+  },
+  {
     "service_request": "2025-1243319",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -13285,6 +13348,27 @@
     }
   },
   {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -13297,27 +13381,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21569,72 +21632,6 @@
     "geocoded_column": {
       "latitude": "30.002246536966055",
       "longitude": "-90.0744213987844"
-    }
-  },
-  {
-    "service_request": "2025-1189421",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-05T11:46:00.000",
-    "date_modified": "2025-05-06T08:38:16.000",
-    "case_close_date": "2025-05-06T03:38:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1200 BLK Henry Clay Ave",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1189421",
-    "final_x": "3664350.46588",
-    "final_y": "520999.069994",
-    "longitude": "-90.12257365301132",
-    "latitude": "29.927076048458613",
-    "geocoded_column": {
-      "latitude": "29.927076048458613",
-      "longitude": "-90.12257365301132"
-    }
-  },
-  {
-    "service_request": "2025-1189292",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-05T08:43:22.000",
-    "date_modified": "2025-07-24T09:38:22.000",
-    "case_close_date": "2025-05-09T03:41:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BURGUNDY ST & PORT ST",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1189292",
-    "final_x": "3687219.7",
-    "final_y": "535604.78",
-    "longitude": "-90.04986513829044",
-    "latitude": "29.966552511254623",
-    "geocoded_column": {
-      "latitude": "29.966552511254623",
-      "longitude": "-90.04986513829044"
-    }
-  },
-  {
-    "service_request": "2025-1189226",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-04T17:41:55.000",
-    "date_modified": "2025-05-06T09:56:46.000",
-    "case_close_date": "2025-05-06T04:56:45.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1119 Erato St Unit C",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1189226",
-    "final_x": "3680470.26581",
-    "final_y": "525721.752509",
-    "longitude": "-90.071523468014",
-    "latitude": "29.939583670870277",
-    "geocoded_column": {
-      "latitude": "29.939583670870277",
-      "longitude": "-90.071523468014"
     }
   }
 ]
