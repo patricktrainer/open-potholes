@@ -278,27 +278,6 @@
     }
   },
   {
-    "service_request": "2025-1243912",
-    "request_type": "Traffic Signals",
-    "request_reason": "Traffic Signal Malfunctioning or Damaged",
-    "date_created": "2025-12-04T19:37:22.000",
-    "date_modified": "2025-12-04T19:37:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "100 BLK N Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1243912",
-    "final_x": "3671209.18871",
-    "final_y": "538468.700081",
-    "longitude": "-90.10032896944338",
-    "latitude": "29.97491072585336",
-    "geocoded_column": {
-      "latitude": "29.97491072585336",
-      "longitude": "-90.10032896944338"
-    }
-  },
-  {
     "service_request": "2025-1243911",
     "request_type": "Traffic Signals",
     "request_reason": "Traffic Signal Malfunctioning or Damaged",
@@ -310,6 +289,27 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "1243911",
+    "final_x": "3671209.18871",
+    "final_y": "538468.700081",
+    "longitude": "-90.10032896944338",
+    "latitude": "29.97491072585336",
+    "geocoded_column": {
+      "latitude": "29.97491072585336",
+      "longitude": "-90.10032896944338"
+    }
+  },
+  {
+    "service_request": "2025-1243912",
+    "request_type": "Traffic Signals",
+    "request_reason": "Traffic Signal Malfunctioning or Damaged",
+    "date_created": "2025-12-04T19:37:22.000",
+    "date_modified": "2025-12-04T19:37:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 BLK N Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1243912",
     "final_x": "3671209.18871",
     "final_y": "538468.700081",
     "longitude": "-90.10032896944338",
@@ -21138,28 +21138,6 @@
     }
   },
   {
-    "service_request": "2025-1242956",
-    "request_type": "Safety & Permits",
-    "request_reason": "Licenses & Permits",
-    "date_created": "2025-12-01T08:40:12.000",
-    "date_modified": "2025-12-02T10:10:14.000",
-    "case_close_date": "2025-12-02T04:10:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Safety and Permits",
-    "final_address": "233 Decatur St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1242956",
-    "final_x": "3682188.17468",
-    "final_y": "530779.769218",
-    "longitude": "-90.06592316937477",
-    "latitude": "29.95343938670711",
-    "geocoded_column": {
-      "latitude": "29.95343938670711",
-      "longitude": "-90.06592316937477"
-    }
-  },
-  {
     "service_request": "2025-1242955",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -21181,6 +21159,28 @@
     "geocoded_column": {
       "latitude": "29.94285780061473",
       "longitude": "-90.07963518190569"
+    }
+  },
+  {
+    "service_request": "2025-1242956",
+    "request_type": "Safety & Permits",
+    "request_reason": "Licenses & Permits",
+    "date_created": "2025-12-01T08:40:12.000",
+    "date_modified": "2025-12-02T10:10:14.000",
+    "case_close_date": "2025-12-02T04:10:13.000",
+    "request_status": "Closed",
+    "responsible_agency": "Safety and Permits",
+    "final_address": "233 Decatur St",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "rowid": "1242956",
+    "final_x": "3682188.17468",
+    "final_y": "530779.769218",
+    "longitude": "-90.06592316937477",
+    "latitude": "29.95343938670711",
+    "geocoded_column": {
+      "latitude": "29.95343938670711",
+      "longitude": "-90.06592316937477"
     }
   },
   {
