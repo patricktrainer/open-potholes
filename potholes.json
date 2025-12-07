@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2025-1244144",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-06T16:14:58.000",
+    "date_modified": "2025-12-06T16:15:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3400 Bienville Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1244144",
+    "final_x": "3673517.07854",
+    "final_y": "537403.287944",
+    "longitude": "-90.09307647494279",
+    "latitude": "29.971912715918478",
+    "geocoded_column": {
+      "latitude": "29.971912715918478",
+      "longitude": "-90.09307647494279"
+    }
+  },
+  {
+    "service_request": "2025-1244124",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-06T10:34:39.000",
+    "date_modified": "2025-12-06T10:34:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "819 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1244124",
+    "final_x": "3663514.63699",
+    "final_y": "525435.218621",
+    "longitude": "-90.12506449295243",
+    "latitude": "29.939298313407832",
+    "geocoded_column": {
+      "latitude": "29.939298313407832",
+      "longitude": "-90.12506449295243"
+    }
+  },
+  {
     "service_request": "2025-1244104",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21582,50 +21624,6 @@
     "geocoded_column": {
       "latitude": "29.9261044765486",
       "longitude": "-90.11121935799825"
-    }
-  },
-  {
-    "service_request": "2025-1190282",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-07T14:11:14.000",
-    "date_modified": "2025-06-05T07:07:32.000",
-    "case_close_date": "2025-06-05T02:07:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2820 Cadiz St",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1190282",
-    "final_x": "3669618.11322",
-    "final_y": "525185.312829",
-    "longitude": "-90.1058034374295",
-    "latitude": "29.93843277286876",
-    "geocoded_column": {
-      "latitude": "29.93843277286876",
-      "longitude": "-90.1058034374295"
-    }
-  },
-  {
-    "service_request": "2025-1190252",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-07T13:14:43.000",
-    "date_modified": "2025-05-16T08:10:08.000",
-    "case_close_date": "2025-05-16T03:10:06.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1129 Burgundy St",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1190252",
-    "final_x": "3682698.86965",
-    "final_y": "534490.682501",
-    "longitude": "-90.06418082868214",
-    "latitude": "29.96362758974944",
-    "geocoded_column": {
-      "latitude": "29.96362758974944",
-      "longitude": "-90.06418082868214"
     }
   }
 ]
