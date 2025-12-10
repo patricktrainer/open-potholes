@@ -3728,28 +3728,6 @@
     }
   },
   {
-    "service_request": "2025-1244351",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-08T11:01:43.000",
-    "date_modified": "2025-12-08T11:01:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2403 Jasmine St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1244351",
-    "final_x": "3685626.52655",
-    "final_y": "548017.868114",
-    "longitude": "-90.05445883760665",
-    "latitude": "30.000733085033392",
-    "geocoded_column": {
-      "latitude": "30.000733085033392",
-      "longitude": "-90.05445883760665"
-    }
-  },
-  {
     "service_request": "2025-1244352",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -3769,6 +3747,28 @@
     "geocoded_column": {
       "latitude": "30.05169736394223",
       "longitude": "-89.97308329206345"
+    }
+  },
+  {
+    "service_request": "2025-1244351",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-08T11:01:43.000",
+    "date_modified": "2025-12-08T11:01:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2403 Jasmine St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1244351",
+    "final_x": "3685626.52655",
+    "final_y": "548017.868114",
+    "longitude": "-90.05445883760665",
+    "latitude": "30.000733085033392",
+    "geocoded_column": {
+      "latitude": "30.000733085033392",
+      "longitude": "-90.05445883760665"
     }
   },
   {
@@ -4466,28 +4466,6 @@
     }
   },
   {
-    "service_request": "2025-1244318",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Second Trash Cart",
-    "date_created": "2025-12-08T10:32:00.000",
-    "date_modified": "2025-12-08T10:32:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7809 Ebbtide Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1244318",
-    "final_x": "3702088.55313",
-    "final_y": "561966.351519",
-    "longitude": "-90.00194248694667",
-    "latitude": "30.038570600275253",
-    "geocoded_column": {
-      "latitude": "30.038570600275253",
-      "longitude": "-90.00194248694667"
-    }
-  },
-  {
     "service_request": "2025-1244317",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -4507,6 +4485,28 @@
     "geocoded_column": {
       "latitude": "30.002886450824953",
       "longitude": "-90.05574381349781"
+    }
+  },
+  {
+    "service_request": "2025-1244318",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Second Trash Cart",
+    "date_created": "2025-12-08T10:32:00.000",
+    "date_modified": "2025-12-08T10:32:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7809 Ebbtide Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1244318",
+    "final_x": "3702088.55313",
+    "final_y": "561966.351519",
+    "longitude": "-90.00194248694667",
+    "latitude": "30.038570600275253",
+    "geocoded_column": {
+      "latitude": "30.038570600275253",
+      "longitude": "-90.00194248694667"
     }
   },
   {
@@ -7587,28 +7587,6 @@
     }
   },
   {
-    "service_request": "2025-1244173",
-    "request_type": "Traffic Signals",
-    "request_reason": "Traffic Signal Malfunctioning or Damaged",
-    "date_created": "2025-12-07T10:28:27.000",
-    "date_modified": "2025-12-08T08:52:28.000",
-    "case_close_date": "2025-12-08T02:52:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2000 Magazine St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1244173",
-    "final_x": "3679516.00559",
-    "final_y": "522534.31257",
-    "longitude": "-90.07464673991954",
-    "latitude": "29.93084812248838",
-    "geocoded_column": {
-      "latitude": "29.93084812248838",
-      "longitude": "-90.07464673991954"
-    }
-  },
-  {
     "service_request": "2025-1244174",
     "request_type": "Traffic Signals",
     "request_reason": "Traffic Signal Malfunctioning or Damaged",
@@ -7621,6 +7599,28 @@
     "address_councildis": "B",
     "status": "Resolved",
     "rowid": "1244174",
+    "final_x": "3679516.00559",
+    "final_y": "522534.31257",
+    "longitude": "-90.07464673991954",
+    "latitude": "29.93084812248838",
+    "geocoded_column": {
+      "latitude": "29.93084812248838",
+      "longitude": "-90.07464673991954"
+    }
+  },
+  {
+    "service_request": "2025-1244173",
+    "request_type": "Traffic Signals",
+    "request_reason": "Traffic Signal Malfunctioning or Damaged",
+    "date_created": "2025-12-07T10:28:27.000",
+    "date_modified": "2025-12-08T08:52:28.000",
+    "case_close_date": "2025-12-08T02:52:27.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2000 Magazine St",
+    "address_councildis": "B",
+    "status": "Resolved",
+    "rowid": "1244173",
     "final_x": "3679516.00559",
     "final_y": "522534.31257",
     "longitude": "-90.07464673991954",
