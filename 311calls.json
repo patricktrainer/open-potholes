@@ -18447,30 +18447,6 @@
     }
   },
   {
-    "service_request": "2025-1244352",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-08T11:01:43.000",
-    "date_modified": "2025-12-10T11:40:05.000",
-    "case_close_date": "2025-12-10T05:40:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7724 Mercier St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1244352",
-    "final_x": "3711162.58014",
-    "final_y": "566846.989476",
-    "longitude": "-89.97308329206345",
-    "latitude": "30.05169736394223",
-    "geocoded_column": {
-      "latitude": "30.05169736394223",
-      "longitude": "-89.97308329206345"
-    }
-  },
-  {
     "service_request": "2025-1244351",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -18492,6 +18468,30 @@
     "geocoded_column": {
       "latitude": "30.000733085033392",
       "longitude": "-90.05445883760665"
+    }
+  },
+  {
+    "service_request": "2025-1244352",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-08T11:01:43.000",
+    "date_modified": "2025-12-10T11:40:05.000",
+    "case_close_date": "2025-12-10T05:40:04.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7724 Mercier St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1244352",
+    "final_x": "3711162.58014",
+    "final_y": "566846.989476",
+    "longitude": "-89.97308329206345",
+    "latitude": "30.05169736394223",
+    "geocoded_column": {
+      "latitude": "30.05169736394223",
+      "longitude": "-89.97308329206345"
     }
   },
   {
