@@ -18447,30 +18447,6 @@
     }
   },
   {
-    "service_request": "2025-1244351",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-08T11:01:43.000",
-    "date_modified": "2025-12-10T12:14:47.000",
-    "case_close_date": "2025-12-10T06:14:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "2403 Jasmine St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1244351",
-    "final_x": "3685626.52655",
-    "final_y": "548017.868114",
-    "longitude": "-90.05445883760665",
-    "latitude": "30.000733085033392",
-    "geocoded_column": {
-      "latitude": "30.000733085033392",
-      "longitude": "-90.05445883760665"
-    }
-  },
-  {
     "service_request": "2025-1244352",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -18492,6 +18468,30 @@
     "geocoded_column": {
       "latitude": "30.05169736394223",
       "longitude": "-89.97308329206345"
+    }
+  },
+  {
+    "service_request": "2025-1244351",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-08T11:01:43.000",
+    "date_modified": "2025-12-10T12:14:47.000",
+    "case_close_date": "2025-12-10T06:14:46.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "2403 Jasmine St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1244351",
+    "final_x": "3685626.52655",
+    "final_y": "548017.868114",
+    "longitude": "-90.05445883760665",
+    "latitude": "30.000733085033392",
+    "geocoded_column": {
+      "latitude": "30.000733085033392",
+      "longitude": "-90.05445883760665"
     }
   },
   {
