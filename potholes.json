@@ -1,10 +1,31 @@
 [
   {
+    "service_request": "2025-1245218",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-12T08:29:59.000",
+    "date_modified": "2025-12-12T11:15:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2626 Monroe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1245218",
+    "final_x": "3663866.66029",
+    "final_y": "533684.766405",
+    "longitude": "-90.12367815129795",
+    "latitude": "29.961971695183877",
+    "geocoded_column": {
+      "latitude": "29.961971695183877",
+      "longitude": "-90.12367815129795"
+    }
+  },
+  {
     "service_request": "2025-1245044",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-11T10:23:16.000",
-    "date_modified": "2025-12-11T10:27:13.000",
+    "date_modified": "2025-12-12T10:35:46.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3701 S Claiborne Ave",
@@ -14053,6 +14074,27 @@
     }
   },
   {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -14065,27 +14107,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21590,28 +21611,6 @@
     "geocoded_column": {
       "latitude": "29.931489175026222",
       "longitude": "-90.07246162129708"
-    }
-  },
-  {
-    "service_request": "2025-1191254",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-12T09:12:21.000",
-    "date_modified": "2025-08-01T14:56:53.000",
-    "case_close_date": "2025-08-01T09:56:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2227 Wirth Pl",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1191254",
-    "final_x": "3667133.38196",
-    "final_y": "524406.960636",
-    "longitude": "-90.11367416746769",
-    "latitude": "29.93636551270894",
-    "geocoded_column": {
-      "latitude": "29.93636551270894",
-      "longitude": "-90.11367416746769"
     }
   }
 ]
