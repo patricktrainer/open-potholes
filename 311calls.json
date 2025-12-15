@@ -9084,6 +9084,28 @@
     }
   },
   {
+    "service_request": "2025-1245061",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-11T11:13:31.000",
+    "date_modified": "2025-12-11T11:13:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1717 Foucher St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1245061",
+    "final_x": "3673454.21569",
+    "final_y": "521840.798906",
+    "longitude": "-90.09380667978644",
+    "latitude": "29.92912288657063",
+    "geocoded_column": {
+      "latitude": "29.92912288657063",
+      "longitude": "-90.09380667978644"
+    }
+  },
+  {
     "service_request": "2025-1245060",
     "request_type": "Trash/Recycling",
     "request_reason": "Damaged Caused By Contractor",
@@ -9105,28 +9127,6 @@
     "geocoded_column": {
       "latitude": "29.920281781540183",
       "longitude": "-90.12487020450429"
-    }
-  },
-  {
-    "service_request": "2025-1245061",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-11T11:13:31.000",
-    "date_modified": "2025-12-11T11:13:32.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1717 Foucher St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1245061",
-    "final_x": "3673454.21569",
-    "final_y": "521840.798906",
-    "longitude": "-90.09380667978644",
-    "latitude": "29.92912288657063",
-    "geocoded_column": {
-      "latitude": "29.92912288657063",
-      "longitude": "-90.09380667978644"
     }
   },
   {
@@ -16686,30 +16686,6 @@
     }
   },
   {
-    "service_request": "2025-1244714",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-09T15:50:12.000",
-    "date_modified": "2025-12-11T12:18:26.000",
-    "case_close_date": "2025-12-11T06:18:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1511 Marais St",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1244714",
-    "final_x": "3682732.48668",
-    "final_y": "536479.546055",
-    "longitude": "-90.06400509476751",
-    "latitude": "29.969095255826545",
-    "geocoded_column": {
-      "latitude": "29.969095255826545",
-      "longitude": "-90.06400509476751"
-    }
-  },
-  {
     "service_request": "2025-1244713",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -16731,6 +16707,30 @@
     "geocoded_column": {
       "latitude": "29.96490051367773",
       "longitude": "-90.03372153536841"
+    }
+  },
+  {
+    "service_request": "2025-1244714",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-09T15:50:12.000",
+    "date_modified": "2025-12-11T12:18:26.000",
+    "case_close_date": "2025-12-11T06:18:25.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1511 Marais St",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1244714",
+    "final_x": "3682732.48668",
+    "final_y": "536479.546055",
+    "longitude": "-90.06400509476751",
+    "latitude": "29.969095255826545",
+    "geocoded_column": {
+      "latitude": "29.969095255826545",
+      "longitude": "-90.06400509476751"
     }
   },
   {
