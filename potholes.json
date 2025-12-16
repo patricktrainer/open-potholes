@@ -1,23 +1,129 @@
 [
   {
-    "service_request": "2025-1245521",
+    "service_request": "2025-1245733",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
-    "date_created": "2025-12-14T15:47:26.000",
-    "date_modified": "2025-12-14T15:47:27.000",
+    "date_created": "2025-12-15T15:19:50.000",
+    "date_modified": "2025-12-15T15:19:51.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "612 Andrew Higgins Dr HM",
+    "final_address": "4140 Canal St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1245733",
+    "final_x": "3670688.34036",
+    "final_y": "538417.467337",
+    "longitude": "-90.10197568402062",
+    "latitude": "29.974785253813693",
+    "geocoded_column": {
+      "latitude": "29.974785253813693",
+      "longitude": "-90.10197568402062"
+    }
+  },
+  {
+    "service_request": "2025-1245716",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-15T14:31:33.000",
+    "date_modified": "2025-12-15T14:31:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "UNION ST & BARONNE ST",
     "address_councildis": "B",
     "status": "Pending",
-    "rowid": "1245521",
-    "final_x": "3680470.70504",
-    "final_y": "526972.044094",
-    "longitude": "-90.0714786112888",
-    "latitude": "29.9430215432483",
+    "rowid": "1245716",
+    "final_x": "3680077.9",
+    "final_y": "530140.68",
+    "longitude": "-90.07260872083961",
+    "latitude": "29.951746119626073",
     "geocoded_column": {
-      "latitude": "29.9430215432483",
-      "longitude": "-90.0714786112888"
+      "latitude": "29.951746119626073",
+      "longitude": "-90.07260872083961"
+    }
+  },
+  {
+    "service_request": "2025-1245633",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-15T10:57:03.000",
+    "date_modified": "2025-12-15T10:59:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N BROAD ST & DUELS ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1245633",
+    "final_x": "3680662.0",
+    "final_y": "542256.08",
+    "longitude": "-90.07034275596625",
+    "latitude": "29.985041624846367",
+    "geocoded_column": {
+      "latitude": "29.985041624846367",
+      "longitude": "-90.07034275596625"
+    }
+  },
+  {
+    "service_request": "2025-1245632",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-15T10:56:24.000",
+    "date_modified": "2025-12-15T10:59:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "N BROAD ST & REPUBLIC ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1245632",
+    "final_x": "3680722.6",
+    "final_y": "542336.18",
+    "longitude": "-90.07014855729182",
+    "latitude": "29.985260035010125",
+    "geocoded_column": {
+      "latitude": "29.985260035010125",
+      "longitude": "-90.07014855729182"
+    }
+  },
+  {
+    "service_request": "2025-1245627",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-15T10:47:39.000",
+    "date_modified": "2025-12-15T10:48:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2416 Monroe St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1245627",
+    "final_x": "3663410.47226",
+    "final_y": "533185.782404",
+    "longitude": "-90.12513534374021",
+    "latitude": "29.96061288645294",
+    "geocoded_column": {
+      "latitude": "29.96061288645294",
+      "longitude": "-90.12513534374021"
+    }
+  },
+  {
+    "service_request": "2025-1245593",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-15T09:37:04.000",
+    "date_modified": "2025-12-15T10:29:22.000",
+    "case_close_date": "2025-12-15T04:29:22.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK Oak Alley Dr",
+    "address_councildis": "C",
+    "status": "Invalid Case",
+    "rowid": "1245593",
+    "final_x": "3721938.18404",
+    "final_y": "511547.921902",
+    "longitude": "-89.94114902637052",
+    "latitude": "29.899289987661906",
+    "geocoded_column": {
+      "latitude": "29.899289987661906",
+      "longitude": "-89.94114902637052"
     }
   },
   {
@@ -21501,115 +21607,6 @@
     "geocoded_column": {
       "latitude": "29.958967606776813",
       "longitude": "-90.06486060910726"
-    }
-  },
-  {
-    "service_request": "2025-1191502",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-12T15:13:31.000",
-    "date_modified": "2025-08-01T16:40:03.000",
-    "case_close_date": "2025-08-01T11:40:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2100 BLK N Rocheblave St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1191502",
-    "final_x": "3683668.07652",
-    "final_y": "541016.120183",
-    "longitude": "-90.0608913428395",
-    "latitude": "29.98154072181895",
-    "geocoded_column": {
-      "latitude": "29.98154072181895",
-      "longitude": "-90.0608913428395"
-    }
-  },
-  {
-    "service_request": "2025-1191500",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-12T15:12:00.000",
-    "date_modified": "2025-07-24T09:37:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3100 BLK Pauger St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1191500",
-    "final_x": "3683474.09135",
-    "final_y": "541185.15495",
-    "longitude": "-90.061498111303",
-    "latitude": "29.982011429902936",
-    "geocoded_column": {
-      "latitude": "29.982011429902936",
-      "longitude": "-90.061498111303"
-    }
-  },
-  {
-    "service_request": "2025-1191424",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-12T13:05:50.000",
-    "date_modified": "2025-07-24T09:37:39.000",
-    "case_close_date": "2025-05-13T03:29:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "ABUNDANCE ST & FRANKLIN AVE",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1191424",
-    "final_x": "3687294.8",
-    "final_y": "543898.98",
-    "longitude": "-90.04933446219546",
-    "latitude": "29.989356321788986",
-    "geocoded_column": {
-      "latitude": "29.989356321788986",
-      "longitude": "-90.04933446219546"
-    }
-  },
-  {
-    "service_request": "2025-1191384",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-12T12:02:44.000",
-    "date_modified": "2025-08-01T14:16:16.000",
-    "case_close_date": "2025-08-01T09:16:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9009 Heaton St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1191384",
-    "final_x": "3666921.31591",
-    "final_y": "538782.952201",
-    "longitude": "-90.11386064922503",
-    "latitude": "29.975900987827615",
-    "geocoded_column": {
-      "latitude": "29.975900987827615",
-      "longitude": "-90.11386064922503"
-    }
-  },
-  {
-    "service_request": "2025-1191380",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-12T11:59:47.000",
-    "date_modified": "2025-07-24T09:37:41.000",
-    "case_close_date": "2025-05-13T03:33:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "9009 Heaton St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1191380",
-    "final_x": "3666921.31591",
-    "final_y": "538782.952201",
-    "longitude": "-90.11386064922503",
-    "latitude": "29.975900987827615",
-    "geocoded_column": {
-      "latitude": "29.975900987827615",
-      "longitude": "-90.11386064922503"
     }
   }
 ]
