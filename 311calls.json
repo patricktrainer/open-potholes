@@ -4998,28 +4998,6 @@
     }
   },
   {
-    "service_request": "2025-1245556",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2025-12-15T08:08:57.000",
-    "date_modified": "2025-12-15T09:50:13.000",
-    "case_close_date": "2025-12-15T03:50:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "7617 Zimple St",
-    "address_councildis": "A",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1245556",
-    "final_x": "3662960.3961",
-    "final_y": "527047.727486",
-    "longitude": "-90.12676070317532",
-    "latitude": "29.943748257422957",
-    "geocoded_column": {
-      "latitude": "29.943748257422957",
-      "longitude": "-90.12676070317532"
-    }
-  },
-  {
     "service_request": "2025-1245557",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -5039,6 +5017,28 @@
     "geocoded_column": {
       "latitude": "30.024010960877675",
       "longitude": "-89.95873660294468"
+    }
+  },
+  {
+    "service_request": "2025-1245556",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2025-12-15T08:08:57.000",
+    "date_modified": "2025-12-15T09:50:13.000",
+    "case_close_date": "2025-12-15T03:50:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "7617 Zimple St",
+    "address_councildis": "A",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1245556",
+    "final_x": "3662960.3961",
+    "final_y": "527047.727486",
+    "longitude": "-90.12676070317532",
+    "latitude": "29.943748257422957",
+    "geocoded_column": {
+      "latitude": "29.943748257422957",
+      "longitude": "-90.12676070317532"
     }
   },
   {
@@ -15775,6 +15775,28 @@
     }
   },
   {
+    "service_request": "2025-1245061",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-11T11:13:31.000",
+    "date_modified": "2025-12-11T11:13:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1717 Foucher St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1245061",
+    "final_x": "3673454.21569",
+    "final_y": "521840.798906",
+    "longitude": "-90.09380667978644",
+    "latitude": "29.92912288657063",
+    "geocoded_column": {
+      "latitude": "29.92912288657063",
+      "longitude": "-90.09380667978644"
+    }
+  },
+  {
     "service_request": "2025-1245060",
     "request_type": "Trash/Recycling",
     "request_reason": "Damaged Caused By Contractor",
@@ -15796,28 +15818,6 @@
     "geocoded_column": {
       "latitude": "29.920281781540183",
       "longitude": "-90.12487020450429"
-    }
-  },
-  {
-    "service_request": "2025-1245061",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-11T11:13:31.000",
-    "date_modified": "2025-12-11T11:13:32.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1717 Foucher St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1245061",
-    "final_x": "3673454.21569",
-    "final_y": "521840.798906",
-    "longitude": "-90.09380667978644",
-    "latitude": "29.92912288657063",
-    "geocoded_column": {
-      "latitude": "29.92912288657063",
-      "longitude": "-90.09380667978644"
     }
   },
   {
