@@ -10086,28 +10086,6 @@
     }
   },
   {
-    "service_request": "2025-1245557",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-15T08:08:57.000",
-    "date_modified": "2025-12-15T08:08:58.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4720 Bright Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1245557",
-    "final_x": "3715821.86636",
-    "final_y": "556833.340186",
-    "longitude": "-89.95873660294468",
-    "latitude": "30.024010960877675",
-    "geocoded_column": {
-      "latitude": "30.024010960877675",
-      "longitude": "-89.95873660294468"
-    }
-  },
-  {
     "service_request": "2025-1245556",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -10127,6 +10105,28 @@
     "geocoded_column": {
       "latitude": "29.943748257422957",
       "longitude": "-90.12676070317532"
+    }
+  },
+  {
+    "service_request": "2025-1245557",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-15T08:08:57.000",
+    "date_modified": "2025-12-15T08:08:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4720 Bright Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1245557",
+    "final_x": "3715821.86636",
+    "final_y": "556833.340186",
+    "longitude": "-89.95873660294468",
+    "latitude": "30.024010960877675",
+    "geocoded_column": {
+      "latitude": "30.024010960877675",
+      "longitude": "-89.95873660294468"
     }
   },
   {
@@ -16002,27 +16002,6 @@
     }
   },
   {
-    "service_request": "2025-1245286",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2025-12-12T11:05:26.000",
-    "date_modified": "2025-12-16T12:09:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3750 Herald St",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1245286",
-    "final_x": "3702236.75332",
-    "final_y": "517095.316725",
-    "longitude": "-90.00312035195387",
-    "latitude": "29.91518693322863",
-    "geocoded_column": {
-      "latitude": "29.91518693322863",
-      "longitude": "-90.00312035195387"
-    }
-  },
-  {
     "service_request": "2025-1245287",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -16044,6 +16023,27 @@
     "geocoded_column": {
       "latitude": "29.934404822643426",
       "longitude": "-90.10717138747205"
+    }
+  },
+  {
+    "service_request": "2025-1245286",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2025-12-12T11:05:26.000",
+    "date_modified": "2025-12-16T12:09:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3750 Herald St",
+    "address_councildis": "C",
+    "status": "Inspected",
+    "rowid": "1245286",
+    "final_x": "3702236.75332",
+    "final_y": "517095.316725",
+    "longitude": "-90.00312035195387",
+    "latitude": "29.91518693322863",
+    "geocoded_column": {
+      "latitude": "29.91518693322863",
+      "longitude": "-90.00312035195387"
     }
   },
   {
@@ -20963,30 +20963,6 @@
     }
   },
   {
-    "service_request": "2025-1245061",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2025-12-11T11:13:31.000",
-    "date_modified": "2025-12-16T14:34:32.000",
-    "case_close_date": "2025-12-16T08:34:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1717 Foucher St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1245061",
-    "final_x": "3673454.21569",
-    "final_y": "521840.798906",
-    "longitude": "-90.09380667978644",
-    "latitude": "29.92912288657063",
-    "geocoded_column": {
-      "latitude": "29.92912288657063",
-      "longitude": "-90.09380667978644"
-    }
-  },
-  {
     "service_request": "2025-1245060",
     "request_type": "Trash/Recycling",
     "request_reason": "Damaged Caused By Contractor",
@@ -21008,6 +20984,30 @@
     "geocoded_column": {
       "latitude": "29.920281781540183",
       "longitude": "-90.12487020450429"
+    }
+  },
+  {
+    "service_request": "2025-1245061",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2025-12-11T11:13:31.000",
+    "date_modified": "2025-12-16T14:34:32.000",
+    "case_close_date": "2025-12-16T08:34:31.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1717 Foucher St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1245061",
+    "final_x": "3673454.21569",
+    "final_y": "521840.798906",
+    "longitude": "-90.09380667978644",
+    "latitude": "29.92912288657063",
+    "geocoded_column": {
+      "latitude": "29.92912288657063",
+      "longitude": "-90.09380667978644"
     }
   },
   {
