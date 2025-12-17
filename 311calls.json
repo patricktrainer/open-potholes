@@ -10086,28 +10086,6 @@
     }
   },
   {
-    "service_request": "2025-1245556",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2025-12-15T08:08:57.000",
-    "date_modified": "2025-12-15T09:50:13.000",
-    "case_close_date": "2025-12-15T03:50:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "7617 Zimple St",
-    "address_councildis": "A",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1245556",
-    "final_x": "3662960.3961",
-    "final_y": "527047.727486",
-    "longitude": "-90.12676070317532",
-    "latitude": "29.943748257422957",
-    "geocoded_column": {
-      "latitude": "29.943748257422957",
-      "longitude": "-90.12676070317532"
-    }
-  },
-  {
     "service_request": "2025-1245557",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -10127,6 +10105,28 @@
     "geocoded_column": {
       "latitude": "30.024010960877675",
       "longitude": "-89.95873660294468"
+    }
+  },
+  {
+    "service_request": "2025-1245556",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2025-12-15T08:08:57.000",
+    "date_modified": "2025-12-15T09:50:13.000",
+    "case_close_date": "2025-12-15T03:50:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "7617 Zimple St",
+    "address_councildis": "A",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1245556",
+    "final_x": "3662960.3961",
+    "final_y": "527047.727486",
+    "longitude": "-90.12676070317532",
+    "latitude": "29.943748257422957",
+    "geocoded_column": {
+      "latitude": "29.943748257422957",
+      "longitude": "-90.12676070317532"
     }
   },
   {
@@ -16002,6 +16002,27 @@
     }
   },
   {
+    "service_request": "2025-1245286",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2025-12-12T11:05:26.000",
+    "date_modified": "2025-12-16T12:09:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3750 Herald St",
+    "address_councildis": "C",
+    "status": "Inspected",
+    "rowid": "1245286",
+    "final_x": "3702236.75332",
+    "final_y": "517095.316725",
+    "longitude": "-90.00312035195387",
+    "latitude": "29.91518693322863",
+    "geocoded_column": {
+      "latitude": "29.91518693322863",
+      "longitude": "-90.00312035195387"
+    }
+  },
+  {
     "service_request": "2025-1245287",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -16023,27 +16044,6 @@
     "geocoded_column": {
       "latitude": "29.934404822643426",
       "longitude": "-90.10717138747205"
-    }
-  },
-  {
-    "service_request": "2025-1245286",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2025-12-12T11:05:26.000",
-    "date_modified": "2025-12-16T12:09:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3750 Herald St",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1245286",
-    "final_x": "3702236.75332",
-    "final_y": "517095.316725",
-    "longitude": "-90.00312035195387",
-    "latitude": "29.91518693322863",
-    "geocoded_column": {
-      "latitude": "29.91518693322863",
-      "longitude": "-90.00312035195387"
     }
   },
   {
@@ -20963,30 +20963,6 @@
     }
   },
   {
-    "service_request": "2025-1245060",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Damaged Caused By Contractor",
-    "date_created": "2025-12-11T11:13:31.000",
-    "date_modified": "2025-12-12T11:47:05.000",
-    "case_close_date": "2025-12-12T05:47:04.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6113 Laurel St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1245060",
-    "final_x": "3663649.09978",
-    "final_y": "518520.742263",
-    "longitude": "-90.12487020450429",
-    "latitude": "29.920281781540183",
-    "geocoded_column": {
-      "latitude": "29.920281781540183",
-      "longitude": "-90.12487020450429"
-    }
-  },
-  {
     "service_request": "2025-1245061",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -21008,6 +20984,30 @@
     "geocoded_column": {
       "latitude": "29.92912288657063",
       "longitude": "-90.09380667978644"
+    }
+  },
+  {
+    "service_request": "2025-1245060",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Damaged Caused By Contractor",
+    "date_created": "2025-12-11T11:13:31.000",
+    "date_modified": "2025-12-12T11:47:05.000",
+    "case_close_date": "2025-12-12T05:47:04.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6113 Laurel St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1245060",
+    "final_x": "3663649.09978",
+    "final_y": "518520.742263",
+    "longitude": "-90.12487020450429",
+    "latitude": "29.920281781540183",
+    "geocoded_column": {
+      "latitude": "29.920281781540183",
+      "longitude": "-90.12487020450429"
     }
   },
   {
