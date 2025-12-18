@@ -1,10 +1,158 @@
 [
   {
+    "service_request": "2025-1246281",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-17T22:57:03.000",
+    "date_modified": "2025-12-17T22:57:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK Across St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1246281",
+    "final_x": "3711887.63918",
+    "final_y": "553972.247814",
+    "longitude": "-89.97127534652184",
+    "latitude": "30.01627326470007",
+    "geocoded_column": {
+      "latitude": "30.01627326470007",
+      "longitude": "-89.97127534652184"
+    }
+  },
+  {
+    "service_request": "2025-1246280",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-17T22:57:01.000",
+    "date_modified": "2025-12-17T22:57:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK Across St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1246280",
+    "final_x": "3711887.63918",
+    "final_y": "553972.247814",
+    "longitude": "-89.97127534652184",
+    "latitude": "30.01627326470007",
+    "geocoded_column": {
+      "latitude": "30.01627326470007",
+      "longitude": "-89.97127534652184"
+    }
+  },
+  {
+    "service_request": "2025-1246261",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-17T16:50:19.000",
+    "date_modified": "2025-12-17T16:50:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "CHEF MENTEUR HWY & DOWNMAN RD & CHEF MENTEUR BRIDGE",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1246261",
+    "final_x": "3696211.9",
+    "final_y": "551507.88",
+    "longitude": "-90.02089277553281",
+    "latitude": "30.010000220946775",
+    "geocoded_column": {
+      "latitude": "30.010000220946775",
+      "longitude": "-90.02089277553281"
+    }
+  },
+  {
+    "service_request": "2025-1246260",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-17T16:47:38.000",
+    "date_modified": "2025-12-17T16:47:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "472 Abalon Ct",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1246260",
+    "final_x": "3688985.40476",
+    "final_y": "529976.894529",
+    "longitude": "-90.04448898605605",
+    "latitude": "29.951023276803642",
+    "geocoded_column": {
+      "latitude": "29.951023276803642",
+      "longitude": "-90.04448898605605"
+    }
+  },
+  {
+    "service_request": "2025-1246126",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-17T11:18:36.000",
+    "date_modified": "2025-12-17T11:19:05.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5900 BLK Coliseum St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1246126",
+    "final_x": "3665229.9195",
+    "final_y": "520116.263033",
+    "longitude": "-90.11982694790629",
+    "latitude": "29.924623025679562",
+    "geocoded_column": {
+      "latitude": "29.924623025679562",
+      "longitude": "-90.11982694790629"
+    }
+  },
+  {
+    "service_request": "2025-1246107",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-17T10:44:48.000",
+    "date_modified": "2025-12-17T10:44:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK Saint Roch Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1246107",
+    "final_x": "3686291.55422",
+    "final_y": "538445.770993",
+    "longitude": "-90.05269593421406",
+    "latitude": "29.97439279860224",
+    "geocoded_column": {
+      "latitude": "29.97439279860224",
+      "longitude": "-90.05269593421406"
+    }
+  },
+  {
+    "service_request": "2025-1246007",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-16T20:02:44.000",
+    "date_modified": "2025-12-17T11:29:56.000",
+    "case_close_date": "2025-12-17T05:29:55.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "721 Voisin St",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1246007",
+    "final_x": "3668393.08052",
+    "final_y": "543292.63547",
+    "longitude": "-90.10906020311477",
+    "latitude": "29.988257937973867",
+    "geocoded_column": {
+      "latitude": "29.988257937973867",
+      "longitude": "-90.10906020311477"
+    }
+  },
+  {
     "service_request": "2025-1245996",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-16T17:03:24.000",
-    "date_modified": "2025-12-16T17:03:25.000",
+    "date_modified": "2025-12-17T10:26:42.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "8534 Palm St",
@@ -25,12 +173,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-16T15:37:44.000",
-    "date_modified": "2025-12-16T15:38:23.000",
+    "date_modified": "2025-12-17T10:31:17.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "5534 S Liberty St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1245968",
     "final_x": "3667159.26644",
     "final_y": "523372.620027",
@@ -42,32 +190,11 @@
     }
   },
   {
-    "service_request": "2025-1245951",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-16T14:57:07.000",
-    "date_modified": "2025-12-16T14:57:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "ALINE ST & CONSTANCE ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1245951",
-    "final_x": "3674585.8",
-    "final_y": "519050.78",
-    "longitude": "-90.09033002701563",
-    "latitude": "29.921417525977247",
-    "geocoded_column": {
-      "latitude": "29.921417525977247",
-      "longitude": "-90.09033002701563"
-    }
-  },
-  {
     "service_request": "2025-1245834",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-16T09:42:42.000",
-    "date_modified": "2025-12-16T09:42:44.000",
+    "date_modified": "2025-12-17T10:38:46.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "STATE ST & WILLOW ST",
@@ -1738,6 +1865,28 @@
     "geocoded_column": {
       "latitude": "30.004013437529117",
       "longitude": "-90.05977831771975"
+    }
+  },
+  {
+    "service_request": "2025-1240856",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-11-18T11:12:16.000",
+    "date_modified": "2025-12-17T11:25:34.000",
+    "case_close_date": "2025-12-17T05:25:33.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "732 Voisin St",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1240856",
+    "final_x": "3668451.99054",
+    "final_y": "543191.436685",
+    "longitude": "-90.10887754065791",
+    "latitude": "29.987977945023463",
+    "geocoded_column": {
+      "latitude": "29.987977945023463",
+      "longitude": "-90.10887754065791"
     }
   },
   {
@@ -21452,160 +21601,6 @@
     "geocoded_column": {
       "latitude": "30.022505539897985",
       "longitude": "-90.01023517572722"
-    }
-  },
-  {
-    "service_request": "2025-1191902",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T15:20:03.000",
-    "date_modified": "2025-07-24T09:37:30.000",
-    "case_close_date": "2025-05-14T08:15:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3316 W St Roch Ave",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1191902",
-    "final_x": "3685589.36022",
-    "final_y": "545005.818575",
-    "longitude": "-90.0546824300702",
-    "latitude": "29.992452170625608",
-    "geocoded_column": {
-      "latitude": "29.992452170625608",
-      "longitude": "-90.0546824300702"
-    }
-  },
-  {
-    "service_request": "2025-1191901",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T15:16:22.000",
-    "date_modified": "2025-05-14T10:05:52.000",
-    "case_close_date": "2025-05-14T05:05:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3400 W St Roch Ave",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1191901",
-    "final_x": "3685552.37148",
-    "final_y": "545287.659471",
-    "longitude": "-90.05478933635803",
-    "latitude": "29.993228267253773",
-    "geocoded_column": {
-      "latitude": "29.993228267253773",
-      "longitude": "-90.05478933635803"
-    }
-  },
-  {
-    "service_request": "2025-1191880",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T14:46:43.000",
-    "date_modified": "2025-05-14T10:38:05.000",
-    "case_close_date": "2025-05-14T05:38:03.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "LAFRENIERE ST & MARIGNY ST",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1191880",
-    "final_x": "3684675.9",
-    "final_y": "545547.28",
-    "longitude": "-90.05754882886455",
-    "latitude": "29.99396899286492",
-    "geocoded_column": {
-      "latitude": "29.99396899286492",
-      "longitude": "-90.05754882886455"
-    }
-  },
-  {
-    "service_request": "2025-1191873",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T14:36:29.000",
-    "date_modified": "2025-05-15T08:58:45.000",
-    "case_close_date": "2025-05-15T03:58:42.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3400 BLK Mandeville St",
-    "address_councildis": "D",
-    "status": "Not Enough Information- Resubmittal Required",
-    "rowid": "1191873",
-    "final_x": "3685049.79751",
-    "final_y": "545389.36767",
-    "longitude": "-90.0563733009662",
-    "latitude": "29.993523338328735",
-    "geocoded_column": {
-      "latitude": "29.993523338328735",
-      "longitude": "-90.0563733009662"
-    }
-  },
-  {
-    "service_request": "2025-1191852",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T14:15:29.000",
-    "date_modified": "2025-05-14T13:19:46.000",
-    "case_close_date": "2025-05-14T08:19:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2815 DAbadie St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1191852",
-    "final_x": "3678864.80853",
-    "final_y": "541319.096972",
-    "longitude": "-90.07605179436885",
-    "latitude": "29.982519594058523",
-    "geocoded_column": {
-      "latitude": "29.982519594058523",
-      "longitude": "-90.07605179436885"
-    }
-  },
-  {
-    "service_request": "2025-1191841",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T13:58:13.000",
-    "date_modified": "2025-05-15T09:00:22.000",
-    "case_close_date": "2025-05-15T04:00:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "900 Esplanade Ave",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1191841",
-    "final_x": "3683418.64623",
-    "final_y": "534846.751046",
-    "longitude": "-90.06189537435603",
-    "latitude": "29.964584714832466",
-    "geocoded_column": {
-      "latitude": "29.964584714832466",
-      "longitude": "-90.06189537435603"
-    }
-  },
-  {
-    "service_request": "2025-1191826",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-13T13:38:13.000",
-    "date_modified": "2025-08-01T14:59:43.000",
-    "case_close_date": "2025-08-01T09:59:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4004 Camp St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1191826",
-    "final_x": "3672428.57025",
-    "final_y": "519240.690167",
-    "longitude": "-90.09713300293802",
-    "latitude": "29.92200388876559",
-    "geocoded_column": {
-      "latitude": "29.92200388876559",
-      "longitude": "-90.09713300293802"
     }
   }
 ]
