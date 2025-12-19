@@ -7555,27 +7555,6 @@
     }
   },
   {
-    "service_request": "2025-1246152",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Knocked Down/Leaning",
-    "date_created": "2025-12-17T12:40:36.000",
-    "date_modified": "2025-12-18T10:54:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "HORACE ST & WALL BLVD & CYPRESS ACRES DR",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1246152",
-    "final_x": "3696256.4",
-    "final_y": "523830.08",
-    "longitude": "-90.021753109187",
-    "latitude": "29.93389478584879",
-    "geocoded_column": {
-      "latitude": "29.93389478584879",
-      "longitude": "-90.021753109187"
-    }
-  },
-  {
     "service_request": "2025-1246151",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -7595,6 +7574,27 @@
     "geocoded_column": {
       "latitude": "30.03532824168548",
       "longitude": "-89.96932497259989"
+    }
+  },
+  {
+    "service_request": "2025-1246152",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Knocked Down/Leaning",
+    "date_created": "2025-12-17T12:40:36.000",
+    "date_modified": "2025-12-18T10:54:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "HORACE ST & WALL BLVD & CYPRESS ACRES DR",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1246152",
+    "final_x": "3696256.4",
+    "final_y": "523830.08",
+    "longitude": "-90.021753109187",
+    "latitude": "29.93389478584879",
+    "geocoded_column": {
+      "latitude": "29.93389478584879",
+      "longitude": "-90.021753109187"
     }
   },
   {
@@ -18267,28 +18267,6 @@
     }
   },
   {
-    "service_request": "2025-1245666",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2025-12-15T12:09:22.000",
-    "date_modified": "2025-12-17T09:17:09.000",
-    "case_close_date": "2025-12-17T03:17:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "2068 Treasure St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1245666",
-    "final_x": "3683529.54005",
-    "final_y": "543935.530446",
-    "longitude": "-90.06122653530261",
-    "latitude": "29.989572299819738",
-    "geocoded_column": {
-      "latitude": "29.989572299819738",
-      "longitude": "-90.06122653530261"
-    }
-  },
-  {
     "service_request": "2025-1245667",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -18308,6 +18286,28 @@
     "geocoded_column": {
       "latitude": "30.007710158796847",
       "longitude": "-90.07949957400453"
+    }
+  },
+  {
+    "service_request": "2025-1245666",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2025-12-15T12:09:22.000",
+    "date_modified": "2025-12-17T09:17:09.000",
+    "case_close_date": "2025-12-17T03:17:08.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "2068 Treasure St",
+    "address_councildis": "D",
+    "status": "Resolved",
+    "rowid": "1245666",
+    "final_x": "3683529.54005",
+    "final_y": "543935.530446",
+    "longitude": "-90.06122653530261",
+    "latitude": "29.989572299819738",
+    "geocoded_column": {
+      "latitude": "29.989572299819738",
+      "longitude": "-90.06122653530261"
     }
   },
   {
@@ -20722,6 +20722,28 @@
     }
   },
   {
+    "service_request": "2025-1245556",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2025-12-15T08:08:57.000",
+    "date_modified": "2025-12-15T09:50:13.000",
+    "case_close_date": "2025-12-15T03:50:11.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "7617 Zimple St",
+    "address_councildis": "A",
+    "status": "Referred to Code Enforcement",
+    "rowid": "1245556",
+    "final_x": "3662960.3961",
+    "final_y": "527047.727486",
+    "longitude": "-90.12676070317532",
+    "latitude": "29.943748257422957",
+    "geocoded_column": {
+      "latitude": "29.943748257422957",
+      "longitude": "-90.12676070317532"
+    }
+  },
+  {
     "service_request": "2025-1245557",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20743,28 +20765,6 @@
     "geocoded_column": {
       "latitude": "30.024010960877675",
       "longitude": "-89.95873660294468"
-    }
-  },
-  {
-    "service_request": "2025-1245556",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2025-12-15T08:08:57.000",
-    "date_modified": "2025-12-15T09:50:13.000",
-    "case_close_date": "2025-12-15T03:50:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "7617 Zimple St",
-    "address_councildis": "A",
-    "status": "Referred to Code Enforcement",
-    "rowid": "1245556",
-    "final_x": "3662960.3961",
-    "final_y": "527047.727486",
-    "longitude": "-90.12676070317532",
-    "latitude": "29.943748257422957",
-    "geocoded_column": {
-      "latitude": "29.943748257422957",
-      "longitude": "-90.12676070317532"
     }
   },
   {
