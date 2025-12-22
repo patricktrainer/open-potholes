@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2025-1246745",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-21T15:20:47.000",
+    "date_modified": "2025-12-21T15:20:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7031 Argonne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1246745",
+    "final_x": "3670857.39713",
+    "final_y": "554077.49372",
+    "longitude": "-90.10090980369738",
+    "latitude": "30.01783990062325",
+    "geocoded_column": {
+      "latitude": "30.01783990062325",
+      "longitude": "-90.10090980369738"
+    }
+  },
+  {
     "service_request": "2025-1246660",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -14584,6 +14605,27 @@
     }
   },
   {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -14596,27 +14638,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21575,28 +21596,6 @@
     "geocoded_column": {
       "latitude": "29.965609565094365",
       "longitude": "-90.04470508975426"
-    }
-  },
-  {
-    "service_request": "2025-1192292",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-14T17:42:42.000",
-    "date_modified": "2025-06-06T08:11:28.000",
-    "case_close_date": "2025-06-06T03:11:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "220 S St Patrick St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1192292",
-    "final_x": "3668761.08289",
-    "final_y": "539315.531914",
-    "longitude": "-90.10803213454084",
-    "latitude": "29.977311436311158",
-    "geocoded_column": {
-      "latitude": "29.977311436311158",
-      "longitude": "-90.10803213454084"
     }
   }
 ]
