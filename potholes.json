@@ -1,15 +1,143 @@
 [
   {
+    "service_request": "2025-1247169",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-23T15:35:34.000",
+    "date_modified": "2025-12-23T15:35:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "FRANKLIN AVE & N GALVEZ ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1247169",
+    "final_x": "3687667.3",
+    "final_y": "540216.38",
+    "longitude": "-90.04828829942392",
+    "latitude": "29.97921899891152",
+    "geocoded_column": {
+      "latitude": "29.97921899891152",
+      "longitude": "-90.04828829942392"
+    }
+  },
+  {
+    "service_request": "2025-1247164",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-23T15:14:07.000",
+    "date_modified": "2025-12-23T15:14:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1000 BLK Poland Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1247164",
+    "final_x": "3692940.15936",
+    "final_y": "534719.354562",
+    "longitude": "-90.03183182244169",
+    "latitude": "29.963940478024863",
+    "geocoded_column": {
+      "latitude": "29.963940478024863",
+      "longitude": "-90.03183182244169"
+    }
+  },
+  {
+    "service_request": "2025-1247104",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-23T11:44:32.000",
+    "date_modified": "2025-12-23T11:44:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1107 Shirley Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1247104",
+    "final_x": "3693053.42032",
+    "final_y": "527309.319423",
+    "longitude": "-90.0317399656695",
+    "latitude": "29.9435619239788",
+    "geocoded_column": {
+      "latitude": "29.9435619239788",
+      "longitude": "-90.0317399656695"
+    }
+  },
+  {
+    "service_request": "2025-1247073",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-23T10:51:24.000",
+    "date_modified": "2025-12-23T10:51:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1661 Canal St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1247073",
+    "final_x": "3678577.27061",
+    "final_y": "532797.578244",
+    "longitude": "-90.0772550277696",
+    "latitude": "29.959097009403244",
+    "geocoded_column": {
+      "latitude": "29.959097009403244",
+      "longitude": "-90.0772550277696"
+    }
+  },
+  {
+    "service_request": "2025-1247037",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-23T09:26:26.000",
+    "date_modified": "2025-12-23T09:26:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3245 Elmwood Park Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1247037",
+    "final_x": "3695024.53264",
+    "final_y": "518171.901302",
+    "longitude": "-90.02584586727687",
+    "latitude": "29.91837543076131",
+    "geocoded_column": {
+      "latitude": "29.91837543076131",
+      "longitude": "-90.02584586727687"
+    }
+  },
+  {
+    "service_request": "2025-1247012",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-23T08:21:46.000",
+    "date_modified": "2025-12-23T09:33:36.000",
+    "case_close_date": "2025-12-23T03:33:35.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "612 Andrew Higgins Dr",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "rowid": "1247012",
+    "final_x": "3680463.39189",
+    "final_y": "526974.08563",
+    "longitude": "-90.07150162970704",
+    "latitude": "29.94302737823644",
+    "geocoded_column": {
+      "latitude": "29.94302737823644",
+      "longitude": "-90.07150162970704"
+    }
+  },
+  {
     "service_request": "2025-1246982",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-22T16:32:38.000",
-    "date_modified": "2025-12-22T16:32:40.000",
-    "request_status": "Pending",
+    "date_modified": "2025-12-23T09:34:02.000",
+    "case_close_date": "2025-12-23T03:34:02.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "1201 Canal St",
     "address_councildis": "C",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1246982",
     "final_x": "3679792.28808",
     "final_y": "531855.811267",
@@ -21,58 +149,16 @@
     }
   },
   {
-    "service_request": "2025-1246980",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-22T16:30:24.000",
-    "date_modified": "2025-12-22T16:30:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "800 BLK Union St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1246980",
-    "final_x": "3680274.58003",
-    "final_y": "530078.812333",
-    "longitude": "-90.07198985006315",
-    "latitude": "29.951570052640147",
-    "geocoded_column": {
-      "latitude": "29.951570052640147",
-      "longitude": "-90.07198985006315"
-    }
-  },
-  {
-    "service_request": "2025-1246979",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-22T16:27:27.000",
-    "date_modified": "2025-12-22T16:27:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "800 BLK Union St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1246979",
-    "final_x": "3680274.58003",
-    "final_y": "530078.812333",
-    "longitude": "-90.07198985006315",
-    "latitude": "29.951570052640147",
-    "geocoded_column": {
-      "latitude": "29.951570052640147",
-      "longitude": "-90.07198985006315"
-    }
-  },
-  {
     "service_request": "2025-1246974",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-22T16:22:35.000",
-    "date_modified": "2025-12-22T16:24:20.000",
+    "date_modified": "2025-12-23T09:16:57.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4661 Lynhuber Dr",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1246974",
     "final_x": "3698130.63658",
     "final_y": "553966.244056",
@@ -81,27 +167,6 @@
     "geocoded_column": {
       "latitude": "30.016699226973582",
       "longitude": "-90.01474144295852"
-    }
-  },
-  {
-    "service_request": "2025-1246782",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-22T08:25:32.000",
-    "date_modified": "2025-12-22T08:25:34.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3625 Iberville St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1246782",
-    "final_x": "3672709.30612",
-    "final_y": "537705.03988",
-    "longitude": "-90.09561726007786",
-    "latitude": "29.97276644805764",
-    "geocoded_column": {
-      "latitude": "29.97276644805764",
-      "longitude": "-90.09561726007786"
     }
   },
   {
@@ -146,27 +211,6 @@
     "geocoded_column": {
       "latitude": "29.94893849096254",
       "longitude": "-90.06946986792886"
-    }
-  },
-  {
-    "service_request": "2025-1246493",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-18T20:46:22.000",
-    "date_modified": "2025-12-18T20:46:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "616 N Murat St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1246493",
-    "final_x": "3670918.02862",
-    "final_y": "540935.044299",
-    "longitude": "-90.10116476731905",
-    "latitude": "29.98170094731406",
-    "geocoded_column": {
-      "latitude": "29.98170094731406",
-      "longitude": "-90.10116476731905"
     }
   },
   {
@@ -21556,50 +21600,6 @@
     "geocoded_column": {
       "latitude": "29.93499645716778",
       "longitude": "-90.07751974480391"
-    }
-  },
-  {
-    "service_request": "2025-1192459",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-15T11:39:16.000",
-    "date_modified": "2025-08-01T15:35:25.000",
-    "case_close_date": "2025-08-01T10:35:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4900 Loyola Ave",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1192459",
-    "final_x": "3669097.46017",
-    "final_y": "522807.331643",
-    "longitude": "-90.10752751084307",
-    "latitude": "29.931909415168157",
-    "geocoded_column": {
-      "latitude": "29.931909415168157",
-      "longitude": "-90.10752751084307"
-    }
-  },
-  {
-    "service_request": "2025-1192436",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-15T11:03:43.000",
-    "date_modified": "2025-08-01T15:26:20.000",
-    "case_close_date": "2025-08-01T10:26:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7723 Burke Ave",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1192436",
-    "final_x": "3705336.05463",
-    "final_y": "563213.956064",
-    "longitude": "-89.99163342015552",
-    "latitude": "30.041896866207928",
-    "geocoded_column": {
-      "latitude": "30.041896866207928",
-      "longitude": "-89.99163342015552"
     }
   }
 ]
