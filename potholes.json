@@ -21,6 +21,27 @@
     }
   },
   {
+    "service_request": "2025-1247322",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-25T14:30:25.000",
+    "date_modified": "2025-12-29T09:02:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "318 Lakeshore Prkwy",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1247322",
+    "final_x": "3667532.5433",
+    "final_y": "556789.780506",
+    "longitude": "-90.11132369960282",
+    "latitude": "30.025395637510837",
+    "geocoded_column": {
+      "latitude": "30.025395637510837",
+      "longitude": "-90.11132369960282"
+    }
+  },
+  {
     "service_request": "2025-1247169",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -3884,7 +3905,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-10-24T10:28:45.000",
-    "date_modified": "2025-11-13T11:51:21.000",
+    "date_modified": "2025-12-29T11:41:14.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "625 English Turn Dr",
@@ -21578,28 +21599,6 @@
     "geocoded_column": {
       "latitude": "30.02306831143944",
       "longitude": "-90.11004531296189"
-    }
-  },
-  {
-    "service_request": "2025-1192646",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-16T08:44:41.000",
-    "date_modified": "2025-05-28T05:58:38.000",
-    "case_close_date": "2025-05-28T00:58:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "600 BLK Port St",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1192646",
-    "final_x": "3686971.55778",
-    "final_y": "534635.886225",
-    "longitude": "-90.05068301782616",
-    "latitude": "29.963896030274725",
-    "geocoded_column": {
-      "latitude": "29.963896030274725",
-      "longitude": "-90.05068301782616"
     }
   }
 ]
