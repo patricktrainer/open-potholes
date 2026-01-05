@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2026-1249218",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-04T20:59:46.000",
+    "date_modified": "2026-01-04T20:59:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "11421 Tanner S Davis Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1249218",
+    "final_x": "3718245.6837",
+    "final_y": "561223.653278",
+    "longitude": "-89.95091052995795",
+    "latitude": "30.036002382440053",
+    "geocoded_column": {
+      "latitude": "30.036002382440053",
+      "longitude": "-89.95091052995795"
+    }
+  },
+  {
+    "service_request": "2026-1249170",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-04T15:25:09.000",
+    "date_modified": "2026-01-04T15:25:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8321 Jeannette St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1249170",
+    "final_x": "3662023.69306",
+    "final_y": "529793.388801",
+    "longitude": "-90.12962707510407",
+    "latitude": "29.951325035132285",
+    "geocoded_column": {
+      "latitude": "29.951325035132285",
+      "longitude": "-90.12962707510407"
+    }
+  },
+  {
+    "service_request": "2026-1249162",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-04T14:21:50.000",
+    "date_modified": "2026-01-04T14:21:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6228 Music St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1249162",
+    "final_x": "3685182.96073",
+    "final_y": "556118.738522",
+    "longitude": "-90.05557471654629",
+    "latitude": "30.023021125700893",
+    "geocoded_column": {
+      "latitude": "30.023021125700893",
+      "longitude": "-90.05557471654629"
+    }
+  },
+  {
+    "service_request": "2026-1249151",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-04T13:08:30.000",
+    "date_modified": "2026-01-04T13:08:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7731 Panola St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1249151",
+    "final_x": "3665040.31111",
+    "final_y": "529959.024577",
+    "longitude": "-90.1200965019609",
+    "latitude": "29.9516929991974",
+    "geocoded_column": {
+      "latitude": "29.9516929991974",
+      "longitude": "-90.1200965019609"
+    }
+  },
+  {
     "service_request": "2026-1249032",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21500,94 +21584,6 @@
     "geocoded_column": {
       "latitude": "30.013413738438235",
       "longitude": "-90.06288880424438"
-    }
-  },
-  {
-    "service_request": "2025-1193589",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T09:48:37.000",
-    "date_modified": "2025-05-20T12:46:49.000",
-    "case_close_date": "2025-05-20T07:46:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4520 Press Dr",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1193589",
-    "final_x": "3689731.46294",
-    "final_y": "549959.352852",
-    "longitude": "-90.04142193877911",
-    "latitude": "30.005944844512058",
-    "geocoded_column": {
-      "latitude": "30.005944844512058",
-      "longitude": "-90.04142193877911"
-    }
-  },
-  {
-    "service_request": "2025-1193548",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T08:44:14.000",
-    "date_modified": "2025-06-16T11:03:21.000",
-    "case_close_date": "2025-06-16T06:03:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "QUEISSER ST & READ BLVD",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1193548",
-    "final_x": "3708679.4",
-    "final_y": "564156.88",
-    "longitude": "-89.98103211993126",
-    "latitude": "30.04438146374777",
-    "geocoded_column": {
-      "latitude": "30.04438146374777",
-      "longitude": "-89.98103211993126"
-    }
-  },
-  {
-    "service_request": "2025-1193529",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T08:13:14.000",
-    "date_modified": "2025-05-24T13:46:29.000",
-    "case_close_date": "2025-05-24T08:46:28.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3638 Inwood Ave",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1193529",
-    "final_x": "3704054.59582",
-    "final_y": "515076.138099",
-    "longitude": "-89.99745692432411",
-    "latitude": "29.9095767313571",
-    "geocoded_column": {
-      "latitude": "29.9095767313571",
-      "longitude": "-89.99745692432411"
-    }
-  },
-  {
-    "service_request": "2025-1193519",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T07:38:53.000",
-    "date_modified": "2025-07-03T10:34:28.000",
-    "case_close_date": "2025-07-03T05:34:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2438 Acacia St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1193519",
-    "final_x": "3685806.52988",
-    "final_y": "545970.565712",
-    "longitude": "-90.05396240797914",
-    "latitude": "29.995098214570472",
-    "geocoded_column": {
-      "latitude": "29.995098214570472",
-      "longitude": "-90.05396240797914"
     }
   }
 ]
