@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2026-1249614",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-05T18:47:52.000",
+    "date_modified": "2026-01-05T18:47:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1000 BLK Charbonnet St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1249614",
+    "final_x": "3698570.31017",
+    "final_y": "533392.521913",
+    "longitude": "-90.01410067614881",
+    "latitude": "29.960115119321095",
+    "geocoded_column": {
+      "latitude": "29.960115119321095",
+      "longitude": "-90.01410067614881"
+    }
+  },
+  {
+    "service_request": "2026-1249433",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-05T12:30:16.000",
+    "date_modified": "2026-01-05T12:30:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2226 Marais St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1249433",
+    "final_x": "3685293.63189",
+    "final_y": "536666.827015",
+    "longitude": "-90.0559102396008",
+    "latitude": "29.969531952635982",
+    "geocoded_column": {
+      "latitude": "29.969531952635982",
+      "longitude": "-90.0559102396008"
+    }
+  },
+  {
+    "service_request": "2026-1249374",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-05T11:13:44.000",
+    "date_modified": "2026-01-05T11:13:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "612 Andrew Higgins Dr",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1249374",
+    "final_x": "3680463.39189",
+    "final_y": "526974.08563",
+    "longitude": "-90.07150162970704",
+    "latitude": "29.94302737823644",
+    "geocoded_column": {
+      "latitude": "29.94302737823644",
+      "longitude": "-90.07150162970704"
+    }
+  },
+  {
+    "service_request": "2026-1249301",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-05T09:18:13.000",
+    "date_modified": "2026-01-05T09:19:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6742 Colbert St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1249301",
+    "final_x": "3667777.04781",
+    "final_y": "552430.494998",
+    "longitude": "-90.11069807767299",
+    "latitude": "30.01340197335916",
+    "geocoded_column": {
+      "latitude": "30.01340197335916",
+      "longitude": "-90.11069807767299"
+    }
+  },
+  {
     "service_request": "2026-1249218",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -42,27 +126,6 @@
     }
   },
   {
-    "service_request": "2026-1249162",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-04T14:21:50.000",
-    "date_modified": "2026-01-04T14:21:53.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6228 Music St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1249162",
-    "final_x": "3685182.96073",
-    "final_y": "556118.738522",
-    "longitude": "-90.05557471654629",
-    "latitude": "30.023021125700893",
-    "geocoded_column": {
-      "latitude": "30.023021125700893",
-      "longitude": "-90.05557471654629"
-    }
-  },
-  {
     "service_request": "2026-1249151",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -84,16 +147,37 @@
     }
   },
   {
+    "service_request": "2026-1249099",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-03T19:31:28.000",
+    "date_modified": "2026-01-05T09:40:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1300 BLK Florida Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1249099",
+    "final_x": "3677820.33592",
+    "final_y": "544740.484454",
+    "longitude": "-90.079232483011",
+    "latitude": "29.9919586880776",
+    "geocoded_column": {
+      "latitude": "29.9919586880776",
+      "longitude": "-90.079232483011"
+    }
+  },
+  {
     "service_request": "2026-1249032",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-03T09:50:23.000",
-    "date_modified": "2026-01-03T09:50:26.000",
+    "date_modified": "2026-01-05T13:44:25.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "6535 Argonne Blvd",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1249032",
     "final_x": "3670554.93531",
     "final_y": "550792.332565",
@@ -109,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-02T17:54:42.000",
-    "date_modified": "2026-01-02T17:54:45.000",
+    "date_modified": "2026-01-05T13:20:18.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "606 N Murat St",
@@ -130,7 +214,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-02T17:19:57.000",
-    "date_modified": "2026-01-02T17:19:59.000",
+    "date_modified": "2026-01-05T13:22:39.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2439 Nashville Ave",
@@ -151,7 +235,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-02T14:30:55.000",
-    "date_modified": "2026-01-02T14:30:57.000",
+    "date_modified": "2026-01-05T13:25:06.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1528 Nashville Ave",
@@ -172,7 +256,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-02T12:06:24.000",
-    "date_modified": "2026-01-02T12:06:25.000",
+    "date_modified": "2026-01-05T13:37:40.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3118 Annette St",
@@ -215,7 +299,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-02T09:40:01.000",
-    "date_modified": "2026-01-02T09:41:09.000",
+    "date_modified": "2026-01-05T13:40:08.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "GENERAL MEYER AVE & BRISTOL PL",
@@ -236,7 +320,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-02T07:57:48.000",
-    "date_modified": "2026-01-02T07:57:49.000",
+    "date_modified": "2026-01-05T13:43:03.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "CAMP ST & ANDREW HIGGINS ST & CAMP EXIT",
@@ -253,11 +337,32 @@
     }
   },
   {
+    "service_request": "2026-1248570",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-01T01:11:18.000",
+    "date_modified": "2026-01-05T09:15:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4700 Music St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1248570",
+    "final_x": "3685568.96022",
+    "final_y": "550244.547924",
+    "longitude": "-90.05456219053077",
+    "latitude": "30.006857414968323",
+    "geocoded_column": {
+      "latitude": "30.006857414968323",
+      "longitude": "-90.05456219053077"
+    }
+  },
+  {
     "service_request": "2025-1248562",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-31T20:12:50.000",
-    "date_modified": "2025-12-31T20:12:53.000",
+    "date_modified": "2026-01-05T13:09:37.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "612 Andrew Higgins Dr",
@@ -278,7 +383,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2025-12-31T13:33:57.000",
-    "date_modified": "2025-12-31T13:34:00.000",
+    "date_modified": "2026-01-05T13:13:08.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "336 Decatur St",
@@ -313,6 +418,27 @@
     "geocoded_column": {
       "latitude": "30.0600775546344",
       "longitude": "-89.92615682848015"
+    }
+  },
+  {
+    "service_request": "2025-1248505",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-12-31T10:20:09.000",
+    "date_modified": "2026-01-05T09:12:36.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "Andre Higgins and camp",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1248505",
+    "final_x": "3680554.8",
+    "final_y": "526985.78",
+    "longitude": "-90.07121262529816",
+    "latitude": "29.943056765689015",
+    "geocoded_column": {
+      "latitude": "29.943056765689015",
+      "longitude": "-90.07121262529816"
     }
   },
   {
@@ -21454,136 +21580,6 @@
     "geocoded_column": {
       "latitude": "29.944506549776687",
       "longitude": "-90.10800521869379"
-    }
-  },
-  {
-    "service_request": "2025-1193881",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T21:14:32.000",
-    "date_modified": "2025-08-08T15:59:28.000",
-    "case_close_date": "2025-08-08T10:59:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2200 BLK Dufossat St",
-    "address_councildis": "B",
-    "status": "Unfounded",
-    "rowid": "1193881",
-    "final_x": "3668209.85777",
-    "final_y": "523739.476587",
-    "longitude": "-90.110298177193",
-    "latitude": "29.934498595225868",
-    "geocoded_column": {
-      "latitude": "29.934498595225868",
-      "longitude": "-90.110298177193"
-    }
-  },
-  {
-    "service_request": "2025-1193852",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T17:25:34.000",
-    "date_modified": "2025-05-28T07:11:21.000",
-    "case_close_date": "2025-05-28T02:11:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N GALVEZ ST & IBERVILLE ST",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1193852",
-    "final_x": "3677209.0",
-    "final_y": "534242.38",
-    "longitude": "-90.08152584962525",
-    "latitude": "29.963110897809077",
-    "geocoded_column": {
-      "latitude": "29.963110897809077",
-      "longitude": "-90.08152584962525"
-    }
-  },
-  {
-    "service_request": "2025-1193705",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T12:43:03.000",
-    "date_modified": "2025-06-16T10:39:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8700 Lake Forest Blvd",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1193705",
-    "final_x": "3706379.43159",
-    "final_y": "558088.596379",
-    "longitude": "-89.98852609141673",
-    "latitude": "30.027770510603997",
-    "geocoded_column": {
-      "latitude": "30.027770510603997",
-      "longitude": "-89.98852609141673"
-    }
-  },
-  {
-    "service_request": "2025-1193690",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T12:27:06.000",
-    "date_modified": "2025-06-16T10:39:15.000",
-    "case_close_date": "2025-06-16T05:39:14.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8037 Vincent Rd",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1193690",
-    "final_x": "3717573.97983",
-    "final_y": "572689.877481",
-    "longitude": "-89.95259658040081",
-    "latitude": "30.06755204588037",
-    "geocoded_column": {
-      "latitude": "30.06755204588037",
-      "longitude": "-89.95259658040081"
-    }
-  },
-  {
-    "service_request": "2025-1193623",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T10:40:22.000",
-    "date_modified": "2025-05-20T12:12:12.000",
-    "case_close_date": "2025-05-20T07:12:11.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "BENEFIT ST & HUMANITY ST",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1193623",
-    "final_x": "3682330.1",
-    "final_y": "544611.98",
-    "longitude": "-90.06499157368323",
-    "latitude": "29.991468856961447",
-    "geocoded_column": {
-      "latitude": "29.991468856961447",
-      "longitude": "-90.06499157368323"
-    }
-  },
-  {
-    "service_request": "2025-1193593",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-20T09:51:49.000",
-    "date_modified": "2025-06-16T10:39:16.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5300 BLK Pasteur Blvd",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1193593",
-    "final_x": "3682907.23159",
-    "final_y": "552599.372279",
-    "longitude": "-90.06288880424438",
-    "latitude": "30.013413738438235",
-    "geocoded_column": {
-      "latitude": "30.013413738438235",
-      "longitude": "-90.06288880424438"
     }
   }
 ]
