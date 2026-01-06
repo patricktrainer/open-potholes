@@ -10475,6 +10475,27 @@
     }
   },
   {
+    "service_request": "2026-1249153",
+    "request_type": "General Services",
+    "request_reason": "General Service Request",
+    "date_created": "2026-01-04T13:14:03.000",
+    "date_modified": "2026-01-04T13:14:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Orleans Parish Communication District",
+    "final_address": "4200 Old Gentilly Rd",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1249153",
+    "final_x": "3690544.05321",
+    "final_y": "548686.902995",
+    "longitude": "-90.0389001952332",
+    "latitude": "30.002420856982578",
+    "geocoded_column": {
+      "latitude": "30.002420856982578",
+      "longitude": "-90.0389001952332"
+    }
+  },
+  {
     "service_request": "2026-1249154",
     "request_type": "General Services",
     "request_reason": "General Service Request",
@@ -10487,27 +10508,6 @@
     "address_councildis": "D",
     "status": "Duplicate Request",
     "rowid": "1249154",
-    "final_x": "3690544.05321",
-    "final_y": "548686.902995",
-    "longitude": "-90.0389001952332",
-    "latitude": "30.002420856982578",
-    "geocoded_column": {
-      "latitude": "30.002420856982578",
-      "longitude": "-90.0389001952332"
-    }
-  },
-  {
-    "service_request": "2026-1249153",
-    "request_type": "General Services",
-    "request_reason": "General Service Request",
-    "date_created": "2026-01-04T13:14:03.000",
-    "date_modified": "2026-01-04T13:14:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Orleans Parish Communication District",
-    "final_address": "4200 Old Gentilly Rd",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1249153",
     "final_x": "3690544.05321",
     "final_y": "548686.902995",
     "longitude": "-90.0389001952332",
@@ -17475,27 +17475,6 @@
     }
   },
   {
-    "service_request": "2026-1248824",
-    "request_type": "Traffic Signals",
-    "request_reason": "Traffic Signal Malfunctioning or Damaged",
-    "date_created": "2026-01-02T11:50:56.000",
-    "date_modified": "2026-01-05T10:51:09.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2700 Napoleon Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1248824",
-    "final_x": "3670329.10676",
-    "final_y": "524901.711484",
-    "longitude": "-90.10356836305975",
-    "latitude": "29.93763199795991",
-    "geocoded_column": {
-      "latitude": "29.93763199795991",
-      "longitude": "-90.10356836305975"
-    }
-  },
-  {
     "service_request": "2026-1248823",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -17515,6 +17494,27 @@
     "geocoded_column": {
       "latitude": "29.946846629027757",
       "longitude": "-90.04048743600796"
+    }
+  },
+  {
+    "service_request": "2026-1248824",
+    "request_type": "Traffic Signals",
+    "request_reason": "Traffic Signal Malfunctioning or Damaged",
+    "date_created": "2026-01-02T11:50:56.000",
+    "date_modified": "2026-01-05T10:51:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2700 Napoleon Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1248824",
+    "final_x": "3670329.10676",
+    "final_y": "524901.711484",
+    "longitude": "-90.10356836305975",
+    "latitude": "29.93763199795991",
+    "geocoded_column": {
+      "latitude": "29.93763199795991",
+      "longitude": "-90.10356836305975"
     }
   },
   {
