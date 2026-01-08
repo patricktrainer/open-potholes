@@ -12156,6 +12156,27 @@
     }
   },
   {
+    "service_request": "2026-1249812",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-01-06T12:07:43.000",
+    "date_modified": "2026-01-07T10:55:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "920 Poeyfarre St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1249812",
+    "final_x": "3681386.82191",
+    "final_y": "526445.697534",
+    "longitude": "-90.0686045498335",
+    "latitude": "29.941546493588717",
+    "geocoded_column": {
+      "latitude": "29.941546493588717",
+      "longitude": "-90.0686045498335"
+    }
+  },
+  {
     "service_request": "2026-1249811",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -12177,27 +12198,6 @@
     "geocoded_column": {
       "latitude": "29.994715389510034",
       "longitude": "-90.05510558006564"
-    }
-  },
-  {
-    "service_request": "2026-1249812",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-01-06T12:07:43.000",
-    "date_modified": "2026-01-07T10:55:31.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "920 Poeyfarre St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1249812",
-    "final_x": "3681386.82191",
-    "final_y": "526445.697534",
-    "longitude": "-90.0686045498335",
-    "latitude": "29.941546493588717",
-    "geocoded_column": {
-      "latitude": "29.941546493588717",
-      "longitude": "-90.0686045498335"
     }
   },
   {
@@ -21115,30 +21115,6 @@
     }
   },
   {
-    "service_request": "2026-1249404",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-01-05T11:47:08.000",
-    "date_modified": "2026-01-06T14:46:36.000",
-    "case_close_date": "2026-01-06T08:46:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1004 Joliet St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1249404",
-    "final_x": "3660446.70726",
-    "final_y": "528893.617024",
-    "longitude": "-90.13463616887",
-    "latitude": "29.948896408055056",
-    "geocoded_column": {
-      "latitude": "29.948896408055056",
-      "longitude": "-90.13463616887"
-    }
-  },
-  {
     "service_request": "2026-1249405",
     "request_type": "Trash/Recycling",
     "request_reason": "MIssed Recycling Pick-Up",
@@ -21160,6 +21136,30 @@
     "geocoded_column": {
       "latitude": "29.97653870834625",
       "longitude": "-90.07540544933704"
+    }
+  },
+  {
+    "service_request": "2026-1249404",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-01-05T11:47:08.000",
+    "date_modified": "2026-01-06T14:46:36.000",
+    "case_close_date": "2026-01-06T08:46:35.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1004 Joliet St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1249404",
+    "final_x": "3660446.70726",
+    "final_y": "528893.617024",
+    "longitude": "-90.13463616887",
+    "latitude": "29.948896408055056",
+    "geocoded_column": {
+      "latitude": "29.948896408055056",
+      "longitude": "-90.13463616887"
     }
   },
   {
