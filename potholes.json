@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1251070",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-10T22:28:50.000",
+    "date_modified": "2026-01-10T22:28:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4319 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1251070",
+    "final_x": "3669824.05486",
+    "final_y": "537035.100104",
+    "longitude": "-90.1047521329232",
+    "latitude": "29.97100971897239",
+    "geocoded_column": {
+      "latitude": "29.97100971897239",
+      "longitude": "-90.1047521329232"
+    }
+  },
+  {
+    "service_request": "2026-1251025",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-10T15:18:42.000",
+    "date_modified": "2026-01-10T15:18:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3627 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1251025",
+    "final_x": "3673919.02881",
+    "final_y": "519269.709431",
+    "longitude": "-90.09242725096338",
+    "latitude": "29.922039383650088",
+    "geocoded_column": {
+      "latitude": "29.922039383650088",
+      "longitude": "-90.09242725096338"
+    }
+  },
+  {
     "service_request": "2026-1250896",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21549,50 +21591,6 @@
     "geocoded_column": {
       "latitude": "29.95723455418921",
       "longitude": "-90.06545264678084"
-    }
-  },
-  {
-    "service_request": "2025-1194313",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-22T10:07:38.000",
-    "date_modified": "2025-06-16T10:38:58.000",
-    "case_close_date": "2025-06-16T05:38:57.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6830 Coventry St",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1194313",
-    "final_x": "3698678.37047",
-    "final_y": "559650.369821",
-    "longitude": "-90.01280387169867",
-    "latitude": "30.032311057476928",
-    "geocoded_column": {
-      "latitude": "30.032311057476928",
-      "longitude": "-90.01280387169867"
-    }
-  },
-  {
-    "service_request": "2025-1194294",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-22T09:39:56.000",
-    "date_modified": "2025-05-23T08:24:48.000",
-    "case_close_date": "2025-05-23T03:24:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2115 Lafreniere St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1194294",
-    "final_x": "3683684.44873",
-    "final_y": "545560.995536",
-    "longitude": "-90.06068019688053",
-    "latitude": "29.994037021427054",
-    "geocoded_column": {
-      "latitude": "29.994037021427054",
-      "longitude": "-90.06068019688053"
     }
   }
 ]
