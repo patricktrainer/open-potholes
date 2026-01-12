@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2026-1251105",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-11T12:53:42.000",
+    "date_modified": "2026-01-11T12:53:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8321 Jeannette St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1251105",
+    "final_x": "3662023.69306",
+    "final_y": "529793.388801",
+    "longitude": "-90.12962707510407",
+    "latitude": "29.951325035132285",
+    "geocoded_column": {
+      "latitude": "29.951325035132285",
+      "longitude": "-90.12962707510407"
+    }
+  },
+  {
+    "service_request": "2026-1251104",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-11T12:41:10.000",
+    "date_modified": "2026-01-11T12:41:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6003 St Charles Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1251104",
+    "final_x": "3665720.59981",
+    "final_y": "522606.912186",
+    "longitude": "-90.1181946527644",
+    "latitude": "29.931457225952755",
+    "geocoded_column": {
+      "latitude": "29.931457225952755",
+      "longitude": "-90.1181946527644"
+    }
+  },
+  {
+    "service_request": "2026-1251096",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-11T11:25:55.000",
+    "date_modified": "2026-01-11T11:25:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5410 Garfield St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1251096",
+    "final_x": "3667095.53255",
+    "final_y": "521016.120057",
+    "longitude": "-90.11390758464746",
+    "latitude": "29.92704288839983",
+    "geocoded_column": {
+      "latitude": "29.92704288839983",
+      "longitude": "-90.11390758464746"
+    }
+  },
+  {
     "service_request": "2026-1251070",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -15644,27 +15707,6 @@
     }
   },
   {
-    "service_request": "2025-1207061",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-07T13:02:46.000",
-    "date_modified": "2025-07-07T13:03:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "729 Lizardi St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1207061",
-    "final_x": "3696202.01597",
-    "final_y": "532860.980356",
-    "longitude": "-90.02159841835336",
-    "latitude": "29.958728329332953",
-    "geocoded_column": {
-      "latitude": "29.958728329332953",
-      "longitude": "-90.02159841835336"
-    }
-  },
-  {
     "service_request": "2025-1207060",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -15677,6 +15719,27 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1207060",
+    "final_x": "3696202.01597",
+    "final_y": "532860.980356",
+    "longitude": "-90.02159841835336",
+    "latitude": "29.958728329332953",
+    "geocoded_column": {
+      "latitude": "29.958728329332953",
+      "longitude": "-90.02159841835336"
+    }
+  },
+  {
+    "service_request": "2025-1207061",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2025-07-07T13:02:46.000",
+    "date_modified": "2025-07-07T13:03:10.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "729 Lizardi St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1207061",
     "final_x": "3696202.01597",
     "final_y": "532860.980356",
     "longitude": "-90.02159841835336",
@@ -21526,71 +21589,6 @@
     "geocoded_column": {
       "latitude": "29.964391991269945",
       "longitude": "-90.08442919791207"
-    }
-  },
-  {
-    "service_request": "2025-1194434",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-22T13:25:42.000",
-    "date_modified": "2025-07-16T12:41:11.000",
-    "case_close_date": "2025-07-16T07:41:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "0 BLK Allard Blvd",
-    "address_councildis": "A",
-    "status": "Invalid Case",
-    "rowid": "1194434",
-    "final_x": "3672889.12367",
-    "final_y": "541158.059532",
-    "longitude": "-90.09493149945968",
-    "latitude": "29.982255733983415",
-    "geocoded_column": {
-      "latitude": "29.982255733983415",
-      "longitude": "-90.09493149945968"
-    }
-  },
-  {
-    "service_request": "2025-1194404",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-22T12:26:05.000",
-    "date_modified": "2025-05-22T12:26:06.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "DABADIE ST & N BROAD ST",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1194404",
-    "final_x": "3679586.3",
-    "final_y": "540713.38",
-    "longitude": "-90.0737939971972",
-    "latitude": "29.980832295385937",
-    "geocoded_column": {
-      "latitude": "29.980832295385937",
-      "longitude": "-90.0737939971972"
-    }
-  },
-  {
-    "service_request": "2025-1194316",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-22T10:11:57.000",
-    "date_modified": "2025-08-01T14:24:49.000",
-    "case_close_date": "2025-08-01T09:24:49.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "TOULOUSE ST & ROYAL ST",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1194316",
-    "final_x": "3682321.9",
-    "final_y": "532161.48",
-    "longitude": "-90.06545264678084",
-    "latitude": "29.95723455418921",
-    "geocoded_column": {
-      "latitude": "29.95723455418921",
-      "longitude": "-90.06545264678084"
     }
   }
 ]
