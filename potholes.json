@@ -1,5 +1,110 @@
 [
   {
+    "service_request": "2026-1251893",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-13T18:57:39.000",
+    "date_modified": "2026-01-13T18:57:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5500 Canal Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1251893",
+    "final_x": "3668033.61556",
+    "final_y": "543841.005774",
+    "longitude": "-90.1101771505373",
+    "latitude": "29.98977632484482",
+    "geocoded_column": {
+      "latitude": "29.98977632484482",
+      "longitude": "-90.1101771505373"
+    }
+  },
+  {
+    "service_request": "2026-1251861",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-13T16:36:23.000",
+    "date_modified": "2026-01-13T16:36:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5555 Canal Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1251861",
+    "final_x": "3668365.99425",
+    "final_y": "544308.835535",
+    "longitude": "-90.10911146595056",
+    "latitude": "29.99105293649849",
+    "geocoded_column": {
+      "latitude": "29.99105293649849",
+      "longitude": "-90.10911146595056"
+    }
+  },
+  {
+    "service_request": "2026-1251859",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-13T16:34:55.000",
+    "date_modified": "2026-01-13T16:34:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1031 Lamanche St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1251859",
+    "final_x": "3698349.2008",
+    "final_y": "533486.820228",
+    "longitude": "-90.01479546156801",
+    "latitude": "29.960381404082295",
+    "geocoded_column": {
+      "latitude": "29.960381404082295",
+      "longitude": "-90.01479546156801"
+    }
+  },
+  {
+    "service_request": "2026-1251807",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-13T14:55:10.000",
+    "date_modified": "2026-01-13T14:55:11.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "9235 Lake Forest Blvd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1251807",
+    "final_x": "3708042.09848",
+    "final_y": "558669.1903",
+    "longitude": "-89.98325061416197",
+    "latitude": "30.029313155771835",
+    "geocoded_column": {
+      "latitude": "30.029313155771835",
+      "longitude": "-89.98325061416197"
+    }
+  },
+  {
+    "service_request": "2026-1251692",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-13T12:05:15.000",
+    "date_modified": "2026-01-13T12:05:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2800 BLK Martin Luther King, Jr. Blvd",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1251692",
+    "final_x": "3675533.27455",
+    "final_y": "527890.376094",
+    "longitude": "-90.08703577157048",
+    "latitude": "29.94569523844211",
+    "geocoded_column": {
+      "latitude": "29.94569523844211",
+      "longitude": "-90.08703577157048"
+    }
+  },
+  {
     "service_request": "2026-1251507",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -84,27 +189,6 @@
     }
   },
   {
-    "service_request": "2026-1251448",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-12T16:02:16.000",
-    "date_modified": "2026-01-12T16:02:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "13701 Curran Rd",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1251448",
-    "final_x": "3717590.94341",
-    "final_y": "571491.795048",
-    "longitude": "-89.95258859376848",
-    "latitude": "30.064257258114328",
-    "geocoded_column": {
-      "latitude": "30.064257258114328",
-      "longitude": "-89.95258859376848"
-    }
-  },
-  {
     "service_request": "2026-1251430",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -172,12 +256,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-12T13:29:41.000",
-    "date_modified": "2026-01-12T13:29:43.000",
-    "request_status": "Pending",
+    "date_modified": "2026-01-13T08:50:31.000",
+    "case_close_date": "2026-01-13T02:35:52.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "5710 St Bernard Ave",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Duplicate Request",
     "rowid": "1251364",
     "final_x": "3676761.79445",
     "final_y": "553418.291159",
@@ -214,7 +299,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-01-12T10:01:46.000",
-    "date_modified": "2026-01-12T10:01:47.000",
+    "date_modified": "2026-01-13T08:17:43.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1161 Allen Toussaint Blvd",
@@ -270,27 +355,6 @@
     "geocoded_column": {
       "latitude": "29.951325035132285",
       "longitude": "-90.12962707510407"
-    }
-  },
-  {
-    "service_request": "2026-1251104",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-11T12:41:10.000",
-    "date_modified": "2026-01-12T09:23:32.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6003 St Charles Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1251104",
-    "final_x": "3665720.59981",
-    "final_y": "522606.912186",
-    "longitude": "-90.1181946527644",
-    "latitude": "29.931457225952755",
-    "geocoded_column": {
-      "latitude": "29.931457225952755",
-      "longitude": "-90.1181946527644"
     }
   },
   {
@@ -21513,72 +21577,6 @@
     "geocoded_column": {
       "latitude": "29.978543191504247",
       "longitude": "-90.014557163192"
-    }
-  },
-  {
-    "service_request": "2025-1195111",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-27T08:10:25.000",
-    "date_modified": "2025-05-29T11:04:53.000",
-    "case_close_date": "2025-05-29T06:04:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1123 Marengo St",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1195111",
-    "final_x": "3672168.01422",
-    "final_y": "519847.244856",
-    "longitude": "-90.09793482789676",
-    "latitude": "29.923679447344355",
-    "geocoded_column": {
-      "latitude": "29.923679447344355",
-      "longitude": "-90.09793482789676"
-    }
-  },
-  {
-    "service_request": "2025-1195073",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-26T17:57:13.000",
-    "date_modified": "2025-07-24T09:36:50.000",
-    "case_close_date": "2025-06-16T05:38:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8435 Burthe St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1195073",
-    "final_x": "3660285.22752",
-    "final_y": "528528.228992",
-    "longitude": "-90.13515809670336",
-    "latitude": "29.947896351557315",
-    "geocoded_column": {
-      "latitude": "29.947896351557315",
-      "longitude": "-90.13515809670336"
-    }
-  },
-  {
-    "service_request": "2025-1194899",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-25T10:20:41.000",
-    "date_modified": "2025-07-24T09:36:52.000",
-    "case_close_date": "2025-06-16T06:03:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2101 Lafitte Ave",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1194899",
-    "final_x": "3678286.72245",
-    "final_y": "535254.195654",
-    "longitude": "-90.07808752685848",
-    "latitude": "29.96586062873366",
-    "geocoded_column": {
-      "latitude": "29.96586062873366",
-      "longitude": "-90.07808752685848"
     }
   }
 ]
