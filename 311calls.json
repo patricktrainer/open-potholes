@@ -9586,27 +9586,6 @@
     }
   },
   {
-    "service_request": "2026-1251462",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-12T16:29:01.000",
-    "date_modified": "2026-01-12T16:29:02.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6240 Dover Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1251462",
-    "final_x": "3707277.11108",
-    "final_y": "519132.681399",
-    "longitude": "-89.98713573210043",
-    "latitude": "29.92062712230568",
-    "geocoded_column": {
-      "latitude": "29.92062712230568",
-      "longitude": "-89.98713573210043"
-    }
-  },
-  {
     "service_request": "2026-1251463",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -9618,6 +9597,27 @@
     "address_councildis": "C",
     "status": "Pending",
     "rowid": "1251463",
+    "final_x": "3707277.11108",
+    "final_y": "519132.681399",
+    "longitude": "-89.98713573210043",
+    "latitude": "29.92062712230568",
+    "geocoded_column": {
+      "latitude": "29.92062712230568",
+      "longitude": "-89.98713573210043"
+    }
+  },
+  {
+    "service_request": "2026-1251462",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-12T16:29:01.000",
+    "date_modified": "2026-01-12T16:29:02.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6240 Dover Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1251462",
     "final_x": "3707277.11108",
     "final_y": "519132.681399",
     "longitude": "-89.98713573210043",
