@@ -235,6 +235,48 @@
     }
   },
   {
+    "service_request": "2026-1252500",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-15T20:42:39.000",
+    "date_modified": "2026-01-15T20:42:43.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4116 General Pershing St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1252500",
+    "final_x": "3670049.73268",
+    "final_y": "529282.003329",
+    "longitude": "-90.10430204097534",
+    "latitude": "29.949684617757768",
+    "geocoded_column": {
+      "latitude": "29.949684617757768",
+      "longitude": "-90.10430204097534"
+    }
+  },
+  {
+    "service_request": "2026-1252504",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-15T20:42:39.000",
+    "date_modified": "2026-01-15T20:42:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4116 General Pershing St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1252504",
+    "final_x": "3670049.73268",
+    "final_y": "529282.003329",
+    "longitude": "-90.10430204097534",
+    "latitude": "29.949684617757768",
+    "geocoded_column": {
+      "latitude": "29.949684617757768",
+      "longitude": "-90.10430204097534"
+    }
+  },
+  {
     "service_request": "2026-1252503",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -288,48 +330,6 @@
     "address_councildis": "B",
     "status": "Pending",
     "rowid": "1252501",
-    "final_x": "3670049.73268",
-    "final_y": "529282.003329",
-    "longitude": "-90.10430204097534",
-    "latitude": "29.949684617757768",
-    "geocoded_column": {
-      "latitude": "29.949684617757768",
-      "longitude": "-90.10430204097534"
-    }
-  },
-  {
-    "service_request": "2026-1252500",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-15T20:42:39.000",
-    "date_modified": "2026-01-15T20:42:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4116 General Pershing St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1252500",
-    "final_x": "3670049.73268",
-    "final_y": "529282.003329",
-    "longitude": "-90.10430204097534",
-    "latitude": "29.949684617757768",
-    "geocoded_column": {
-      "latitude": "29.949684617757768",
-      "longitude": "-90.10430204097534"
-    }
-  },
-  {
-    "service_request": "2026-1252504",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-15T20:42:39.000",
-    "date_modified": "2026-01-15T20:42:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4116 General Pershing St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1252504",
     "final_x": "3670049.73268",
     "final_y": "529282.003329",
     "longitude": "-90.10430204097534",
@@ -3657,28 +3657,6 @@
     }
   },
   {
-    "service_request": "2026-1252344",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Damaged Caused By Contractor",
-    "date_created": "2026-01-15T11:11:52.000",
-    "date_modified": "2026-01-15T11:11:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4970 Western St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1252344",
-    "final_x": "3683994.24777",
-    "final_y": "551263.397269",
-    "longitude": "-90.05950133498607",
-    "latitude": "30.009707109352817",
-    "geocoded_column": {
-      "latitude": "30.009707109352817",
-      "longitude": "-90.05950133498607"
-    }
-  },
-  {
     "service_request": "2026-1252343",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -3700,6 +3678,28 @@
     "geocoded_column": {
       "latitude": "29.938040063237054",
       "longitude": "-90.10868414845353"
+    }
+  },
+  {
+    "service_request": "2026-1252344",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Damaged Caused By Contractor",
+    "date_created": "2026-01-15T11:11:52.000",
+    "date_modified": "2026-01-15T11:11:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4970 Western St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1252344",
+    "final_x": "3683994.24777",
+    "final_y": "551263.397269",
+    "longitude": "-90.05950133498607",
+    "latitude": "30.009707109352817",
+    "geocoded_column": {
+      "latitude": "30.009707109352817",
+      "longitude": "-90.05950133498607"
     }
   },
   {
@@ -4433,6 +4433,27 @@
     }
   },
   {
+    "service_request": "2026-1252307",
+    "request_type": "Property Maintenance",
+    "request_reason": "Property Maintenance",
+    "date_created": "2026-01-15T09:30:43.000",
+    "date_modified": "2026-01-15T09:30:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Code Enforcement",
+    "final_address": "2118 Benton St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1252307",
+    "final_x": "3700288.98256",
+    "final_y": "537314.317384",
+    "longitude": "-90.00853032824406",
+    "latitude": "29.970844128150627",
+    "geocoded_column": {
+      "latitude": "29.970844128150627",
+      "longitude": "-90.00853032824406"
+    }
+  },
+  {
     "service_request": "2026-1252308",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -4452,27 +4473,6 @@
     "geocoded_column": {
       "latitude": "29.945495383380262",
       "longitude": "-90.10726148953688"
-    }
-  },
-  {
-    "service_request": "2026-1252307",
-    "request_type": "Property Maintenance",
-    "request_reason": "Property Maintenance",
-    "date_created": "2026-01-15T09:30:43.000",
-    "date_modified": "2026-01-15T09:30:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Code Enforcement",
-    "final_address": "2118 Benton St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1252307",
-    "final_x": "3700288.98256",
-    "final_y": "537314.317384",
-    "longitude": "-90.00853032824406",
-    "latitude": "29.970844128150627",
-    "geocoded_column": {
-      "latitude": "29.970844128150627",
-      "longitude": "-90.00853032824406"
     }
   },
   {
@@ -4687,27 +4687,6 @@
     }
   },
   {
-    "service_request": "2026-1252295",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-01-15T09:16:17.000",
-    "date_modified": "2026-01-15T09:16:18.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2108 Broadway St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1252295",
-    "final_x": "3665954.30951",
-    "final_y": "529251.645313",
-    "longitude": "-90.11723422793541",
-    "latitude": "29.94972129397596",
-    "geocoded_column": {
-      "latitude": "29.94972129397596",
-      "longitude": "-90.11723422793541"
-    }
-  },
-  {
     "service_request": "2026-1252296",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -4726,6 +4705,27 @@
     "geocoded_column": {
       "latitude": "29.95784097877161",
       "longitude": "-90.11855214729498"
+    }
+  },
+  {
+    "service_request": "2026-1252295",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-01-15T09:16:17.000",
+    "date_modified": "2026-01-15T09:16:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2108 Broadway St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1252295",
+    "final_x": "3665954.30951",
+    "final_y": "529251.645313",
+    "longitude": "-90.11723422793541",
+    "latitude": "29.94972129397596",
+    "geocoded_column": {
+      "latitude": "29.94972129397596",
+      "longitude": "-90.11723422793541"
     }
   },
   {
@@ -8203,6 +8203,28 @@
     }
   },
   {
+    "service_request": "2026-1252133",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2026-01-14T14:59:44.000",
+    "date_modified": "2026-01-14T15:01:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4321 Alba Rd",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1252133",
+    "final_x": "3761681.03446",
+    "final_y": "572579.119401",
+    "longitude": "-89.81317428077861",
+    "latitude": "30.065712344265126",
+    "geocoded_column": {
+      "latitude": "30.065712344265126",
+      "longitude": "-89.81317428077861"
+    }
+  },
+  {
     "service_request": "2026-1252134",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -8224,28 +8246,6 @@
     "geocoded_column": {
       "latitude": "30.01794811542994",
       "longitude": "-90.01452426726782"
-    }
-  },
-  {
-    "service_request": "2026-1252133",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2026-01-14T14:59:44.000",
-    "date_modified": "2026-01-14T15:01:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4321 Alba Rd",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1252133",
-    "final_x": "3761681.03446",
-    "final_y": "572579.119401",
-    "longitude": "-89.81317428077861",
-    "latitude": "30.065712344265126",
-    "geocoded_column": {
-      "latitude": "30.065712344265126",
-      "longitude": "-89.81317428077861"
     }
   },
   {
@@ -12147,27 +12147,6 @@
     }
   },
   {
-    "service_request": "2026-1251951",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-14T08:48:35.000",
-    "date_modified": "2026-01-15T09:31:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7541 Brevard Ave",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1251951",
-    "final_x": "3706500.5786",
-    "final_y": "563273.719456",
-    "longitude": "-89.9879509002471",
-    "latitude": "30.04202364721598",
-    "geocoded_column": {
-      "latitude": "30.04202364721598",
-      "longitude": "-89.9879509002471"
-    }
-  },
-  {
     "service_request": "2026-1251952",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12180,6 +12159,27 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1251952",
+    "final_x": "3706500.5786",
+    "final_y": "563273.719456",
+    "longitude": "-89.9879509002471",
+    "latitude": "30.04202364721598",
+    "geocoded_column": {
+      "latitude": "30.04202364721598",
+      "longitude": "-89.9879509002471"
+    }
+  },
+  {
+    "service_request": "2026-1251951",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-14T08:48:35.000",
+    "date_modified": "2026-01-15T09:31:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7541 Brevard Ave",
+    "address_councildis": "E",
+    "status": "Inspected",
+    "rowid": "1251951",
     "final_x": "3706500.5786",
     "final_y": "563273.719456",
     "longitude": "-89.9879509002471",
