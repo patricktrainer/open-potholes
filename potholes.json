@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1252900",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-18T21:24:31.000",
+    "date_modified": "2026-01-18T21:24:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3535 Lancaster St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1252900",
+    "final_x": "3709795.58456",
+    "final_y": "517609.450358",
+    "longitude": "-89.97924297333053",
+    "latitude": "29.9163571714331",
+    "geocoded_column": {
+      "latitude": "29.9163571714331",
+      "longitude": "-89.97924297333053"
+    }
+  },
+  {
+    "service_request": "2026-1252899",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-18T21:20:23.000",
+    "date_modified": "2026-01-18T21:20:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3335 Lancaster St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1252899",
+    "final_x": "3709867.72721",
+    "final_y": "518360.845302",
+    "longitude": "-89.97898723163478",
+    "latitude": "29.918420900402264",
+    "geocoded_column": {
+      "latitude": "29.918420900402264",
+      "longitude": "-89.97898723163478"
+    }
+  },
+  {
     "service_request": "2026-1252824",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21523,50 +21565,6 @@
     "geocoded_column": {
       "latitude": "30.025637722976466",
       "longitude": "-90.05185004972276"
-    }
-  },
-  {
-    "service_request": "2025-1196510",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-30T11:13:15.000",
-    "date_modified": "2025-06-02T06:09:34.000",
-    "case_close_date": "2025-06-02T01:09:33.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2168 Lafreniere St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1196510",
-    "final_x": "3684065.94997",
-    "final_y": "545440.656656",
-    "longitude": "-90.0594793157292",
-    "latitude": "29.993694476020345",
-    "geocoded_column": {
-      "latitude": "29.993694476020345",
-      "longitude": "-90.0594793157292"
-    }
-  },
-  {
-    "service_request": "2025-1196485",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-05-30T10:26:49.000",
-    "date_modified": "2025-06-02T08:39:08.000",
-    "case_close_date": "2025-06-02T03:39:07.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "526 Pine St",
-    "address_councildis": "A",
-    "status": "Captured by Project",
-    "rowid": "1196485",
-    "final_x": "3662450.33069",
-    "final_y": "524615.466172",
-    "longitude": "-90.1284518745106",
-    "latitude": "29.937075070520944",
-    "geocoded_column": {
-      "latitude": "29.937075070520944",
-      "longitude": "-90.1284518745106"
     }
   }
 ]
