@@ -13862,27 +13862,6 @@
     }
   },
   {
-    "service_request": "2026-1253696",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2026-01-21T15:50:43.000",
-    "date_modified": "2026-01-21T15:50:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "237 Roselyn Park Pl",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1253696",
-    "final_x": "3702578.64938",
-    "final_y": "523288.926395",
-    "longitude": "-90.00181403986072",
-    "latitude": "29.93220630230852",
-    "geocoded_column": {
-      "latitude": "29.93220630230852",
-      "longitude": "-90.00181403986072"
-    }
-  },
-  {
     "service_request": "2026-1253697",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -13902,6 +13881,27 @@
     "geocoded_column": {
       "latitude": "29.975572593237253",
       "longitude": "-90.10691438082628"
+    }
+  },
+  {
+    "service_request": "2026-1253696",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2026-01-21T15:50:43.000",
+    "date_modified": "2026-01-21T15:50:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "237 Roselyn Park Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1253696",
+    "final_x": "3702578.64938",
+    "final_y": "523288.926395",
+    "longitude": "-90.00181403986072",
+    "latitude": "29.93220630230852",
+    "geocoded_column": {
+      "latitude": "29.93220630230852",
+      "longitude": "-90.00181403986072"
     }
   },
   {
@@ -15995,28 +15995,6 @@
     }
   },
   {
-    "service_request": "2026-1253600",
-    "request_type": "General Services",
-    "request_reason": "General Service Request",
-    "date_created": "2026-01-21T12:47:44.000",
-    "date_modified": "2026-01-21T13:48:32.000",
-    "case_close_date": "2026-01-21T07:48:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Orleans Parish Communication District",
-    "final_address": "111 Maryland Dr",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1253600",
-    "final_x": "3663771.76339",
-    "final_y": "542172.709965",
-    "longitude": "-90.12369486214116",
-    "latitude": "29.98531347899699",
-    "geocoded_column": {
-      "latitude": "29.98531347899699",
-      "longitude": "-90.12369486214116"
-    }
-  },
-  {
     "service_request": "2026-1253601",
     "request_type": "General Services",
     "request_reason": "General Service Request",
@@ -16029,6 +16007,28 @@
     "address_councildis": "A",
     "status": "Question Answered.",
     "rowid": "1253601",
+    "final_x": "3663771.76339",
+    "final_y": "542172.709965",
+    "longitude": "-90.12369486214116",
+    "latitude": "29.98531347899699",
+    "geocoded_column": {
+      "latitude": "29.98531347899699",
+      "longitude": "-90.12369486214116"
+    }
+  },
+  {
+    "service_request": "2026-1253600",
+    "request_type": "General Services",
+    "request_reason": "General Service Request",
+    "date_created": "2026-01-21T12:47:44.000",
+    "date_modified": "2026-01-21T13:48:32.000",
+    "case_close_date": "2026-01-21T07:48:31.000",
+    "request_status": "Closed",
+    "responsible_agency": "Orleans Parish Communication District",
+    "final_address": "111 Maryland Dr",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1253600",
     "final_x": "3663771.76339",
     "final_y": "542172.709965",
     "longitude": "-90.12369486214116",
