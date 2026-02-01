@@ -13572,6 +13572,27 @@
     }
   },
   {
+    "service_request": "2026-1255047",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-01-28T12:46:26.000",
+    "date_modified": "2026-01-29T09:46:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6081 Winchester Park Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1255047",
+    "final_x": "3713939.86693",
+    "final_y": "563879.338209",
+    "longitude": "-89.96441731341052",
+    "latitude": "30.04344658198146",
+    "geocoded_column": {
+      "latitude": "30.04344658198146",
+      "longitude": "-89.96441731341052"
+    }
+  },
+  {
     "service_request": "2026-1255048",
     "request_type": "Trash/Recycling",
     "request_reason": "Return Trash Cart",
@@ -13591,27 +13612,6 @@
     "geocoded_column": {
       "latitude": "29.916869245752714",
       "longitude": "-90.1121709445526"
-    }
-  },
-  {
-    "service_request": "2026-1255047",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-01-28T12:46:26.000",
-    "date_modified": "2026-01-29T09:46:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6081 Winchester Park Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1255047",
-    "final_x": "3713939.86693",
-    "final_y": "563879.338209",
-    "longitude": "-89.96441731341052",
-    "latitude": "30.04344658198146",
-    "geocoded_column": {
-      "latitude": "30.04344658198146",
-      "longitude": "-89.96441731341052"
     }
   },
   {
