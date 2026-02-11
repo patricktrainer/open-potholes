@@ -3761,27 +3761,6 @@
     }
   },
   {
-    "service_request": "2026-1257705",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-02-10T11:13:13.000",
-    "date_modified": "2026-02-10T11:13:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2700 BLK N Galvez St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1257705",
-    "final_x": "3688521.0619",
-    "final_y": "540078.319565",
-    "longitude": "-90.04559669392765",
-    "latitude": "29.97881302656625",
-    "geocoded_column": {
-      "latitude": "29.97881302656625",
-      "longitude": "-90.04559669392765"
-    }
-  },
-  {
     "service_request": "2026-1257704",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -3793,6 +3772,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1257704",
+    "final_x": "3688521.0619",
+    "final_y": "540078.319565",
+    "longitude": "-90.04559669392765",
+    "latitude": "29.97881302656625",
+    "geocoded_column": {
+      "latitude": "29.97881302656625",
+      "longitude": "-90.04559669392765"
+    }
+  },
+  {
+    "service_request": "2026-1257705",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-02-10T11:13:13.000",
+    "date_modified": "2026-02-10T11:13:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2700 BLK N Galvez St",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1257705",
     "final_x": "3688521.0619",
     "final_y": "540078.319565",
     "longitude": "-90.04559669392765",
