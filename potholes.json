@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1258595",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-02-14T19:13:49.000",
+    "date_modified": "2026-02-14T19:13:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6802 Vicksburg St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1258595",
+    "final_x": "3669309.70382",
+    "final_y": "552698.282326",
+    "longitude": "-90.10584661422472",
+    "latitude": "30.014093238023392",
+    "geocoded_column": {
+      "latitude": "30.014093238023392",
+      "longitude": "-90.10584661422472"
+    }
+  },
+  {
     "service_request": "2026-1258508",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21474,28 +21495,6 @@
     "geocoded_column": {
       "latitude": "29.940020626879285",
       "longitude": "-90.02141273250625"
-    }
-  },
-  {
-    "service_request": "2025-1202220",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-06-18T11:48:59.000",
-    "date_modified": "2025-08-01T13:20:20.000",
-    "case_close_date": "2025-08-01T08:20:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7000 BLK Oleander St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1202220",
-    "final_x": "3668414.68183",
-    "final_y": "532162.182511",
-    "longitude": "-90.10936751777801",
-    "latitude": "29.957652288173545",
-    "geocoded_column": {
-      "latitude": "29.957652288173545",
-      "longitude": "-90.10936751777801"
     }
   }
 ]
