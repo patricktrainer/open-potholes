@@ -4258,28 +4258,6 @@
     }
   },
   {
-    "service_request": "2026-1258688",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Park Maintenance/Clean Up",
-    "date_created": "2026-02-16T09:47:41.000",
-    "date_modified": "2026-02-16T10:07:23.000",
-    "case_close_date": "2026-02-16T04:07:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "4854 Tchoupitoulas St",
-    "address_councildis": "B",
-    "status": "Referred to external agency",
-    "rowid": "1258688",
-    "final_x": "3669239.38919",
-    "final_y": "517213.015605",
-    "longitude": "-90.1072684263289",
-    "latitude": "29.916522646092645",
-    "geocoded_column": {
-      "latitude": "29.916522646092645",
-      "longitude": "-90.1072684263289"
-    }
-  },
-  {
     "service_request": "2026-1258693",
     "request_type": "Parks & Parkways",
     "request_reason": "Park Maintenance/Clean Up",
@@ -4292,6 +4270,28 @@
     "address_councildis": "B",
     "status": "Referred to external agency",
     "rowid": "1258693",
+    "final_x": "3669239.38919",
+    "final_y": "517213.015605",
+    "longitude": "-90.1072684263289",
+    "latitude": "29.916522646092645",
+    "geocoded_column": {
+      "latitude": "29.916522646092645",
+      "longitude": "-90.1072684263289"
+    }
+  },
+  {
+    "service_request": "2026-1258688",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Park Maintenance/Clean Up",
+    "date_created": "2026-02-16T09:47:41.000",
+    "date_modified": "2026-02-16T10:07:23.000",
+    "case_close_date": "2026-02-16T04:07:22.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "4854 Tchoupitoulas St",
+    "address_councildis": "B",
+    "status": "Referred to external agency",
+    "rowid": "1258688",
     "final_x": "3669239.38919",
     "final_y": "517213.015605",
     "longitude": "-90.1072684263289",
@@ -13736,6 +13736,28 @@
     }
   },
   {
+    "service_request": "2026-1258253",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-02-12T10:42:06.000",
+    "date_modified": "2026-02-12T10:42:08.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7828 Devine Ave",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1258253",
+    "final_x": "3705269.12049",
+    "final_y": "563611.331361",
+    "longitude": "-89.99183025248533",
+    "latitude": "30.042991645724985",
+    "geocoded_column": {
+      "latitude": "30.042991645724985",
+      "longitude": "-89.99183025248533"
+    }
+  },
+  {
     "service_request": "2026-1258252",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -13770,28 +13792,6 @@
     "status": "Assigned to Contractor",
     "contractor": "Waste Pro",
     "rowid": "1258254",
-    "final_x": "3705269.12049",
-    "final_y": "563611.331361",
-    "longitude": "-89.99183025248533",
-    "latitude": "30.042991645724985",
-    "geocoded_column": {
-      "latitude": "30.042991645724985",
-      "longitude": "-89.99183025248533"
-    }
-  },
-  {
-    "service_request": "2026-1258253",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-02-12T10:42:06.000",
-    "date_modified": "2026-02-12T10:42:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7828 Devine Ave",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1258253",
     "final_x": "3705269.12049",
     "final_y": "563611.331361",
     "longitude": "-89.99183025248533",
