@@ -7078,27 +7078,6 @@
     }
   },
   {
-    "service_request": "2026-1259544",
-    "request_type": "Parks & Parkways",
-    "request_reason": "Request Tree Service (Right of Way/Public Property)",
-    "date_created": "2026-02-20T09:36:36.000",
-    "date_modified": "2026-02-20T09:36:37.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkway",
-    "final_address": "746 Louisiana Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1259544",
-    "final_x": "3675431.54689",
-    "final_y": "518493.384375",
-    "longitude": "-90.08767949867654",
-    "latitude": "29.919859612686352",
-    "geocoded_column": {
-      "latitude": "29.919859612686352",
-      "longitude": "-90.08767949867654"
-    }
-  },
-  {
     "service_request": "2026-1259543",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -7118,6 +7097,27 @@
     "geocoded_column": {
       "latitude": "29.968936258310617",
       "longitude": "-90.11740999420523"
+    }
+  },
+  {
+    "service_request": "2026-1259544",
+    "request_type": "Parks & Parkways",
+    "request_reason": "Request Tree Service (Right of Way/Public Property)",
+    "date_created": "2026-02-20T09:36:36.000",
+    "date_modified": "2026-02-20T09:36:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkway",
+    "final_address": "746 Louisiana Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1259544",
+    "final_x": "3675431.54689",
+    "final_y": "518493.384375",
+    "longitude": "-90.08767949867654",
+    "latitude": "29.919859612686352",
+    "geocoded_column": {
+      "latitude": "29.919859612686352",
+      "longitude": "-90.08767949867654"
     }
   },
   {
