@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1259901",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-02-22T12:29:44.000",
+    "date_modified": "2026-02-22T12:30:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8200 BLK Belfast St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1259901",
+    "final_x": "3665194.97043",
+    "final_y": "532722.509146",
+    "longitude": "-90.11951572583875",
+    "latitude": "29.95928717799982",
+    "geocoded_column": {
+      "latitude": "29.95928717799982",
+      "longitude": "-90.11951572583875"
+    }
+  },
+  {
     "service_request": "2026-1259787",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21468,28 +21489,6 @@
     "geocoded_column": {
       "latitude": "29.982343589896796",
       "longitude": "-90.04753319293398"
-    }
-  },
-  {
-    "service_request": "2025-1203772",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-06-24T12:21:49.000",
-    "date_modified": "2025-08-12T15:24:50.000",
-    "case_close_date": "2025-07-15T08:56:03.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "MARENGO ST & TCHOUPITOULAS ST",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1203772",
-    "final_x": "3672294.2",
-    "final_y": "517576.08",
-    "longitude": "-90.09761382071339",
-    "latitude": "29.917430726080497",
-    "geocoded_column": {
-      "latitude": "29.917430726080497",
-      "longitude": "-90.09761382071339"
     }
   }
 ]
