@@ -19886,27 +19886,6 @@
     }
   },
   {
-    "service_request": "2026-1263084",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-03-05T15:18:26.000",
-    "date_modified": "2026-03-06T09:40:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4100 Vendome Pl",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1263084",
-    "final_x": "3668740.99476",
-    "final_y": "530462.336834",
-    "longitude": "-90.10839449509521",
-    "latitude": "29.952968682658483",
-    "geocoded_column": {
-      "latitude": "29.952968682658483",
-      "longitude": "-90.10839449509521"
-    }
-  },
-  {
     "service_request": "2026-1263083",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -19925,6 +19904,27 @@
     "geocoded_column": {
       "latitude": "29.970217487225113",
       "longitude": "-90.04442910449778"
+    }
+  },
+  {
+    "service_request": "2026-1263084",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-03-05T15:18:26.000",
+    "date_modified": "2026-03-06T09:40:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4100 Vendome Pl",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1263084",
+    "final_x": "3668740.99476",
+    "final_y": "530462.336834",
+    "longitude": "-90.10839449509521",
+    "latitude": "29.952968682658483",
+    "geocoded_column": {
+      "latitude": "29.952968682658483",
+      "longitude": "-90.10839449509521"
     }
   },
   {
