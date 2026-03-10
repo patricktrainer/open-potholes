@@ -19886,27 +19886,6 @@
     }
   },
   {
-    "service_request": "2026-1263083",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-03-05T15:18:26.000",
-    "date_modified": "2026-03-06T11:15:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1316 Feliciana St",
-    "address_councildis": "C",
-    "status": "Inspected",
-    "rowid": "1263083",
-    "final_x": "3688925.85551",
-    "final_y": "536956.819336",
-    "longitude": "-90.04442910449778",
-    "latitude": "29.970217487225113",
-    "geocoded_column": {
-      "latitude": "29.970217487225113",
-      "longitude": "-90.04442910449778"
-    }
-  },
-  {
     "service_request": "2026-1263084",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -19925,6 +19904,27 @@
     "geocoded_column": {
       "latitude": "29.952968682658483",
       "longitude": "-90.10839449509521"
+    }
+  },
+  {
+    "service_request": "2026-1263083",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-03-05T15:18:26.000",
+    "date_modified": "2026-03-06T11:15:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1316 Feliciana St",
+    "address_councildis": "C",
+    "status": "Inspected",
+    "rowid": "1263083",
+    "final_x": "3688925.85551",
+    "final_y": "536956.819336",
+    "longitude": "-90.04442910449778",
+    "latitude": "29.970217487225113",
+    "geocoded_column": {
+      "latitude": "29.970217487225113",
+      "longitude": "-90.04442910449778"
     }
   },
   {
