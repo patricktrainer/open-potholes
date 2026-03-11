@@ -11796,28 +11796,6 @@
     }
   },
   {
-    "service_request": "2026-1263891",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-03-09T13:09:01.000",
-    "date_modified": "2026-03-09T13:09:03.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4720 Francisco Verrett Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1263891",
-    "final_x": "3704198.33002",
-    "final_y": "555114.203097",
-    "longitude": "-89.99552789705307",
-    "latitude": "30.01966228494142",
-    "geocoded_column": {
-      "latitude": "30.01966228494142",
-      "longitude": "-89.99552789705307"
-    }
-  },
-  {
     "service_request": "2026-1263892",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -11837,6 +11815,28 @@
     "geocoded_column": {
       "latitude": "29.91185276043689",
       "longitude": "-90.01106431060758"
+    }
+  },
+  {
+    "service_request": "2026-1263891",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-03-09T13:09:01.000",
+    "date_modified": "2026-03-09T13:09:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4720 Francisco Verrett Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1263891",
+    "final_x": "3704198.33002",
+    "final_y": "555114.203097",
+    "longitude": "-89.99552789705307",
+    "latitude": "30.01966228494142",
+    "geocoded_column": {
+      "latitude": "30.01966228494142",
+      "longitude": "-89.99552789705307"
     }
   },
   {
@@ -12149,28 +12149,6 @@
     }
   },
   {
-    "service_request": "2026-1263875",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Replace Trash Cart",
-    "date_created": "2026-03-09T12:50:14.000",
-    "date_modified": "2026-03-10T16:34:44.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "3434 Roger Williams St",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1263875",
-    "final_x": "3676551.78254",
-    "final_y": "543889.74971",
-    "longitude": "-90.08326890240023",
-    "latitude": "29.98965757981341",
-    "geocoded_column": {
-      "latitude": "29.98965757981341",
-      "longitude": "-90.08326890240023"
-    }
-  },
-  {
     "service_request": "2026-1263876",
     "request_type": "Trash/Recycling",
     "request_reason": "Replace Trash Cart",
@@ -12190,6 +12168,28 @@
     "geocoded_column": {
       "latitude": "29.95205713073587",
       "longitude": "-90.0531703236586"
+    }
+  },
+  {
+    "service_request": "2026-1263875",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Replace Trash Cart",
+    "date_created": "2026-03-09T12:50:14.000",
+    "date_modified": "2026-03-10T16:34:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "3434 Roger Williams St",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1263875",
+    "final_x": "3676551.78254",
+    "final_y": "543889.74971",
+    "longitude": "-90.08326890240023",
+    "latitude": "29.98965757981341",
+    "geocoded_column": {
+      "latitude": "29.98965757981341",
+      "longitude": "-90.08326890240023"
     }
   },
   {
