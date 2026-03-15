@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1265597",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-03-14T23:09:55.000",
+    "date_modified": "2026-03-14T23:09:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4847 Cerise Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1265597",
+    "final_x": "3708614.36561",
+    "final_y": "556359.051354",
+    "longitude": "-89.98152840101969",
+    "latitude": "30.022942626279914",
+    "geocoded_column": {
+      "latitude": "30.022942626279914",
+      "longitude": "-89.98152840101969"
+    }
+  },
+  {
     "service_request": "2026-1265513",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21426,28 +21447,6 @@
     "geocoded_column": {
       "latitude": "29.992907977445302",
       "longitude": "-90.1080937821899"
-    }
-  },
-  {
-    "service_request": "2025-1210104",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-16T13:21:29.000",
-    "date_modified": "2025-07-22T12:00:27.000",
-    "case_close_date": "2025-07-22T07:00:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "500 BLK Cadiz St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1210104",
-    "final_x": "3670426.43503",
-    "final_y": "517528.413878",
-    "longitude": "-90.1035109315065",
-    "latitude": "29.917354913178766",
-    "geocoded_column": {
-      "latitude": "29.917354913178766",
-      "longitude": "-90.1035109315065"
     }
   }
 ]
