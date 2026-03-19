@@ -11932,27 +11932,6 @@
     }
   },
   {
-    "service_request": "2026-1266222",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2026-03-17T11:12:09.000",
-    "date_modified": "2026-03-17T11:12:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "802 Washington Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1266222",
-    "final_x": "3677607.60718",
-    "final_y": "519914.412152",
-    "longitude": "-90.0807617003476",
-    "latitude": "29.923701753415784",
-    "geocoded_column": {
-      "latitude": "29.923701753415784",
-      "longitude": "-90.0807617003476"
-    }
-  },
-  {
     "service_request": "2026-1266221",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -11971,6 +11950,27 @@
     "geocoded_column": {
       "latitude": "30.071543315572608",
       "longitude": "-89.94142448381731"
+    }
+  },
+  {
+    "service_request": "2026-1266222",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2026-03-17T11:12:09.000",
+    "date_modified": "2026-03-17T11:12:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "802 Washington Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1266222",
+    "final_x": "3677607.60718",
+    "final_y": "519914.412152",
+    "longitude": "-90.0807617003476",
+    "latitude": "29.923701753415784",
+    "geocoded_column": {
+      "latitude": "29.923701753415784",
+      "longitude": "-90.0807617003476"
     }
   },
   {
@@ -15422,28 +15422,6 @@
     }
   },
   {
-    "service_request": "2026-1266061",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-03-16T16:50:10.000",
-    "date_modified": "2026-03-16T16:50:12.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4216 Dauphine St",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1266061",
-    "final_x": "3692243.76713",
-    "final_y": "533945.727557",
-    "longitude": "-90.03405865736505",
-    "latitude": "29.961835006645487",
-    "geocoded_column": {
-      "latitude": "29.961835006645487",
-      "longitude": "-90.03405865736505"
-    }
-  },
-  {
     "service_request": "2026-1266062",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -15465,6 +15443,28 @@
     "geocoded_column": {
       "latitude": "30.060658825395677",
       "longitude": "-89.95930522611017"
+    }
+  },
+  {
+    "service_request": "2026-1266061",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-03-16T16:50:10.000",
+    "date_modified": "2026-03-16T16:50:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4216 Dauphine St",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1266061",
+    "final_x": "3692243.76713",
+    "final_y": "533945.727557",
+    "longitude": "-90.03405865736505",
+    "latitude": "29.961835006645487",
+    "geocoded_column": {
+      "latitude": "29.961835006645487",
+      "longitude": "-90.03405865736505"
     }
   },
   {
@@ -16756,28 +16756,6 @@
     }
   },
   {
-    "service_request": "2026-1266000",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2026-03-16T14:51:42.000",
-    "date_modified": "2026-03-18T14:09:56.000",
-    "case_close_date": "2026-03-18T09:09:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5500 BLK Pitt St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1266000",
-    "final_x": "3666673.48584",
-    "final_y": "520669.17072",
-    "longitude": "-90.11525152410645",
-    "latitude": "29.9261012308571",
-    "geocoded_column": {
-      "latitude": "29.9261012308571",
-      "longitude": "-90.11525152410645"
-    }
-  },
-  {
     "service_request": "2026-1266001",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -16818,6 +16796,28 @@
     "geocoded_column": {
       "latitude": "29.99165981481123",
       "longitude": "-90.03875676920087"
+    }
+  },
+  {
+    "service_request": "2026-1266000",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2026-03-16T14:51:42.000",
+    "date_modified": "2026-03-18T14:09:56.000",
+    "case_close_date": "2026-03-18T09:09:56.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5500 BLK Pitt St",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1266000",
+    "final_x": "3666673.48584",
+    "final_y": "520669.17072",
+    "longitude": "-90.11525152410645",
+    "latitude": "29.9261012308571",
+    "geocoded_column": {
+      "latitude": "29.9261012308571",
+      "longitude": "-90.11525152410645"
     }
   },
   {
