@@ -18776,27 +18776,6 @@
     }
   },
   {
-    "service_request": "2026-1266222",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2026-03-17T11:12:09.000",
-    "date_modified": "2026-03-17T11:12:13.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "802 Washington Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1266222",
-    "final_x": "3677607.60718",
-    "final_y": "519914.412152",
-    "longitude": "-90.0807617003476",
-    "latitude": "29.923701753415784",
-    "geocoded_column": {
-      "latitude": "29.923701753415784",
-      "longitude": "-90.0807617003476"
-    }
-  },
-  {
     "service_request": "2026-1266221",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -18815,6 +18794,27 @@
     "geocoded_column": {
       "latitude": "30.071543315572608",
       "longitude": "-89.94142448381731"
+    }
+  },
+  {
+    "service_request": "2026-1266222",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2026-03-17T11:12:09.000",
+    "date_modified": "2026-03-17T11:12:13.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "802 Washington Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1266222",
+    "final_x": "3677607.60718",
+    "final_y": "519914.412152",
+    "longitude": "-90.0807617003476",
+    "latitude": "29.923701753415784",
+    "geocoded_column": {
+      "latitude": "29.923701753415784",
+      "longitude": "-90.0807617003476"
     }
   },
   {
