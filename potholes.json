@@ -1,10 +1,31 @@
 [
   {
+    "service_request": "2026-1268271",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-03-24T15:16:44.000",
+    "date_modified": "2026-03-24T15:16:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1600 BLK Saint Mary St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1268271",
+    "final_x": "3678200.97099",
+    "final_y": "524511.7923",
+    "longitude": "-90.07872976979411",
+    "latitude": "29.936325197548683",
+    "geocoded_column": {
+      "latitude": "29.936325197548683",
+      "longitude": "-90.07872976979411"
+    }
+  },
+  {
     "service_request": "2026-1267879",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-03-23T14:55:32.000",
-    "date_modified": "2026-03-23T14:55:33.000",
+    "date_modified": "2026-03-24T13:00:09.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1404 Hero Blvd",
@@ -25,20 +46,21 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-03-23T14:36:10.000",
-    "date_modified": "2026-03-23T14:36:12.000",
-    "request_status": "Pending",
+    "date_modified": "2026-03-24T13:01:22.000",
+    "case_close_date": "2026-03-24T08:01:21.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
-    "final_address": "6300 BLK Argonne Blvd",
+    "final_address": "6374 Argonne Blvd",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1267864",
-    "final_x": "3670394.06403",
-    "final_y": "549528.253749",
-    "longitude": "-90.10252815807289",
-    "latitude": "30.005344789916624",
+    "final_x": "3670314.27284",
+    "final_y": "549754.911828",
+    "longitude": "-90.10277254643896",
+    "latitude": "30.005970376692655",
     "geocoded_column": {
-      "latitude": "30.005344789916624",
-      "longitude": "-90.10252815807289"
+      "latitude": "30.005970376692655",
+      "longitude": "-90.10277254643896"
     }
   },
   {
@@ -46,7 +68,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-03-23T13:56:22.000",
-    "date_modified": "2026-03-23T13:56:23.000",
+    "date_modified": "2026-03-24T13:03:16.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1027 St Roch Ave",
@@ -67,7 +89,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-03-23T11:16:22.000",
-    "date_modified": "2026-03-23T11:16:23.000",
+    "date_modified": "2026-03-24T13:05:50.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4203 St Ann St",
@@ -88,7 +110,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-03-23T10:20:52.000",
-    "date_modified": "2026-03-23T10:20:53.000",
+    "date_modified": "2026-03-24T13:07:20.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1820 Fern St",
@@ -109,12 +131,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-03-23T08:40:19.000",
-    "date_modified": "2026-03-23T08:40:21.000",
-    "request_status": "Pending",
+    "date_modified": "2026-03-24T13:09:45.000",
+    "case_close_date": "2026-03-24T08:09:43.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "4200 BLK Stephen Girard Ave",
     "address_councildis": "D",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1267591",
     "final_x": "3690066.71891",
     "final_y": "549917.555792",
@@ -21434,28 +21457,6 @@
     "geocoded_column": {
       "latitude": "29.920704479730233",
       "longitude": "-89.99038714154717"
-    }
-  },
-  {
-    "service_request": "2025-1211373",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-21T17:02:57.000",
-    "date_modified": "2025-09-18T10:24:20.000",
-    "case_close_date": "2025-09-12T03:49:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "ACADEMY DR & CHERLYN DR",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1211373",
-    "final_x": "3665258.4",
-    "final_y": "545386.78",
-    "longitude": "-90.11889157943745",
-    "latitude": "29.994107843773904",
-    "geocoded_column": {
-      "latitude": "29.994107843773904",
-      "longitude": "-90.11889157943745"
     }
   }
 ]
