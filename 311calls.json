@@ -20111,6 +20111,28 @@
     }
   },
   {
+    "service_request": "2026-1267773",
+    "request_type": "Safety & Permits",
+    "request_reason": "Licenses & Permits",
+    "date_created": "2026-03-23T12:19:09.000",
+    "date_modified": "2026-03-25T09:21:02.000",
+    "case_close_date": "2026-03-23T10:12:13.000",
+    "request_status": "Closed",
+    "responsible_agency": "Safety and Permits",
+    "final_address": "6619 West End Blvd",
+    "address_councildis": "A",
+    "status": "Resolved",
+    "rowid": "1267773",
+    "final_x": "3666795.60781",
+    "final_y": "551911.014806",
+    "longitude": "-90.11381639071321",
+    "latitude": "30.012002343002166",
+    "geocoded_column": {
+      "latitude": "30.012002343002166",
+      "longitude": "-90.11381639071321"
+    }
+  },
+  {
     "service_request": "2026-1267772",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20132,28 +20154,6 @@
     "geocoded_column": {
       "latitude": "29.955803031106473",
       "longitude": "-90.00994522738041"
-    }
-  },
-  {
-    "service_request": "2026-1267773",
-    "request_type": "Safety & Permits",
-    "request_reason": "Licenses & Permits",
-    "date_created": "2026-03-23T12:19:09.000",
-    "date_modified": "2026-03-25T09:21:02.000",
-    "case_close_date": "2026-03-23T10:12:13.000",
-    "request_status": "Closed",
-    "responsible_agency": "Safety and Permits",
-    "final_address": "6619 West End Blvd",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1267773",
-    "final_x": "3666795.60781",
-    "final_y": "551911.014806",
-    "longitude": "-90.11381639071321",
-    "latitude": "30.012002343002166",
-    "geocoded_column": {
-      "latitude": "30.012002343002166",
-      "longitude": "-90.11381639071321"
     }
   },
   {
