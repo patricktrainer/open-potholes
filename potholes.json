@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2026-1269335",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-03-28T13:10:04.000",
+    "date_modified": "2026-03-28T13:10:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1501 Canal St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1269335",
+    "final_x": "3679191.82191",
+    "final_y": "532310.356419",
+    "longitude": "-90.0753313172871",
+    "latitude": "29.95773877609644",
+    "geocoded_column": {
+      "latitude": "29.95773877609644",
+      "longitude": "-90.0753313172871"
+    }
+  },
+  {
+    "service_request": "2026-1269333",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-03-28T12:33:29.000",
+    "date_modified": "2026-03-28T12:33:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7818 St Charles Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1269333",
+    "final_x": "3661243.76934",
+    "final_y": "526130.934718",
+    "longitude": "-90.13221092529518",
+    "latitude": "29.94127696031059",
+    "geocoded_column": {
+      "latitude": "29.94127696031059",
+      "longitude": "-90.13221092529518"
+    }
+  },
+  {
+    "service_request": "2026-1269323",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-03-28T10:54:22.000",
+    "date_modified": "2026-03-28T10:54:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3400 Tulane Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1269323",
+    "final_x": "3671445.613",
+    "final_y": "534838.921734",
+    "longitude": "-90.09970570021079",
+    "latitude": "29.964923058916284",
+    "geocoded_column": {
+      "latitude": "29.964923058916284",
+      "longitude": "-90.09970570021079"
+    }
+  },
+  {
     "service_request": "2026-1269263",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21386,71 +21449,6 @@
     "geocoded_column": {
       "latitude": "29.92233308100814",
       "longitude": "-90.12454162324882"
-    }
-  },
-  {
-    "service_request": "2025-1212483",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-24T19:27:37.000",
-    "date_modified": "2025-09-18T10:23:15.000",
-    "case_close_date": "2025-07-29T02:30:08.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6100 BLK Constance St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1212483",
-    "final_x": "3663830.97315",
-    "final_y": "519185.061811",
-    "longitude": "-90.12427398746283",
-    "latitude": "29.922103177542446",
-    "geocoded_column": {
-      "latitude": "29.922103177542446",
-      "longitude": "-90.12427398746283"
-    }
-  },
-  {
-    "service_request": "2025-1212358",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-24T13:34:27.000",
-    "date_modified": "2025-09-18T10:54:25.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6970 Edgefield Dr",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1212358",
-    "final_x": "3718973.47506",
-    "final_y": "568765.494309",
-    "longitude": "-89.94832251764012",
-    "latitude": "30.056715187728603",
-    "geocoded_column": {
-      "latitude": "30.056715187728603",
-      "longitude": "-89.94832251764012"
-    }
-  },
-  {
-    "service_request": "2025-1212349",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-07-24T13:17:40.000",
-    "date_modified": "2025-09-18T10:23:11.000",
-    "case_close_date": "2025-07-25T02:53:22.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5001 Prentiss Ave",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1212349",
-    "final_x": "3691514.03856",
-    "final_y": "555442.084697",
-    "longitude": "-90.03559420717015",
-    "latitude": "30.02096493874108",
-    "geocoded_column": {
-      "latitude": "30.02096493874108",
-      "longitude": "-90.03559420717015"
     }
   }
 ]
