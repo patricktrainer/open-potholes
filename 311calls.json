@@ -14616,27 +14616,6 @@
     }
   },
   {
-    "service_request": "2026-1268687",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-03-25T19:44:02.000",
-    "date_modified": "2026-03-26T11:02:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4535 Dale St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1268687",
-    "final_x": "3699621.86519",
-    "final_y": "553948.35036",
-    "longitude": "-90.01003047318868",
-    "latitude": "30.01660275667681",
-    "geocoded_column": {
-      "latitude": "30.01660275667681",
-      "longitude": "-90.01003047318868"
-    }
-  },
-  {
     "service_request": "2026-1268686",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -14649,6 +14628,27 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1268686",
+    "final_x": "3699621.86519",
+    "final_y": "553948.35036",
+    "longitude": "-90.01003047318868",
+    "latitude": "30.01660275667681",
+    "geocoded_column": {
+      "latitude": "30.01660275667681",
+      "longitude": "-90.01003047318868"
+    }
+  },
+  {
+    "service_request": "2026-1268687",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-03-25T19:44:02.000",
+    "date_modified": "2026-03-26T11:02:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4535 Dale St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1268687",
     "final_x": "3699621.86519",
     "final_y": "553948.35036",
     "longitude": "-90.01003047318868",
@@ -19854,6 +19854,29 @@
     }
   },
   {
+    "service_request": "2026-1268447",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2026-03-25T10:16:51.000",
+    "date_modified": "2026-03-26T14:55:27.000",
+    "case_close_date": "2026-03-26T09:55:26.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1819 Bodenger Blvd",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "contractor": "Richards Disposal",
+    "rowid": "1268447",
+    "final_x": "3688395.05526",
+    "final_y": "525053.891261",
+    "longitude": "-90.04652757526229",
+    "latitude": "29.937504940160423",
+    "geocoded_column": {
+      "latitude": "29.937504940160423",
+      "longitude": "-90.04652757526229"
+    }
+  },
+  {
     "service_request": "2026-1268446",
     "request_type": "Trash/Recycling",
     "request_reason": "Dead Animal Pick Up",
@@ -19875,29 +19898,6 @@
     "geocoded_column": {
       "latitude": "29.948135630497777",
       "longitude": "-90.1039824962895"
-    }
-  },
-  {
-    "service_request": "2026-1268447",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2026-03-25T10:16:51.000",
-    "date_modified": "2026-03-26T14:55:27.000",
-    "case_close_date": "2026-03-26T09:55:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1819 Bodenger Blvd",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "contractor": "Richards Disposal",
-    "rowid": "1268447",
-    "final_x": "3688395.05526",
-    "final_y": "525053.891261",
-    "longitude": "-90.04652757526229",
-    "latitude": "29.937504940160423",
-    "geocoded_column": {
-      "latitude": "29.937504940160423",
-      "longitude": "-90.04652757526229"
     }
   },
   {
