@@ -16692,6 +16692,27 @@
     }
   },
   {
+    "service_request": "2026-1268687",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-03-25T19:44:02.000",
+    "date_modified": "2026-03-26T11:02:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4535 Dale St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1268687",
+    "final_x": "3699621.86519",
+    "final_y": "553948.35036",
+    "longitude": "-90.01003047318868",
+    "latitude": "30.01660275667681",
+    "geocoded_column": {
+      "latitude": "30.01660275667681",
+      "longitude": "-90.01003047318868"
+    }
+  },
+  {
     "service_request": "2026-1268686",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -16704,27 +16725,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1268686",
-    "final_x": "3699621.86519",
-    "final_y": "553948.35036",
-    "longitude": "-90.01003047318868",
-    "latitude": "30.01660275667681",
-    "geocoded_column": {
-      "latitude": "30.01660275667681",
-      "longitude": "-90.01003047318868"
-    }
-  },
-  {
-    "service_request": "2026-1268687",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-03-25T19:44:02.000",
-    "date_modified": "2026-03-26T11:02:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4535 Dale St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1268687",
     "final_x": "3699621.86519",
     "final_y": "553948.35036",
     "longitude": "-90.01003047318868",
