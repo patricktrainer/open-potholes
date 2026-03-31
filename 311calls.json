@@ -6463,6 +6463,27 @@
     }
   },
   {
+    "service_request": "2026-1269611",
+    "request_type": "Roads and Streets",
+    "request_reason": "Debris in Driving Lanes",
+    "date_created": "2026-03-30T11:04:32.000",
+    "date_modified": "2026-03-30T11:06:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "FOUCHER ST & BARONNE ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1269611",
+    "final_x": "3673250.3",
+    "final_y": "521979.08",
+    "longitude": "-90.09444568339434",
+    "latitude": "29.929509178865146",
+    "geocoded_column": {
+      "latitude": "29.929509178865146",
+      "longitude": "-90.09444568339434"
+    }
+  },
+  {
     "service_request": "2026-1269612",
     "request_type": "Parks & Parkways",
     "request_reason": "Request Grass Cutting Service (City Owned Property)",
@@ -6482,27 +6503,6 @@
     "geocoded_column": {
       "latitude": "29.988747694181058",
       "longitude": "-90.0524786426619"
-    }
-  },
-  {
-    "service_request": "2026-1269611",
-    "request_type": "Roads and Streets",
-    "request_reason": "Debris in Driving Lanes",
-    "date_created": "2026-03-30T11:04:32.000",
-    "date_modified": "2026-03-30T11:06:27.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FOUCHER ST & BARONNE ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1269611",
-    "final_x": "3673250.3",
-    "final_y": "521979.08",
-    "longitude": "-90.09444568339434",
-    "latitude": "29.929509178865146",
-    "geocoded_column": {
-      "latitude": "29.929509178865146",
-      "longitude": "-90.09444568339434"
     }
   },
   {
