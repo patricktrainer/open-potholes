@@ -1,10 +1,74 @@
 [
   {
+    "service_request": "2026-1270842",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-02T15:13:15.000",
+    "date_modified": "2026-04-02T15:14:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1353 Holiday Pl",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1270842",
+    "final_x": "3698932.55549",
+    "final_y": "526296.102974",
+    "longitude": "-90.01321496227649",
+    "latitude": "29.940590992707907",
+    "geocoded_column": {
+      "latitude": "29.940590992707907",
+      "longitude": "-90.01321496227649"
+    }
+  },
+  {
+    "service_request": "2026-1270736",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-02T10:30:05.000",
+    "date_modified": "2026-04-02T10:30:07.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "SEVILLE DR & PERLITA ST",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1270736",
+    "final_x": "3678591.1",
+    "final_y": "551220.68",
+    "longitude": "-90.07657328659323",
+    "latitude": "30.009753707754122",
+    "geocoded_column": {
+      "latitude": "30.009753707754122",
+      "longitude": "-90.07657328659323"
+    }
+  },
+  {
+    "service_request": "2026-1270733",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-02T10:19:54.000",
+    "date_modified": "2026-04-02T11:08:36.000",
+    "case_close_date": "2026-04-02T06:04:28.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "READ BLVD & OLD GENTILLY RD",
+    "address_councildis": "E",
+    "status": "Referred to External Agency",
+    "rowid": "1270733",
+    "final_x": "3713080.9",
+    "final_y": "553287.28",
+    "longitude": "-89.9675309991607",
+    "latitude": "30.014350815600707",
+    "geocoded_column": {
+      "latitude": "30.014350815600707",
+      "longitude": "-89.9675309991607"
+    }
+  },
+  {
     "service_request": "2026-1270613",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-04-01T17:23:16.000",
-    "date_modified": "2026-04-01T17:23:18.000",
+    "date_modified": "2026-04-02T08:52:33.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "7100 BLK Dorian St",
@@ -25,7 +89,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-04-01T14:08:11.000",
-    "date_modified": "2026-04-01T14:08:12.000",
+    "date_modified": "2026-04-02T08:55:44.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1923 Piety St",
@@ -46,7 +110,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-04-01T14:05:29.000",
-    "date_modified": "2026-04-01T14:05:30.000",
+    "date_modified": "2026-04-02T09:25:01.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "3114 Chippewa St",
@@ -88,7 +152,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-04-01T12:59:58.000",
-    "date_modified": "2026-04-01T13:00:00.000",
+    "date_modified": "2026-04-02T09:51:00.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "9130 Almonaster Ave",
@@ -109,7 +173,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-04-01T09:14:54.000",
-    "date_modified": "2026-04-01T09:14:55.000",
+    "date_modified": "2026-04-02T10:06:17.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "9100 BLK Forshey St",
@@ -354,27 +418,6 @@
     "geocoded_column": {
       "latitude": "29.954595913841864",
       "longitude": "-90.1313995672924"
-    }
-  },
-  {
-    "service_request": "2026-1270113",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-31T12:41:59.000",
-    "date_modified": "2026-04-01T10:08:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6830 Coventry St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1270113",
-    "final_x": "3698678.37047",
-    "final_y": "559650.369821",
-    "longitude": "-90.01280387169867",
-    "latitude": "30.032311057476928",
-    "geocoded_column": {
-      "latitude": "30.032311057476928",
-      "longitude": "-90.01280387169867"
     }
   },
   {
@@ -3360,12 +3403,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-02-28T14:38:29.000",
-    "date_modified": "2026-03-02T10:03:04.000",
+    "date_modified": "2026-04-02T13:14:58.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "4237 Tulane Ave",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1261514",
     "final_x": "3668675.30516",
     "final_y": "536706.842375",
@@ -21378,50 +21421,6 @@
     "geocoded_column": {
       "latitude": "29.96651921713916",
       "longitude": "-90.05871319272495"
-    }
-  },
-  {
-    "service_request": "2025-1214647",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-01T13:46:56.000",
-    "date_modified": "2025-08-07T13:37:20.000",
-    "case_close_date": "2025-08-07T08:37:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2013 Burdette St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1214647",
-    "final_x": "3664808.34701",
-    "final_y": "529757.073665",
-    "longitude": "-90.12083568388132",
-    "latitude": "29.951144450953368",
-    "geocoded_column": {
-      "latitude": "29.951144450953368",
-      "longitude": "-90.12083568388132"
-    }
-  },
-  {
-    "service_request": "2025-1214546",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-01T09:52:17.000",
-    "date_modified": "2025-10-15T15:46:30.000",
-    "case_close_date": "2025-10-15T10:46:29.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N CLAIBORNE AVE & FORSTALL ST",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1214546",
-    "final_x": "3696732.7",
-    "final_y": "535935.58",
-    "longitude": "-90.01981136859588",
-    "latitude": "29.967165671741167",
-    "geocoded_column": {
-      "latitude": "29.967165671741167",
-      "longitude": "-90.01981136859588"
     }
   }
 ]
