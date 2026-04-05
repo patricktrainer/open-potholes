@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1271097",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-04T21:28:48.000",
+    "date_modified": "2026-04-04T21:28:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "738 Toulouse St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1271097",
+    "final_x": "3682055.2004",
+    "final_y": "532311.350531",
+    "longitude": "-90.06628956898791",
+    "latitude": "29.957654758842732",
+    "geocoded_column": {
+      "latitude": "29.957654758842732",
+      "longitude": "-90.06628956898791"
+    }
+  },
+  {
+    "service_request": "2026-1271085",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-04T16:29:31.000",
+    "date_modified": "2026-04-04T16:29:32.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "662 N Pierce St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1271085",
+    "final_x": "3672949.65377",
+    "final_y": "539809.256458",
+    "longitude": "-90.09478636415307",
+    "latitude": "29.978545187602222",
+    "geocoded_column": {
+      "latitude": "29.978545187602222",
+      "longitude": "-90.09478636415307"
+    }
+  },
+  {
     "service_request": "2026-1271034",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21377,50 +21419,6 @@
     "geocoded_column": {
       "latitude": "30.043306422813252",
       "longitude": "-89.97005281575592"
-    }
-  },
-  {
-    "service_request": "2025-1214897",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-03T13:06:52.000",
-    "date_modified": "2025-09-18T10:22:48.000",
-    "case_close_date": "2025-09-12T03:46:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7321 Green St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1214897",
-    "final_x": "3664774.87936",
-    "final_y": "528255.59424",
-    "longitude": "-90.1209915193309",
-    "latitude": "29.947016841162572",
-    "geocoded_column": {
-      "latitude": "29.947016841162572",
-      "longitude": "-90.1209915193309"
-    }
-  },
-  {
-    "service_request": "2025-1214826",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-02T18:27:30.000",
-    "date_modified": "2025-09-12T08:41:56.000",
-    "case_close_date": "2025-09-12T03:41:55.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5226 Conti St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1214826",
-    "final_x": "3668428.6955",
-    "final_y": "541800.77422",
-    "longitude": "-90.10899805779543",
-    "latitude": "29.9841547811201",
-    "geocoded_column": {
-      "latitude": "29.9841547811201",
-      "longitude": "-90.10899805779543"
     }
   }
 ]
