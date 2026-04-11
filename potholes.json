@@ -1,5 +1,173 @@
 [
   {
+    "service_request": "2026-1272759",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T15:39:18.000",
+    "date_modified": "2026-04-10T15:39:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3100 BLK Joliet St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1272759",
+    "final_x": "3665599.80951",
+    "final_y": "534488.436388",
+    "longitude": "-90.11817819896525",
+    "latitude": "29.96413109960377",
+    "geocoded_column": {
+      "latitude": "29.96413109960377",
+      "longitude": "-90.11817819896525"
+    }
+  },
+  {
+    "service_request": "2026-1272661",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T10:34:02.000",
+    "date_modified": "2026-04-10T10:34:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3221 Elmwood Park Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1272661",
+    "final_x": "3694908.0081",
+    "final_y": "518268.22815",
+    "longitude": "-90.02621020273618",
+    "latitude": "29.918643952674355",
+    "geocoded_column": {
+      "latitude": "29.918643952674355",
+      "longitude": "-90.02621020273618"
+    }
+  },
+  {
+    "service_request": "2026-1272636",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T09:46:14.000",
+    "date_modified": "2026-04-10T09:46:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5209 Spain St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1272636",
+    "final_x": "3684898.42095",
+    "final_y": "552271.00015",
+    "longitude": "-90.0566092649044",
+    "latitude": "30.012449980420108",
+    "geocoded_column": {
+      "latitude": "30.012449980420108",
+      "longitude": "-90.0566092649044"
+    }
+  },
+  {
+    "service_request": "2026-1272628",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T09:29:15.000",
+    "date_modified": "2026-04-10T09:29:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8037 Vincent Rd",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1272628",
+    "final_x": "3717573.97983",
+    "final_y": "572689.877481",
+    "longitude": "-89.95259658040081",
+    "latitude": "30.06755204588037",
+    "geocoded_column": {
+      "latitude": "30.06755204588037",
+      "longitude": "-89.95259658040081"
+    }
+  },
+  {
+    "service_request": "2026-1272619",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T09:21:25.000",
+    "date_modified": "2026-04-10T09:21:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3125 Joliet St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1272619",
+    "final_x": "3665641.37453",
+    "final_y": "534479.825093",
+    "longitude": "-90.11804722813082",
+    "latitude": "29.964106209278942",
+    "geocoded_column": {
+      "latitude": "29.964106209278942",
+      "longitude": "-90.11804722813082"
+    }
+  },
+  {
+    "service_request": "2026-1272610",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T09:08:52.000",
+    "date_modified": "2026-04-10T09:08:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7501 Morel St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1272610",
+    "final_x": "3719295.73823",
+    "final_y": "571441.845992",
+    "longitude": "-89.94720157124372",
+    "latitude": "30.064063324095887",
+    "geocoded_column": {
+      "latitude": "30.064063324095887",
+      "longitude": "-89.94720157124372"
+    }
+  },
+  {
+    "service_request": "2026-1272605",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T09:00:57.000",
+    "date_modified": "2026-04-10T09:00:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "710 Webster St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1272605",
+    "final_x": "3664001.82093",
+    "final_y": "519216.008119",
+    "longitude": "-90.12373365851342",
+    "latitude": "29.922183312161255",
+    "geocoded_column": {
+      "latitude": "29.922183312161255",
+      "longitude": "-90.12373365851342"
+    }
+  },
+  {
+    "service_request": "2026-1272589",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-10T08:12:59.000",
+    "date_modified": "2026-04-10T08:52:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "318 Lake Marina Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1272589",
+    "final_x": "3665352.0505",
+    "final_y": "555356.038169",
+    "longitude": "-90.11826180662696",
+    "latitude": "30.02151711429282",
+    "geocoded_column": {
+      "latitude": "30.02151711429282",
+      "longitude": "-90.11826180662696"
+    }
+  },
+  {
     "service_request": "2026-1272437",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -8516,50 +8684,6 @@
     }
   },
   {
-    "service_request": "2026-1252501",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-15T20:42:39.000",
-    "date_modified": "2026-01-27T09:01:57.000",
-    "case_close_date": "2026-01-27T03:01:56.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4116 General Pershing St",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1252501",
-    "final_x": "3670049.73268",
-    "final_y": "529282.003329",
-    "longitude": "-90.10430204097534",
-    "latitude": "29.949684617757768",
-    "geocoded_column": {
-      "latitude": "29.949684617757768",
-      "longitude": "-90.10430204097534"
-    }
-  },
-  {
-    "service_request": "2026-1252503",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-15T20:42:39.000",
-    "date_modified": "2026-01-16T08:41:48.000",
-    "case_close_date": "2026-01-16T02:41:48.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4116 General Pershing St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1252503",
-    "final_x": "3670049.73268",
-    "final_y": "529282.003329",
-    "longitude": "-90.10430204097534",
-    "latitude": "29.949684617757768",
-    "geocoded_column": {
-      "latitude": "29.949684617757768",
-      "longitude": "-90.10430204097534"
-    }
-  },
-  {
     "service_request": "2026-1252502",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -8603,6 +8727,28 @@
     }
   },
   {
+    "service_request": "2026-1252503",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-15T20:42:39.000",
+    "date_modified": "2026-01-16T08:41:48.000",
+    "case_close_date": "2026-01-16T02:41:48.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4116 General Pershing St",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "rowid": "1252503",
+    "final_x": "3670049.73268",
+    "final_y": "529282.003329",
+    "longitude": "-90.10430204097534",
+    "latitude": "29.949684617757768",
+    "geocoded_column": {
+      "latitude": "29.949684617757768",
+      "longitude": "-90.10430204097534"
+    }
+  },
+  {
     "service_request": "2026-1252500",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -8615,6 +8761,28 @@
     "address_councildis": "B",
     "status": "Duplicate Request",
     "rowid": "1252500",
+    "final_x": "3670049.73268",
+    "final_y": "529282.003329",
+    "longitude": "-90.10430204097534",
+    "latitude": "29.949684617757768",
+    "geocoded_column": {
+      "latitude": "29.949684617757768",
+      "longitude": "-90.10430204097534"
+    }
+  },
+  {
+    "service_request": "2026-1252501",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-15T20:42:39.000",
+    "date_modified": "2026-01-27T09:01:57.000",
+    "case_close_date": "2026-01-27T03:01:56.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4116 General Pershing St",
+    "address_councildis": "B",
+    "status": "Referred to External Agency",
+    "rowid": "1252501",
     "final_x": "3670049.73268",
     "final_y": "529282.003329",
     "longitude": "-90.10430204097534",
@@ -8815,6 +8983,27 @@
     }
   },
   {
+    "service_request": "2026-1251951",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-01-14T08:48:35.000",
+    "date_modified": "2026-01-15T09:31:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7541 Brevard Ave",
+    "address_councildis": "E",
+    "status": "Inspected",
+    "rowid": "1251951",
+    "final_x": "3706500.5786",
+    "final_y": "563273.719456",
+    "longitude": "-89.9879509002471",
+    "latitude": "30.04202364721598",
+    "geocoded_column": {
+      "latitude": "30.04202364721598",
+      "longitude": "-89.9879509002471"
+    }
+  },
+  {
     "service_request": "2026-1251952",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -8827,27 +9016,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1251952",
-    "final_x": "3706500.5786",
-    "final_y": "563273.719456",
-    "longitude": "-89.9879509002471",
-    "latitude": "30.04202364721598",
-    "geocoded_column": {
-      "latitude": "30.04202364721598",
-      "longitude": "-89.9879509002471"
-    }
-  },
-  {
-    "service_request": "2026-1251951",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-14T08:48:35.000",
-    "date_modified": "2026-01-15T09:31:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7541 Brevard Ave",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1251951",
     "final_x": "3706500.5786",
     "final_y": "563273.719456",
     "longitude": "-89.9879509002471",
@@ -21232,180 +21400,6 @@
     "geocoded_column": {
       "latitude": "29.980782982506426",
       "longitude": "-90.07984094576598"
-    }
-  },
-  {
-    "service_request": "2025-1215979",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T13:54:54.000",
-    "date_modified": "2025-09-18T10:55:30.000",
-    "case_close_date": "2025-09-18T05:55:29.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4847 Kendall Dr",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1215979",
-    "final_x": "3690420.66147",
-    "final_y": "551178.533077",
-    "longitude": "-90.03920110331505",
-    "latitude": "30.009275757506767",
-    "geocoded_column": {
-      "latitude": "30.009275757506767",
-      "longitude": "-90.03920110331505"
-    }
-  },
-  {
-    "service_request": "2025-1215978",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T13:54:06.000",
-    "date_modified": "2025-09-18T10:55:02.000",
-    "case_close_date": "2025-09-18T05:55:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1441 Forstall St",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1215978",
-    "final_x": "3696734.79824",
-    "final_y": "535617.164934",
-    "longitude": "-90.01981626941004",
-    "latitude": "29.966290077665665",
-    "geocoded_column": {
-      "latitude": "29.966290077665665",
-      "longitude": "-90.01981626941004"
-    }
-  },
-  {
-    "service_request": "2025-1215956",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T13:16:00.000",
-    "date_modified": "2025-09-18T10:54:20.000",
-    "case_close_date": "2025-09-18T05:54:20.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2418 Onzaga St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1215956",
-    "final_x": "3680028.39138",
-    "final_y": "539841.681162",
-    "longitude": "-90.07242797451609",
-    "latitude": "29.97842205676786",
-    "geocoded_column": {
-      "latitude": "29.97842205676786",
-      "longitude": "-90.07242797451609"
-    }
-  },
-  {
-    "service_request": "2025-1215949",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T13:04:11.000",
-    "date_modified": "2025-09-18T10:54:34.000",
-    "case_close_date": "2025-09-18T05:54:33.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4642 Baccich St",
-    "address_councildis": "D",
-    "status": "Referred to External Agency",
-    "rowid": "1215949",
-    "final_x": "3687716.57628",
-    "final_y": "550061.709332",
-    "longitude": "-90.04778379869096",
-    "latitude": "30.006288598352707",
-    "geocoded_column": {
-      "latitude": "30.006288598352707",
-      "longitude": "-90.04778379869096"
-    }
-  },
-  {
-    "service_request": "2025-1215945",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T12:56:59.000",
-    "date_modified": "2025-09-18T10:54:02.000",
-    "case_close_date": "2025-09-18T05:54:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1500 BLK Poydras St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1215945",
-    "final_x": "3677942.71921",
-    "final_y": "530290.202659",
-    "longitude": "-90.07934543535019",
-    "latitude": "29.952221680870704",
-    "geocoded_column": {
-      "latitude": "29.952221680870704",
-      "longitude": "-90.07934543535019"
-    }
-  },
-  {
-    "service_request": "2025-1215924",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T12:12:43.000",
-    "date_modified": "2025-08-07T12:20:23.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1500 BLK Gordon St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1215924",
-    "final_x": "3699786.56036",
-    "final_y": "535005.500315",
-    "longitude": "-90.01020122762431",
-    "latitude": "29.964511674124015",
-    "geocoded_column": {
-      "latitude": "29.964511674124015",
-      "longitude": "-90.01020122762431"
-    }
-  },
-  {
-    "service_request": "2025-1215923",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T12:11:52.000",
-    "date_modified": "2025-09-18T10:55:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1400 BLK Gordon St",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1215923",
-    "final_x": "3699653.18629",
-    "final_y": "534670.941601",
-    "longitude": "-90.01063460608175",
-    "latitude": "29.96359599149137",
-    "geocoded_column": {
-      "latitude": "29.96359599149137",
-      "longitude": "-90.01063460608175"
-    }
-  },
-  {
-    "service_request": "2025-1215853",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T10:21:19.000",
-    "date_modified": "2025-09-18T10:55:23.000",
-    "case_close_date": "2025-09-18T05:55:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PINERIDGE ST & MORRISON RD",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1215853",
-    "final_x": "3719441.4",
-    "final_y": "571514.68",
-    "longitude": "-89.9467383427245",
-    "latitude": "30.064258741267192",
-    "geocoded_column": {
-      "latitude": "30.064258741267192",
-      "longitude": "-89.9467383427245"
     }
   }
 ]
