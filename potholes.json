@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1272978",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-12T18:08:05.000",
+    "date_modified": "2026-04-12T18:08:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "313 Pacific Ave",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1272978",
+    "final_x": "3688495.79983",
+    "final_y": "530621.786178",
+    "longitude": "-90.04601203179556",
+    "latitude": "29.952811640789854",
+    "geocoded_column": {
+      "latitude": "29.952811640789854",
+      "longitude": "-90.04601203179556"
+    }
+  },
+  {
+    "service_request": "2026-1272915",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-12T04:57:25.000",
+    "date_modified": "2026-04-12T04:57:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "RHODES AVE & CHELSEA DR",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1272915",
+    "final_x": "3704135.3",
+    "final_y": "519893.88",
+    "longitude": "-89.99702487650734",
+    "latitude": "29.922821276239247",
+    "geocoded_column": {
+      "latitude": "29.922821276239247",
+      "longitude": "-89.99702487650734"
+    }
+  },
+  {
     "service_request": "2026-1272906",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21356,50 +21398,6 @@
     "geocoded_column": {
       "latitude": "29.935701265834254",
       "longitude": "-90.08047277651704"
-    }
-  },
-  {
-    "service_request": "2025-1216174",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-07T09:23:37.000",
-    "date_modified": "2025-08-08T08:20:59.000",
-    "case_close_date": "2025-08-08T03:20:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1673 Duels St",
-    "address_councildis": "D",
-    "status": "Duplicate Request",
-    "rowid": "1216174",
-    "final_x": "3680621.58792",
-    "final_y": "542282.722765",
-    "longitude": "-90.0704694730226",
-    "latitude": "29.985116107860517",
-    "geocoded_column": {
-      "latitude": "29.985116107860517",
-      "longitude": "-90.0704694730226"
-    }
-  },
-  {
-    "service_request": "2025-1216070",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-06T16:48:36.000",
-    "date_modified": "2025-09-18T10:55:01.000",
-    "case_close_date": "2025-09-18T05:54:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1521 Forstall St",
-    "address_councildis": "E",
-    "status": "Referred to External Agency",
-    "rowid": "1216070",
-    "final_x": "3696790.81853",
-    "final_y": "535820.882567",
-    "longitude": "-90.01963198352074",
-    "latitude": "29.96684846265562",
-    "geocoded_column": {
-      "latitude": "29.96684846265562",
-      "longitude": "-90.01963198352074"
     }
   }
 ]
