@@ -20485,28 +20485,6 @@
     }
   },
   {
-    "service_request": "2026-1273173",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2026-04-13T11:21:44.000",
-    "date_modified": "2026-04-13T11:21:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "13651 N Nemours St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1273173",
-    "final_x": "3726281.07462",
-    "final_y": "563183.800608",
-    "longitude": "-89.92544144673893",
-    "latitude": "30.04112296855219",
-    "geocoded_column": {
-      "latitude": "30.04112296855219",
-      "longitude": "-89.92544144673893"
-    }
-  },
-  {
     "service_request": "2026-1273174",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -20521,6 +20499,28 @@
     "contractor": "Waste Pro",
     "contractor_action": "Duplicate",
     "rowid": "1273174",
+    "final_x": "3726281.07462",
+    "final_y": "563183.800608",
+    "longitude": "-89.92544144673893",
+    "latitude": "30.04112296855219",
+    "geocoded_column": {
+      "latitude": "30.04112296855219",
+      "longitude": "-89.92544144673893"
+    }
+  },
+  {
+    "service_request": "2026-1273173",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2026-04-13T11:21:44.000",
+    "date_modified": "2026-04-13T11:21:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "13651 N Nemours St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1273173",
     "final_x": "3726281.07462",
     "final_y": "563183.800608",
     "longitude": "-89.92544144673893",
