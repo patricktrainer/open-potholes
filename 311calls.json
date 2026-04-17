@@ -4551,28 +4551,6 @@
     }
   },
   {
-    "service_request": "2026-1274198",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-04-16T09:54:55.000",
-    "date_modified": "2026-04-16T09:54:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "6911 Manchester St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1274198",
-    "final_x": "3698700.83069",
-    "final_y": "560109.602013",
-    "longitude": "-90.01271617062565",
-    "latitude": "30.03357305699327",
-    "geocoded_column": {
-      "latitude": "30.03357305699327",
-      "longitude": "-90.01271617062565"
-    }
-  },
-  {
     "service_request": "2026-1274197",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -4592,6 +4570,28 @@
     "geocoded_column": {
       "latitude": "30.072594041894664",
       "longitude": "-89.94321042740798"
+    }
+  },
+  {
+    "service_request": "2026-1274198",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-04-16T09:54:55.000",
+    "date_modified": "2026-04-16T09:54:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "6911 Manchester St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1274198",
+    "final_x": "3698700.83069",
+    "final_y": "560109.602013",
+    "longitude": "-90.01271617062565",
+    "latitude": "30.03357305699327",
+    "geocoded_column": {
+      "latitude": "30.03357305699327",
+      "longitude": "-90.01271617062565"
     }
   },
   {
