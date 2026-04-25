@@ -20607,30 +20607,6 @@
     }
   },
   {
-    "service_request": "2026-1275429",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Missed Trash Pick-Up",
-    "date_created": "2026-04-21T14:48:36.000",
-    "date_modified": "2026-04-23T11:18:34.000",
-    "case_close_date": "2026-04-23T06:18:33.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1245 Southlawn Blvd",
-    "address_councildis": "C",
-    "status": "Invalid Request",
-    "contractor": "Richards Disposal",
-    "contractor_action": "Invalid",
-    "rowid": "1275429",
-    "final_x": "3695125.35389",
-    "final_y": "526895.82739",
-    "longitude": "-90.02521326385985",
-    "latitude": "29.942360086072352",
-    "geocoded_column": {
-      "latitude": "29.942360086072352",
-      "longitude": "-90.02521326385985"
-    }
-  },
-  {
     "service_request": "2026-1275430",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20645,6 +20621,30 @@
     "contractor": "Richards Disposal",
     "contractor_action": "Completed",
     "rowid": "1275430",
+    "final_x": "3695125.35389",
+    "final_y": "526895.82739",
+    "longitude": "-90.02521326385985",
+    "latitude": "29.942360086072352",
+    "geocoded_column": {
+      "latitude": "29.942360086072352",
+      "longitude": "-90.02521326385985"
+    }
+  },
+  {
+    "service_request": "2026-1275429",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Missed Trash Pick-Up",
+    "date_created": "2026-04-21T14:48:36.000",
+    "date_modified": "2026-04-23T11:18:34.000",
+    "case_close_date": "2026-04-23T06:18:33.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1245 Southlawn Blvd",
+    "address_councildis": "C",
+    "status": "Invalid Request",
+    "contractor": "Richards Disposal",
+    "contractor_action": "Invalid",
+    "rowid": "1275429",
     "final_x": "3695125.35389",
     "final_y": "526895.82739",
     "longitude": "-90.02521326385985",
