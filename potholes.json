@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1276569",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-26T23:10:29.000",
+    "date_modified": "2026-04-26T23:10:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1630 Josephine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1276569",
+    "final_x": "3677691.54197",
+    "final_y": "524171.696956",
+    "longitude": "-90.080349795877",
+    "latitude": "29.935405374482215",
+    "geocoded_column": {
+      "latitude": "29.935405374482215",
+      "longitude": "-90.080349795877"
+    }
+  },
+  {
+    "service_request": "2026-1276522",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-04-26T14:57:01.000",
+    "date_modified": "2026-04-26T14:57:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6201 Elysian Fields Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1276522",
+    "final_x": "3683605.97116",
+    "final_y": "555974.068121",
+    "longitude": "-90.06056272436395",
+    "latitude": "30.022671594683796",
+    "geocoded_column": {
+      "latitude": "30.022671594683796",
+      "longitude": "-90.06056272436395"
+    }
+  },
+  {
     "service_request": "2026-1276446",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21371,50 +21413,6 @@
     "geocoded_column": {
       "latitude": "29.920704479730233",
       "longitude": "-89.99038714154717"
-    }
-  },
-  {
-    "service_request": "2025-1220036",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-20T11:51:29.000",
-    "date_modified": "2025-09-18T10:52:32.000",
-    "case_close_date": "2025-09-18T05:52:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1901 Perdido St",
-    "address_councildis": "B",
-    "status": "Referred to External Agency",
-    "rowid": "1220036",
-    "final_x": "3676746.57627",
-    "final_y": "531464.273795",
-    "longitude": "-90.08308185313079",
-    "latitude": "29.95548592371056",
-    "geocoded_column": {
-      "latitude": "29.95548592371056",
-      "longitude": "-90.08308185313079"
-    }
-  },
-  {
-    "service_request": "2025-1219993",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-08-20T10:23:10.000",
-    "date_modified": "2025-10-15T15:46:27.000",
-    "case_close_date": "2025-10-15T10:46:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2261 Beck St",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1219993",
-    "final_x": "3700400.53623",
-    "final_y": "522398.76249",
-    "longitude": "-90.00872257281247",
-    "latitude": "29.929828075880238",
-    "geocoded_column": {
-      "latitude": "29.929828075880238",
-      "longitude": "-90.00872257281247"
     }
   }
 ]
