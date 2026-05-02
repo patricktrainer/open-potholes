@@ -14351,27 +14351,6 @@
     }
   },
   {
-    "service_request": "2026-1277566",
-    "request_type": "Street and Traffic Signs",
-    "request_reason": "Street Name Sign Damaged or Missing",
-    "date_created": "2026-04-29T14:44:25.000",
-    "date_modified": "2026-04-29T14:44:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CONGRESS DR & DEBORE CIR",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1277566",
-    "final_x": "3692127.2",
-    "final_y": "552350.58",
-    "longitude": "-90.03376758838908",
-    "latitude": "30.01244534542712",
-    "geocoded_column": {
-      "latitude": "30.01244534542712",
-      "longitude": "-90.03376758838908"
-    }
-  },
-  {
     "service_request": "2026-1277567",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -14393,6 +14372,27 @@
     "geocoded_column": {
       "latitude": "29.935640598116837",
       "longitude": "-90.11233699345368"
+    }
+  },
+  {
+    "service_request": "2026-1277566",
+    "request_type": "Street and Traffic Signs",
+    "request_reason": "Street Name Sign Damaged or Missing",
+    "date_created": "2026-04-29T14:44:25.000",
+    "date_modified": "2026-04-29T14:44:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "CONGRESS DR & DEBORE CIR",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1277566",
+    "final_x": "3692127.2",
+    "final_y": "552350.58",
+    "longitude": "-90.03376758838908",
+    "latitude": "30.01244534542712",
+    "geocoded_column": {
+      "latitude": "30.01244534542712",
+      "longitude": "-90.03376758838908"
     }
   },
   {
