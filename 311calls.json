@@ -21491,6 +21491,28 @@
     }
   },
   {
+    "service_request": "2026-1279043",
+    "request_type": "Safety & Permits",
+    "request_reason": "Licenses & Permits",
+    "date_created": "2026-05-05T14:47:11.000",
+    "date_modified": "2026-05-05T15:28:17.000",
+    "case_close_date": "2026-05-05T10:28:15.000",
+    "request_status": "Closed",
+    "responsible_agency": "Safety and Permits",
+    "final_address": "2628 Chippewa St",
+    "address_councildis": "B",
+    "status": "Resolved",
+    "rowid": "1279043",
+    "final_x": "3678212.18606",
+    "final_y": "519752.345528",
+    "longitude": "-90.07885886625844",
+    "latitude": "29.923237936527542",
+    "geocoded_column": {
+      "latitude": "29.923237936527542",
+      "longitude": "-90.07885886625844"
+    }
+  },
+  {
     "service_request": "2026-1279042",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -21512,28 +21534,6 @@
     "geocoded_column": {
       "latitude": "29.96266019981189",
       "longitude": "-90.03765503873642"
-    }
-  },
-  {
-    "service_request": "2026-1279043",
-    "request_type": "Safety & Permits",
-    "request_reason": "Licenses & Permits",
-    "date_created": "2026-05-05T14:47:11.000",
-    "date_modified": "2026-05-05T15:28:17.000",
-    "case_close_date": "2026-05-05T10:28:15.000",
-    "request_status": "Closed",
-    "responsible_agency": "Safety and Permits",
-    "final_address": "2628 Chippewa St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1279043",
-    "final_x": "3678212.18606",
-    "final_y": "519752.345528",
-    "longitude": "-90.07885886625844",
-    "latitude": "29.923237936527542",
-    "geocoded_column": {
-      "latitude": "29.923237936527542",
-      "longitude": "-90.07885886625844"
     }
   },
   {
