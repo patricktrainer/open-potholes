@@ -20577,28 +20577,6 @@
     }
   },
   {
-    "service_request": "2026-1279998",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-05-08T15:40:02.000",
-    "date_modified": "2026-05-11T12:42:55.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1910 Jo Ann Pl",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Not for Richards for CNO",
-    "rowid": "1279998",
-    "final_x": "3695043.47402",
-    "final_y": "523651.809787",
-    "longitude": "-90.02558866824054",
-    "latitude": "29.933442723605456",
-    "geocoded_column": {
-      "latitude": "29.933442723605456",
-      "longitude": "-90.02558866824054"
-    }
-  },
-  {
     "service_request": "2026-1279999",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -20620,6 +20598,28 @@
     "geocoded_column": {
       "latitude": "30.020772486847964",
       "longitude": "-90.01765082661952"
+    }
+  },
+  {
+    "service_request": "2026-1279998",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-05-08T15:40:02.000",
+    "date_modified": "2026-05-11T12:42:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1910 Jo Ann Pl",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Not for Richards for CNO",
+    "rowid": "1279998",
+    "final_x": "3695043.47402",
+    "final_y": "523651.809787",
+    "longitude": "-90.02558866824054",
+    "latitude": "29.933442723605456",
+    "geocoded_column": {
+      "latitude": "29.933442723605456",
+      "longitude": "-90.02558866824054"
     }
   },
   {
