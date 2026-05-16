@@ -21032,27 +21032,6 @@
     }
   },
   {
-    "service_request": "2026-1280845",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-05-12T15:10:02.000",
-    "date_modified": "2026-05-13T10:00:39.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1401 Montegut St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1280845",
-    "final_x": "3688832.07292",
-    "final_y": "537469.4978",
-    "longitude": "-90.04470707046484",
-    "latitude": "29.97163007322997",
-    "geocoded_column": {
-      "latitude": "29.97163007322997",
-      "longitude": "-90.04470707046484"
-    }
-  },
-  {
     "service_request": "2026-1280846",
     "request_type": "Trash/Recycling",
     "request_reason": "Repair Trash Cart",
@@ -21074,6 +21053,27 @@
     "geocoded_column": {
       "latitude": "29.99361370809165",
       "longitude": "-90.07068455482127"
+    }
+  },
+  {
+    "service_request": "2026-1280845",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-05-12T15:10:02.000",
+    "date_modified": "2026-05-13T10:00:39.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1401 Montegut St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1280845",
+    "final_x": "3688832.07292",
+    "final_y": "537469.4978",
+    "longitude": "-90.04470707046484",
+    "latitude": "29.97163007322997",
+    "geocoded_column": {
+      "latitude": "29.97163007322997",
+      "longitude": "-90.04470707046484"
     }
   },
   {
