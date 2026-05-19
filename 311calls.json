@@ -1870,27 +1870,6 @@
     }
   },
   {
-    "service_request": "2026-1282343",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2026-05-18T15:45:18.000",
-    "date_modified": "2026-05-18T15:45:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4437 Gawain Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1282343",
-    "final_x": "3707301.30641",
-    "final_y": "553665.659863",
-    "longitude": "-89.98577742359072",
-    "latitude": "30.01557937210517",
-    "geocoded_column": {
-      "latitude": "30.01557937210517",
-      "longitude": "-89.98577742359072"
-    }
-  },
-  {
     "service_request": "2026-1282344",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -1910,6 +1889,27 @@
     "geocoded_column": {
       "latitude": "30.014764522130058",
       "longitude": "-90.0625634066686"
+    }
+  },
+  {
+    "service_request": "2026-1282343",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2026-05-18T15:45:18.000",
+    "date_modified": "2026-05-18T15:45:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4437 Gawain Dr",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1282343",
+    "final_x": "3707301.30641",
+    "final_y": "553665.659863",
+    "longitude": "-89.98577742359072",
+    "latitude": "30.01557937210517",
+    "geocoded_column": {
+      "latitude": "30.01557937210517",
+      "longitude": "-89.98577742359072"
     }
   },
   {
@@ -3673,28 +3673,6 @@
     }
   },
   {
-    "service_request": "2026-1282259",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Return Trash Cart",
-    "date_created": "2026-05-18T13:53:19.000",
-    "date_modified": "2026-05-18T13:53:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "5441 Carlisle Ct",
-    "address_councildis": "C",
-    "status": "Assigned to Contractor",
-    "contractor": "Richards Disposal",
-    "rowid": "1282259",
-    "final_x": "3704123.75742",
-    "final_y": "516517.191669",
-    "longitude": "-89.99718560286752",
-    "latitude": "29.913536917813794",
-    "geocoded_column": {
-      "latitude": "29.913536917813794",
-      "longitude": "-89.99718560286752"
-    }
-  },
-  {
     "service_request": "2026-1282260",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -3714,6 +3692,28 @@
     "geocoded_column": {
       "latitude": "30.045191260159086",
       "longitude": "-89.95308268083468"
+    }
+  },
+  {
+    "service_request": "2026-1282259",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Return Trash Cart",
+    "date_created": "2026-05-18T13:53:19.000",
+    "date_modified": "2026-05-18T13:53:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "5441 Carlisle Ct",
+    "address_councildis": "C",
+    "status": "Assigned to Contractor",
+    "contractor": "Richards Disposal",
+    "rowid": "1282259",
+    "final_x": "3704123.75742",
+    "final_y": "516517.191669",
+    "longitude": "-89.99718560286752",
+    "latitude": "29.913536917813794",
+    "geocoded_column": {
+      "latitude": "29.913536917813794",
+      "longitude": "-89.99718560286752"
     }
   },
   {
