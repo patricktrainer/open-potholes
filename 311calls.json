@@ -16031,28 +16031,6 @@
     }
   },
   {
-    "service_request": "2026-1282722",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Trash Cart",
-    "date_created": "2026-05-19T16:05:52.000",
-    "date_modified": "2026-05-19T16:05:54.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4759 Pauline Dr",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1282722",
-    "final_x": "3692866.97545",
-    "final_y": "551518.485269",
-    "longitude": "-90.03146018938442",
-    "latitude": "30.010134303146693",
-    "geocoded_column": {
-      "latitude": "30.010134303146693",
-      "longitude": "-90.03146018938442"
-    }
-  },
-  {
     "service_request": "2026-1282723",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -16072,6 +16050,28 @@
     "geocoded_column": {
       "latitude": "29.947374463402497",
       "longitude": "-90.11597993864528"
+    }
+  },
+  {
+    "service_request": "2026-1282722",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Trash Cart",
+    "date_created": "2026-05-19T16:05:52.000",
+    "date_modified": "2026-05-19T16:05:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4759 Pauline Dr",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1282722",
+    "final_x": "3692866.97545",
+    "final_y": "551518.485269",
+    "longitude": "-90.03146018938442",
+    "latitude": "30.010134303146693",
+    "geocoded_column": {
+      "latitude": "30.010134303146693",
+      "longitude": "-90.03146018938442"
     }
   },
   {
