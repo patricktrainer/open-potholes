@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1283823",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-05-23T16:26:13.000",
+    "date_modified": "2026-05-23T16:26:15.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1000 BLK General Taylor St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1283823",
+    "final_x": "3672988.00012",
+    "final_y": "519531.59327",
+    "longitude": "-90.09535719324596",
+    "latitude": "29.92278717184743",
+    "geocoded_column": {
+      "latitude": "29.92278717184743",
+      "longitude": "-90.09535719324596"
+    }
+  },
+  {
     "service_request": "2026-1283573",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21353,28 +21374,6 @@
     "geocoded_column": {
       "latitude": "29.961968272940652",
       "longitude": "-90.0411080278378"
-    }
-  },
-  {
-    "service_request": "2025-1228100",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-09-22T15:21:00.000",
-    "date_modified": "2025-10-15T15:33:27.000",
-    "case_close_date": "2025-10-15T10:33:26.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "420 S St Patrick St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1228100",
-    "final_x": "3668308.85441",
-    "final_y": "538711.515273",
-    "longitude": "-90.10948080178234",
-    "latitude": "29.975663883068",
-    "geocoded_column": {
-      "latitude": "29.975663883068",
-      "longitude": "-90.10948080178234"
     }
   }
 ]
