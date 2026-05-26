@@ -13355,6 +13355,27 @@
     }
   },
   {
+    "service_request": "2026-1283519",
+    "request_type": "Parks & Grass Service",
+    "request_reason": "Park Maintenance/Clean Up",
+    "date_created": "2026-05-22T09:33:20.000",
+    "date_modified": "2026-05-22T09:33:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkways",
+    "final_address": "4400 BLK Lennox Blvd",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1283519",
+    "final_x": "3700818.57011",
+    "final_y": "514341.793939",
+    "longitude": "-90.00769717419644",
+    "latitude": "29.907660874342298",
+    "geocoded_column": {
+      "latitude": "29.907660874342298",
+      "longitude": "-90.00769717419644"
+    }
+  },
+  {
     "service_request": "2026-1283520",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -13376,27 +13397,6 @@
     "geocoded_column": {
       "latitude": "29.97162903544098",
       "longitude": "-90.03739366739433"
-    }
-  },
-  {
-    "service_request": "2026-1283519",
-    "request_type": "Parks & Grass Service",
-    "request_reason": "Park Maintenance/Clean Up",
-    "date_created": "2026-05-22T09:33:20.000",
-    "date_modified": "2026-05-22T09:33:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkways",
-    "final_address": "4400 BLK Lennox Blvd",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1283519",
-    "final_x": "3700818.57011",
-    "final_y": "514341.793939",
-    "longitude": "-90.00769717419644",
-    "latitude": "29.907660874342298",
-    "geocoded_column": {
-      "latitude": "29.907660874342298",
-      "longitude": "-90.00769717419644"
     }
   },
   {
