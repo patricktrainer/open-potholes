@@ -16073,6 +16073,28 @@
     }
   },
   {
+    "service_request": "2026-1283910",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-05-24T14:34:35.000",
+    "date_modified": "2026-05-26T14:31:33.000",
+    "case_close_date": "2026-05-26T09:31:32.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3328 Third St",
+    "address_councildis": "B",
+    "status": "Invalid Case",
+    "rowid": "1283910",
+    "final_x": "3672923.6603",
+    "final_y": "528127.451391",
+    "longitude": "-90.09526711231096",
+    "latitude": "29.946424906288918",
+    "geocoded_column": {
+      "latitude": "29.946424906288918",
+      "longitude": "-90.09526711231096"
+    }
+  },
+  {
     "service_request": "2026-1283911",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -16107,28 +16129,6 @@
     "address_councildis": "B",
     "status": "Duplicate Request",
     "rowid": "1283912",
-    "final_x": "3672923.6603",
-    "final_y": "528127.451391",
-    "longitude": "-90.09526711231096",
-    "latitude": "29.946424906288918",
-    "geocoded_column": {
-      "latitude": "29.946424906288918",
-      "longitude": "-90.09526711231096"
-    }
-  },
-  {
-    "service_request": "2026-1283910",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-05-24T14:34:35.000",
-    "date_modified": "2026-05-26T14:31:33.000",
-    "case_close_date": "2026-05-26T09:31:32.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3328 Third St",
-    "address_councildis": "B",
-    "status": "Invalid Case",
-    "rowid": "1283910",
     "final_x": "3672923.6603",
     "final_y": "528127.451391",
     "longitude": "-90.09526711231096",
@@ -16227,6 +16227,28 @@
     }
   },
   {
+    "service_request": "2026-1283904",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-05-24T14:34:34.000",
+    "date_modified": "2026-05-26T09:10:01.000",
+    "case_close_date": "2026-05-26T04:09:52.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3328 Third St",
+    "address_councildis": "B",
+    "status": "Duplicate Request",
+    "rowid": "1283904",
+    "final_x": "3672923.6603",
+    "final_y": "528127.451391",
+    "longitude": "-90.09526711231096",
+    "latitude": "29.946424906288918",
+    "geocoded_column": {
+      "latitude": "29.946424906288918",
+      "longitude": "-90.09526711231096"
+    }
+  },
+  {
     "service_request": "2026-1283905",
     "request_type": "Abandoned Vehicles",
     "request_reason": "Abandoned/Junk Vehicles",
@@ -16305,28 +16327,6 @@
     "address_councildis": "B",
     "status": "Duplicate Request",
     "rowid": "1283908",
-    "final_x": "3672923.6603",
-    "final_y": "528127.451391",
-    "longitude": "-90.09526711231096",
-    "latitude": "29.946424906288918",
-    "geocoded_column": {
-      "latitude": "29.946424906288918",
-      "longitude": "-90.09526711231096"
-    }
-  },
-  {
-    "service_request": "2026-1283904",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-05-24T14:34:34.000",
-    "date_modified": "2026-05-26T09:10:01.000",
-    "case_close_date": "2026-05-26T04:09:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3328 Third St",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1283904",
     "final_x": "3672923.6603",
     "final_y": "528127.451391",
     "longitude": "-90.09526711231096",
