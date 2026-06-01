@@ -14365,6 +14365,27 @@
     }
   },
   {
+    "service_request": "2026-1285320",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-05-28T13:55:18.000",
+    "date_modified": "2026-05-29T12:15:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "TCHOUPITOULAS ST & GAIENNIE ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1285320",
+    "final_x": "3681889.0",
+    "final_y": "525884.48",
+    "longitude": "-90.06703865655669",
+    "latitude": "29.93998808226062",
+    "geocoded_column": {
+      "latitude": "29.93998808226062",
+      "longitude": "-90.06703865655669"
+    }
+  },
+  {
     "service_request": "2026-1285319",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -14384,27 +14405,6 @@
     "geocoded_column": {
       "latitude": "29.934365597932743",
       "longitude": "-90.08722101384092"
-    }
-  },
-  {
-    "service_request": "2026-1285320",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-05-28T13:55:18.000",
-    "date_modified": "2026-05-29T12:15:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "TCHOUPITOULAS ST & GAIENNIE ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1285320",
-    "final_x": "3681889.0",
-    "final_y": "525884.48",
-    "longitude": "-90.06703865655669",
-    "latitude": "29.93998808226062",
-    "geocoded_column": {
-      "latitude": "29.93998808226062",
-      "longitude": "-90.06703865655669"
     }
   },
   {
@@ -16185,27 +16185,6 @@
     }
   },
   {
-    "service_request": "2026-1285235",
-    "request_type": "Drainage",
-    "request_reason": "Catch Basin Not Draining",
-    "date_created": "2026-05-28T11:55:04.000",
-    "date_modified": "2026-05-28T11:55:06.000",
-    "request_status": "Pending",
-    "responsible_agency": "Sewerage & Water Board",
-    "final_address": "1806 Audubon St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1285235",
-    "final_x": "3665617.16928",
-    "final_y": "528184.363904",
-    "longitude": "-90.11833447102542",
-    "latitude": "29.946796449510195",
-    "geocoded_column": {
-      "latitude": "29.946796449510195",
-      "longitude": "-90.11833447102542"
-    }
-  },
-  {
     "service_request": "2026-1285236",
     "request_type": "Roads and Streets",
     "request_reason": "Debris in Driving Lanes",
@@ -16224,6 +16203,27 @@
     "geocoded_column": {
       "latitude": "29.921145264850697",
       "longitude": "-90.095553292112"
+    }
+  },
+  {
+    "service_request": "2026-1285235",
+    "request_type": "Drainage",
+    "request_reason": "Catch Basin Not Draining",
+    "date_created": "2026-05-28T11:55:04.000",
+    "date_modified": "2026-05-28T11:55:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Sewerage & Water Board",
+    "final_address": "1806 Audubon St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1285235",
+    "final_x": "3665617.16928",
+    "final_y": "528184.363904",
+    "longitude": "-90.11833447102542",
+    "latitude": "29.946796449510195",
+    "geocoded_column": {
+      "latitude": "29.946796449510195",
+      "longitude": "-90.11833447102542"
     }
   },
   {
@@ -17048,6 +17048,27 @@
     }
   },
   {
+    "service_request": "2026-1285195",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2026-05-28T10:55:12.000",
+    "date_modified": "2026-05-29T10:54:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "65 Yosemite Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1285195",
+    "final_x": "3699578.57252",
+    "final_y": "516511.424757",
+    "longitude": "-90.01153174771811",
+    "latitude": "29.913666013012058",
+    "geocoded_column": {
+      "latitude": "29.913666013012058",
+      "longitude": "-90.01153174771811"
+    }
+  },
+  {
     "service_request": "2026-1285196",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Trash Cart",
@@ -17067,27 +17088,6 @@
     "geocoded_column": {
       "latitude": "29.92545827406504",
       "longitude": "-90.09800623226731"
-    }
-  },
-  {
-    "service_request": "2026-1285195",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2026-05-28T10:55:12.000",
-    "date_modified": "2026-05-29T10:54:52.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "65 Yosemite Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1285195",
-    "final_x": "3699578.57252",
-    "final_y": "516511.424757",
-    "longitude": "-90.01153174771811",
-    "latitude": "29.913666013012058",
-    "geocoded_column": {
-      "latitude": "29.913666013012058",
-      "longitude": "-90.01153174771811"
     }
   },
   {
