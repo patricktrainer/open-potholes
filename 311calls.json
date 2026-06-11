@@ -19494,27 +19494,6 @@
     }
   },
   {
-    "service_request": "2026-1288765",
-    "request_type": "Roads and Streets",
-    "request_reason": "Sidewalk Damaged or Missing",
-    "date_created": "2026-06-08T16:06:39.000",
-    "date_modified": "2026-06-09T09:31:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2327 Urquhart St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1288765",
-    "final_x": "3685947.50684",
-    "final_y": "537153.074248",
-    "longitude": "-90.05382810437223",
-    "latitude": "29.970848902884008",
-    "geocoded_column": {
-      "latitude": "29.970848902884008",
-      "longitude": "-90.05382810437223"
-    }
-  },
-  {
     "service_request": "2026-1288764",
     "request_type": "Tree Service",
     "request_reason": "Tree Trim",
@@ -19533,6 +19512,27 @@
     "geocoded_column": {
       "latitude": "30.010609887960953",
       "longitude": "-90.09995598972628"
+    }
+  },
+  {
+    "service_request": "2026-1288765",
+    "request_type": "Roads and Streets",
+    "request_reason": "Sidewalk Damaged or Missing",
+    "date_created": "2026-06-08T16:06:39.000",
+    "date_modified": "2026-06-09T09:31:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2327 Urquhart St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1288765",
+    "final_x": "3685947.50684",
+    "final_y": "537153.074248",
+    "longitude": "-90.05382810437223",
+    "latitude": "29.970848902884008",
+    "geocoded_column": {
+      "latitude": "29.970848902884008",
+      "longitude": "-90.05382810437223"
     }
   },
   {
