@@ -16322,27 +16322,6 @@
     }
   },
   {
-    "service_request": "2026-1290242",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2026-06-12T16:33:39.000",
-    "date_modified": "2026-06-12T16:33:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "0 BLK Agriculture Pl",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1290242",
-    "final_x": "3689891.40135",
-    "final_y": "543419.290574",
-    "longitude": "-90.04114966127275",
-    "latitude": "29.987957086684915",
-    "geocoded_column": {
-      "latitude": "29.987957086684915",
-      "longitude": "-90.04114966127275"
-    }
-  },
-  {
     "service_request": "2026-1290241",
     "request_type": "Trash/Recycling",
     "request_reason": "Order Recycling Cart",
@@ -16354,6 +16333,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1290241",
+    "final_x": "3689891.40135",
+    "final_y": "543419.290574",
+    "longitude": "-90.04114966127275",
+    "latitude": "29.987957086684915",
+    "geocoded_column": {
+      "latitude": "29.987957086684915",
+      "longitude": "-90.04114966127275"
+    }
+  },
+  {
+    "service_request": "2026-1290242",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2026-06-12T16:33:39.000",
+    "date_modified": "2026-06-12T16:33:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "0 BLK Agriculture Pl",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1290242",
     "final_x": "3689891.40135",
     "final_y": "543419.290574",
     "longitude": "-90.04114966127275",
