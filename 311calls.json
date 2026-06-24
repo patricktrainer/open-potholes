@@ -14439,27 +14439,6 @@
     }
   },
   {
-    "service_request": "2026-1292900",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Recycling Cart",
-    "date_created": "2026-06-22T13:20:44.000",
-    "date_modified": "2026-06-22T13:20:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4747 Reynes St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1292900",
-    "final_x": "3699216.64944",
-    "final_y": "555065.309273",
-    "longitude": "-90.01127005599727",
-    "latitude": "30.01968683066517",
-    "geocoded_column": {
-      "latitude": "30.01968683066517",
-      "longitude": "-90.01127005599727"
-    }
-  },
-  {
     "service_request": "2026-1292899",
     "request_type": "Property Maintenance",
     "request_reason": "Property Maintenance",
@@ -14479,6 +14458,27 @@
     "geocoded_column": {
       "latitude": "29.993207167864743",
       "longitude": "-90.04604439032559"
+    }
+  },
+  {
+    "service_request": "2026-1292900",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Recycling Cart",
+    "date_created": "2026-06-22T13:20:44.000",
+    "date_modified": "2026-06-22T13:20:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4747 Reynes St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1292900",
+    "final_x": "3699216.64944",
+    "final_y": "555065.309273",
+    "longitude": "-90.01127005599727",
+    "latitude": "30.01968683066517",
+    "geocoded_column": {
+      "latitude": "30.01968683066517",
+      "longitude": "-90.01127005599727"
     }
   },
   {
