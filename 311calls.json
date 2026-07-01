@@ -17390,6 +17390,27 @@
     }
   },
   {
+    "service_request": "2026-1295031",
+    "request_type": "Traffic Safety",
+    "request_reason": "Request for Traffic Calming due to Speeding",
+    "date_created": "2026-06-29T10:48:20.000",
+    "date_modified": "2026-06-29T10:48:21.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2601 Palmyra St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1295031",
+    "final_x": "3675316.71963",
+    "final_y": "534176.857733",
+    "longitude": "-90.08750370228708",
+    "latitude": "29.962987441104396",
+    "geocoded_column": {
+      "latitude": "29.962987441104396",
+      "longitude": "-90.08750370228708"
+    }
+  },
+  {
     "service_request": "2026-1295030",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -17411,27 +17432,6 @@
     "geocoded_column": {
       "latitude": "29.995865369867584",
       "longitude": "-90.10707987912159"
-    }
-  },
-  {
-    "service_request": "2026-1295031",
-    "request_type": "Traffic Safety",
-    "request_reason": "Request for Traffic Calming due to Speeding",
-    "date_created": "2026-06-29T10:48:20.000",
-    "date_modified": "2026-06-29T10:48:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2601 Palmyra St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1295031",
-    "final_x": "3675316.71963",
-    "final_y": "534176.857733",
-    "longitude": "-90.08750370228708",
-    "latitude": "29.962987441104396",
-    "geocoded_column": {
-      "latitude": "29.962987441104396",
-      "longitude": "-90.08750370228708"
     }
   },
   {
