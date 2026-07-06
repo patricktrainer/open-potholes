@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1296764",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-05T09:38:38.000",
+    "date_modified": "2026-07-05T09:38:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1511 St Ann St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1296764",
+    "final_x": "3680461.75637",
+    "final_y": "534562.861637",
+    "longitude": "-90.07124288922185",
+    "latitude": "29.963894000940588",
+    "geocoded_column": {
+      "latitude": "29.963894000940588",
+      "longitude": "-90.07124288922185"
+    }
+  },
+  {
+    "service_request": "2026-1296757",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-05T08:43:07.000",
+    "date_modified": "2026-07-05T08:43:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1129 Bourbon St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1296757",
+    "final_x": "3683284.77852",
+    "final_y": "534055.203973",
+    "longitude": "-90.06234584490811",
+    "latitude": "29.962412316110804",
+    "geocoded_column": {
+      "latitude": "29.962412316110804",
+      "longitude": "-90.06234584490811"
+    }
+  },
+  {
     "service_request": "2026-1296673",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21386,49 +21428,6 @@
     "geocoded_column": {
       "latitude": "29.985041624846367",
       "longitude": "-90.07034275596625"
-    }
-  },
-  {
-    "service_request": "2025-1245632",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-15T10:56:24.000",
-    "date_modified": "2025-12-16T10:11:24.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N BROAD ST & REPUBLIC ST",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1245632",
-    "final_x": "3680722.6",
-    "final_y": "542336.18",
-    "longitude": "-90.07014855729182",
-    "latitude": "29.985260035010125",
-    "geocoded_column": {
-      "latitude": "29.985260035010125",
-      "longitude": "-90.07014855729182"
-    }
-  },
-  {
-    "service_request": "2025-1245627",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-15T10:47:39.000",
-    "date_modified": "2025-12-16T10:14:19.000",
-    "case_close_date": "2025-12-16T04:14:18.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2416 Monroe St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1245627",
-    "final_x": "3663410.47226",
-    "final_y": "533185.782404",
-    "longitude": "-90.12513534374021",
-    "latitude": "29.96061288645294",
-    "geocoded_column": {
-      "latitude": "29.96061288645294",
-      "longitude": "-90.12513534374021"
     }
   }
 ]
