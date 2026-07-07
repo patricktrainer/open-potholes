@@ -1,10 +1,52 @@
 [
   {
+    "service_request": "2026-1297029",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-06T11:13:13.000",
+    "date_modified": "2026-07-06T14:12:09.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1360 Rapides Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1297029",
+    "final_x": "3677526.61205",
+    "final_y": "552605.162838",
+    "longitude": "-90.0798885379975",
+    "latitude": "30.013592599035217",
+    "geocoded_column": {
+      "latitude": "30.013592599035217",
+      "longitude": "-90.0798885379975"
+    }
+  },
+  {
+    "service_request": "2026-1296938",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-06T09:13:43.000",
+    "date_modified": "2026-07-06T09:13:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1523 Dumaine St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1296938",
+    "final_x": "3680623.50511",
+    "final_y": "534915.098374",
+    "longitude": "-90.0707198452991",
+    "latitude": "29.96485763182781",
+    "geocoded_column": {
+      "latitude": "29.96485763182781",
+      "longitude": "-90.0707198452991"
+    }
+  },
+  {
     "service_request": "2026-1296764",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-05T09:38:38.000",
-    "date_modified": "2026-07-05T09:38:41.000",
+    "date_modified": "2026-07-06T12:26:00.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1511 St Ann St",
@@ -46,20 +88,20 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-03T20:30:13.000",
-    "date_modified": "2026-07-03T20:30:15.000",
+    "date_modified": "2026-07-06T09:32:17.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
-    "final_address": "2525 Elder St",
+    "final_address": "2534 Elder St",
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1296673",
-    "final_x": "3686775.1926",
-    "final_y": "545784.232464",
-    "longitude": "-90.05090910039738",
-    "latitude": "29.99455609084424",
+    "final_x": "3686905.25711",
+    "final_y": "545719.224464",
+    "longitude": "-90.05050054269783",
+    "latitude": "29.99437333894701",
     "geocoded_column": {
-      "latitude": "29.99455609084424",
-      "longitude": "-90.05090910039738"
+      "latitude": "29.99437333894701",
+      "longitude": "-90.05050054269783"
     }
   },
   {
@@ -67,7 +109,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-03T20:30:11.000",
-    "date_modified": "2026-07-03T20:30:15.000",
+    "date_modified": "2026-07-06T09:32:51.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2525 Elder St",
@@ -88,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-03T16:44:05.000",
-    "date_modified": "2026-07-03T16:44:06.000",
+    "date_modified": "2026-07-06T12:44:31.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2800 BLK Perdido St",
@@ -102,27 +144,6 @@
     "geocoded_column": {
       "latitude": "29.96060959175053",
       "longitude": "-90.09479292583404"
-    }
-  },
-  {
-    "service_request": "2026-1296648",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-07-03T16:16:54.000",
-    "date_modified": "2026-07-03T16:16:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6565 Argonne Blvd",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1296648",
-    "final_x": "3670573.63246",
-    "final_y": "551051.537621",
-    "longitude": "-90.10190914248348",
-    "latitude": "30.009527980913308",
-    "geocoded_column": {
-      "latitude": "30.009527980913308",
-      "longitude": "-90.10190914248348"
     }
   },
   {
@@ -151,7 +172,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-03T07:44:35.000",
-    "date_modified": "2026-07-03T07:44:36.000",
+    "date_modified": "2026-07-06T16:09:14.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "100 BLK City Park Ave",
@@ -172,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-03T07:40:16.000",
-    "date_modified": "2026-07-03T07:40:18.000",
+    "date_modified": "2026-07-06T07:10:24.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "216 Fairway Dr",
@@ -193,7 +214,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-02T15:33:42.000",
-    "date_modified": "2026-07-02T15:33:43.000",
+    "date_modified": "2026-07-06T11:41:13.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "130 Roosevelt Way",
@@ -214,7 +235,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-02T13:28:10.000",
-    "date_modified": "2026-07-02T13:28:14.000",
+    "date_modified": "2026-07-06T11:42:48.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "2100 BLK S Lopez St",
@@ -235,7 +256,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-02T10:06:53.000",
-    "date_modified": "2026-07-02T10:06:55.000",
+    "date_modified": "2026-07-06T11:47:57.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "MARTIN LUTHER KING JR BLVD & S SARATOGA ST",
@@ -21406,28 +21427,6 @@
     "geocoded_column": {
       "latitude": "29.974785253813693",
       "longitude": "-90.10197568402062"
-    }
-  },
-  {
-    "service_request": "2025-1245633",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2025-12-15T10:57:03.000",
-    "date_modified": "2026-05-30T06:40:10.000",
-    "case_close_date": "2026-05-30T01:40:10.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "N BROAD ST & DUELS ST",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1245633",
-    "final_x": "3680662.0",
-    "final_y": "542256.08",
-    "longitude": "-90.07034275596625",
-    "latitude": "29.985041624846367",
-    "geocoded_column": {
-      "latitude": "29.985041624846367",
-      "longitude": "-90.07034275596625"
     }
   }
 ]
