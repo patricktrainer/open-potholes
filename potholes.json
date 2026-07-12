@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2026-1299025",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-11T21:13:04.000",
+    "date_modified": "2026-07-11T21:13:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2216 S Salcedo St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1299025",
+    "final_x": "3669285.7595",
+    "final_y": "528860.585216",
+    "longitude": "-90.1067285038451",
+    "latitude": "29.948548365331032",
+    "geocoded_column": {
+      "latitude": "29.948548365331032",
+      "longitude": "-90.1067285038451"
+    }
+  },
+  {
+    "service_request": "2026-1298939",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-11T12:39:53.000",
+    "date_modified": "2026-07-11T12:39:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 BLK City Park Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1298939",
+    "final_x": "3667460.85828",
+    "final_y": "540848.234692",
+    "longitude": "-90.11208709421294",
+    "latitude": "29.98156401942775",
+    "geocoded_column": {
+      "latitude": "29.98156401942775",
+      "longitude": "-90.11208709421294"
+    }
+  },
+  {
+    "service_request": "2026-1298919",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-11T08:44:03.000",
+    "date_modified": "2026-07-11T08:44:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "702 Mazant St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1298919",
+    "final_x": "3691703.06857",
+    "final_y": "533796.761541",
+    "longitude": "-90.03577141759311",
+    "latitude": "29.96144224935131",
+    "geocoded_column": {
+      "latitude": "29.96144224935131",
+      "longitude": "-90.03577141759311"
+    }
+  },
+  {
+    "service_request": "2026-1298915",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-11T05:18:38.000",
+    "date_modified": "2026-07-11T05:18:41.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2200 BLK Leon C Simon Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1298915",
+    "final_x": "3683770.04942",
+    "final_y": "556916.986019",
+    "longitude": "-90.06001116728014",
+    "latitude": "30.025259258438485",
+    "geocoded_column": {
+      "latitude": "30.025259258438485",
+      "longitude": "-90.06001116728014"
+    }
+  },
+  {
     "service_request": "2026-1298813",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21349,93 +21433,6 @@
     "geocoded_column": {
       "latitude": "29.960115119321095",
       "longitude": "-90.01410067614881"
-    }
-  },
-  {
-    "service_request": "2026-1249433",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-05T12:30:16.000",
-    "date_modified": "2026-01-07T14:45:33.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2226 Marais St",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1249433",
-    "final_x": "3685293.63189",
-    "final_y": "536666.827015",
-    "longitude": "-90.0559102396008",
-    "latitude": "29.969531952635982",
-    "geocoded_column": {
-      "latitude": "29.969531952635982",
-      "longitude": "-90.0559102396008"
-    }
-  },
-  {
-    "service_request": "2026-1249374",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-05T11:13:44.000",
-    "date_modified": "2026-01-06T08:55:59.000",
-    "case_close_date": "2026-01-06T02:55:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "612 Andrew Higgins Dr",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1249374",
-    "final_x": "3680463.39189",
-    "final_y": "526974.08563",
-    "longitude": "-90.07150162970704",
-    "latitude": "29.94302737823644",
-    "geocoded_column": {
-      "latitude": "29.94302737823644",
-      "longitude": "-90.07150162970704"
-    }
-  },
-  {
-    "service_request": "2026-1249301",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-05T09:18:13.000",
-    "date_modified": "2026-05-30T06:42:44.000",
-    "case_close_date": "2026-05-30T01:42:44.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6742 Colbert St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1249301",
-    "final_x": "3667777.04781",
-    "final_y": "552430.494998",
-    "longitude": "-90.11069807767299",
-    "latitude": "30.01340197335916",
-    "geocoded_column": {
-      "latitude": "30.01340197335916",
-      "longitude": "-90.11069807767299"
-    }
-  },
-  {
-    "service_request": "2026-1249218",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-04T20:59:46.000",
-    "date_modified": "2026-04-21T14:32:13.000",
-    "case_close_date": "2026-04-21T09:32:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11421 Tanner S Davis Dr",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1249218",
-    "final_x": "3718245.6837",
-    "final_y": "561223.653278",
-    "longitude": "-89.95091052995795",
-    "latitude": "30.036002382440053",
-    "geocoded_column": {
-      "latitude": "30.036002382440053",
-      "longitude": "-89.95091052995795"
     }
   }
 ]
