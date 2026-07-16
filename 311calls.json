@@ -17794,6 +17794,27 @@
     }
   },
   {
+    "service_request": "2026-1299687",
+    "request_type": "Tree Service",
+    "request_reason": "Street or Sidewalk Blocked",
+    "date_created": "2026-07-14T08:51:59.000",
+    "date_modified": "2026-07-14T08:53:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkways",
+    "final_address": "3801 Bienville Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1299687",
+    "final_x": "3672447.89454",
+    "final_y": "538422.563913",
+    "longitude": "-90.09641838636269",
+    "latitude": "29.974747157777355",
+    "geocoded_column": {
+      "latitude": "29.974747157777355",
+      "longitude": "-90.09641838636269"
+    }
+  },
+  {
     "service_request": "2026-1299688",
     "request_type": "Trash/Recycling",
     "request_reason": "Missed Trash Pick-Up",
@@ -17815,27 +17836,6 @@
     "geocoded_column": {
       "latitude": "29.955079872462054",
       "longitude": "-90.13100712049533"
-    }
-  },
-  {
-    "service_request": "2026-1299687",
-    "request_type": "Tree Service",
-    "request_reason": "Street or Sidewalk Blocked",
-    "date_created": "2026-07-14T08:51:59.000",
-    "date_modified": "2026-07-14T08:53:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkways",
-    "final_address": "3801 Bienville Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1299687",
-    "final_x": "3672447.89454",
-    "final_y": "538422.563913",
-    "longitude": "-90.09641838636269",
-    "latitude": "29.974747157777355",
-    "geocoded_column": {
-      "latitude": "29.974747157777355",
-      "longitude": "-90.09641838636269"
     }
   },
   {
