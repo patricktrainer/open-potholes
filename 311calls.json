@@ -9524,28 +9524,6 @@
     }
   },
   {
-    "service_request": "2026-1300859",
-    "request_type": "Homeless Related Request",
-    "request_reason": "Homeless Encampment Complaint",
-    "date_created": "2026-07-16T16:07:47.000",
-    "date_modified": "2026-07-17T14:36:23.000",
-    "case_close_date": "2026-07-17T09:36:21.000",
-    "request_status": "Closed",
-    "responsible_agency": "Office Of Homeless Services And Strategy",
-    "final_address": "1031 Egania St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1300859",
-    "final_x": "3696789.70301",
-    "final_y": "533877.453061",
-    "longitude": "-90.01970586667764",
-    "latitude": "29.961504757533483",
-    "geocoded_column": {
-      "latitude": "29.961504757533483",
-      "longitude": "-90.01970586667764"
-    }
-  },
-  {
     "service_request": "2026-1300860",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -9565,6 +9543,28 @@
     "geocoded_column": {
       "latitude": "30.023164630455828",
       "longitude": "-89.96002385775476"
+    }
+  },
+  {
+    "service_request": "2026-1300859",
+    "request_type": "Homeless Related Request",
+    "request_reason": "Homeless Encampment Complaint",
+    "date_created": "2026-07-16T16:07:47.000",
+    "date_modified": "2026-07-17T14:36:23.000",
+    "case_close_date": "2026-07-17T09:36:21.000",
+    "request_status": "Closed",
+    "responsible_agency": "Office Of Homeless Services And Strategy",
+    "final_address": "1031 Egania St",
+    "address_councildis": "E",
+    "status": "Resolved",
+    "rowid": "1300859",
+    "final_x": "3696789.70301",
+    "final_y": "533877.453061",
+    "longitude": "-90.01970586667764",
+    "latitude": "29.961504757533483",
+    "geocoded_column": {
+      "latitude": "29.961504757533483",
+      "longitude": "-90.01970586667764"
     }
   },
   {
@@ -11386,30 +11386,6 @@
     }
   },
   {
-    "service_request": "2026-1300773",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Dead Animal Pick Up",
-    "date_created": "2026-07-16T14:03:50.000",
-    "date_modified": "2026-07-17T11:58:30.000",
-    "case_close_date": "2026-07-17T06:58:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "GREEN ST & S CARROLLTON AVE",
-    "address_councildis": "A",
-    "status": "Invalid Request",
-    "contractor": "IV Waste",
-    "contractor_action": "Invalid Request",
-    "rowid": "1300773",
-    "final_x": "3663238.5",
-    "final_y": "529590.38",
-    "longitude": "-90.12579804954098",
-    "latitude": "29.950731680424404",
-    "geocoded_column": {
-      "latitude": "29.950731680424404",
-      "longitude": "-90.12579804954098"
-    }
-  },
-  {
     "service_request": "2026-1300774",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -11431,6 +11407,30 @@
     "geocoded_column": {
       "latitude": "29.94090784961621",
       "longitude": "-90.08164856466055"
+    }
+  },
+  {
+    "service_request": "2026-1300773",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Dead Animal Pick Up",
+    "date_created": "2026-07-16T14:03:50.000",
+    "date_modified": "2026-07-17T11:58:30.000",
+    "case_close_date": "2026-07-17T06:58:27.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "GREEN ST & S CARROLLTON AVE",
+    "address_councildis": "A",
+    "status": "Invalid Request",
+    "contractor": "IV Waste",
+    "contractor_action": "Invalid Request",
+    "rowid": "1300773",
+    "final_x": "3663238.5",
+    "final_y": "529590.38",
+    "longitude": "-90.12579804954098",
+    "latitude": "29.950731680424404",
+    "geocoded_column": {
+      "latitude": "29.950731680424404",
+      "longitude": "-90.12579804954098"
     }
   },
   {
