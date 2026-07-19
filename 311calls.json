@@ -12180,28 +12180,6 @@
     }
   },
   {
-    "service_request": "2026-1300860",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-07-16T16:07:47.000",
-    "date_modified": "2026-07-16T16:07:49.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4653 Chrysler St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1300860",
-    "final_x": "3715418.22507",
-    "final_y": "556520.699226",
-    "longitude": "-89.96002385775476",
-    "latitude": "30.023164630455828",
-    "geocoded_column": {
-      "latitude": "30.023164630455828",
-      "longitude": "-89.96002385775476"
-    }
-  },
-  {
     "service_request": "2026-1300859",
     "request_type": "Homeless Related Request",
     "request_reason": "Homeless Encampment Complaint",
@@ -12221,6 +12199,28 @@
     "geocoded_column": {
       "latitude": "29.961504757533483",
       "longitude": "-90.01970586667764"
+    }
+  },
+  {
+    "service_request": "2026-1300860",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-07-16T16:07:47.000",
+    "date_modified": "2026-07-16T16:07:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4653 Chrysler St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1300860",
+    "final_x": "3715418.22507",
+    "final_y": "556520.699226",
+    "longitude": "-89.96002385775476",
+    "latitude": "30.023164630455828",
+    "geocoded_column": {
+      "latitude": "30.023164630455828",
+      "longitude": "-89.96002385775476"
     }
   },
   {
@@ -14042,30 +14042,6 @@
     }
   },
   {
-    "service_request": "2026-1300774",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-07-16T14:03:50.000",
-    "date_modified": "2026-07-17T13:25:42.000",
-    "case_close_date": "2026-07-17T08:25:41.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1621 S Saratoga St",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1300774",
-    "final_x": "3677258.34126",
-    "final_y": "526168.10195",
-    "longitude": "-90.08164856466055",
-    "latitude": "29.94090784961621",
-    "geocoded_column": {
-      "latitude": "29.94090784961621",
-      "longitude": "-90.08164856466055"
-    }
-  },
-  {
     "service_request": "2026-1300773",
     "request_type": "Trash/Recycling",
     "request_reason": "Dead Animal Pick Up",
@@ -14087,6 +14063,30 @@
     "geocoded_column": {
       "latitude": "29.950731680424404",
       "longitude": "-90.12579804954098"
+    }
+  },
+  {
+    "service_request": "2026-1300774",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-07-16T14:03:50.000",
+    "date_modified": "2026-07-17T13:25:42.000",
+    "case_close_date": "2026-07-17T08:25:41.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1621 S Saratoga St",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1300774",
+    "final_x": "3677258.34126",
+    "final_y": "526168.10195",
+    "longitude": "-90.08164856466055",
+    "latitude": "29.94090784961621",
+    "geocoded_column": {
+      "latitude": "29.94090784961621",
+      "longitude": "-90.08164856466055"
     }
   },
   {
