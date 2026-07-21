@@ -7423,28 +7423,6 @@
     }
   },
   {
-    "service_request": "2026-1301724",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-07-20T10:55:58.000",
-    "date_modified": "2026-07-20T10:56:01.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4417 Elba St A",
-    "address_councildis": "B",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1301724",
-    "final_x": "3669702.08826",
-    "final_y": "530480.82733",
-    "longitude": "-90.10535915043391",
-    "latitude": "29.952991239319147",
-    "geocoded_column": {
-      "latitude": "29.952991239319147",
-      "longitude": "-90.10535915043391"
-    }
-  },
-  {
     "service_request": "2026-1301723",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -7464,6 +7442,28 @@
     "geocoded_column": {
       "latitude": "29.93532582672987",
       "longitude": "-90.08146274867951"
+    }
+  },
+  {
+    "service_request": "2026-1301724",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-07-20T10:55:58.000",
+    "date_modified": "2026-07-20T10:56:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4417 Elba St A",
+    "address_councildis": "B",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1301724",
+    "final_x": "3669702.08826",
+    "final_y": "530480.82733",
+    "longitude": "-90.10535915043391",
+    "latitude": "29.952991239319147",
+    "geocoded_column": {
+      "latitude": "29.952991239319147",
+      "longitude": "-90.10535915043391"
     }
   },
   {
