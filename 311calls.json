@@ -16207,27 +16207,6 @@
     }
   },
   {
-    "service_request": "2026-1302460",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-07-21T17:49:50.000",
-    "date_modified": "2026-07-22T12:43:56.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8800 BLK Peach St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1302460",
-    "final_x": "3666699.07569",
-    "final_y": "537514.504483",
-    "longitude": "-90.11460515952483",
-    "latitude": "29.97241968220673",
-    "geocoded_column": {
-      "latitude": "29.97241968220673",
-      "longitude": "-90.11460515952483"
-    }
-  },
-  {
     "service_request": "2026-1302459",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -16247,6 +16226,27 @@
     "geocoded_column": {
       "latitude": "29.997452342898953",
       "longitude": "-90.11103677774044"
+    }
+  },
+  {
+    "service_request": "2026-1302460",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-07-21T17:49:50.000",
+    "date_modified": "2026-07-22T12:43:56.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8800 BLK Peach St",
+    "address_councildis": "A",
+    "status": "Inspected",
+    "rowid": "1302460",
+    "final_x": "3666699.07569",
+    "final_y": "537514.504483",
+    "longitude": "-90.11460515952483",
+    "latitude": "29.97241968220673",
+    "geocoded_column": {
+      "latitude": "29.97241968220673",
+      "longitude": "-90.11460515952483"
     }
   },
   {
