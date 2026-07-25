@@ -1,10 +1,136 @@
 [
   {
+    "service_request": "2026-1303519",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-24T23:17:31.000",
+    "date_modified": "2026-07-24T23:17:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6560 Argonne Blvd",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1303519",
+    "final_x": "3670456.51067",
+    "final_y": "551112.412501",
+    "longitude": "-90.10227710595206",
+    "latitude": "30.009698825857654",
+    "geocoded_column": {
+      "latitude": "30.009698825857654",
+      "longitude": "-90.10227710595206"
+    }
+  },
+  {
+    "service_request": "2026-1303508",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-24T19:36:39.000",
+    "date_modified": "2026-07-24T19:36:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "625 Evelina St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1303508",
+    "final_x": "3687434.2493",
+    "final_y": "529470.490497",
+    "longitude": "-90.04940466126665",
+    "latitude": "29.949678722372674",
+    "geocoded_column": {
+      "latitude": "29.949678722372674",
+      "longitude": "-90.04940466126665"
+    }
+  },
+  {
+    "service_request": "2026-1303391",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-24T13:08:23.000",
+    "date_modified": "2026-07-24T13:09:03.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1829 Wagner St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1303391",
+    "final_x": "3690265.34025",
+    "final_y": "524090.491388",
+    "longitude": "-90.04065728599984",
+    "latitude": "29.934798031534296",
+    "geocoded_column": {
+      "latitude": "29.934798031534296",
+      "longitude": "-90.04065728599984"
+    }
+  },
+  {
+    "service_request": "2026-1303362",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-24T12:02:47.000",
+    "date_modified": "2026-07-24T12:02:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "JACKSON AVE & ORETHA CASTLE HALEY BLVD",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1303362",
+    "final_x": "3676822.0",
+    "final_y": "524744.08",
+    "longitude": "-90.08307522877575",
+    "latitude": "29.937005356723873",
+    "geocoded_column": {
+      "latitude": "29.937005356723873",
+      "longitude": "-90.08307522877575"
+    }
+  },
+  {
+    "service_request": "2026-1303320",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-24T11:04:18.000",
+    "date_modified": "2026-07-24T11:04:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "7300 Shubrick Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1303320",
+    "final_x": "3707200.02833",
+    "final_y": "562812.238496",
+    "longitude": "-89.98575754486897",
+    "latitude": "30.040732157998285",
+    "geocoded_column": {
+      "latitude": "30.040732157998285",
+      "longitude": "-89.98575754486897"
+    }
+  },
+  {
+    "service_request": "2026-1303291",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-07-24T10:25:16.000",
+    "date_modified": "2026-07-24T10:25:18.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5217 Arts St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1303291",
+    "final_x": "3685806.92022",
+    "final_y": "552343.088214",
+    "longitude": "-90.05373637555445",
+    "latitude": "30.01262033109664",
+    "geocoded_column": {
+      "latitude": "30.01262033109664",
+      "longitude": "-90.05373637555445"
+    }
+  },
+  {
     "service_request": "2026-1303167",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-23T17:48:35.000",
-    "date_modified": "2026-07-23T17:48:38.000",
+    "date_modified": "2026-07-24T07:11:07.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "6554 Argonne Blvd",
@@ -46,7 +172,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-23T11:20:37.000",
-    "date_modified": "2026-07-23T11:20:38.000",
+    "date_modified": "2026-07-24T14:26:06.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1901 Tennessee St",
@@ -67,7 +193,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-23T08:59:22.000",
-    "date_modified": "2026-07-23T08:59:24.000",
+    "date_modified": "2026-07-24T14:18:15.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "7500 BLK Saint Charles Ave",
@@ -146,27 +272,6 @@
     "geocoded_column": {
       "latitude": "30.038167440993618",
       "longitude": "-89.99971759939316"
-    }
-  },
-  {
-    "service_request": "2026-1302526",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-07-22T06:06:48.000",
-    "date_modified": "2026-07-23T14:46:43.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "625 Flood St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1302526",
-    "final_x": "3697304.09802",
-    "final_y": "532214.299587",
-    "longitude": "-90.01814178539706",
-    "latitude": "29.956915448972655",
-    "geocoded_column": {
-      "latitude": "29.956915448972655",
-      "longitude": "-90.01814178539706"
     }
   },
   {
@@ -5834,12 +5939,12 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-06-12T11:00:19.000",
-    "date_modified": "2026-06-15T10:13:24.000",
+    "date_modified": "2026-07-24T14:14:34.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1027 Casa Calvo St",
     "address_councildis": "C",
-    "status": "Pending",
+    "status": "Inspected",
     "rowid": "1290092",
     "final_x": "3692081.72893",
     "final_y": "527573.245631",
@@ -21348,114 +21453,6 @@
     "geocoded_column": {
       "latitude": "30.023347430147776",
       "longitude": "-90.01901000837296"
-    }
-  },
-  {
-    "service_request": "2026-1254600",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-26T16:58:52.000",
-    "date_modified": "2026-01-27T08:06:36.000",
-    "case_close_date": "2026-01-27T02:06:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CONSTANTINOPLE ST & COLISEUM ST",
-    "address_councildis": "B",
-    "status": "Duplicate Request",
-    "rowid": "1254600",
-    "final_x": "3672421.9",
-    "final_y": "519976.68",
-    "longitude": "-90.09712899389108",
-    "latitude": "29.924027823476578",
-    "geocoded_column": {
-      "latitude": "29.924027823476578",
-      "longitude": "-90.09712899389108"
-    }
-  },
-  {
-    "service_request": "2026-1254595",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-26T16:23:55.000",
-    "date_modified": "2026-02-19T14:02:21.000",
-    "case_close_date": "2026-02-19T08:02:19.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1 Park Timbers Dr",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1254595",
-    "final_x": "3699215.99082",
-    "final_y": "518475.570294",
-    "longitude": "-90.01260470669538",
-    "latitude": "29.91907824151963",
-    "geocoded_column": {
-      "latitude": "29.91907824151963",
-      "longitude": "-90.01260470669538"
-    }
-  },
-  {
-    "service_request": "2026-1254486",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-26T11:34:07.000",
-    "date_modified": "2026-01-27T08:12:20.000",
-    "case_close_date": "2026-01-27T02:12:17.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "OAK ST & S CARROLLTON AVE",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1254486",
-    "final_x": "3661989.2",
-    "final_y": "528349.78",
-    "longitude": "-90.12978386560482",
-    "latitude": "29.947356570354405",
-    "geocoded_column": {
-      "latitude": "29.947356570354405",
-      "longitude": "-90.12978386560482"
-    }
-  },
-  {
-    "service_request": "2026-1254422",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-26T08:46:19.000",
-    "date_modified": "2026-01-27T08:26:42.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1031 S Carrollton Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1254422",
-    "final_x": "3661802.12902",
-    "final_y": "527925.366399",
-    "longitude": "-90.13038859147233",
-    "latitude": "29.94619497020936",
-    "geocoded_column": {
-      "latitude": "29.94619497020936",
-      "longitude": "-90.13038859147233"
-    }
-  },
-  {
-    "service_request": "2026-1254372",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-01-25T13:05:27.000",
-    "date_modified": "2026-01-26T11:03:40.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8321 Jeannette St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1254372",
-    "final_x": "3662023.69306",
-    "final_y": "529793.388801",
-    "longitude": "-90.12962707510407",
-    "latitude": "29.951325035132285",
-    "geocoded_column": {
-      "latitude": "29.951325035132285",
-      "longitude": "-90.12962707510407"
     }
   }
 ]
