@@ -11829,27 +11829,6 @@
     }
   },
   {
-    "service_request": "2026-1304523",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-07-28T14:37:44.000",
-    "date_modified": "2026-07-29T09:26:06.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "LOYOLA AVE & CALLIOPE ST",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1304523",
-    "final_x": "3678483.23",
-    "final_y": "527674.85",
-    "longitude": "-90.07772924389585",
-    "latitude": "29.94501405841703",
-    "geocoded_column": {
-      "latitude": "29.94501405841703",
-      "longitude": "-90.07772924389585"
-    }
-  },
-  {
     "service_request": "2026-1304522",
     "request_type": "Tree Service",
     "request_reason": "Tree Trim",
@@ -11868,6 +11847,27 @@
     "geocoded_column": {
       "latitude": "29.9222931058608",
       "longitude": "-90.07979038116325"
+    }
+  },
+  {
+    "service_request": "2026-1304523",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-07-28T14:37:44.000",
+    "date_modified": "2026-07-29T09:26:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "LOYOLA AVE & CALLIOPE ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1304523",
+    "final_x": "3678483.23",
+    "final_y": "527674.85",
+    "longitude": "-90.07772924389585",
+    "latitude": "29.94501405841703",
+    "geocoded_column": {
+      "latitude": "29.94501405841703",
+      "longitude": "-90.07772924389585"
     }
   },
   {
@@ -20295,30 +20295,6 @@
     }
   },
   {
-    "service_request": "2026-1304133",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-07-27T16:12:29.000",
-    "date_modified": "2026-07-29T14:38:06.000",
-    "case_close_date": "2026-07-29T09:38:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4943 Chrysler St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "contractor_action": "Completed",
-    "rowid": "1304133",
-    "final_x": "3715291.82725",
-    "final_y": "557760.647131",
-    "longitude": "-89.9603762975421",
-    "latitude": "30.026578159480156",
-    "geocoded_column": {
-      "latitude": "30.026578159480156",
-      "longitude": "-89.9603762975421"
-    }
-  },
-  {
     "service_request": "2026-1304134",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -20333,6 +20309,30 @@
     "contractor": "Waste Pro",
     "contractor_action": "Completed",
     "rowid": "1304134",
+    "final_x": "3715291.82725",
+    "final_y": "557760.647131",
+    "longitude": "-89.9603762975421",
+    "latitude": "30.026578159480156",
+    "geocoded_column": {
+      "latitude": "30.026578159480156",
+      "longitude": "-89.9603762975421"
+    }
+  },
+  {
+    "service_request": "2026-1304133",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-07-27T16:12:29.000",
+    "date_modified": "2026-07-29T14:38:06.000",
+    "case_close_date": "2026-07-29T09:38:05.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4943 Chrysler St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "contractor_action": "Completed",
+    "rowid": "1304133",
     "final_x": "3715291.82725",
     "final_y": "557760.647131",
     "longitude": "-89.9603762975421",
