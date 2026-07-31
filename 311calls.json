@@ -20250,27 +20250,6 @@
     }
   },
   {
-    "service_request": "2026-1304522",
-    "request_type": "Tree Service",
-    "request_reason": "Tree Trim",
-    "date_created": "2026-07-28T14:37:44.000",
-    "date_modified": "2026-07-28T14:37:45.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkways",
-    "final_address": "610 Washington Ave",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1304522",
-    "final_x": "3677920.8813",
-    "final_y": "519405.542199",
-    "longitude": "-90.07979038116325",
-    "latitude": "29.9222931058608",
-    "geocoded_column": {
-      "latitude": "29.9222931058608",
-      "longitude": "-90.07979038116325"
-    }
-  },
-  {
     "service_request": "2026-1304523",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -20289,6 +20268,27 @@
     "geocoded_column": {
       "latitude": "29.94501405841703",
       "longitude": "-90.07772924389585"
+    }
+  },
+  {
+    "service_request": "2026-1304522",
+    "request_type": "Tree Service",
+    "request_reason": "Tree Trim",
+    "date_created": "2026-07-28T14:37:44.000",
+    "date_modified": "2026-07-28T14:37:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkways",
+    "final_address": "610 Washington Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1304522",
+    "final_x": "3677920.8813",
+    "final_y": "519405.542199",
+    "longitude": "-90.07979038116325",
+    "latitude": "29.9222931058608",
+    "geocoded_column": {
+      "latitude": "29.9222931058608",
+      "longitude": "-90.07979038116325"
     }
   },
   {
