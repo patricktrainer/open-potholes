@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1305802",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-01T12:12:26.000",
+    "date_modified": "2026-08-01T12:12:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2349 Easter Ln",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1305802",
+    "final_x": "3699194.42013",
+    "final_y": "522510.044666",
+    "longitude": "-90.01252600084183",
+    "latitude": "29.93017234673893",
+    "geocoded_column": {
+      "latitude": "29.93017234673893",
+      "longitude": "-90.01252600084183"
+    }
+  },
+  {
+    "service_request": "2026-1305775",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-01T08:48:42.000",
+    "date_modified": "2026-08-01T08:48:45.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1806 S Carrollton Ave",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1305775",
+    "final_x": "3663413.42752",
+    "final_y": "529997.779009",
+    "longitude": "-90.12523215264531",
+    "latitude": "29.951846826172847",
+    "geocoded_column": {
+      "latitude": "29.951846826172847",
+      "longitude": "-90.12523215264531"
+    }
+  },
+  {
     "service_request": "2026-1305734",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21424,50 +21466,6 @@
     "geocoded_column": {
       "latitude": "29.90693599060036",
       "longitude": "-90.00023779095375"
-    }
-  },
-  {
-    "service_request": "2026-1255814",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-02T08:41:45.000",
-    "date_modified": "2026-05-30T09:45:47.000",
-    "case_close_date": "2026-05-30T04:45:46.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "610 Loyola Ave",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1255814",
-    "final_x": "3679046.54159",
-    "final_y": "529113.46208",
-    "longitude": "-90.07590085051264",
-    "latitude": "29.948952776456345",
-    "geocoded_column": {
-      "latitude": "29.948952776456345",
-      "longitude": "-90.07590085051264"
-    }
-  },
-  {
-    "service_request": "2026-1255813",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-02T08:41:15.000",
-    "date_modified": "2026-02-18T15:16:09.000",
-    "case_close_date": "2026-02-18T09:16:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3800 Red Oak Ct",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1255813",
-    "final_x": "3703459.98334",
-    "final_y": "513804.14917",
-    "longitude": "-89.99938035577918",
-    "latitude": "29.906098243201306",
-    "geocoded_column": {
-      "latitude": "29.906098243201306",
-      "longitude": "-89.99938035577918"
     }
   }
 ]
