@@ -1,5 +1,152 @@
 [
   {
+    "service_request": "2026-1308041",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T18:45:04.000",
+    "date_modified": "2026-08-09T18:45:06.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4807 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1308041",
+    "final_x": "3669500.0795",
+    "final_y": "518729.036791",
+    "longitude": "-90.10639434053613",
+    "latitude": "29.920683553260705",
+    "geocoded_column": {
+      "latitude": "29.920683553260705",
+      "longitude": "-90.10639434053613"
+    }
+  },
+  {
+    "service_request": "2026-1308040",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T18:43:20.000",
+    "date_modified": "2026-08-09T18:43:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4807 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1308040",
+    "final_x": "3669500.0795",
+    "final_y": "518729.036791",
+    "longitude": "-90.10639434053613",
+    "latitude": "29.920683553260705",
+    "geocoded_column": {
+      "latitude": "29.920683553260705",
+      "longitude": "-90.10639434053613"
+    }
+  },
+  {
+    "service_request": "2026-1307998",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-08-09T12:48:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1307998",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931253",
+    "latitude": "29.922120464269824",
+    "geocoded_column": {
+      "latitude": "29.922120464269824",
+      "longitude": "-90.12173407931253"
+    }
+  },
+  {
+    "service_request": "2026-1307999",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-08-09T12:48:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1307999",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931253",
+    "latitude": "29.922120464269824",
+    "geocoded_column": {
+      "latitude": "29.922120464269824",
+      "longitude": "-90.12173407931253"
+    }
+  },
+  {
+    "service_request": "2026-1308000",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-08-09T12:48:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1308000",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931253",
+    "latitude": "29.922120464269824",
+    "geocoded_column": {
+      "latitude": "29.922120464269824",
+      "longitude": "-90.12173407931253"
+    }
+  },
+  {
+    "service_request": "2026-1307987",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T11:54:40.000",
+    "date_modified": "2026-08-09T21:17:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5529 St Roch Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1307987",
+    "final_x": "3685220.59049",
+    "final_y": "553417.863127",
+    "longitude": "-90.05555098365986",
+    "latitude": "30.01559355946824",
+    "geocoded_column": {
+      "latitude": "30.01559355946824",
+      "longitude": "-90.05555098365986"
+    }
+  },
+  {
+    "service_request": "2026-1307953",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T06:04:39.000",
+    "date_modified": "2026-08-09T06:04:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2238 Cadiz St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1307953",
+    "final_x": "3669822.41953",
+    "final_y": "523226.763003",
+    "longitude": "-90.10522469304873",
+    "latitude": "29.93304137175815",
+    "geocoded_column": {
+      "latitude": "29.93304137175815",
+      "longitude": "-90.10522469304873"
+    }
+  },
+  {
     "service_request": "2026-1307945",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21354,157 +21501,6 @@
     "geocoded_column": {
       "latitude": "29.933764040385416",
       "longitude": "-90.00728436873588"
-    }
-  },
-  {
-    "service_request": "2026-1257697",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-10T11:07:05.000",
-    "date_modified": "2026-02-16T14:16:52.000",
-    "case_close_date": "2026-02-16T08:16:51.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "GENERAL MEYER AVE & KABEL DR",
-    "address_councildis": "C",
-    "status": "Duplicate Request",
-    "rowid": "1257697",
-    "final_x": "3700839.5",
-    "final_y": "523835.28",
-    "longitude": "-90.00728436873588",
-    "latitude": "29.933764040385416",
-    "geocoded_column": {
-      "latitude": "29.933764040385416",
-      "longitude": "-90.00728436873588"
-    }
-  },
-  {
-    "service_request": "2026-1257692",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-10T11:00:40.000",
-    "date_modified": "2026-03-04T11:20:06.000",
-    "case_close_date": "2026-03-04T05:20:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2918 Behrman Hwy",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1257692",
-    "final_x": "3693654.24093",
-    "final_y": "520031.178616",
-    "longitude": "-90.03010437850223",
-    "latitude": "29.923530740243095",
-    "geocoded_column": {
-      "latitude": "29.923530740243095",
-      "longitude": "-90.03010437850223"
-    }
-  },
-  {
-    "service_request": "2026-1257671",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-10T10:16:01.000",
-    "date_modified": "2026-02-11T09:49:55.000",
-    "case_close_date": "2026-02-11T03:49:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11031 Willowbrae Dr",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1257671",
-    "final_x": "3711512.46648",
-    "final_y": "564712.84317",
-    "longitude": "-89.97205755791713",
-    "latitude": "30.04581789969129",
-    "geocoded_column": {
-      "latitude": "30.04581789969129",
-      "longitude": "-89.97205755791713"
-    }
-  },
-  {
-    "service_request": "2026-1257657",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-10T09:48:10.000",
-    "date_modified": "2026-02-11T09:27:14.000",
-    "case_close_date": "2026-02-11T03:27:14.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "11031 Willowbrae Dr",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1257657",
-    "final_x": "3711512.46648",
-    "final_y": "564712.84317",
-    "longitude": "-89.97205755791713",
-    "latitude": "30.04581789969129",
-    "geocoded_column": {
-      "latitude": "30.04581789969129",
-      "longitude": "-89.97205755791713"
-    }
-  },
-  {
-    "service_request": "2026-1257652",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-10T09:43:00.000",
-    "date_modified": "2026-02-18T13:53:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "5918 Tullis Dr",
-    "address_councildis": "C",
-    "status": "Pending",
-    "rowid": "1257652",
-    "final_x": "3706280.18846",
-    "final_y": "513787.656818",
-    "longitude": "-89.99048025463556",
-    "latitude": "29.90596231648156",
-    "geocoded_column": {
-      "latitude": "29.90596231648156",
-      "longitude": "-89.99048025463556"
-    }
-  },
-  {
-    "service_request": "2026-1257580",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-09T16:27:51.000",
-    "date_modified": "2026-02-10T08:31:47.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6800 BLK Leake Ave",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1257580",
-    "final_x": "3660860.02175",
-    "final_y": "520930.830958",
-    "longitude": "-90.13359439605789",
-    "latitude": "29.926989364546422",
-    "geocoded_column": {
-      "latitude": "29.926989364546422",
-      "longitude": "-90.13359439605789"
-    }
-  },
-  {
-    "service_request": "2026-1257560",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-09T15:27:48.000",
-    "date_modified": "2026-05-04T09:53:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3517 General Taylor St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1257560",
-    "final_x": "3671090.31259",
-    "final_y": "527769.614591",
-    "longitude": "-90.10106780247271",
-    "latitude": "29.945495313155128",
-    "geocoded_column": {
-      "latitude": "29.945495313155128",
-      "longitude": "-90.10106780247271"
     }
   }
 ]
