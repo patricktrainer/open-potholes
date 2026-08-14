@@ -11863,28 +11863,6 @@
     }
   },
   {
-    "service_request": "2026-1309071",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Illegal Dumping",
-    "date_created": "2026-08-12T11:26:34.000",
-    "date_modified": "2026-08-12T11:27:53.000",
-    "case_close_date": "2026-08-12T06:27:52.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "1100 BLK Press St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1309071",
-    "final_x": "3688070.95289",
-    "final_y": "536449.893751",
-    "longitude": "-90.04714694017696",
-    "latitude": "29.96885003345988",
-    "geocoded_column": {
-      "latitude": "29.96885003345988",
-      "longitude": "-90.04714694017696"
-    }
-  },
-  {
     "service_request": "2026-1309069",
     "request_type": "Roads and Streets",
     "request_reason": "Sidewalk Damaged or Missing",
@@ -11925,6 +11903,28 @@
     "geocoded_column": {
       "latitude": "29.975246097017983",
       "longitude": "-90.06385500761832"
+    }
+  },
+  {
+    "service_request": "2026-1309071",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Illegal Dumping",
+    "date_created": "2026-08-12T11:26:34.000",
+    "date_modified": "2026-08-12T11:27:53.000",
+    "case_close_date": "2026-08-12T06:27:52.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "1100 BLK Press St",
+    "address_councildis": "C",
+    "status": "Resolved",
+    "rowid": "1309071",
+    "final_x": "3688070.95289",
+    "final_y": "536449.893751",
+    "longitude": "-90.04714694017696",
+    "latitude": "29.96885003345988",
+    "geocoded_column": {
+      "latitude": "29.96885003345988",
+      "longitude": "-90.04714694017696"
     }
   },
   {
