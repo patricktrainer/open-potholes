@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1309776",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-14T11:43:47.000",
+    "date_modified": "2026-08-14T11:43:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "200 BLK Alix St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1309776",
+    "final_x": "3686268.68845",
+    "final_y": "529846.940422",
+    "longitude": "-90.0530715796267",
+    "latitude": "29.950749691097375",
+    "geocoded_column": {
+      "latitude": "29.950749691097375",
+      "longitude": "-90.0530715796267"
+    }
+  },
+  {
+    "service_request": "2026-1309733",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-14T10:35:59.000",
+    "date_modified": "2026-08-14T10:36:01.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1525 Mithra St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1309733",
+    "final_x": "3678872.39061",
+    "final_y": "552288.467286",
+    "longitude": "-90.07564756076177",
+    "latitude": "30.01268125267617",
+    "geocoded_column": {
+      "latitude": "30.01268125267617",
+      "longitude": "-90.07564756076177"
+    }
+  },
+  {
     "service_request": "2026-1309605",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -2188,12 +2230,13 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-28T15:53:13.000",
-    "date_modified": "2026-07-29T11:27:56.000",
-    "request_status": "Pending",
+    "date_modified": "2026-08-14T11:12:28.000",
+    "case_close_date": "2026-08-14T06:12:25.000",
+    "request_status": "Closed",
     "responsible_agency": "Department of Public Works",
     "final_address": "1431 Moss St",
     "address_councildis": "A",
-    "status": "Pending",
+    "status": "Referred to External Agency",
     "rowid": "1304575",
     "final_x": "3674312.16795",
     "final_y": "540956.401675",
@@ -2506,7 +2549,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-07-26T11:40:48.000",
-    "date_modified": "2026-07-27T09:16:11.000",
+    "date_modified": "2026-08-14T08:12:41.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "840 Tchoupitoulas St",
@@ -21464,48 +21507,6 @@
     "geocoded_column": {
       "latitude": "30.030006963611406",
       "longitude": "-90.04564951341348"
-    }
-  },
-  {
-    "service_request": "2026-1259083",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-18T15:09:13.000",
-    "date_modified": "2026-02-18T15:09:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2100 N Broad St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1259083",
-    "final_x": "3680833.6109",
-    "final_y": "542300.569485",
-    "longitude": "-90.0697991607571",
-    "latitude": "29.98515875309434",
-    "geocoded_column": {
-      "latitude": "29.98515875309434",
-      "longitude": "-90.0697991607571"
-    }
-  },
-  {
-    "service_request": "2026-1258946",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-18T10:07:08.000",
-    "date_modified": "2026-03-19T13:25:49.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8160 Old Gentilly Rd",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1258946",
-    "final_x": "3706882.46622",
-    "final_y": "552471.206422",
-    "longitude": "-89.98714509312181",
-    "latitude": "30.012308622138285",
-    "geocoded_column": {
-      "latitude": "30.012308622138285",
-      "longitude": "-89.98714509312181"
     }
   }
 ]
