@@ -1,10 +1,52 @@
 [
   {
+    "service_request": "2026-1310147",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-16T20:34:57.000",
+    "date_modified": "2026-08-16T20:35:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4600 Magazine St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1310147",
+    "final_x": "3670272.82926",
+    "final_y": "518670.155447",
+    "longitude": "-90.10395711353988",
+    "latitude": "29.920498873612846",
+    "geocoded_column": {
+      "latitude": "29.920498873612846",
+      "longitude": "-90.10395711353988"
+    }
+  },
+  {
+    "service_request": "2026-1310125",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-16T18:21:11.000",
+    "date_modified": "2026-08-16T18:21:12.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "921 Louisa St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1310125",
+    "final_x": "3689434.03478",
+    "final_y": "535222.413382",
+    "longitude": "-90.04288591255526",
+    "latitude": "29.965432751312647",
+    "geocoded_column": {
+      "latitude": "29.965432751312647",
+      "longitude": "-90.04288591255526"
+    }
+  },
+  {
     "service_request": "2026-1309995",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-08-15T10:42:17.000",
-    "date_modified": "2026-08-15T10:42:21.000",
+    "date_modified": "2026-08-16T23:58:37.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "9500 BLK Lincoln Beach Blvd",
@@ -88,7 +130,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-08-14T10:35:59.000",
-    "date_modified": "2026-08-14T10:36:01.000",
+    "date_modified": "2026-08-16T23:50:34.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "1525 Mithra St",
@@ -21463,49 +21505,6 @@
     "geocoded_column": {
       "latitude": "29.92917680624221",
       "longitude": "-90.13178990091896"
-    }
-  },
-  {
-    "service_request": "2026-1259251",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-19T10:35:58.000",
-    "date_modified": "2026-02-20T08:04:10.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2601 Dumaine St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1259251",
-    "final_x": "3677583.62939",
-    "final_y": "537249.257672",
-    "longitude": "-90.08023897251466",
-    "latitude": "29.97136752894056",
-    "geocoded_column": {
-      "latitude": "29.97136752894056",
-      "longitude": "-90.08023897251466"
-    }
-  },
-  {
-    "service_request": "2026-1259163",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-18T21:15:36.000",
-    "date_modified": "2026-08-06T08:51:03.000",
-    "case_close_date": "2026-08-06T03:51:01.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "3900 BLK Coliseum St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1259163",
-    "final_x": "3672590.62493",
-    "final_y": "519988.266242",
-    "longitude": "-90.096595993456",
-    "latitude": "29.92405467559211",
-    "geocoded_column": {
-      "latitude": "29.92405467559211",
-      "longitude": "-90.096595993456"
     }
   }
 ]
