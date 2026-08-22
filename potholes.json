@@ -1337,28 +1337,6 @@
     }
   },
   {
-    "service_request": "2026-1307998",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-08-09T12:48:35.000",
-    "date_modified": "2026-08-10T09:06:37.000",
-    "case_close_date": "2026-08-10T04:06:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6000 Magazine St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1307998",
-    "final_x": "3664635.45165",
-    "final_y": "519199.846135",
-    "longitude": "-90.12173407931253",
-    "latitude": "29.922120464269824",
-    "geocoded_column": {
-      "latitude": "29.922120464269824",
-      "longitude": "-90.12173407931253"
-    }
-  },
-  {
     "service_request": "2026-1307999",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -1391,6 +1369,28 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "1308000",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931253",
+    "latitude": "29.922120464269824",
+    "geocoded_column": {
+      "latitude": "29.922120464269824",
+      "longitude": "-90.12173407931253"
+    }
+  },
+  {
+    "service_request": "2026-1307998",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-08-10T09:06:37.000",
+    "case_close_date": "2026-08-10T04:06:35.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1307998",
     "final_x": "3664635.45165",
     "final_y": "519199.846135",
     "longitude": "-90.12173407931253",
