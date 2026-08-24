@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2026-1312267",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-23T16:18:49.000",
+    "date_modified": "2026-08-23T16:18:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6221 Tchoupitoulas St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1312267",
+    "final_x": "3662964.33619",
+    "final_y": "518051.559222",
+    "longitude": "-90.12704728020587",
+    "latitude": "29.91901151405797",
+    "geocoded_column": {
+      "latitude": "29.91901151405797",
+      "longitude": "-90.12704728020587"
+    }
+  },
+  {
+    "service_request": "2026-1312265",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-23T15:57:26.000",
+    "date_modified": "2026-08-23T15:57:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "9044 Hickory St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1312265",
+    "final_x": "3660723.92051",
+    "final_y": "532294.962371",
+    "longitude": "-90.13364844039343",
+    "latitude": "29.958241037545225",
+    "geocoded_column": {
+      "latitude": "29.958241037545225",
+      "longitude": "-90.13364844039343"
+    }
+  },
+  {
+    "service_request": "2026-1312214",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-23T01:05:47.000",
+    "date_modified": "2026-08-23T01:05:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2223 Lowerline St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1312214",
+    "final_x": "3665791.24346",
+    "final_y": "529907.816641",
+    "longitude": "-90.11772712424708",
+    "latitude": "29.951530310002216",
+    "geocoded_column": {
+      "latitude": "29.951530310002216",
+      "longitude": "-90.11772712424708"
+    }
+  },
+  {
+    "service_request": "2026-1312213",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-23T01:04:12.000",
+    "date_modified": "2026-08-23T01:04:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2216 Lowerline St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1312213",
+    "final_x": "3665689.76698",
+    "final_y": "529889.838721",
+    "longitude": "-90.11804814104526",
+    "latitude": "29.951483836322293",
+    "geocoded_column": {
+      "latitude": "29.951483836322293",
+      "longitude": "-90.11804814104526"
+    }
+  },
+  {
     "service_request": "2026-1312183",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -1379,28 +1463,6 @@
     }
   },
   {
-    "service_request": "2026-1307998",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-08-09T12:48:35.000",
-    "date_modified": "2026-08-10T09:06:37.000",
-    "case_close_date": "2026-08-10T04:06:35.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6000 Magazine St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1307998",
-    "final_x": "3664635.45165",
-    "final_y": "519199.846135",
-    "longitude": "-90.12173407931253",
-    "latitude": "29.922120464269824",
-    "geocoded_column": {
-      "latitude": "29.922120464269824",
-      "longitude": "-90.12173407931253"
-    }
-  },
-  {
     "service_request": "2026-1307999",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -1433,6 +1495,28 @@
     "address_councildis": "A",
     "status": "Pending",
     "rowid": "1308000",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931253",
+    "latitude": "29.922120464269824",
+    "geocoded_column": {
+      "latitude": "29.922120464269824",
+      "longitude": "-90.12173407931253"
+    }
+  },
+  {
+    "service_request": "2026-1307998",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-08-10T09:06:37.000",
+    "case_close_date": "2026-08-10T04:06:35.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1307998",
     "final_x": "3664635.45165",
     "final_y": "519199.846135",
     "longitude": "-90.12173407931253",
@@ -21423,92 +21507,6 @@
     "geocoded_column": {
       "latitude": "29.934607768020097",
       "longitude": "-90.12781587494817"
-    }
-  },
-  {
-    "service_request": "2026-1260904",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-26T06:33:22.000",
-    "date_modified": "2026-06-01T09:24:27.000",
-    "case_close_date": "2026-06-01T04:24:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1633 Constantinople St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1260904",
-    "final_x": "3672326.07796",
-    "final_y": "521292.084217",
-    "longitude": "-90.09738668272621",
-    "latitude": "29.927647605718374",
-    "geocoded_column": {
-      "latitude": "29.927647605718374",
-      "longitude": "-90.09738668272621"
-    }
-  },
-  {
-    "service_request": "2026-1260875",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-25T22:12:54.000",
-    "date_modified": "2026-03-11T15:56:03.000",
-    "case_close_date": "2026-03-11T10:56:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6240 Dover Pl",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1260875",
-    "final_x": "3707277.11108",
-    "final_y": "519132.681399",
-    "longitude": "-89.98713573210043",
-    "latitude": "29.92062712230568",
-    "geocoded_column": {
-      "latitude": "29.92062712230568",
-      "longitude": "-89.98713573210043"
-    }
-  },
-  {
-    "service_request": "2026-1260796",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-25T15:04:28.000",
-    "date_modified": "2026-02-26T09:01:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7400 Adventure Ave",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1260796",
-    "final_x": "3726016.75372",
-    "final_y": "570013.408102",
-    "longitude": "-89.92601168817511",
-    "latitude": "30.059910456844264",
-    "geocoded_column": {
-      "latitude": "30.059910456844264",
-      "longitude": "-89.92601168817511"
-    }
-  },
-  {
-    "service_request": "2026-1260785",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-02-25T14:49:11.000",
-    "date_modified": "2026-03-02T11:19:26.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8640 Oak St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1260785",
-    "final_x": "3660396.07706",
-    "final_y": "529738.489025",
-    "longitude": "-90.13476812734157",
-    "latitude": "29.951220992138218",
-    "geocoded_column": {
-      "latitude": "29.951220992138218",
-      "longitude": "-90.13476812734157"
     }
   }
 ]
