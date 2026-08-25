@@ -17605,27 +17605,6 @@
     }
   },
   {
-    "service_request": "2026-1311989",
-    "request_type": "Tree Service",
-    "request_reason": "Street or Sidewalk Blocked",
-    "date_created": "2026-08-21T14:37:17.000",
-    "date_modified": "2026-08-24T14:24:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Parks & Parkways",
-    "final_address": "4430 St Anthony Ave",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1311989",
-    "final_x": "3682365.33474",
-    "final_y": "548957.475347",
-    "longitude": "-90.06472830408931",
-    "latitude": "30.003416346985627",
-    "geocoded_column": {
-      "latitude": "30.003416346985627",
-      "longitude": "-90.06472830408931"
-    }
-  },
-  {
     "service_request": "2026-1311990",
     "request_type": "Tree Service",
     "request_reason": "Street or Sidewalk Blocked",
@@ -17637,6 +17616,27 @@
     "address_councildis": "D",
     "status": "Pending",
     "rowid": "1311990",
+    "final_x": "3682365.33474",
+    "final_y": "548957.475347",
+    "longitude": "-90.06472830408931",
+    "latitude": "30.003416346985627",
+    "geocoded_column": {
+      "latitude": "30.003416346985627",
+      "longitude": "-90.06472830408931"
+    }
+  },
+  {
+    "service_request": "2026-1311989",
+    "request_type": "Tree Service",
+    "request_reason": "Street or Sidewalk Blocked",
+    "date_created": "2026-08-21T14:37:17.000",
+    "date_modified": "2026-08-24T14:24:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Parks & Parkways",
+    "final_address": "4430 St Anthony Ave",
+    "address_councildis": "D",
+    "status": "Inspected",
+    "rowid": "1311989",
     "final_x": "3682365.33474",
     "final_y": "548957.475347",
     "longitude": "-90.06472830408931",
