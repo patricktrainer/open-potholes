@@ -14161,28 +14161,6 @@
     }
   },
   {
-    "service_request": "2026-1312919",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Request a Large Item Pick Up",
-    "date_created": "2026-08-25T10:02:31.000",
-    "date_modified": "2026-08-25T10:02:35.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4774 Marque Dr",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1312919",
-    "final_x": "3709994.71582",
-    "final_y": "555953.337433",
-    "longitude": "-89.9771820191202",
-    "latitude": "30.021782222738164",
-    "geocoded_column": {
-      "latitude": "30.021782222738164",
-      "longitude": "-89.9771820191202"
-    }
-  },
-  {
     "service_request": "2026-1312920",
     "request_type": "Trash/Recycling",
     "request_reason": "Dead Animal Pick Up",
@@ -14204,6 +14182,28 @@
     "geocoded_column": {
       "latitude": "29.902683084345583",
       "longitude": "-90.00627481947235"
+    }
+  },
+  {
+    "service_request": "2026-1312919",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Request a Large Item Pick Up",
+    "date_created": "2026-08-25T10:02:31.000",
+    "date_modified": "2026-08-25T10:02:35.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4774 Marque Dr",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1312919",
+    "final_x": "3709994.71582",
+    "final_y": "555953.337433",
+    "longitude": "-89.9771820191202",
+    "latitude": "30.021782222738164",
+    "geocoded_column": {
+      "latitude": "30.021782222738164",
+      "longitude": "-89.9771820191202"
     }
   },
   {
