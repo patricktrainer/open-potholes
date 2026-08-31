@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1314237",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-30T13:13:25.000",
+    "date_modified": "2026-08-30T13:13:27.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6959 Louis Xiv St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1314237",
+    "final_x": "3668764.27022",
+    "final_y": "553811.781591",
+    "longitude": "-90.10753227833895",
+    "latitude": "30.017171022595196",
+    "geocoded_column": {
+      "latitude": "30.017171022595196",
+      "longitude": "-90.10753227833895"
+    }
+  },
+  {
+    "service_request": "2026-1314228",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-30T12:25:47.000",
+    "date_modified": "2026-08-30T12:25:49.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2032 Robert St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1314228",
+    "final_x": "3668744.61556",
+    "final_y": "523127.529659",
+    "longitude": "-90.10863060325035",
+    "latitude": "29.93280023171352",
+    "geocoded_column": {
+      "latitude": "29.93280023171352",
+      "longitude": "-90.10863060325035"
+    }
+  },
+  {
     "service_request": "2026-1314176",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21442,49 +21484,6 @@
     "geocoded_column": {
       "latitude": "30.00637149269879",
       "longitude": "-90.1027862395352"
-    }
-  },
-  {
-    "service_request": "2026-1263197",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-06T09:13:26.000",
-    "date_modified": "2026-06-01T10:10:32.000",
-    "case_close_date": "2026-06-01T05:10:31.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1321 S Roman St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1263197",
-    "final_x": "3674668.33416",
-    "final_y": "528884.285888",
-    "longitude": "-90.08973261901242",
-    "latitude": "29.948454001890003",
-    "geocoded_column": {
-      "latitude": "29.948454001890003",
-      "longitude": "-90.08973261901242"
-    }
-  },
-  {
-    "service_request": "2026-1263071",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-05T14:55:45.000",
-    "date_modified": "2026-03-11T15:08:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7514 Zimple St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1263071",
-    "final_x": "3663179.77088",
-    "final_y": "526749.588798",
-    "longitude": "-90.12607799243284",
-    "latitude": "29.94292211766458",
-    "geocoded_column": {
-      "latitude": "29.94292211766458",
-      "longitude": "-90.12607799243284"
     }
   }
 ]
