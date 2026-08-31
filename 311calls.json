@@ -7495,27 +7495,6 @@
     }
   },
   {
-    "service_request": "2026-1313951",
-    "request_type": "Street and Traffic Signs",
-    "request_reason": "Traffic or Parking Sign Damaged or Missing",
-    "date_created": "2026-08-28T10:33:48.000",
-    "date_modified": "2026-08-28T10:33:50.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "0 BLK Drexel Dr",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1313951",
-    "final_x": "3670940.24535",
-    "final_y": "533178.923587",
-    "longitude": "-90.10135798638503",
-    "latitude": "29.96037356784114",
-    "geocoded_column": {
-      "latitude": "29.96037356784114",
-      "longitude": "-90.10135798638503"
-    }
-  },
-  {
     "service_request": "2026-1313952",
     "request_type": "Street and Traffic Signs",
     "request_reason": "Traffic or Parking Sign Damaged or Missing",
@@ -7527,6 +7506,27 @@
     "address_councildis": "B",
     "status": "Pending",
     "rowid": "1313952",
+    "final_x": "3670940.24535",
+    "final_y": "533178.923587",
+    "longitude": "-90.10135798638503",
+    "latitude": "29.96037356784114",
+    "geocoded_column": {
+      "latitude": "29.96037356784114",
+      "longitude": "-90.10135798638503"
+    }
+  },
+  {
+    "service_request": "2026-1313951",
+    "request_type": "Street and Traffic Signs",
+    "request_reason": "Traffic or Parking Sign Damaged or Missing",
+    "date_created": "2026-08-28T10:33:48.000",
+    "date_modified": "2026-08-28T10:33:50.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "0 BLK Drexel Dr",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1313951",
     "final_x": "3670940.24535",
     "final_y": "533178.923587",
     "longitude": "-90.10135798638503",
@@ -18555,27 +18555,6 @@
     }
   },
   {
-    "service_request": "2026-1313441",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Recycling Cart",
-    "date_created": "2026-08-26T14:00:10.000",
-    "date_modified": "2026-08-27T10:44:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "124 14Th St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1313441",
-    "final_x": "3665872.06989",
-    "final_y": "548049.069522",
-    "longitude": "-90.11686379125415",
-    "latitude": "30.001410327988438",
-    "geocoded_column": {
-      "latitude": "30.001410327988438",
-      "longitude": "-90.11686379125415"
-    }
-  },
-  {
     "service_request": "2026-1313442",
     "request_type": "Tree Service",
     "request_reason": "Street or Sidewalk Blocked",
@@ -18594,6 +18573,27 @@
     "geocoded_column": {
       "latitude": "29.939888572874292",
       "longitude": "-90.13009937704932"
+    }
+  },
+  {
+    "service_request": "2026-1313441",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Recycling Cart",
+    "date_created": "2026-08-26T14:00:10.000",
+    "date_modified": "2026-08-27T10:44:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "124 14Th St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1313441",
+    "final_x": "3665872.06989",
+    "final_y": "548049.069522",
+    "longitude": "-90.11686379125415",
+    "latitude": "30.001410327988438",
+    "geocoded_column": {
+      "latitude": "30.001410327988438",
+      "longitude": "-90.11686379125415"
     }
   },
   {
