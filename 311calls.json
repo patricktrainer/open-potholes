@@ -16887,27 +16887,6 @@
     }
   },
   {
-    "service_request": "2026-1314475",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-08-31T10:59:34.000",
-    "date_modified": "2026-08-31T10:59:38.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4418 N Villere St",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1314475",
-    "final_x": "3693499.47011",
-    "final_y": "535980.176007",
-    "longitude": "-90.03002029147564",
-    "latitude": "29.967389811453415",
-    "geocoded_column": {
-      "latitude": "29.967389811453415",
-      "longitude": "-90.03002029147564"
-    }
-  },
-  {
     "service_request": "2026-1314474",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -16927,6 +16906,27 @@
     "geocoded_column": {
       "latitude": "30.0227607576018",
       "longitude": "-89.95435172530449"
+    }
+  },
+  {
+    "service_request": "2026-1314475",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-08-31T10:59:34.000",
+    "date_modified": "2026-08-31T10:59:38.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4418 N Villere St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1314475",
+    "final_x": "3693499.47011",
+    "final_y": "535980.176007",
+    "longitude": "-90.03002029147564",
+    "latitude": "29.967389811453415",
+    "geocoded_column": {
+      "latitude": "29.967389811453415",
+      "longitude": "-90.03002029147564"
     }
   },
   {
