@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1316614",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-06T16:24:49.000",
+    "date_modified": "2026-09-06T16:24:51.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "8221 Panola St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1316614",
+    "final_x": "3663713.79802",
+    "final_y": "531105.793538",
+    "longitude": "-90.12424680411984",
+    "latitude": "29.95488479606391",
+    "geocoded_column": {
+      "latitude": "29.95488479606391",
+      "longitude": "-90.12424680411984"
+    }
+  },
+  {
+    "service_request": "2026-1316588",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-06T11:19:35.000",
+    "date_modified": "2026-09-06T11:19:37.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "9900 BLK Hammond St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1316588",
+    "final_x": "3712594.22012",
+    "final_y": "556372.969391",
+    "longitude": "-89.96895256330791",
+    "latitude": "30.022851193579243",
+    "geocoded_column": {
+      "latitude": "30.022851193579243",
+      "longitude": "-89.96895256330791"
+    }
+  },
+  {
     "service_request": "2026-1316423",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21422,49 +21464,6 @@
     "geocoded_column": {
       "latitude": "29.969583570184092",
       "longitude": "-90.07994613671589"
-    }
-  },
-  {
-    "service_request": "2026-1265692",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-15T17:42:37.000",
-    "date_modified": "2026-03-16T13:11:00.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1962 Stephen Girard Ave",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1265692",
-    "final_x": "3682314.38664",
-    "final_y": "548607.858131",
-    "longitude": "-90.0649014836116",
-    "latitude": "30.002456576000064",
-    "geocoded_column": {
-      "latitude": "30.002456576000064",
-      "longitude": "-90.0649014836116"
-    }
-  },
-  {
-    "service_request": "2026-1265677",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-15T15:44:40.000",
-    "date_modified": "2026-03-16T13:14:15.000",
-    "case_close_date": "2026-03-16T08:14:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "324 N Bernadotte St",
-    "address_councildis": "A",
-    "status": "Duplicate Request",
-    "rowid": "1265677",
-    "final_x": "3669475.86356",
-    "final_y": "540863.071627",
-    "longitude": "-90.10572225008076",
-    "latitude": "29.981545610235578",
-    "geocoded_column": {
-      "latitude": "29.981545610235578",
-      "longitude": "-90.10572225008076"
     }
   }
 ]
