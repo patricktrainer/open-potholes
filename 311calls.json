@@ -12654,6 +12654,28 @@
     }
   },
   {
+    "service_request": "2026-1316058",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Repair Trash Cart",
+    "date_created": "2026-09-03T16:50:52.000",
+    "date_modified": "2026-09-03T16:50:53.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4023 Franklin Ave",
+    "address_councildis": "D",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "rowid": "1316058",
+    "final_x": "3687086.2877",
+    "final_y": "547727.093714",
+    "longitude": "-90.04985764739594",
+    "latitude": "29.999888681536497",
+    "geocoded_column": {
+      "latitude": "29.999888681536497",
+      "longitude": "-90.04985764739594"
+    }
+  },
+  {
     "service_request": "2026-1316059",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -12675,28 +12697,6 @@
     "geocoded_column": {
       "latitude": "30.034068646920815",
       "longitude": "-90.01831815522672"
-    }
-  },
-  {
-    "service_request": "2026-1316058",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Repair Trash Cart",
-    "date_created": "2026-09-03T16:50:52.000",
-    "date_modified": "2026-09-03T16:50:53.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4023 Franklin Ave",
-    "address_councildis": "D",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "rowid": "1316058",
-    "final_x": "3687086.2877",
-    "final_y": "547727.093714",
-    "longitude": "-90.04985764739594",
-    "latitude": "29.999888681536497",
-    "geocoded_column": {
-      "latitude": "29.999888681536497",
-      "longitude": "-90.04985764739594"
     }
   },
   {
