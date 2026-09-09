@@ -19402,6 +19402,27 @@
     }
   },
   {
+    "service_request": "2026-1316398",
+    "request_type": "Abandoned Vehicles",
+    "request_reason": "Abandoned/Junk Vehicles",
+    "date_created": "2026-09-04T16:49:25.000",
+    "date_modified": "2026-09-08T12:48:17.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2611 Soniat St",
+    "address_councildis": "B",
+    "status": "Inspected",
+    "rowid": "1316398",
+    "final_x": "3668582.57479",
+    "final_y": "525081.193149",
+    "longitude": "-90.10907625840709",
+    "latitude": "29.938176940530244",
+    "geocoded_column": {
+      "latitude": "29.938176940530244",
+      "longitude": "-90.10907625840709"
+    }
+  },
+  {
     "service_request": "2026-1316399",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -19421,27 +19442,6 @@
     "geocoded_column": {
       "latitude": "29.959488028016924",
       "longitude": "-90.01054340192051"
-    }
-  },
-  {
-    "service_request": "2026-1316398",
-    "request_type": "Abandoned Vehicles",
-    "request_reason": "Abandoned/Junk Vehicles",
-    "date_created": "2026-09-04T16:49:25.000",
-    "date_modified": "2026-09-08T12:48:17.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2611 Soniat St",
-    "address_councildis": "B",
-    "status": "Inspected",
-    "rowid": "1316398",
-    "final_x": "3668582.57479",
-    "final_y": "525081.193149",
-    "longitude": "-90.10907625840709",
-    "latitude": "29.938176940530244",
-    "geocoded_column": {
-      "latitude": "29.938176940530244",
-      "longitude": "-90.10907625840709"
     }
   },
   {
