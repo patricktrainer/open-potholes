@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1318437",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-12T10:59:15.000",
+    "date_modified": "2026-09-12T10:59:16.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4800 BLK Cerise Ave",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1318437",
+    "final_x": "3708526.9041",
+    "final_y": "556474.858295",
+    "longitude": "-89.98180044110161",
+    "latitude": "30.023263887014615",
+    "geocoded_column": {
+      "latitude": "30.023263887014615",
+      "longitude": "-89.98180044110161"
+    }
+  },
+  {
     "service_request": "2026-1318400",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21444,28 +21465,6 @@
     "geocoded_column": {
       "latitude": "29.947221016967227",
       "longitude": "-90.0686561675243"
-    }
-  },
-  {
-    "service_request": "2026-1269519",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-30T08:52:24.000",
-    "date_modified": "2026-05-30T10:12:15.000",
-    "case_close_date": "2026-05-30T05:12:14.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2417 St Thomas St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1269519",
-    "final_x": "3678913.44418",
-    "final_y": "519909.584056",
-    "longitude": "-90.07663981736155",
-    "latitude": "29.92364916231909",
-    "geocoded_column": {
-      "latitude": "29.92364916231909",
-      "longitude": "-90.07663981736155"
     }
   }
 ]
