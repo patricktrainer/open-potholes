@@ -1,5 +1,90 @@
 [
   {
+    "service_request": "2026-1318559",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-13T17:03:47.000",
+    "date_modified": "2026-09-13T17:03:48.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "100 BLK S Olympia St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1318559",
+    "final_x": "3669275.4078",
+    "final_y": "539442.77917",
+    "longitude": "-90.10640341845392",
+    "latitude": "29.977646190388693",
+    "geocoded_column": {
+      "latitude": "29.977646190388693",
+      "longitude": "-90.10640341845392"
+    }
+  },
+  {
+    "service_request": "2026-1318513",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-13T10:42:57.000",
+    "date_modified": "2026-09-13T10:42:59.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "219 Loyola Ave",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1318513",
+    "final_x": "3679187.08405",
+    "final_y": "531134.900674",
+    "longitude": "-90.07538702704542",
+    "latitude": "29.954506812414376",
+    "geocoded_column": {
+      "latitude": "29.954506812414376",
+      "longitude": "-90.07538702704542"
+    }
+  },
+  {
+    "service_request": "2026-1318504",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-13T09:38:25.000",
+    "date_modified": "2026-09-13T23:24:55.000",
+    "case_close_date": "2026-09-13T18:24:53.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "900 BLK Chapelle St",
+    "address_councildis": "A",
+    "status": "Duplicate Request",
+    "rowid": "1318504",
+    "final_x": "3671112.68333",
+    "final_y": "552476.68322",
+    "longitude": "-90.1001576305474",
+    "latitude": "30.01343068780249",
+    "geocoded_column": {
+      "latitude": "30.01343068780249",
+      "longitude": "-90.1001576305474"
+    }
+  },
+  {
+    "service_request": "2026-1318497",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-13T08:10:32.000",
+    "date_modified": "2026-09-13T08:10:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5415 Burgundy St",
+    "address_councildis": "E",
+    "status": "Pending",
+    "rowid": "1318497",
+    "final_x": "3697082.16797",
+    "final_y": "533198.77082",
+    "longitude": "-90.0188069038093",
+    "latitude": "29.959629399258752",
+    "geocoded_column": {
+      "latitude": "29.959629399258752",
+      "longitude": "-90.0188069038093"
+    }
+  },
+  {
     "service_request": "2026-1318437",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -81,27 +166,6 @@
     "geocoded_column": {
       "latitude": "29.973558584151746",
       "longitude": "-90.07324518218613"
-    }
-  },
-  {
-    "service_request": "2026-1318356",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-09-11T15:26:28.000",
-    "date_modified": "2026-09-11T15:26:29.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "FILMORE ST & ST ANTHONY AVE",
-    "address_councildis": "D",
-    "status": "Pending",
-    "rowid": "1318356",
-    "final_x": "3682204.1",
-    "final_y": "552101.78",
-    "longitude": "-90.06512772807447",
-    "latitude": "30.01206695755272",
-    "geocoded_column": {
-      "latitude": "30.01206695755272",
-      "longitude": "-90.06512772807447"
     }
   },
   {
@@ -21400,71 +21464,6 @@
     "geocoded_column": {
       "latitude": "29.99935745863652",
       "longitude": "-90.04882027087498"
-    }
-  },
-  {
-    "service_request": "2026-1269699",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-30T13:08:09.000",
-    "date_modified": "2026-05-30T10:11:39.000",
-    "case_close_date": "2026-05-30T05:11:38.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2315 Carondelet St",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1269699",
-    "final_x": "3676801.70619",
-    "final_y": "523618.883899",
-    "longitude": "-90.08317805450548",
-    "latitude": "29.933912044981515",
-    "geocoded_column": {
-      "latitude": "29.933912044981515",
-      "longitude": "-90.08317805450548"
-    }
-  },
-  {
-    "service_request": "2026-1269605",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-30T11:00:36.000",
-    "date_modified": "2026-04-01T11:02:14.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4484 Wilson Ave",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1269605",
-    "final_x": "3703097.94218",
-    "final_y": "553435.924439",
-    "longitude": "-89.99906648335592",
-    "latitude": "30.015082941043",
-    "geocoded_column": {
-      "latitude": "30.015082941043",
-      "longitude": "-89.99906648335592"
-    }
-  },
-  {
-    "service_request": "2026-1269567",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-03-30T10:18:25.000",
-    "date_modified": "2026-04-22T10:35:27.000",
-    "case_close_date": "2026-04-22T05:35:27.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "CAPDEVILLE ST & MAGAZINE ST",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1269567",
-    "final_x": "3681347.7",
-    "final_y": "528508.98",
-    "longitude": "-90.0686561675243",
-    "latitude": "29.947221016967227",
-    "geocoded_column": {
-      "latitude": "29.947221016967227",
-      "longitude": "-90.0686561675243"
     }
   }
 ]
