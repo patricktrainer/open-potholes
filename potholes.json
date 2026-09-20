@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1320614",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-19T13:21:50.000",
+    "date_modified": "2026-09-19T13:21:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3610 Toulouse St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1320614",
+    "final_x": "3673587.23425",
+    "final_y": "538656.986185",
+    "longitude": "-90.09281204620228",
+    "latitude": "29.975357872128765",
+    "geocoded_column": {
+      "latitude": "29.975357872128765",
+      "longitude": "-90.09281204620228"
+    }
+  },
+  {
+    "service_request": "2026-1320611",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-19T11:43:21.000",
+    "date_modified": "2026-09-19T11:43:23.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1941 State St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1320611",
+    "final_x": "3666354.81537",
+    "final_y": "524046.208316",
+    "longitude": "-90.11614423688548",
+    "latitude": "29.93539632326893",
+    "geocoded_column": {
+      "latitude": "29.93539632326893",
+      "longitude": "-90.11614423688548"
+    }
+  },
+  {
     "service_request": "2026-1320536",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21432,49 +21474,6 @@
     "geocoded_column": {
       "latitude": "29.925883241778454",
       "longitude": "-90.08909234135396"
-    }
-  },
-  {
-    "service_request": "2026-1271789",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-04-07T14:44:57.000",
-    "date_modified": "2026-04-08T09:05:00.000",
-    "case_close_date": "2026-04-08T04:04:59.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "PRESS DR & MIRABEAU AVE",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1271789",
-    "final_x": "3689501.8",
-    "final_y": "551260.48",
-    "longitude": "-90.04210117473698",
-    "latitude": "30.009529584549774",
-    "geocoded_column": {
-      "latitude": "30.009529584549774",
-      "longitude": "-90.04210117473698"
-    }
-  },
-  {
-    "service_request": "2026-1271646",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-04-07T10:52:34.000",
-    "date_modified": "2026-04-15T10:34:51.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4999 Burgundy St",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1271646",
-    "final_x": "3695720.30346",
-    "final_y": "533554.829381",
-    "longitude": "-90.02309448107398",
-    "latitude": "29.96065132367529",
-    "geocoded_column": {
-      "latitude": "29.96065132367529",
-      "longitude": "-90.02309448107398"
     }
   }
 ]
