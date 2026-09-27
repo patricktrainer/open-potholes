@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1322770",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-09-26T11:28:23.000",
+    "date_modified": "2026-09-26T11:28:25.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2914 Jena St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1322770",
+    "final_x": "3669932.52654",
+    "final_y": "525524.301437",
+    "longitude": "-90.10479932577125",
+    "latitude": "29.939355616523848",
+    "geocoded_column": {
+      "latitude": "29.939355616523848",
+      "longitude": "-90.10479932577125"
+    }
+  },
+  {
     "service_request": "2026-1322723",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -6389,28 +6410,6 @@
     }
   },
   {
-    "service_request": "2026-1308000",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-08-09T12:48:35.000",
-    "date_modified": "2026-09-21T10:27:33.000",
-    "case_close_date": "2026-09-21T05:27:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6000 Magazine St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1308000",
-    "final_x": "3664635.45165",
-    "final_y": "519199.846135",
-    "longitude": "-90.12173407931249",
-    "latitude": "29.92212046427037",
-    "geocoded_column": {
-      "latitude": "29.92212046427037",
-      "longitude": "-90.12173407931249"
-    }
-  },
-  {
     "service_request": "2026-1307999",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -6444,6 +6443,28 @@
     "address_councildis": "A",
     "status": "Duplicate Request",
     "rowid": "1307998",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931249",
+    "latitude": "29.92212046427037",
+    "geocoded_column": {
+      "latitude": "29.92212046427037",
+      "longitude": "-90.12173407931249"
+    }
+  },
+  {
+    "service_request": "2026-1308000",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-09-21T10:27:33.000",
+    "case_close_date": "2026-09-21T05:27:24.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Resolved",
+    "rowid": "1308000",
     "final_x": "3664635.45165",
     "final_y": "519199.846135",
     "longitude": "-90.12173407931249",
@@ -21451,28 +21472,6 @@
     "geocoded_column": {
       "latitude": "30.005554133628888",
       "longitude": "-90.04100033489854"
-    }
-  },
-  {
-    "service_request": "2026-1274546",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-04-17T12:40:14.000",
-    "date_modified": "2026-07-14T10:24:48.000",
-    "case_close_date": "2026-07-14T05:24:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1035 Lamanche St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1274546",
-    "final_x": "3698358.31453",
-    "final_y": "533508.521284",
-    "longitude": "-90.01476589387906",
-    "latitude": "29.96044078590634",
-    "geocoded_column": {
-      "latitude": "29.96044078590634",
-      "longitude": "-90.01476589387906"
     }
   }
 ]
