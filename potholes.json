@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1325084",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-10-03T11:23:25.000",
+    "date_modified": "2026-10-03T11:23:26.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3900 Prytania St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1325084",
+    "final_x": "3672723.27707",
+    "final_y": "520461.066168",
+    "longitude": "-90.09616114265026",
+    "latitude": "29.925350786376107",
+    "geocoded_column": {
+      "latitude": "29.925350786376107",
+      "longitude": "-90.09616114265026"
+    }
+  },
+  {
+    "service_request": "2026-1325047",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-10-03T06:55:32.000",
+    "date_modified": "2026-10-03T06:55:34.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1206 Milan St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1325047",
+    "final_x": "3671652.75988",
+    "final_y": "519969.190968",
+    "longitude": "-90.09955715588755",
+    "latitude": "29.92403002534127",
+    "geocoded_column": {
+      "latitude": "29.92403002534127",
+      "longitude": "-90.09955715588755"
+    }
+  },
+  {
     "service_request": "2026-1324946",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21435,49 +21477,6 @@
     "geocoded_column": {
       "latitude": "29.94307424541429",
       "longitude": "-90.09282508374002"
-    }
-  },
-  {
-    "service_request": "2026-1276149",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-04-23T21:46:23.000",
-    "date_modified": "2026-04-24T09:39:20.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1000 Race St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1276149",
-    "final_x": "3680508.50728",
-    "final_y": "523719.305275",
-    "longitude": "-90.07147235575627",
-    "latitude": "29.934076446290256",
-    "geocoded_column": {
-      "latitude": "29.934076446290256",
-      "longitude": "-90.07147235575627"
-    }
-  },
-  {
-    "service_request": "2026-1276135",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-04-23T19:57:50.000",
-    "date_modified": "2026-04-28T13:07:52.000",
-    "case_close_date": "2026-04-28T08:07:50.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4505 Dale St",
-    "address_councildis": "E",
-    "status": "Resolved",
-    "rowid": "1276135",
-    "final_x": "3699597.24029",
-    "final_y": "553710.358167",
-    "longitude": "-90.01011696045063",
-    "latitude": "30.015949150385214",
-    "geocoded_column": {
-      "latitude": "30.015949150385214",
-      "longitude": "-90.01011696045063"
     }
   }
 ]
