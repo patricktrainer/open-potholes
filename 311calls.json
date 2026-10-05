@@ -19701,30 +19701,6 @@
     }
   },
   {
-    "service_request": "2026-1324375",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Order Second Trash Cart",
-    "date_created": "2026-10-01T11:13:30.000",
-    "date_modified": "2026-10-02T15:36:51.000",
-    "case_close_date": "2026-10-02T10:36:49.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "7920 Zimple St",
-    "address_councildis": "A",
-    "status": "Assigned to Contractor",
-    "contractor": "IV Waste",
-    "contractor_action": "Completed",
-    "rowid": "1324375",
-    "final_x": "3662180.25043",
-    "final_y": "527655.866879",
-    "longitude": "-90.12920366736996",
-    "latitude": "29.945443012009484",
-    "geocoded_column": {
-      "latitude": "29.945443012009484",
-      "longitude": "-90.12920366736996"
-    }
-  },
-  {
     "service_request": "2026-1324376",
     "request_type": "Trash/Recycling",
     "request_reason": "Request a Large Item Pick Up",
@@ -19746,6 +19722,30 @@
     "geocoded_column": {
       "latitude": "30.03795421110397",
       "longitude": "-90.0033801162885"
+    }
+  },
+  {
+    "service_request": "2026-1324375",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Order Second Trash Cart",
+    "date_created": "2026-10-01T11:13:30.000",
+    "date_modified": "2026-10-02T15:36:51.000",
+    "case_close_date": "2026-10-02T10:36:49.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "7920 Zimple St",
+    "address_councildis": "A",
+    "status": "Assigned to Contractor",
+    "contractor": "IV Waste",
+    "contractor_action": "Completed",
+    "rowid": "1324375",
+    "final_x": "3662180.25043",
+    "final_y": "527655.866879",
+    "longitude": "-90.12920366736996",
+    "latitude": "29.945443012009484",
+    "geocoded_column": {
+      "latitude": "29.945443012009484",
+      "longitude": "-90.12920366736996"
     }
   },
   {
