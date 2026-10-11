@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2026-1327385",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-10-10T18:14:13.000",
+    "date_modified": "2026-10-10T18:14:14.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "5527 Mandeville St",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1327385",
+    "final_x": "3684461.82524",
+    "final_y": "553324.792407",
+    "longitude": "-90.0579516040168",
+    "latitude": "30.015360892901125",
+    "geocoded_column": {
+      "latitude": "30.015360892901125",
+      "longitude": "-90.0579516040168"
+    }
+  },
+  {
+    "service_request": "2026-1327383",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-10-10T17:40:50.000",
+    "date_modified": "2026-10-10T17:40:52.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4433 Danneel St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1327383",
+    "final_x": "3670368.19994",
+    "final_y": "522328.07609",
+    "longitude": "-90.10353214796729",
+    "latitude": "29.930554175335658",
+    "geocoded_column": {
+      "latitude": "29.930554175335658",
+      "longitude": "-90.10353214796729"
+    }
+  },
+  {
+    "service_request": "2026-1327348",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-10-10T11:45:02.000",
+    "date_modified": "2026-10-10T11:45:04.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "816 Fern St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1327348",
+    "final_x": "3661654.25082",
+    "final_y": "526944.001918",
+    "longitude": "-90.13088801228481",
+    "latitude": "29.943500798780352",
+    "geocoded_column": {
+      "latitude": "29.943500798780352",
+      "longitude": "-90.13088801228481"
+    }
+  },
+  {
     "service_request": "2026-1327298",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21406,71 +21469,6 @@
     "geocoded_column": {
       "latitude": "30.021952591430438",
       "longitude": "-89.92206478628857"
-    }
-  },
-  {
-    "service_request": "2026-1278439",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-05-04T08:19:49.000",
-    "date_modified": "2026-05-14T12:19:59.000",
-    "case_close_date": "2026-05-14T07:19:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "800 BLK Octavia St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1278439",
-    "final_x": "3666475.26905",
-    "final_y": "519025.893494",
-    "longitude": "-90.1159323526156",
-    "latitude": "29.921588528651537",
-    "geocoded_column": {
-      "latitude": "29.921588528651537",
-      "longitude": "-90.1159323526156"
-    }
-  },
-  {
-    "service_request": "2026-1278408",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-05-03T20:34:36.000",
-    "date_modified": "2026-05-04T10:11:04.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4600 Donna Dr",
-    "address_councildis": "E",
-    "status": "Pending",
-    "rowid": "1278408",
-    "final_x": "3711012.53918",
-    "final_y": "555076.133977",
-    "longitude": "-89.97399887704054",
-    "latitude": "30.019337094286712",
-    "geocoded_column": {
-      "latitude": "30.019337094286712",
-      "longitude": "-89.97399887704054"
-    }
-  },
-  {
-    "service_request": "2026-1278326",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-05-03T09:35:05.000",
-    "date_modified": "2026-07-15T13:38:39.000",
-    "case_close_date": "2026-07-15T08:38:37.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1123 Monroe St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1278326",
-    "final_x": "3660306.72602",
-    "final_y": "529665.332993",
-    "longitude": "-90.13505267086487",
-    "latitude": "29.951022406077467",
-    "geocoded_column": {
-      "latitude": "29.951022406077467",
-      "longitude": "-90.13505267086487"
     }
   }
 ]
