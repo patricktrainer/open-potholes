@@ -8353,6 +8353,28 @@
     }
   },
   {
+    "service_request": "2026-1332307",
+    "request_type": "General Services",
+    "request_reason": "General Service Request",
+    "date_created": "2026-10-28T15:51:13.000",
+    "date_modified": "2026-10-29T09:16:40.000",
+    "case_close_date": "2026-10-29T04:16:39.000",
+    "request_status": "Closed",
+    "responsible_agency": "Orleans Parish Communication District",
+    "final_address": "0 BLK Annunciation St",
+    "address_councildis": "E",
+    "status": "Duplicate Request",
+    "rowid": "1332307",
+    "final_x": "3713405.91305",
+    "final_y": "559269.453099",
+    "longitude": "-89.96627863494598",
+    "latitude": "30.03078877555419",
+    "geocoded_column": {
+      "latitude": "30.03078877555419",
+      "longitude": "-89.96627863494598"
+    }
+  },
+  {
     "service_request": "2026-1332308",
     "request_type": "General Services",
     "request_reason": "General Service Request",
@@ -8387,28 +8409,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1332309",
-    "final_x": "3713405.91305",
-    "final_y": "559269.453099",
-    "longitude": "-89.96627863494598",
-    "latitude": "30.03078877555419",
-    "geocoded_column": {
-      "latitude": "30.03078877555419",
-      "longitude": "-89.96627863494598"
-    }
-  },
-  {
-    "service_request": "2026-1332307",
-    "request_type": "General Services",
-    "request_reason": "General Service Request",
-    "date_created": "2026-10-28T15:51:13.000",
-    "date_modified": "2026-10-29T09:16:40.000",
-    "case_close_date": "2026-10-29T04:16:39.000",
-    "request_status": "Closed",
-    "responsible_agency": "Orleans Parish Communication District",
-    "final_address": "0 BLK Annunciation St",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1332307",
     "final_x": "3713405.91305",
     "final_y": "559269.453099",
     "longitude": "-89.96627863494598",
