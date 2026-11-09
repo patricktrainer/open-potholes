@@ -1,5 +1,68 @@
 [
   {
+    "service_request": "2026-1335154",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-08T19:45:41.000",
+    "date_modified": "2026-11-08T19:45:44.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6511 Louis Xiv St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1335154",
+    "final_x": "3668453.69287",
+    "final_y": "550818.275093",
+    "longitude": "-90.10861467306485",
+    "latitude": "30.008949064848675",
+    "geocoded_column": {
+      "latitude": "30.008949064848675",
+      "longitude": "-90.10861467306485"
+    }
+  },
+  {
+    "service_request": "2026-1335117",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-08T14:24:17.000",
+    "date_modified": "2026-11-08T14:24:19.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "916 Foucher St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1335117",
+    "final_x": "3674313.96731",
+    "final_y": "518740.773943",
+    "longitude": "-90.09119869291276",
+    "latitude": "29.920573214180667",
+    "geocoded_column": {
+      "latitude": "29.920573214180667",
+      "longitude": "-90.09119869291276"
+    }
+  },
+  {
+    "service_request": "2026-1335097",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-08T10:47:55.000",
+    "date_modified": "2026-11-08T10:47:58.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "2526 Burgundy St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1335097",
+    "final_x": "3686780.85212",
+    "final_y": "535697.356679",
+    "longitude": "-90.05124774102399",
+    "latitude": "29.966820573781874",
+    "geocoded_column": {
+      "latitude": "29.966820573781874",
+      "longitude": "-90.05124774102399"
+    }
+  },
+  {
     "service_request": "2026-1335073",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21355,72 +21418,6 @@
     "geocoded_column": {
       "latitude": "29.915808956827732",
       "longitude": "-89.96496822146283"
-    }
-  },
-  {
-    "service_request": "2026-1287221",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-03T12:16:41.000",
-    "date_modified": "2026-07-30T13:46:37.000",
-    "case_close_date": "2026-07-30T08:46:36.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2100 Audubon St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1287221",
-    "final_x": "3666177.77159",
-    "final_y": "529020.547072",
-    "longitude": "-90.11653640194112",
-    "latitude": "29.949079325618296",
-    "geocoded_column": {
-      "latitude": "29.949079325618296",
-      "longitude": "-90.11653640194112"
-    }
-  },
-  {
-    "service_request": "2026-1287214",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-03T12:09:33.000",
-    "date_modified": "2026-07-30T13:44:27.000",
-    "case_close_date": "2026-07-30T08:44:25.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "7200 BLK Plum St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1287214",
-    "final_x": "3664232.06258",
-    "final_y": "526869.529382",
-    "longitude": "-90.12275163722113",
-    "latitude": "29.943221388507308",
-    "geocoded_column": {
-      "latitude": "29.943221388507308",
-      "longitude": "-90.12275163722113"
-    }
-  },
-  {
-    "service_request": "2026-1287163",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-03T10:57:30.000",
-    "date_modified": "2026-08-06T08:35:51.000",
-    "case_close_date": "2026-08-06T03:35:47.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "2100 BLK Audubon St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1287163",
-    "final_x": "3666291.05977",
-    "final_y": "529121.979601",
-    "longitude": "-90.11617529827943",
-    "latitude": "29.94935492375165",
-    "geocoded_column": {
-      "latitude": "29.94935492375165",
-      "longitude": "-90.11617529827943"
     }
   }
 ]
