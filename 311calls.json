@@ -14821,6 +14821,50 @@
     }
   },
   {
+    "service_request": "2026-1335616",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-11-10T05:21:59.000",
+    "date_modified": "2026-11-11T11:28:54.000",
+    "case_close_date": "2026-11-11T05:28:53.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6700 Manchester St",
+    "address_councildis": "E",
+    "status": "Duplicate Request",
+    "rowid": "1335616",
+    "final_x": "3697898.55907",
+    "final_y": "559626.531293",
+    "longitude": "-90.01526898436381",
+    "latitude": "30.032270198463458",
+    "geocoded_column": {
+      "latitude": "30.032270198463458",
+      "longitude": "-90.01526898436381"
+    }
+  },
+  {
+    "service_request": "2026-1335617",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-11-10T05:21:59.000",
+    "date_modified": "2026-11-11T11:27:13.000",
+    "case_close_date": "2026-11-11T05:27:12.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6700 Manchester St",
+    "address_councildis": "E",
+    "status": "Duplicate Request",
+    "rowid": "1335617",
+    "final_x": "3697898.55907",
+    "final_y": "559626.531293",
+    "longitude": "-90.01526898436381",
+    "latitude": "30.032270198463458",
+    "geocoded_column": {
+      "latitude": "30.032270198463458",
+      "longitude": "-90.01526898436381"
+    }
+  },
+  {
     "service_request": "2026-1335613",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -14877,50 +14921,6 @@
     "address_councildis": "E",
     "status": "Duplicate Request",
     "rowid": "1335615",
-    "final_x": "3697898.55907",
-    "final_y": "559626.531293",
-    "longitude": "-90.01526898436381",
-    "latitude": "30.032270198463458",
-    "geocoded_column": {
-      "latitude": "30.032270198463458",
-      "longitude": "-90.01526898436381"
-    }
-  },
-  {
-    "service_request": "2026-1335616",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-11-10T05:21:59.000",
-    "date_modified": "2026-11-11T11:28:54.000",
-    "case_close_date": "2026-11-11T05:28:53.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6700 Manchester St",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1335616",
-    "final_x": "3697898.55907",
-    "final_y": "559626.531293",
-    "longitude": "-90.01526898436381",
-    "latitude": "30.032270198463458",
-    "geocoded_column": {
-      "latitude": "30.032270198463458",
-      "longitude": "-90.01526898436381"
-    }
-  },
-  {
-    "service_request": "2026-1335617",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-11-10T05:21:59.000",
-    "date_modified": "2026-11-11T11:27:13.000",
-    "case_close_date": "2026-11-11T05:27:12.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6700 Manchester St",
-    "address_councildis": "E",
-    "status": "Duplicate Request",
-    "rowid": "1335617",
     "final_x": "3697898.55907",
     "final_y": "559626.531293",
     "longitude": "-90.01526898436381",
