@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1336602",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-12T16:53:58.000",
+    "date_modified": "2026-11-12T16:54:00.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "610 David St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1336602",
+    "final_x": "3672100.67924",
+    "final_y": "539964.558667",
+    "longitude": "-90.09746245461382",
+    "latitude": "29.978997421049005",
+    "geocoded_column": {
+      "latitude": "29.978997421049005",
+      "longitude": "-90.09746245461382"
+    }
+  },
+  {
+    "service_request": "2026-1336453",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-12T11:54:52.000",
+    "date_modified": "2026-11-12T11:54:54.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4500 BLK Louisa Dr",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1336453",
+    "final_x": "3690920.54004",
+    "final_y": "550802.225611",
+    "longitude": "-90.03763526509135",
+    "latitude": "30.008225517560913",
+    "geocoded_column": {
+      "latitude": "30.008225517560913",
+      "longitude": "-90.03763526509135"
+    }
+  },
+  {
     "service_request": "2026-1336264",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21366,49 +21408,6 @@
     "geocoded_column": {
       "latitude": "29.961448556962498",
       "longitude": "-90.03581118008951"
-    }
-  },
-  {
-    "service_request": "2026-1288089",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-05T15:14:34.000",
-    "date_modified": "2026-06-08T09:20:11.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6601 Colbert St",
-    "address_councildis": "A",
-    "status": "Inspected",
-    "rowid": "1288089",
-    "final_x": "3667840.04346",
-    "final_y": "551510.573525",
-    "longitude": "-90.11053006082867",
-    "latitude": "30.010870663704825",
-    "geocoded_column": {
-      "latitude": "30.010870663704825",
-      "longitude": "-90.11053006082867"
-    }
-  },
-  {
-    "service_request": "2026-1288086",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-05T15:13:30.000",
-    "date_modified": "2026-06-10T12:39:06.000",
-    "case_close_date": "2026-06-10T07:39:05.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "619 Royal St",
-    "address_councildis": "C",
-    "status": "Resolved",
-    "rowid": "1288086",
-    "final_x": "3682401.7773",
-    "final_y": "532307.353219",
-    "longitude": "-90.06519532102065",
-    "latitude": "29.957633225335886",
-    "geocoded_column": {
-      "latitude": "29.957633225335886",
-      "longitude": "-90.06519532102065"
     }
   }
 ]
