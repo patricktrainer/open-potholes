@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1337096",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-15T15:03:26.000",
+    "date_modified": "2026-11-15T15:03:28.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3127 N Claiborne Ave",
+    "address_councildis": "D",
+    "status": "Pending",
+    "rowid": "1337096",
+    "final_x": "3689686.2998",
+    "final_y": "537850.244745",
+    "longitude": "-90.0419957506874",
+    "latitude": "29.972650550258034",
+    "geocoded_column": {
+      "latitude": "29.972650550258034",
+      "longitude": "-90.0419957506874"
+    }
+  },
+  {
+    "service_request": "2026-1337066",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-15T10:38:27.000",
+    "date_modified": "2026-11-15T10:38:29.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "820 Upperline St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1337066",
+    "final_x": "3668918.76628",
+    "final_y": "518385.012726",
+    "longitude": "-90.10824089424563",
+    "latitude": "29.919754698455428",
+    "geocoded_column": {
+      "latitude": "29.919754698455428",
+      "longitude": "-90.10824089424563"
+    }
+  },
+  {
     "service_request": "2026-1337028",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12809,28 +12851,6 @@
     }
   },
   {
-    "service_request": "2026-1308000",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-08-09T12:48:35.000",
-    "date_modified": "2026-09-21T10:27:33.000",
-    "case_close_date": "2026-09-21T05:27:24.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6000 Magazine St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1308000",
-    "final_x": "3664635.45165",
-    "final_y": "519199.846135",
-    "longitude": "-90.12173407931249",
-    "latitude": "29.92212046427037",
-    "geocoded_column": {
-      "latitude": "29.92212046427037",
-      "longitude": "-90.12173407931249"
-    }
-  },
-  {
     "service_request": "2026-1307999",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -12864,6 +12884,28 @@
     "address_councildis": "A",
     "status": "Duplicate Request",
     "rowid": "1307998",
+    "final_x": "3664635.45165",
+    "final_y": "519199.846135",
+    "longitude": "-90.12173407931249",
+    "latitude": "29.92212046427037",
+    "geocoded_column": {
+      "latitude": "29.92212046427037",
+      "longitude": "-90.12173407931249"
+    }
+  },
+  {
+    "service_request": "2026-1308000",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-08-09T12:48:35.000",
+    "date_modified": "2026-09-21T10:27:33.000",
+    "case_close_date": "2026-09-21T05:27:24.000",
+    "request_status": "Closed",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "6000 Magazine St",
+    "address_councildis": "A",
+    "status": "Resolved",
+    "rowid": "1308000",
     "final_x": "3664635.45165",
     "final_y": "519199.846135",
     "longitude": "-90.12173407931249",
@@ -21360,48 +21402,6 @@
     "geocoded_column": {
       "latitude": "29.935398465734522",
       "longitude": "-90.12716411497593"
-    }
-  },
-  {
-    "service_request": "2026-1288925",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-09T09:07:51.000",
-    "date_modified": "2026-06-10T08:45:48.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "0 BLK Across St",
-    "address_councildis": "E",
-    "status": "Inspected",
-    "rowid": "1288925",
-    "final_x": "3711887.63918",
-    "final_y": "553972.247814",
-    "longitude": "-89.9712753465218",
-    "latitude": "30.016273264700573",
-    "geocoded_column": {
-      "latitude": "30.016273264700573",
-      "longitude": "-89.9712753465218"
-    }
-  },
-  {
-    "service_request": "2026-1288711",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-08T14:45:39.000",
-    "date_modified": "2026-06-09T09:33:08.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "22 Swallow St",
-    "address_councildis": "D",
-    "status": "Inspected",
-    "rowid": "1288711",
-    "final_x": "3673112.03873",
-    "final_y": "557110.401178",
-    "longitude": "-90.09368232030428",
-    "latitude": "30.026112434231912",
-    "geocoded_column": {
-      "latitude": "30.026112434231912",
-      "longitude": "-90.09368232030428"
     }
   }
 ]
