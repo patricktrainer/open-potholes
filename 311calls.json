@@ -18295,6 +18295,27 @@
     }
   },
   {
+    "service_request": "2026-1336640",
+    "request_type": "Streetlights",
+    "request_reason": "Streetlight Outage/Malfunction",
+    "date_created": "2026-11-13T04:52:20.000",
+    "date_modified": "2026-11-16T10:11:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "1000 Joliet St",
+    "address_councildis": "A",
+    "status": "Pending",
+    "rowid": "1336640",
+    "final_x": "3660430.32858",
+    "final_y": "528875.17056",
+    "longitude": "-90.13468849298665",
+    "latitude": "29.948846157295595",
+    "geocoded_column": {
+      "latitude": "29.948846157295595",
+      "longitude": "-90.13468849298665"
+    }
+  },
+  {
     "service_request": "2026-1336639",
     "request_type": "Streetlights",
     "request_reason": "Streetlight Outage/Malfunction",
@@ -18307,27 +18328,6 @@
     "address_councildis": "A",
     "status": "Duplicate Request",
     "rowid": "1336639",
-    "final_x": "3660430.32858",
-    "final_y": "528875.17056",
-    "longitude": "-90.13468849298665",
-    "latitude": "29.948846157295595",
-    "geocoded_column": {
-      "latitude": "29.948846157295595",
-      "longitude": "-90.13468849298665"
-    }
-  },
-  {
-    "service_request": "2026-1336640",
-    "request_type": "Streetlights",
-    "request_reason": "Streetlight Outage/Malfunction",
-    "date_created": "2026-11-13T04:52:20.000",
-    "date_modified": "2026-11-16T10:11:57.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1000 Joliet St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1336640",
     "final_x": "3660430.32858",
     "final_y": "528875.17056",
     "longitude": "-90.13468849298665",
