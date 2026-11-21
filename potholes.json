@@ -1,5 +1,89 @@
 [
   {
+    "service_request": "2026-1338645",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-20T14:32:18.000",
+    "date_modified": "2026-11-20T14:32:20.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "ST PHILIP ST & MARAIS ST",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1338645",
+    "final_x": "3681249.1",
+    "final_y": "534878.68",
+    "longitude": "-90.0687455270586",
+    "latitude": "29.964738524184316",
+    "geocoded_column": {
+      "latitude": "29.964738524184316",
+      "longitude": "-90.0687455270586"
+    }
+  },
+  {
+    "service_request": "2026-1338561",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-20T11:12:28.000",
+    "date_modified": "2026-11-20T11:12:31.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "MARTIN LUTHER KING JR BLVD & WILLOW ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1338561",
+    "final_x": "3675409.5",
+    "final_y": "527968.68",
+    "longitude": "-90.08742388086993",
+    "latitude": "29.945914249503467",
+    "geocoded_column": {
+      "latitude": "29.945914249503467",
+      "longitude": "-90.08742388086993"
+    }
+  },
+  {
+    "service_request": "2026-1338551",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-20T10:50:40.000",
+    "date_modified": "2026-11-20T10:50:42.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "MARTIN LUTHER KING JR BLVD & WILLOW ST",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1338551",
+    "final_x": "3675409.5",
+    "final_y": "527968.68",
+    "longitude": "-90.08742388086993",
+    "latitude": "29.945914249503467",
+    "geocoded_column": {
+      "latitude": "29.945914249503467",
+      "longitude": "-90.08742388086993"
+    }
+  },
+  {
+    "service_request": "2026-1338545",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-20T10:36:48.000",
+    "date_modified": "2026-11-20T10:37:24.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "201 Bourbon St",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1338545",
+    "final_x": "3681146.39893",
+    "final_y": "531272.414338",
+    "longitude": "-90.06919549071918",
+    "latitude": "29.954825637513665",
+    "geocoded_column": {
+      "latitude": "29.954825637513665",
+      "longitude": "-90.06919549071918"
+    }
+  },
+  {
     "service_request": "2026-1338408",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -10455,7 +10539,7 @@
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
     "date_created": "2026-09-04T12:52:55.000",
-    "date_modified": "2026-09-10T10:34:26.000",
+    "date_modified": "2026-11-20T11:18:45.000",
     "request_status": "Pending",
     "responsible_agency": "Department of Public Works",
     "final_address": "6221 Annunciation St",
@@ -21291,93 +21375,6 @@
     "geocoded_column": {
       "latitude": "29.97011765872171",
       "longitude": "-90.10449640940004"
-    }
-  },
-  {
-    "service_request": "2026-1291119",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-16T10:05:00.000",
-    "date_modified": "2026-06-16T10:07:11.000",
-    "case_close_date": "2026-06-16T05:07:09.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "217 N Peters St",
-    "address_councildis": "C",
-    "status": "Referred to External Agency",
-    "rowid": "1291119",
-    "final_x": "3682325.20316",
-    "final_y": "530513.822978",
-    "longitude": "-90.06549978359558",
-    "latitude": "29.95270395637704",
-    "geocoded_column": {
-      "latitude": "29.95270395637704",
-      "longitude": "-90.06549978359558"
-    }
-  },
-  {
-    "service_request": "2026-1291085",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-16T09:30:17.000",
-    "date_modified": "2026-07-20T10:43:55.000",
-    "case_close_date": "2026-07-20T05:43:54.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "0 BLK Tern St",
-    "address_councildis": "D",
-    "status": "Resolved",
-    "rowid": "1291085",
-    "final_x": "3674735.26335",
-    "final_y": "557026.17084",
-    "longitude": "-90.0885560164431",
-    "latitude": "30.025832444580296",
-    "geocoded_column": {
-      "latitude": "30.025832444580296",
-      "longitude": "-90.0885560164431"
-    }
-  },
-  {
-    "service_request": "2026-1291055",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-16T08:50:18.000",
-    "date_modified": "2026-07-08T10:14:54.000",
-    "case_close_date": "2026-07-08T05:14:53.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "COMMON ST & CAMP ST",
-    "address_councildis": "B",
-    "status": "Resolved",
-    "rowid": "1291055",
-    "final_x": "3681332.9",
-    "final_y": "530132.78",
-    "longitude": "-90.06864630952462",
-    "latitude": "29.95168636947531",
-    "geocoded_column": {
-      "latitude": "29.95168636947531",
-      "longitude": "-90.06864630952462"
-    }
-  },
-  {
-    "service_request": "2026-1291015",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-16T06:24:36.000",
-    "date_modified": "2026-06-17T13:15:32.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "6331 Annunciation St",
-    "address_councildis": "A",
-    "status": "Pending",
-    "rowid": "1291015",
-    "final_x": "3662702.62304",
-    "final_y": "518550.747831",
-    "longitude": "-90.12785680119656",
-    "latitude": "29.920391701008764",
-    "geocoded_column": {
-      "latitude": "29.920391701008764",
-      "longitude": "-90.12785680119656"
     }
   }
 ]
