@@ -1,5 +1,26 @@
 [
   {
+    "service_request": "2026-1338766",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-21T15:36:53.000",
+    "date_modified": "2026-11-21T15:36:55.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "4700 Drexel Dr",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1338766",
+    "final_x": "3670266.02286",
+    "final_y": "533536.373509",
+    "longitude": "-90.10347493278562",
+    "latitude": "29.96137635171689",
+    "geocoded_column": {
+      "latitude": "29.96137635171689",
+      "longitude": "-90.10347493278562"
+    }
+  },
+  {
     "service_request": "2026-1338645",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21353,28 +21374,6 @@
     "geocoded_column": {
       "latitude": "29.973924316020092",
       "longitude": "-90.10184896801655"
-    }
-  },
-  {
-    "service_request": "2026-1291279",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-16T14:11:48.000",
-    "date_modified": "2026-06-17T10:53:26.000",
-    "case_close_date": "2026-06-17T05:53:02.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "4042 DHemecourt St",
-    "address_councildis": "A",
-    "status": "Referred to External Agency",
-    "rowid": "1291279",
-    "final_x": "3669908.49722",
-    "final_y": "536711.580487",
-    "longitude": "-90.10449640940004",
-    "latitude": "29.97011765872171",
-    "geocoded_column": {
-      "latitude": "29.97011765872171",
-      "longitude": "-90.10449640940004"
     }
   }
 ]
