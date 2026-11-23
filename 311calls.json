@@ -3569,28 +3569,6 @@
     }
   },
   {
-    "service_request": "2026-1338721",
-    "request_type": "Trash/Recycling",
-    "request_reason": "Damaged Caused By Contractor",
-    "date_created": "2026-11-21T08:20:39.000",
-    "date_modified": "2026-11-21T08:20:46.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Sanitation",
-    "final_address": "4953 Gilbert St",
-    "address_councildis": "E",
-    "status": "Assigned to Contractor",
-    "contractor": "Waste Pro",
-    "rowid": "1338721",
-    "final_x": "3729366.75648",
-    "final_y": "562849.691488",
-    "longitude": "-89.91570282826976",
-    "latitude": "30.040099698818082",
-    "geocoded_column": {
-      "latitude": "30.040099698818082",
-      "longitude": "-89.91570282826976"
-    }
-  },
-  {
     "service_request": "2026-1338722",
     "request_type": "Trash/Recycling",
     "request_reason": "Damaged Caused By Contractor",
@@ -3605,6 +3583,28 @@
     "contractor": "Waste Pro",
     "contractor_action": "Duplicate",
     "rowid": "1338722",
+    "final_x": "3729366.75648",
+    "final_y": "562849.691488",
+    "longitude": "-89.91570282826976",
+    "latitude": "30.040099698818082",
+    "geocoded_column": {
+      "latitude": "30.040099698818082",
+      "longitude": "-89.91570282826976"
+    }
+  },
+  {
+    "service_request": "2026-1338721",
+    "request_type": "Trash/Recycling",
+    "request_reason": "Damaged Caused By Contractor",
+    "date_created": "2026-11-21T08:20:39.000",
+    "date_modified": "2026-11-21T08:20:46.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Sanitation",
+    "final_address": "4953 Gilbert St",
+    "address_councildis": "E",
+    "status": "Assigned to Contractor",
+    "contractor": "Waste Pro",
+    "rowid": "1338721",
     "final_x": "3729366.75648",
     "final_y": "562849.691488",
     "longitude": "-89.91570282826976",
