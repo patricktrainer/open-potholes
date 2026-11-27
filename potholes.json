@@ -1,5 +1,47 @@
 [
   {
+    "service_request": "2026-1339836",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-26T21:52:54.000",
+    "date_modified": "2026-11-26T21:52:57.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3526 Laurel St",
+    "address_councildis": "B",
+    "status": "Pending",
+    "rowid": "1339836",
+    "final_x": "3674497.37652",
+    "final_y": "518588.610423",
+    "longitude": "-90.0906249635918",
+    "latitude": "29.920149344991206",
+    "geocoded_column": {
+      "latitude": "29.920149344991206",
+      "longitude": "-90.0906249635918"
+    }
+  },
+  {
+    "service_request": "2026-1339830",
+    "request_type": "Roads and Streets",
+    "request_reason": "Pothole",
+    "date_created": "2026-11-26T18:53:29.000",
+    "date_modified": "2026-11-26T18:53:33.000",
+    "request_status": "Pending",
+    "responsible_agency": "Department of Public Works",
+    "final_address": "3825 General De Gaulle Dr",
+    "address_councildis": "C",
+    "status": "Pending",
+    "rowid": "1339830",
+    "final_x": "3697930.83344",
+    "final_y": "519504.331767",
+    "longitude": "-90.01662395204065",
+    "latitude": "29.921947654142727",
+    "geocoded_column": {
+      "latitude": "29.921947654142727",
+      "longitude": "-90.01662395204065"
+    }
+  },
+  {
     "service_request": "2026-1339643",
     "request_type": "Roads and Streets",
     "request_reason": "Pothole",
@@ -21358,49 +21400,6 @@
     "geocoded_column": {
       "latitude": "30.04123623974662",
       "longitude": "-89.98694086183421"
-    }
-  },
-  {
-    "service_request": "2026-1293234",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-23T10:13:55.000",
-    "date_modified": "2026-06-24T10:25:21.000",
-    "request_status": "Pending",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "1122 Valence St",
-    "address_councildis": "B",
-    "status": "Pending",
-    "rowid": "1293234",
-    "final_x": "3669794.81902",
-    "final_y": "519613.563832",
-    "longitude": "-90.10543406121907",
-    "latitude": "29.92310704092152",
-    "geocoded_column": {
-      "latitude": "29.92310704092152",
-      "longitude": "-90.10543406121907"
-    }
-  },
-  {
-    "service_request": "2026-1293212",
-    "request_type": "Roads and Streets",
-    "request_reason": "Pothole",
-    "date_created": "2026-06-23T09:49:05.000",
-    "date_modified": "2026-07-20T10:52:00.000",
-    "case_close_date": "2026-07-20T05:51:58.000",
-    "request_status": "Closed",
-    "responsible_agency": "Department of Public Works",
-    "final_address": "8910 Forshey St",
-    "address_councildis": "A",
-    "status": "Resolved",
-    "rowid": "1293212",
-    "final_x": "3664824.11367",
-    "final_y": "535861.330311",
-    "longitude": "-90.12058190297222",
-    "latitude": "29.96792870198856",
-    "geocoded_column": {
-      "latitude": "29.96792870198856",
-      "longitude": "-90.12058190297222"
     }
   }
 ]
